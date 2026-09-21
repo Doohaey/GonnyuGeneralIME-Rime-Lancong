@@ -12,13 +12,13 @@
     },
     {
       "path": "gannyu_lancong.dict.yaml",
-      "sha256": "59ea9926bf24636c5ae0994b2beacd4a391aaa5a19e13ec22208067a0662b912",
-      "size": 20425741
+      "sha256": "4120068fa855b25fe6680280580fdf26d9567f04afded3b9b431b93b9fac0f8b",
+      "size": 20441015
     },
     {
       "path": "gannyu_lancong.schema.yaml",
-      "sha256": "bc5d611150495577e176d49566cf1e9588b6fdacd679646faeadf2ebc1c678e7",
-      "size": 24484
+      "sha256": "3a4a9b4f3514f09d8b8b87e02eaf609e3b0a5ad3ee9d2782b0a051960590283a",
+      "size": 24727
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
@@ -27,8 +27,8 @@
     },
     {
       "path": "lua/gannyu_lancong_data.lua",
-      "sha256": "d6268e3f7deadf997ec0b13cdc03dc8b32186e74c6df9a927c95b75388bff646",
-      "size": 5664193
+      "sha256": "b6ecdf021e640c853f656a9ead23e8807082daf2c0a350cc6c0a390e1ec012de",
+      "size": 5669380
     },
     {
       "path": "lua/gannyu_relation_filter.lua",
@@ -41,7 +41,7 @@
       "size": 1566
     }
   ],
-  "product_version": "1.0.0",
+  "product_version": "1.0.1",
   "regions": [
     {
       "id": "lancong",
@@ -49,5 +49,5 @@
       "schema_id": "gannyu_lancong"
     }
   ],
-  "schema_version": "1.0.0"
+  "schema_version": "1.0.1"
 }
