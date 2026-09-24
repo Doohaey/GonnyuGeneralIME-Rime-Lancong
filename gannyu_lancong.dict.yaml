@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong
-version: "1.0.1"
+version: "1.0.2"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -32294,10 +32294,10 @@ use_preset_vocabulary: false
 下泄	Gha xie	31
 下泄	xia Gxiet	31
 下泄	xia xie	31
+下注	Gga Gcu	74
 下注	Gga Gjyu	74
-下注	Gga Gzu	74
+下注	Gha Gcu	74
 下注	Gha Gjyu	74
-下注	Gha Gzu	74
 下注	Gha zhu	74
 下注	xia Gjyu	74
 下注	xia zhu	74
@@ -39316,8 +39316,8 @@ use_preset_vocabulary: false
 专款	Gzon kuan	107
 专款	zhuan Gkuon	107
 专款	zhuan kuan	107
+专注	Gzon Gcu	416
 专注	Gzon Gjyu	416
-专注	Gzon Gzu	416
 专注	Gzon zhu	416
 专注	zhuan Gjyu	416
 专注	zhuan zhu	416
@@ -93119,6 +93119,9 @@ use_preset_vocabulary: false
 何足道	he Gjiuk dao	135
 何足道	he zu Gtau	135
 何足道	he zu dao	135
+何里	Gho Gli	100000
+何里	he Gli	100000
+何里	he li	100000
 何铁手	Gho Gtiet Gseu	47
 何铁手	Gho Gtiet Gxiu	47
 何铁手	Gho Gtiet shou	47
@@ -102310,11 +102313,11 @@ use_preset_vocabulary: false
 倾泄	Gqin Gxiet	11
 倾泄	qing Gxiet	11
 倾泄	qing xie	11
+倾注	Gkien Gcu	177
 倾注	Gkien Gjyu	177
-倾注	Gkien Gzu	177
 倾注	Gkien zhu	177
+倾注	Gqin Gcu	177
 倾注	Gqin Gjyu	177
-倾注	Gqin Gzu	177
 倾注	qing Gjyu	177
 倾注	qing zhu	177
 倾泻	Gkien Gxia	116
@@ -110960,8 +110963,8 @@ use_preset_vocabulary: false
 全社	Gqyuon she	15
 全社	quan Gsa	15
 全社	quan she	15
+全神贯注	Gqyuon Gsen Gguon Gcu	259
 全神贯注	Gqyuon Gsen Gguon Gjyu	259
-全神贯注	Gqyuon Gsen Gguon Gzu	259
 全神贯注	Gqyuon Gsen Gguon zhu	259
 全神贯注	Gqyuon Gsen guan Gjyu	259
 全神贯注	Gqyuon Gsen guan zhu	259
@@ -112799,8 +112802,8 @@ use_preset_vocabulary: false
 八项	Gbat xiang	77
 八项	ba Ghong	77
 八项	ba xiang	77
+八项注意	Gbat Ghong Gcu Gyi	40
 八项注意	Gbat Ghong Gjyu Gyi	40
-八项注意	Gbat Ghong Gzu Gyi	40
 八项注意	Gbat Ghong zhu Gyi	40
 八项注意	Gbat xiang Gjyu Gyi	40
 八项注意	Gbat xiang zhu Gyi	40
@@ -117141,19 +117144,19 @@ use_preset_vocabulary: false
 关治瀛	Gguan zhi Gyin	8
 关治瀛	Gguan zhi ying	8
 关治瀛	guan zhi ying	8
+关注	Gguan Gcu	30229
 关注	Gguan Gjyu	30229
-关注	Gguan Gzu	30229
 关注	Gguan zhu	30229
 关注	guan zhu	30229
+关注度	Gguan Gcu Gtu	26
 关注度	Gguan Gjyu Gtu	26
 关注度	Gguan Gjyu du	26
-关注度	Gguan Gzu Gtu	26
 关注度	Gguan zhu Gtu	26
 关注度	Gguan zhu du	26
 关注度	guan zhu du	26
+关注点	Gguan Gcu Gdien	42
 关注点	Gguan Gjyu Gdien	42
 关注点	Gguan Gjyu dian	42
-关注点	Gguan Gzu Gdien	42
 关注点	Gguan zhu Gdien	42
 关注点	Gguan zhu dian	42
 关注点	guan zhu dian	42
@@ -127901,8 +127904,8 @@ use_preset_vocabulary: false
 凝汽器	Gnin Gqi Gqi	8
 凝汽器	ning Gqi Gqi	8
 凝汽器	ning qi qi	8
+凝注	Gnin Gcu	9
 凝注	Gnin Gjyu	9
-凝注	Gnin Gzu	9
 凝注	Gnin zhu	9
 凝注	ning Gjyu	9
 凝注	ning zhu	9
@@ -135369,8 +135372,8 @@ use_preset_vocabulary: false
 刘德生	Gliu de Gsen	8
 刘德生	Gliu de sheng	8
 刘德生	liu de sheng	8
+刘徽注	Gliu Gfei Gcu	9
 刘徽注	Gliu Gfei Gjyu	9
-刘徽注	Gliu Gfei Gzu	9
 刘徽注	Gliu Gfei zhu	9
 刘徽注	Gliu hui Gjyu	9
 刘徽注	Gliu hui zhu	9
@@ -135601,15 +135604,15 @@ use_preset_vocabulary: false
 刘永良	Gliu yong Gliong	9
 刘永良	Gliu yong liang	9
 刘永良	liu yong liang	9
+刘注似	Gliu Gcu Gsi	8
 刘注似	Gliu Gjyu Gsi	8
 刘注似	Gliu Gjyu shi	8
-刘注似	Gliu Gzu Gsi	8
 刘注似	Gliu zhu Gsi	8
 刘注似	Gliu zhu shi	8
 刘注似	liu zhu shi	8
+刘注相	Gliu Gcu Gxiong	8
 刘注相	Gliu Gjyu Gxiong	8
 刘注相	Gliu Gjyu xiang	8
-刘注相	Gliu Gzu Gxiong	8
 刘注相	Gliu zhu Gxiong	8
 刘注相	Gliu zhu xiang	8
 刘注相	liu zhu xiang	8
@@ -142942,8 +142945,8 @@ use_preset_vocabulary: false
 加法器	jia Gfat Gqi	30
 加法器	jia fa Gqi	30
 加法器	jia fa qi	30
+加注	Gga Gcu	39
 加注	Gga Gjyu	39
-加注	Gga Gzu	39
 加注	Gga zhu	39
 加注	jia Gjyu	39
 加注	jia zhu	39
@@ -169928,11 +169931,11 @@ use_preset_vocabulary: false
 原油	Gyuon Gyiu	729
 原油	yuan Gyiu	729
 原油	yuan you	729
+原注	Gnyuon Gcu	7
 原注	Gnyuon Gjyu	7
-原注	Gnyuon Gzu	7
 原注	Gnyuon zhu	7
+原注	Gyuon Gcu	7
 原注	Gyuon Gjyu	7
-原注	Gyuon Gzu	7
 原注	yuan Gjyu	7
 原注	yuan zhu	7
 原点	Gnyuon Gdien	5052
@@ -224521,10 +224524,10 @@ use_preset_vocabulary: false
 备案	Gpi an	3491
 备案	bei Gngon	3491
 备案	bei an	3491
+备注	Gpei Gcu	54
 备注	Gpei Gjyu	54
-备注	Gpei Gzu	54
+备注	Gpi Gcu	54
 备注	Gpi Gjyu	54
-备注	Gpi Gzu	54
 备注	Gpi zhu	54
 备注	bei Gjyu	54
 备注	bei zhu	54
@@ -236463,11 +236466,11 @@ use_preset_vocabulary: false
 大雨倾盆	da Gyu Gkien Gpen	31
 大雨倾盆	da Gyu qing Gpen	31
 大雨倾盆	da yu qing pen	31
+大雨如注	Gtai Gyu Glu Gcu	16
 大雨如注	Gtai Gyu Glu Gjyu	16
-大雨如注	Gtai Gyu Glu Gzu	16
 大雨如注	Gtai Gyu Glu zhu	16
+大雨如注	Gtai Gyu Go Gcu	16
 大雨如注	Gtai Gyu Go Gjyu	16
-大雨如注	Gtai Gyu Go Gzu	16
 大雨如注	Gtai Gyu ru Gjyu	16
 大雨如注	Gtai Gyu ru zhu	16
 大雨如注	da Gyu Glu Gjyu	16
@@ -253628,11 +253631,11 @@ use_preset_vocabulary: false
 孤旅	gu lv	7
 孤本	Ggu Gben	29
 孤残	Ggu Gcan	14
+孤注一掷	Ggu Gcu Gyit Gcit	97
 孤注一掷	Ggu Gjyu Gyit Gcit	97
 孤注一掷	Ggu Gjyu Gyit zhi	97
 孤注一掷	Ggu Gjyu yi Gcit	97
 孤注一掷	Ggu Gjyu yi zhi	97
-孤注一掷	Ggu Gzu Gyit Gcit	97
 孤注一掷	Ggu zhu Gyit Gcit	97
 孤注一掷	Ggu zhu Gyit zhi	97
 孤注一掷	Ggu zhu yi Gcit	97
@@ -300440,27 +300443,27 @@ use_preset_vocabulary: false
 引人入胜	Gyin ren ru Gsen	106
 引人入胜	Gyin ren ru sheng	106
 引人入胜	yin ren ru sheng	106
+引人关注	Gyin Glen Gguan Gcu	30
 引人关注	Gyin Glen Gguan Gjyu	30
-引人关注	Gyin Glen Gguan Gzu	30
+引人关注	Gyin Gnin Gguan Gcu	30
 引人关注	Gyin Gnin Gguan Gjyu	30
-引人关注	Gyin Gnin Gguan Gzu	30
 引人关注	Gyin Gnin Gguan zhu	30
 引人关注	Gyin ren Gguan Gjyu	30
 引人关注	Gyin ren Gguan zhu	30
 引人关注	yin ren guan zhu	30
+引人注意	Gyin Glen Gcu Gyi	19
 引人注意	Gyin Glen Gjyu Gyi	19
-引人注意	Gyin Glen Gzu Gyi	19
+引人注意	Gyin Gnin Gcu Gyi	19
 引人注意	Gyin Gnin Gjyu Gyi	19
-引人注意	Gyin Gnin Gzu Gyi	19
 引人注意	Gyin Gnin zhu Gyi	19
 引人注意	Gyin ren Gjyu Gyi	19
 引人注意	Gyin ren zhu Gyi	19
 引人注意	yin ren zhu yi	19
+引人注目	Gyin Glen Gcu Gmuk	658
 引人注目	Gyin Glen Gjyu Gmuk	658
-引人注目	Gyin Glen Gzu Gmuk	658
+引人注目	Gyin Gnin Gcu Gmuk	658
 引人注目	Gyin Gnin Gjyu Gmuk	658
 引人注目	Gyin Gnin Gjyu mu	658
-引人注目	Gyin Gnin Gzu Gmuk	658
 引人注目	Gyin Gnin zhu Gmuk	658
 引人注目	Gyin Gnin zhu mu	658
 引人注目	Gyin ren Gjyu Gmuk	658
@@ -322463,11 +322466,11 @@ use_preset_vocabulary: false
 惹事生非	re shi Gsen Gfei	47
 惹事生非	re shi sheng Gfei	47
 惹事生非	re shi sheng fei	47
+惹人注目	Gya Glen Gcu Gmuk	19
 惹人注目	Gya Glen Gjyu Gmuk	19
-惹人注目	Gya Glen Gzu Gmuk	19
+惹人注目	Gya Gnin Gcu Gmuk	19
 惹人注目	Gya Gnin Gjyu Gmuk	19
 惹人注目	Gya Gnin Gjyu mu	19
-惹人注目	Gya Gnin Gzu Gmuk	19
 惹人注目	Gya Gnin zhu Gmuk	19
 惹人注目	Gya Gnin zhu mu	19
 惹人注目	Gya ren Gjyu Gmuk	19
@@ -333446,8 +333449,8 @@ use_preset_vocabulary: false
 批林批孔	Gpi Glin Gpi kong	107
 批林批孔	pi lin pi kong	107
 批次	Gpi Gci	543
+批注	Gpi Gcu	17
 批注	Gpi Gjyu	17
-批注	Gpi Gzu	17
 批注	Gpi zhu	17
 批注	pi zhu	17
 批示	Gpi Gsi	316
@@ -335158,8 +335161,8 @@ use_preset_vocabulary: false
 投河	Gteu he	41
 投河	tou Gho	41
 投河	tou he	41
+投注	Gteu Gcu	101
 投注	Gteu Gjyu	101
-投注	Gteu Gzu	101
 投注	Gteu zhu	101
 投注	tou Gjyu	101
 投注	tou zhu	101
@@ -336790,8 +336793,8 @@ use_preset_vocabulary: false
 抢断	Gqiong duan	77
 抢断	qiang Gton	77
 抢断	qiang duan	77
+抢注	Gqiong Gcu	21
 抢注	Gqiong Gjyu	21
-抢注	Gqiong Gzu	21
 抢注	Gqiong zhu	21
 抢注	qiang Gjyu	21
 抢注	qiang zhu	21
@@ -368018,8 +368021,8 @@ use_preset_vocabulary: false
 旁敲侧击	pang qiao Gzet ji	48
 旁敲侧击	pang qiao ce Gjit	48
 旁敲侧击	pang qiao ce ji	48
+旁注	Gpong Gcu	8
 旁注	Gpong Gjyu	8
-旁注	Gpong Gzu	8
 旁注	Gpong zhu	8
 旁注	pang Gjyu	8
 旁注	pang zhu	8
@@ -402189,8 +402192,8 @@ use_preset_vocabulary: false
 标榜	Gbieu bang	135
 标榜	biao Gbong	135
 标榜	biao bang	135
+标注	Gbieu Gcu	15141
 标注	Gbieu Gjyu	15141
-标注	Gbieu Gzu	15141
 标注	Gbieu zhu	15141
 标注	biao Gjyu	15141
 标注	biao zhu	15141
@@ -402935,8 +402938,8 @@ use_preset_vocabulary: false
 校正	Ggau zheng	191
 校正	jiao Gzen	191
 校正	jiao zheng	191
+校注	Ggau Gcu	76
 校注	Ggau Gjyu	76
-校注	Ggau Gzu	76
 校注	Ggau zhu	76
 校注	jiao Gjyu	76
 校注	jiao zhu	76
@@ -424592,10 +424595,10 @@ use_preset_vocabulary: false
 水线	Gsui xian	52
 水线	shui Gxien	52
 水线	shui xian	52
+水经注	Gsui Gjiang Gcu	66
 水经注	Gsui Gjiang Gjyu	66
-水经注	Gsui Gjiang Gzu	66
+水经注	Gsui Gjin Gcu	66
 水经注	Gsui Gjin Gjyu	66
-水经注	Gsui Gjin Gzu	66
 水经注	Gsui Gjin zhu	66
 水经注	Gsui jing Gjyu	66
 水经注	Gsui jing zhu	66
@@ -435783,16 +435786,20 @@ use_preset_vocabulary: false
 泦	ju	5602
 泧	Gyuot	4018
 泧	sa	4018
+注	Gcu	150000
 注	Gjyu	170000
-注	Gzu	150000
 注	zhu	170000
+注入	Gcu Glet	101564
+注入	Gcu Gluk	101564
 注入	Gjyu Glet	101564
 注入	Gjyu Gluk	101564
 注入	Gjyu ru	101564
-注入	Gzu Glet	101564
-注入	Gzu Gluk	101564
 注入	zhu Gluk	101564
 注入	zhu ru	101564
+注入式	Gcu Glet Gset	10
+注入式	Gcu Glet Gsik	10
+注入式	Gcu Gluk Gset	10
+注入式	Gcu Gluk Gsik	10
 注入式	Gjyu Glet Gset	10
 注入式	Gjyu Glet Gsik	10
 注入式	Gjyu Gluk Gset	10
@@ -435800,201 +435807,197 @@ use_preset_vocabulary: false
 注入式	Gjyu Gluk shi	10
 注入式	Gjyu ru Gset	10
 注入式	Gjyu ru shi	10
-注入式	Gzu Glet Gset	10
-注入式	Gzu Glet Gsik	10
-注入式	Gzu Gluk Gset	10
-注入式	Gzu Gluk Gsik	10
 注入式	zhu Gluk Gset	10
 注入式	zhu Gluk shi	10
 注入式	zhu ru Gset	10
 注入式	zhu ru shi	10
+注册	Gcu Gcet	1431
 注册	Gjyu Gcet	1431
 注册	Gjyu ce	1431
-注册	Gzu Gcet	1431
 注册	zhu Gcet	1431
 注册	zhu ce	1431
+注册号	Gcu Gcet Ghau	13
 注册号	Gjyu Gcet Ghau	13
 注册号	Gjyu Gcet hao	13
 注册号	Gjyu ce Ghau	13
 注册号	Gjyu ce hao	13
-注册号	Gzu Gcet Ghau	13
 注册号	zhu Gcet Ghau	13
 注册号	zhu Gcet hao	13
 注册号	zhu ce Ghau	13
 注册号	zhu ce hao	13
+注册地	Gcu Gcet Gti	15
 注册地	Gjyu Gcet Gti	15
 注册地	Gjyu Gcet di	15
 注册地	Gjyu ce Gti	15
 注册地	Gjyu ce di	15
-注册地	Gzu Gcet Gti	15
 注册地	zhu Gcet Gti	15
 注册地	zhu Gcet di	15
 注册地	zhu ce Gti	15
 注册地	zhu ce di	15
+注册表	Gcu Gcet Gbieu	33
 注册表	Gjyu Gcet Gbieu	33
 注册表	Gjyu Gcet biao	33
 注册表	Gjyu ce Gbieu	33
 注册表	Gjyu ce biao	33
-注册表	Gzu Gcet Gbieu	33
 注册表	zhu Gcet Gbieu	33
 注册表	zhu Gcet biao	33
 注册表	zhu ce Gbieu	33
 注册表	zhu ce biao	33
+注册证	Gcu Gcet Gzen	15
 注册证	Gjyu Gcet Gzen	15
 注册证	Gjyu Gcet zheng	15
 注册证	Gjyu ce Gzen	15
 注册证	Gjyu ce zheng	15
-注册证	Gzu Gcet Gzen	15
 注册证	zhu Gcet Gzen	15
 注册证	zhu Gcet zheng	15
 注册证	zhu ce Gzen	15
 注册证	zhu ce zheng	15
+注册费	Gcu Gcet Gfei	8
 注册费	Gjyu Gcet Gfei	8
 注册费	Gjyu ce Gfei	8
-注册费	Gzu Gcet Gfei	8
 注册费	zhu Gcet Gfei	8
 注册费	zhu ce Gfei	8
 注册费	zhu ce fei	8
+注塑	Gcu Gsu	13
 注塑	Gjyu Gsu	13
-注塑	Gzu Gsu	13
 注塑	zhu Gsu	13
 注塑	zhu su	13
+注定	Gcu Gtiang	691
+注定	Gcu Gtin	691
 注定	Gjyu Gtiang	691
 注定	Gjyu Gtin	691
 注定	Gjyu ding	691
-注定	Gzu Gtiang	691
-注定	Gzu Gtin	691
 注定	zhu Gtin	691
 注定	zhu ding	691
+注射	Gcu Gsa	725
 注射	Gjyu Gsa	725
 注射	Gjyu she	725
-注射	Gzu Gsa	725
 注射	zhu Gsa	725
 注射	zhu she	725
+注射剂	Gcu Gsa Gqi	70
 注射剂	Gjyu Gsa Gqi	70
 注射剂	Gjyu Gsa ji	70
 注射剂	Gjyu she Gqi	70
 注射剂	Gjyu she ji	70
-注射剂	Gzu Gsa Gqi	70
 注射剂	zhu Gsa Gqi	70
 注射剂	zhu Gsa ji	70
 注射剂	zhu she Gqi	70
 注射剂	zhu she ji	70
+注射器	Gcu Gsa Gqi	43
 注射器	Gjyu Gsa Gqi	43
 注射器	Gjyu she Gqi	43
-注射器	Gzu Gsa Gqi	43
 注射器	zhu Gsa Gqi	43
 注射器	zhu she Gqi	43
 注射器	zhu she qi	43
+注射液	Gcu Gsa Gyit	56
 注射液	Gjyu Gsa Gyit	56
 注射液	Gjyu Gsa ye	56
 注射液	Gjyu she Gyit	56
 注射液	Gjyu she ye	56
-注射液	Gzu Gsa Gyit	56
 注射液	zhu Gsa Gyit	56
 注射液	zhu Gsa ye	56
 注射液	zhu she Gyit	56
 注射液	zhu she ye	56
+注意	Gcu Gyi	200000
 注意	Gjyu Gyi	200000
-注意	Gzu Gyi	200000
 注意	zhu Gyi	200000
 注意	zhu yi	200000
+注意力	Gcu Gyi Glit	678
 注意力	Gjyu Gyi Glit	678
 注意力	Gjyu Gyi li	678
-注意力	Gzu Gyi Glit	678
 注意力	zhu Gyi Glit	678
 注意力	zhu Gyi li	678
 注意力	zhu yi li	678
+注文	Gcu Gwun	79
 注文	Gjyu Gwun	79
 注文	Gjyu wen	79
-注文	Gzu Gwun	79
 注文	zhu Gwun	79
 注文	zhu wen	79
+注明	Gcu Gmiang	331
+注明	Gcu Gmin	331
 注明	Gjyu Gmiang	331
 注明	Gjyu Gmin	331
 注明	Gjyu ming	331
-注明	Gzu Gmiang	331
-注明	Gzu Gmin	331
 注明	zhu Gmin	331
 注明	zhu ming	331
+注水	Gcu Gsui	118
 注水	Gjyu Gsui	118
 注水	Gjyu shui	118
-注水	Gzu Gsui	118
 注水	zhu Gsui	118
 注水	zhu shui	118
+注浆	Gcu Gjiong	8
 注浆	Gjyu Gjiong	8
 注浆	Gjyu jiang	8
-注浆	Gzu Gjiong	8
 注浆	zhu Gjiong	8
 注浆	zhu jiang	8
+注疏	Gcu Gsu	55
 注疏	Gjyu Gsu	55
 注疏	Gjyu shu	55
-注疏	Gzu Gsu	55
 注疏	zhu Gsu	55
 注疏	zhu shu	55
+注目	Gcu Gmuk	222
 注目	Gjyu Gmuk	222
 注目	Gjyu mu	222
-注目	Gzu Gmuk	222
 注目	zhu Gmuk	222
 注目	zhu mu	222
+注目礼	Gcu Gmuk Gli	15
 注目礼	Gjyu Gmuk Gli	15
 注目礼	Gjyu mu Gli	15
-注目礼	Gzu Gmuk Gli	15
 注目礼	zhu Gmuk Gli	15
 注目礼	zhu mu Gli	15
 注目礼	zhu mu li	15
+注脚	Gcu Gjiok	37
 注脚	Gjyu Gjiok	37
 注脚	Gjyu jiao	37
-注脚	Gzu Gjiok	37
 注脚	zhu Gjiok	37
 注脚	zhu jiao	37
+注视	Gcu Gsi	1051
 注视	Gjyu Gsi	1051
 注视	Gjyu shi	1051
-注视	Gzu Gsi	1051
 注视	zhu Gsi	1051
 注视	zhu shi	1051
+注视着	Gcu Gsi Gzok	100000
+注视着	Gcu Gsi zhe	100000
+注视着	Gcu shi Gzok	100000
+注视着	Gcu shi zhe	100000
 注视着	Gjyu Gsi Gzok	100000
-注视着	Gzu Gsi Gzok	100000
-注视着	Gzu Gsi zhe	100000
-注视着	Gzu shi Gzok	100000
-注视着	Gzu shi zhe	100000
 注视着	zhu Gsi Gzok	100000
 注视着	zhu Gsi zhe	100000
 注视着	zhu shi Gzok	100000
 注视着	zhu shi zhe	100000
+注解	Gcu Ggai	183
 注解	Gjyu Ggai	183
 注解	Gjyu jie	183
-注解	Gzu Ggai	183
 注解	zhu Ggai	183
 注解	zhu jie	183
+注资	Gcu Gzi	39
 注资	Gjyu Gzi	39
-注资	Gzu Gzi	39
 注资	zhu Gzi	39
 注资	zhu zi	39
+注释	Gcu Gset	551
+注释	Gcu Gsik	551
 注释	Gjyu Gset	551
 注释	Gjyu Gsik	551
 注释	Gjyu shi	551
-注释	Gzu Gset	551
-注释	Gzu Gsik	551
 注释	zhu Gset	551
 注释	zhu shi	551
+注重	Gcu Gcung	2916
 注重	Gjyu Gcung	2916
 注重	Gjyu zhong	2916
-注重	Gzu Gcung	2916
 注重	zhu Gcung	2916
 注重	zhu zhong	2916
+注销	Gcu Gxieu	80
 注销	Gjyu Gxieu	80
 注销	Gjyu xiao	80
-注销	Gzu Gxieu	80
 注销	zhu Gxieu	80
 注销	zhu xiao	80
+注音	Gcu Gyin	42
 注音	Gjyu Gyin	42
-注音	Gzu Gyin	42
 注音	zhu Gyin	42
 注音	zhu yin	42
+注音字母	Gcu Gyin Gci Gmu	20
 注音字母	Gjyu Gyin Gci Gmu	20
 注音字母	Gjyu Gyin zi Gmu	20
-注音字母	Gzu Gyin Gci Gmu	20
 注音字母	zhu Gyin Gci Gmu	20
 注音字母	zhu Gyin zi Gmu	20
 注音字母	zhu yin zi mu	20
@@ -439290,8 +439293,8 @@ use_preset_vocabulary: false
 流泉	Gliu Gqyuon	38
 流泉	Gliu quan	38
 流泉	liu quan	38
+流注	Gliu Gcu	43
 流注	Gliu Gjyu	43
-流注	Gliu Gzu	43
 流注	Gliu zhu	43
 流注	liu zhu	43
 流泪	Gliu Glei	560
@@ -439811,8 +439814,8 @@ use_preset_vocabulary: false
 浇水	Gjieu shui	90
 浇水	jiao Gsui	90
 浇水	jiao shui	90
+浇注	Gjieu Gcu	267
 浇注	Gjieu Gjyu	267
-浇注	Gjieu Gzu	267
 浇注	Gjieu zhu	267
 浇注	jiao Gjyu	267
 浇注	jiao zhu	267
@@ -455955,8 +455958,8 @@ use_preset_vocabulary: false
 灌河	Gguon he	12
 灌河	guan Gho	12
 灌河	guan he	12
+灌注	Gguon Gcu	76
 灌注	Gguon Gjyu	76
-灌注	Gguon Gzu	76
 灌注	Gguon zhu	76
 灌注	guan Gjyu	76
 灌注	guan zhu	76
@@ -474285,8 +474288,8 @@ use_preset_vocabulary: false
 王引之	wang Gyin Gzi	8
 王引之	wang Gyin zhi	8
 王引之	wang yin zhi	8
+王弼注	Gwong Gpet Gcu	9
 王弼注	Gwong Gpet Gjyu	9
-王弼注	Gwong Gpet Gzu	9
 王弼注	Gwong Gpet zhu	9
 王弼注	Gwong bi Gjyu	9
 王弼注	Gwong bi zhu	9
@@ -483568,9 +483571,9 @@ use_preset_vocabulary: false
 用户数	yong Gfu shu	52
 用户数	yong hu Gsu	52
 用户数	yong hu shu	52
+用户注册	Gyung Gfu Gcu Gcet	7
 用户注册	Gyung Gfu Gjyu Gcet	7
 用户注册	Gyung Gfu Gjyu ce	7
-用户注册	Gyung Gfu Gzu Gcet	7
 用户注册	Gyung Gfu zhu Gcet	7
 用户注册	Gyung Gfu zhu ce	7
 用户注册	Gyung hu Gjyu Gcet	7
@@ -535149,8 +535152,8 @@ use_preset_vocabulary: false
 笸	Gpo	5563
 笺	Gjien	72395
 笺	jian	72395
+笺注	Gjien Gcu	21
 笺注	Gjien Gjyu	21
-笺注	Gjien Gzu	21
 笺注	Gjien zhu	21
 笺注	jian Gjyu	21
 笺注	jian zhu	21
@@ -536103,8 +536106,8 @@ use_preset_vocabulary: false
 签条	Gqien tiao	8
 签条	qian Gtieu	8
 签条	qian tiao	8
+签注	Gqien Gcu	133
 签注	Gqien Gjyu	133
-签注	Gqien Gzu	133
 签注	Gqien zhu	133
 签注	qian Gjyu	133
 签注	qian zhu	133
@@ -568084,8 +568087,8 @@ use_preset_vocabulary: false
 肌无力	Gji Gwu Glit	23
 肌无力	Gji Gwu li	23
 肌无力	ji wu li	23
+肌注	Gji Gcu	36
 肌注	Gji Gjyu	36
-肌注	Gji Gzu	36
 肌注	Gji zhu	36
 肌注	ji zhu	36
 肌理	Gji Gli	45
@@ -573751,8 +573754,8 @@ use_preset_vocabulary: false
 脚法	Gjiok fa	21
 脚法	jiao Gfat	21
 脚法	jiao fa	21
+脚注	Gjiok Gcu	8
 脚注	Gjiok Gjyu	8
-脚注	Gjiok Gzu	8
 脚注	Gjiok zhu	8
 脚注	jiao Gjyu	8
 脚注	jiao zhu	8
@@ -602390,11 +602393,11 @@ use_preset_vocabulary: false
 血流	Gxyuot Gliu	315
 血流	xue Gliu	315
 血流	xue liu	315
+血流如注	Gxyuot Gliu Glu Gcu	17
 血流如注	Gxyuot Gliu Glu Gjyu	17
-血流如注	Gxyuot Gliu Glu Gzu	17
 血流如注	Gxyuot Gliu Glu zhu	17
+血流如注	Gxyuot Gliu Go Gcu	17
 血流如注	Gxyuot Gliu Go Gjyu	17
-血流如注	Gxyuot Gliu Go Gzu	17
 血流如注	Gxyuot Gliu ru Gjyu	17
 血流如注	Gxyuot Gliu ru zhu	17
 血流如注	xue Gliu Glu Gjyu	17
@@ -617912,8 +617915,8 @@ use_preset_vocabulary: false
 评比	Gpin Gbi	154
 评比	ping Gbi	154
 评比	ping bi	154
+评注	Gpin Gcu	22
 评注	Gpin Gjyu	22
-评注	Gpin Gzu	22
 评注	Gpin zhu	22
 评注	ping Gjyu	22
 评注	ping zhu	22
@@ -618580,8 +618583,8 @@ use_preset_vocabulary: false
 译法	Gyit fa	52
 译法	yi Gfat	52
 译法	yi fa	52
+译注	Gyit Gcu	15
 译注	Gyit Gjyu	15
-译注	Gyit Gzu	15
 译注	Gyit zhu	15
 译注	yi Gjyu	15
 译注	yi zhu	15
@@ -625763,7 +625766,7 @@ use_preset_vocabulary: false
 豚鼠	Gtun Gxyu	13
 豚鼠	tun Gxyu	13
 豚鼠	tun shu	13
-豛	Gteng	135660
+豛	Gten	135660
 豛	yi	135660
 豜	Gjien	4388
 豜	Gnien	4614
@@ -629134,8 +629137,8 @@ use_preset_vocabulary: false
 贯彻始终	guan che Gsi zhong	7
 贯彻始终	guan che shi Gzung	7
 贯彻始终	guan che shi zhong	7
+贯注	Gguon Gcu	39
 贯注	Gguon Gjyu	39
-贯注	Gguon Gzu	39
 贯注	Gguon zhu	39
 贯注	guan Gjyu	39
 贯注	guan zhu	39
@@ -631053,8 +631056,8 @@ use_preset_vocabulary: false
 赌徒	Gdu Gtu	59
 赌棍	Gdu Ggun	15
 赌气	Gdu Gqi	219
+赌注	Gdu Gcu	101
 赌注	Gdu Gjyu	101
-赌注	Gdu Gzu	101
 赌注	Gdu zhu	101
 赌注	du zhu	101
 赌球	Gdu Gqiu	19
@@ -640055,8 +640058,8 @@ use_preset_vocabulary: false
 转正	Gzon zheng	222
 转正	zhuan Gzen	222
 转正	zhuan zheng	222
+转注	Gzon Gcu	7
 转注	Gzon Gjyu	7
-转注	Gzon Gzu	7
 转注	Gzon zhu	7
 转注	zhuan Gjyu	7
 转注	zhuan zhu	7
@@ -642774,11 +642777,11 @@ use_preset_vocabulary: false
 输油管道	shu you Gguon dao	52
 输油管道	shu you guan Gtau	52
 输油管道	shu you guan dao	52
+输注	Gsu Gcu	74
 输注	Gsu Gjyu	74
-输注	Gsu Gzu	74
 输注	Gsu zhu	74
+输注	Gxyu Gcu	74
 输注	Gxyu Gjyu	74
-输注	Gxyu Gzu	74
 输注	shu Gjyu	74
 输注	shu zhu	74
 输液	Gsu Gyit	186
@@ -658465,10 +658468,10 @@ use_preset_vocabulary: false
 郑玄	Gcen xuan	53
 郑玄	zheng Gxyuon	53
 郑玄	zheng xuan	53
+郑玄注	Gcang Gxyuon Gcu	9
 郑玄注	Gcang Gxyuon Gjyu	9
-郑玄注	Gcang Gxyuon Gzu	9
+郑玄注	Gcen Gxyuon Gcu	9
 郑玄注	Gcen Gxyuon Gjyu	9
-郑玄注	Gcen Gxyuon Gzu	9
 郑玄注	Gcen Gxyuon zhu	9
 郑玄注	Gcen xuan Gjyu	9
 郑玄注	Gcen xuan zhu	9
@@ -682161,8 +682164,8 @@ use_preset_vocabulary: false
 附有	Gfu Gyiu	235
 附有	Gfu you	235
 附有	fu you	235
+附注	Gfu Gcu	63
 附注	Gfu Gjyu	63
-附注	Gfu Gzu	63
 附注	Gfu zhu	63
 附注	fu zhu	63
 附着	Gfu Gzok	342
@@ -689210,11 +689213,11 @@ use_preset_vocabulary: false
 集水区	ji Gsui qu	15
 集水区	ji shui Gqyu	15
 集水区	ji shui qu	15
+集注	Gjit Gcu	54
 集注	Gjit Gjyu	54
-集注	Gjit Gzu	54
 集注	Gjit zhu	54
+集注	Gqit Gcu	54
 集注	Gqit Gjyu	54
-集注	Gqit Gzu	54
 集注	ji Gjyu	54
 集注	ji zhu	54
 集热器	Gjit Glet Gqi	10
@@ -694005,8 +694008,8 @@ use_preset_vocabulary: false
 静水压	jing Gsui ya	12
 静水压	jing shui Gngat	12
 静水压	jing shui ya	12
+静注	Gqin Gcu	20
 静注	Gqin Gjyu	20
-静注	Gqin Gzu	20
 静注	Gqin zhu	20
 静注	jing Gjyu	20
 静注	jing zhu	20
@@ -694106,9 +694109,9 @@ use_preset_vocabulary: false
 静脉曲张	jing mai Gqyut zhang	67
 静脉曲张	jing mai qu Gzong	67
 静脉曲张	jing mai qu zhang	67
+静脉注射	Gqin Gmet Gcu Gsa	36
 静脉注射	Gqin Gmet Gjyu Gsa	36
 静脉注射	Gqin Gmet Gjyu she	36
-静脉注射	Gqin Gmet Gzu Gsa	36
 静脉注射	Gqin Gmet zhu Gsa	36
 静脉注射	Gqin Gmet zhu she	36
 静脉注射	Gqin mai Gjyu Gsa	36

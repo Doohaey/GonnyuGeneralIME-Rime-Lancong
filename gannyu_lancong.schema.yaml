@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_lancong
   name: 赣语－南昌
-  version: "1.0.1"
+  version: "1.0.2"
   author:
     - GannyuInputMethod contributors
   description: |
@@ -670,7 +670,6 @@ speller:
     - fuzz/^Gtat$/Ftak/
     - derive/^Gtau$/Ftao/
     - derive/^Gten$/Fteng/
-    - derive/^Gteng$/Ften/
     - fuzz/^Gtet$/Fte/
     - fuzz/^Gtet$/Ftek/
     - derive/^Gteu$/Ftou/
