@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong
-version: "1.0.2"
+version: "1.0.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -19863,23 +19863,6 @@ use_preset_vocabulary: false
 一试身手	yi shi Gsen shou	12
 一试身手	yi shi shen Gseu	12
 一试身手	yi shi shen shou	12
-一语中嗰	Gyit Gnyu Gzung Ggo	17
-一语中嗰	Gyit Gnyu Gzung ge	17
-一语中嗰	Gyit Gnyu zhong Ggo	17
-一语中嗰	Gyit Gnyu zhong ge	17
-一语中嗰	Gyit Gyu Gzung Ggo	17
-一语中嗰	Gyit yu Gzung Ggo	17
-一语中嗰	Gyit yu Gzung ge	17
-一语中嗰	Gyit yu zhong Ggo	17
-一语中嗰	Gyit yu zhong ge	17
-一语中嗰	yi Gnyu Gzung Ggo	17
-一语中嗰	yi Gnyu Gzung ge	17
-一语中嗰	yi Gnyu zhong Ggo	17
-一语中嗰	yi Gnyu zhong ge	17
-一语中嗰	yi yu Gzung Ggo	17
-一语中嗰	yi yu Gzung ge	17
-一语中嗰	yi yu zhong Ggo	17
-一语中嗰	yi yu zhong ge	17
 一语中的	Gyit Gnyu Gzung Gdit	17
 一语中的	Gyit Gnyu Gzung di	17
 一语中的	Gyit Gnyu zhong Gdit	17
@@ -83197,9 +83180,6 @@ use_preset_vocabulary: false
 他国	Gta Gguet	137
 他国	Gta guo	137
 他国	ta guo	137
-他妈嗰	Gta Gma Ggo	850
-他妈嗰	Gta Gma ge	850
-他妈嗰	ta ma ge	850
 他妈的	Gta Gma Gdit	850
 他妈的	Gta Gma de	850
 他妈的	ta ma de	850
@@ -88317,22 +88297,6 @@ use_preset_vocabulary: false
 众目睽睽	zhong Gmuk Gkui Gkui	112
 众目睽睽	zhong mu Gkui Gkui	112
 众目睽睽	zhong mu kui kui	112
-众矢之嗰	Gzung Gsi Gzi Ggo	47
-众矢之嗰	Gzung Gsi Gzi ge	47
-众矢之嗰	Gzung Gsi zhi Ggo	47
-众矢之嗰	Gzung Gsi zhi ge	47
-众矢之嗰	Gzung shi Gzi Ggo	47
-众矢之嗰	Gzung shi Gzi ge	47
-众矢之嗰	Gzung shi zhi Ggo	47
-众矢之嗰	Gzung shi zhi ge	47
-众矢之嗰	zhong Gsi Gzi Ggo	47
-众矢之嗰	zhong Gsi Gzi ge	47
-众矢之嗰	zhong Gsi zhi Ggo	47
-众矢之嗰	zhong Gsi zhi ge	47
-众矢之嗰	zhong shi Gzi Ggo	47
-众矢之嗰	zhong shi Gzi ge	47
-众矢之嗰	zhong shi zhi Ggo	47
-众矢之嗰	zhong shi zhi ge	47
 众矢之的	Gzung Gsi Gzi Gdit	47
 众矢之的	Gzung Gsi Gzi di	47
 众矢之的	Gzung Gsi zhi Gdit	47
@@ -91207,10 +91171,6 @@ use_preset_vocabulary: false
 似乎	Gsi Gfu	89544
 似乎	Gsi hu	89544
 似乎	si hu	89544
-似嗰	Gsi Ggo	4637
-似嗰	Gsi ge	4637
-似嗰	shi Ggo	4637
-似嗰	shi ge	4637
 似地	Gsi Gti	684
 似地	Gsi di	684
 似地	shi Gti	684
@@ -93119,9 +93079,6 @@ use_preset_vocabulary: false
 何足道	he Gjiuk dao	135
 何足道	he zu Gtau	135
 何足道	he zu dao	135
-何里	Gho Gli	100000
-何里	he Gli	100000
-何里	he li	100000
 何铁手	Gho Gtiet Gseu	47
 何铁手	Gho Gtiet Gxiu	47
 何铁手	Gho Gtiet shou	47
@@ -94861,6 +94818,23 @@ use_preset_vocabulary: false
 你家	Gnen jia	714
 你家	ni Gga	714
 你家	ni jia	714
+你屋里娘嗰	Gn Gwuk Gli Gniong Ggo	100000
+你屋里娘嗰	Gn Gwuk Gli Gniong ge	100000
+你屋里娘嗰	Gn Gwuk Gli niang Ggo	100000
+你屋里娘嗰	Gn Gwuk Gli niang ge	100000
+你屋里娘嗰	Gn wu Gli Gniong Ggo	100000
+你屋里娘嗰	Gn wu Gli Gniong ge	100000
+你屋里娘嗰	Gn wu Gli niang Ggo	100000
+你屋里娘嗰	Gn wu Gli niang ge	100000
+你屋里娘嗰	ni Gwuk Gli Gniong Ggo	100000
+你屋里娘嗰	ni Gwuk Gli Gniong ge	100000
+你屋里娘嗰	ni Gwuk Gli niang Ggo	100000
+你屋里娘嗰	ni Gwuk Gli niang ge	100000
+你屋里娘嗰	ni wu Gli Gniong Ggo	100000
+你屋里娘嗰	ni wu Gli Gniong ge	100000
+你屋里娘嗰	ni wu Gli niang Ggo	100000
+你屋里娘嗰	ni wu Gli niang ge	100000
+你屋里娘嗰	ni wu li niang ge	100000
 你报	Gnen Gbau	24
 你报	Gnen bao	24
 你报	ni Gbau	24
@@ -121140,6 +121114,42 @@ use_preset_vocabulary: false
 内黄	nei huang	20
 冇	Gmau	200000
 冇	mao	200000
+冇什哩好话嗰	Gmau Gset Gli Ghau Gfa Ggo	100000
+冇什哩好话嗰	Gmau Gset Gli Ghau Gfa ge	100000
+冇什哩好话嗰	Gmau Gset Gli Ghau Gwa Ggo	100000
+冇什哩好话嗰	Gmau Gset Gli Ghau hua Ggo	100000
+冇什哩好话嗰	Gmau Gset Gli Ghau hua ge	100000
+冇什哩好话嗰	Gmau Gset Gli hao Gfa Ggo	100000
+冇什哩好话嗰	Gmau Gset Gli hao Gfa ge	100000
+冇什哩好话嗰	Gmau Gset Gli hao hua Ggo	100000
+冇什哩好话嗰	Gmau Gset Gli hao hua ge	100000
+冇什哩好话嗰	Gmau Gxit Gli Ghau Gfa Ggo	100000
+冇什哩好话嗰	Gmau Gxit Gli Ghau Gwa Ggo	100000
+冇什哩好话嗰	Gmau shen Gli Ghau Gfa Ggo	100000
+冇什哩好话嗰	Gmau shen Gli Ghau Gfa ge	100000
+冇什哩好话嗰	Gmau shen Gli Ghau hua Ggo	100000
+冇什哩好话嗰	Gmau shen Gli Ghau hua ge	100000
+冇什哩好话嗰	Gmau shen Gli hao Gfa Ggo	100000
+冇什哩好话嗰	Gmau shen Gli hao Gfa ge	100000
+冇什哩好话嗰	Gmau shen Gli hao hua Ggo	100000
+冇什哩好话嗰	Gmau shen Gli hao hua ge	100000
+冇什哩好话嗰	mao Gset Gli Ghau Gfa Ggo	100000
+冇什哩好话嗰	mao Gset Gli Ghau Gfa ge	100000
+冇什哩好话嗰	mao Gset Gli Ghau hua Ggo	100000
+冇什哩好话嗰	mao Gset Gli Ghau hua ge	100000
+冇什哩好话嗰	mao Gset Gli hao Gfa Ggo	100000
+冇什哩好话嗰	mao Gset Gli hao Gfa ge	100000
+冇什哩好话嗰	mao Gset Gli hao hua Ggo	100000
+冇什哩好话嗰	mao Gset Gli hao hua ge	100000
+冇什哩好话嗰	mao shen Gli Ghau Gfa Ggo	100000
+冇什哩好话嗰	mao shen Gli Ghau Gfa ge	100000
+冇什哩好话嗰	mao shen Gli Ghau hua Ggo	100000
+冇什哩好话嗰	mao shen Gli Ghau hua ge	100000
+冇什哩好话嗰	mao shen Gli hao Gfa Ggo	100000
+冇什哩好话嗰	mao shen Gli hao Gfa ge	100000
+冇什哩好话嗰	mao shen Gli hao hua Ggo	100000
+冇什哩好话嗰	mao shen Gli hao hua ge	100000
+冇什哩好话嗰	mao shen li hao hua ge	100000
 冇大冇细	Gmau Gtai Gmau Gxi	100000
 冇大冇细	Gmau Gtai mao Gxi	100000
 冇大冇细	Gmau da Gmau Gxi	100000
@@ -203287,6 +203297,17 @@ use_preset_vocabulary: false
 喫赢手	chi Gyang shou	100000
 喫赢手	chi ying Gseu	100000
 喫赢手	chi ying shou	100000
+喫足了	Gqiak Gjiuk Gle	100000
+喫足了	Gqiak Gjiuk Glieu	100000
+喫足了	Gqiak Gjiuk le	100000
+喫足了	Gqiak Gzuk Gle	100000
+喫足了	Gqiak Gzuk Glieu	100000
+喫足了	Gqiak zu Glieu	100000
+喫足了	Gqiak zu le	100000
+喫足了	chi Gjiuk Glieu	100000
+喫足了	chi Gjiuk le	100000
+喫足了	chi zu Glieu	100000
+喫足了	chi zu le	100000
 喫透	Gqiak Gteu	45
 喫透	Gqiak tou	45
 喫透	chi Gteu	45
@@ -431211,22 +431232,23 @@ use_preset_vocabulary: false
 没影儿	mei Gyin er	9
 没影儿	mei ying Go	9
 没影儿	mei ying er	9
-没得说嗰	Gmet Gdet Gsot Ggo	19
-没得说嗰	Gmet Gdet Gsot ge	19
-没得说嗰	Gmet Gdet shuo Ggo	19
-没得说嗰	Gmet Gdet shuo ge	19
-没得说嗰	Gmet de Gsot Ggo	19
-没得说嗰	Gmet de Gsot ge	19
-没得说嗰	Gmet de shuo Ggo	19
-没得说嗰	Gmet de shuo ge	19
-没得说嗰	mei Gdet Gsot Ggo	19
-没得说嗰	mei Gdet Gsot ge	19
-没得说嗰	mei Gdet shuo Ggo	19
-没得说嗰	mei Gdet shuo ge	19
-没得说嗰	mei de Gsot Ggo	19
-没得说嗰	mei de Gsot ge	19
-没得说嗰	mei de shuo Ggo	19
-没得说嗰	mei de shuo ge	19
+没得话嗰	Gmet Gdet Gfa Ggo	19
+没得话嗰	Gmet Gdet Gwa Ggo	19
+没得话嗰	Gmet Gdet Gwa ge	19
+没得话嗰	Gmet Gdet hua Ggo	19
+没得话嗰	Gmet Gdet hua ge	19
+没得话嗰	Gmet de Gwa Ggo	19
+没得话嗰	Gmet de Gwa ge	19
+没得话嗰	Gmet de hua Ggo	19
+没得话嗰	Gmet de hua ge	19
+没得话嗰	mei Gdet Gwa Ggo	19
+没得话嗰	mei Gdet Gwa ge	19
+没得话嗰	mei Gdet hua Ggo	19
+没得话嗰	mei Gdet hua ge	19
+没得话嗰	mei de Gwa Ggo	19
+没得话嗰	mei de Gwa ge	19
+没得话嗰	mei de hua Ggo	19
+没得话嗰	mei de hua ge	19
 没得说的	Gmet Gdet Gsot Gdit	19
 没得说的	Gmet Gdet Gsot de	19
 没得说的	Gmet Gdet shuo Gdit	19
@@ -431397,14 +431419,6 @@ use_preset_vocabulary: false
 没落	Gmet luo	187
 没落	mo Glok	187
 没落	mo luo	187
-没说嗰	Gmet Gsot Ggo	14
-没说嗰	Gmet Gsot ge	14
-没说嗰	Gmet shuo Ggo	14
-没说嗰	Gmet shuo ge	14
-没说嗰	mei Gsot Ggo	14
-没说嗰	mei Gsot ge	14
-没说嗰	mei shuo Ggo	14
-没说嗰	mei shuo ge	14
 没说的	Gmet Gsot Gdit	14
 没说的	Gmet Gsot de	14
 没说的	Gmet shuo Gdit	14
@@ -621090,15 +621104,6 @@ use_preset_vocabulary: false
 说白了	shuo Gpak le	109
 说白了	shuo bai Glieu	109
 说白了	shuo bai le	109
-说真嗰	Gsot Gjin Ggo	108
-说真嗰	Gsot Gzen Ggo	108
-说真嗰	Gsot Gzen ge	108
-说真嗰	Gsot zhen Ggo	108
-说真嗰	Gsot zhen ge	108
-说真嗰	shuo Gzen Ggo	108
-说真嗰	shuo Gzen ge	108
-说真嗰	shuo zhen Ggo	108
-说真嗰	shuo zhen ge	108
 说真的	Gsot Gjin Gdit	108
 说真的	Gsot Gzen Gdit	108
 说真的	Gsot Gzen de	108
@@ -654313,6 +654318,11 @@ use_preset_vocabulary: false
 道理	Gtau Gli	8304
 道理	dao Gli	8304
 道理	dao li	8304
+道理嗰	Gtau Gli Ggo	100000
+道理嗰	Gtau Gli ge	100000
+道理嗰	dao Gli Ggo	100000
+道理嗰	dao Gli ge	100000
+道理嗰	dao li ge	100000
 道琼斯	Gtau Gqiung Gsi	25
 道琼斯	Gtau qiong Gsi	25
 道琼斯	dao Gqiung Gsi	25
