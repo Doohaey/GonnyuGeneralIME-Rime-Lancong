@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong
-version: "1.0.3"
+version: "1.0.4"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -27213,12 +27213,12 @@ use_preset_vocabulary: false
 三柱	Gsan Gqyu	13
 三柱	Gsan zhu	13
 三柱	san zhu	13
-三校	Gsan Ggau	21
+三校	Gsan Ghau	21
 三校	Gsan xiao	21
 三校	san xiao	21
-三校生	Gsan Ggau Gsang	7
-三校生	Gsan Ggau Gsen	7
-三校生	Gsan Ggau sheng	7
+三校生	Gsan Ghau Gsang	7
+三校生	Gsan Ghau Gsen	7
+三校生	Gsan Ghau sheng	7
 三校生	Gsan xiao Gsen	7
 三校生	Gsan xiao sheng	7
 三校生	san xiao sheng	7
@@ -29740,9 +29740,9 @@ use_preset_vocabulary: false
 上标	Gsong biao	29
 上标	shang Gbieu	29
 上标	shang biao	29
-上校	Gsong Ggau	262
+上校	Gsong Ghau	262
 上校	Gsong xiao	262
-上校	shang Ggau	262
+上校	shang Ghau	262
 上校	shang xiao	262
 上桌	Gsong Gzok	58
 上桌	Gsong zhuo	58
@@ -39351,21 +39351,21 @@ use_preset_vocabulary: false
 专科	Gzon ke	1034
 专科	zhuan Gkuo	1034
 专科	zhuan ke	1034
-专科学校	Gzon Gkuo Ghok Ggau	647
+专科学校	Gzon Gkuo Ghok Ghau	647
 专科学校	Gzon Gkuo Ghok xiao	647
-专科学校	Gzon Gkuo xue Ggau	647
+专科学校	Gzon Gkuo xue Ghau	647
 专科学校	Gzon Gkuo xue xiao	647
-专科学校	Gzon ke Ghok Ggau	647
+专科学校	Gzon ke Ghok Ghau	647
 专科学校	Gzon ke Ghok xiao	647
-专科学校	Gzon ke xue Ggau	647
+专科学校	Gzon ke xue Ghau	647
 专科学校	Gzon ke xue xiao	647
-专科学校	zhuan Gkuo Ghok Ggau	647
+专科学校	zhuan Gkuo Ghok Ghau	647
 专科学校	zhuan Gkuo Ghok xiao	647
-专科学校	zhuan Gkuo xue Ggau	647
+专科学校	zhuan Gkuo xue Ghau	647
 专科学校	zhuan Gkuo xue xiao	647
-专科学校	zhuan ke Ghok Ggau	647
+专科学校	zhuan ke Ghok Ghau	647
 专科学校	zhuan ke Ghok xiao	647
-专科学校	zhuan ke xue Ggau	647
+专科学校	zhuan ke xue Ghau	647
 专科学校	zhuan ke xue xiao	647
 专科生	Gzon Gkuo Gsang	58
 专科生	Gzon Gkuo Gsen	58
@@ -47065,70 +47065,70 @@ use_preset_vocabulary: false
 中共中央书记处	zhong gong zhong yang shu Gji Gcu	65
 中共中央书记处	zhong gong zhong yang shu Gji chu	65
 中共中央书记处	zhong gong zhong yang shu ji chu	65
-中共中央党校	Gzung Gkung Gzung Gyong Gdong Ggau	46
+中共中央党校	Gzung Gkung Gzung Gyong Gdong Ghau	46
 中共中央党校	Gzung Gkung Gzung Gyong Gdong xiao	46
-中共中央党校	Gzung Gkung Gzung Gyong dang Ggau	46
+中共中央党校	Gzung Gkung Gzung Gyong dang Ghau	46
 中共中央党校	Gzung Gkung Gzung Gyong dang xiao	46
-中共中央党校	Gzung Gkung Gzung yang Gdong Ggau	46
+中共中央党校	Gzung Gkung Gzung yang Gdong Ghau	46
 中共中央党校	Gzung Gkung Gzung yang Gdong xiao	46
-中共中央党校	Gzung Gkung Gzung yang dang Ggau	46
+中共中央党校	Gzung Gkung Gzung yang dang Ghau	46
 中共中央党校	Gzung Gkung Gzung yang dang xiao	46
-中共中央党校	Gzung Gkung zhong Gyong Gdong Ggau	46
+中共中央党校	Gzung Gkung zhong Gyong Gdong Ghau	46
 中共中央党校	Gzung Gkung zhong Gyong Gdong xiao	46
-中共中央党校	Gzung Gkung zhong Gyong dang Ggau	46
+中共中央党校	Gzung Gkung zhong Gyong dang Ghau	46
 中共中央党校	Gzung Gkung zhong Gyong dang xiao	46
-中共中央党校	Gzung Gkung zhong yang Gdong Ggau	46
+中共中央党校	Gzung Gkung zhong yang Gdong Ghau	46
 中共中央党校	Gzung Gkung zhong yang Gdong xiao	46
-中共中央党校	Gzung Gkung zhong yang dang Ggau	46
+中共中央党校	Gzung Gkung zhong yang dang Ghau	46
 中共中央党校	Gzung Gkung zhong yang dang xiao	46
-中共中央党校	Gzung Gqiung Gzung Gyong Gdong Ggau	46
-中共中央党校	Gzung gong Gzung Gyong Gdong Ggau	46
+中共中央党校	Gzung Gqiung Gzung Gyong Gdong Ghau	46
+中共中央党校	Gzung gong Gzung Gyong Gdong Ghau	46
 中共中央党校	Gzung gong Gzung Gyong Gdong xiao	46
-中共中央党校	Gzung gong Gzung Gyong dang Ggau	46
+中共中央党校	Gzung gong Gzung Gyong dang Ghau	46
 中共中央党校	Gzung gong Gzung Gyong dang xiao	46
-中共中央党校	Gzung gong Gzung yang Gdong Ggau	46
+中共中央党校	Gzung gong Gzung yang Gdong Ghau	46
 中共中央党校	Gzung gong Gzung yang Gdong xiao	46
-中共中央党校	Gzung gong Gzung yang dang Ggau	46
+中共中央党校	Gzung gong Gzung yang dang Ghau	46
 中共中央党校	Gzung gong Gzung yang dang xiao	46
-中共中央党校	Gzung gong zhong Gyong Gdong Ggau	46
+中共中央党校	Gzung gong zhong Gyong Gdong Ghau	46
 中共中央党校	Gzung gong zhong Gyong Gdong xiao	46
-中共中央党校	Gzung gong zhong Gyong dang Ggau	46
+中共中央党校	Gzung gong zhong Gyong dang Ghau	46
 中共中央党校	Gzung gong zhong Gyong dang xiao	46
-中共中央党校	Gzung gong zhong yang Gdong Ggau	46
+中共中央党校	Gzung gong zhong yang Gdong Ghau	46
 中共中央党校	Gzung gong zhong yang Gdong xiao	46
-中共中央党校	Gzung gong zhong yang dang Ggau	46
+中共中央党校	Gzung gong zhong yang dang Ghau	46
 中共中央党校	Gzung gong zhong yang dang xiao	46
-中共中央党校	zhong Gkung Gzung Gyong Gdong Ggau	46
+中共中央党校	zhong Gkung Gzung Gyong Gdong Ghau	46
 中共中央党校	zhong Gkung Gzung Gyong Gdong xiao	46
-中共中央党校	zhong Gkung Gzung Gyong dang Ggau	46
+中共中央党校	zhong Gkung Gzung Gyong dang Ghau	46
 中共中央党校	zhong Gkung Gzung Gyong dang xiao	46
-中共中央党校	zhong Gkung Gzung yang Gdong Ggau	46
+中共中央党校	zhong Gkung Gzung yang Gdong Ghau	46
 中共中央党校	zhong Gkung Gzung yang Gdong xiao	46
-中共中央党校	zhong Gkung Gzung yang dang Ggau	46
+中共中央党校	zhong Gkung Gzung yang dang Ghau	46
 中共中央党校	zhong Gkung Gzung yang dang xiao	46
-中共中央党校	zhong Gkung zhong Gyong Gdong Ggau	46
+中共中央党校	zhong Gkung zhong Gyong Gdong Ghau	46
 中共中央党校	zhong Gkung zhong Gyong Gdong xiao	46
-中共中央党校	zhong Gkung zhong Gyong dang Ggau	46
+中共中央党校	zhong Gkung zhong Gyong dang Ghau	46
 中共中央党校	zhong Gkung zhong Gyong dang xiao	46
-中共中央党校	zhong Gkung zhong yang Gdong Ggau	46
+中共中央党校	zhong Gkung zhong yang Gdong Ghau	46
 中共中央党校	zhong Gkung zhong yang Gdong xiao	46
-中共中央党校	zhong Gkung zhong yang dang Ggau	46
+中共中央党校	zhong Gkung zhong yang dang Ghau	46
 中共中央党校	zhong Gkung zhong yang dang xiao	46
-中共中央党校	zhong gong Gzung Gyong Gdong Ggau	46
+中共中央党校	zhong gong Gzung Gyong Gdong Ghau	46
 中共中央党校	zhong gong Gzung Gyong Gdong xiao	46
-中共中央党校	zhong gong Gzung Gyong dang Ggau	46
+中共中央党校	zhong gong Gzung Gyong dang Ghau	46
 中共中央党校	zhong gong Gzung Gyong dang xiao	46
-中共中央党校	zhong gong Gzung yang Gdong Ggau	46
+中共中央党校	zhong gong Gzung yang Gdong Ghau	46
 中共中央党校	zhong gong Gzung yang Gdong xiao	46
-中共中央党校	zhong gong Gzung yang dang Ggau	46
+中共中央党校	zhong gong Gzung yang dang Ghau	46
 中共中央党校	zhong gong Gzung yang dang xiao	46
-中共中央党校	zhong gong zhong Gyong Gdong Ggau	46
+中共中央党校	zhong gong zhong Gyong Gdong Ghau	46
 中共中央党校	zhong gong zhong Gyong Gdong xiao	46
-中共中央党校	zhong gong zhong Gyong dang Ggau	46
+中共中央党校	zhong gong zhong Gyong dang Ghau	46
 中共中央党校	zhong gong zhong Gyong dang xiao	46
-中共中央党校	zhong gong zhong yang Gdong Ggau	46
+中共中央党校	zhong gong zhong yang Gdong Ghau	46
 中共中央党校	zhong gong zhong yang Gdong xiao	46
-中共中央党校	zhong gong zhong yang dang Ggau	46
+中共中央党校	zhong gong zhong yang dang Ghau	46
 中共中央党校	zhong gong zhong yang dang xiao	46
 中共中央办公厅	Gzung Gkung Gzung Gyong Gban Ggung Gtiang	45
 中共中央办公厅	Gzung Gkung Gzung Gyong Gban Ggung Gtin	45
@@ -53153,21 +53153,21 @@ use_preset_vocabulary: false
 中央党	zhong Gyong dang	40
 中央党	zhong yang Gdong	40
 中央党	zhong yang dang	40
-中央党校	Gzung Gyong Gdong Ggau	110
+中央党校	Gzung Gyong Gdong Ghau	110
 中央党校	Gzung Gyong Gdong xiao	110
-中央党校	Gzung Gyong dang Ggau	110
+中央党校	Gzung Gyong dang Ghau	110
 中央党校	Gzung Gyong dang xiao	110
-中央党校	Gzung yang Gdong Ggau	110
+中央党校	Gzung yang Gdong Ghau	110
 中央党校	Gzung yang Gdong xiao	110
-中央党校	Gzung yang dang Ggau	110
+中央党校	Gzung yang dang Ghau	110
 中央党校	Gzung yang dang xiao	110
-中央党校	zhong Gyong Gdong Ggau	110
+中央党校	zhong Gyong Gdong Ghau	110
 中央党校	zhong Gyong Gdong xiao	110
-中央党校	zhong Gyong dang Ggau	110
+中央党校	zhong Gyong dang Ghau	110
 中央党校	zhong Gyong dang xiao	110
-中央党校	zhong yang Gdong Ggau	110
+中央党校	zhong yang Gdong Ghau	110
 中央党校	zhong yang Gdong xiao	110
-中央党校	zhong yang dang Ggau	110
+中央党校	zhong yang dang Ghau	110
 中央党校	zhong yang dang xiao	110
 中央军	Gzung Gyong Gjyun	51
 中央军	Gzung Gyong jun	51
@@ -54163,21 +54163,21 @@ use_preset_vocabulary: false
 中小学	zhong Gxieu xue	1032
 中小学	zhong xiao Ghok	1032
 中小学	zhong xiao xue	1032
-中小学校	Gzung Gxieu Ghok Ggau	58
+中小学校	Gzung Gxieu Ghok Ghau	58
 中小学校	Gzung Gxieu Ghok xiao	58
-中小学校	Gzung Gxieu xue Ggau	58
+中小学校	Gzung Gxieu xue Ghau	58
 中小学校	Gzung Gxieu xue xiao	58
-中小学校	Gzung xiao Ghok Ggau	58
+中小学校	Gzung xiao Ghok Ghau	58
 中小学校	Gzung xiao Ghok xiao	58
-中小学校	Gzung xiao xue Ggau	58
+中小学校	Gzung xiao xue Ghau	58
 中小学校	Gzung xiao xue xiao	58
-中小学校	zhong Gxieu Ghok Ggau	58
+中小学校	zhong Gxieu Ghok Ghau	58
 中小学校	zhong Gxieu Ghok xiao	58
-中小学校	zhong Gxieu xue Ggau	58
+中小学校	zhong Gxieu xue Ghau	58
 中小学校	zhong Gxieu xue xiao	58
-中小学校	zhong xiao Ghok Ggau	58
+中小学校	zhong xiao Ghok Ghau	58
 中小学校	zhong xiao Ghok xiao	58
-中小学校	zhong xiao xue Ggau	58
+中小学校	zhong xiao xue Ghau	58
 中小学校	zhong xiao xue xiao	58
 中小学生	Gzung Gxieu Ghok Gsang	210
 中小学生	Gzung Gxieu Ghok Gsen	210
@@ -54850,9 +54850,9 @@ use_preset_vocabulary: false
 中标	Gzung biao	127
 中标	zhong Gbieu	127
 中标	zhong biao	127
-中校	Gzung Ggau	102
+中校	Gzung Ghau	102
 中校	Gzung xiao	102
-中校	zhong Ggau	102
+中校	zhong Ghau	102
 中校	zhong xiao	102
 中档	Gzung Gdong	29
 中档	Gzung dang	29
@@ -55236,21 +55236,21 @@ use_preset_vocabulary: false
 中等偏上	zhong deng Gpien shang	9
 中等偏上	zhong deng pian Gsong	9
 中等偏上	zhong deng pian shang	9
-中等学校	Gzung Gden Ghok Ggau	23
+中等学校	Gzung Gden Ghok Ghau	23
 中等学校	Gzung Gden Ghok xiao	23
-中等学校	Gzung Gden xue Ggau	23
+中等学校	Gzung Gden xue Ghau	23
 中等学校	Gzung Gden xue xiao	23
-中等学校	Gzung deng Ghok Ggau	23
+中等学校	Gzung deng Ghok Ghau	23
 中等学校	Gzung deng Ghok xiao	23
-中等学校	Gzung deng xue Ggau	23
+中等学校	Gzung deng xue Ghau	23
 中等学校	Gzung deng xue xiao	23
-中等学校	zhong Gden Ghok Ggau	23
+中等学校	zhong Gden Ghok Ghau	23
 中等学校	zhong Gden Ghok xiao	23
-中等学校	zhong Gden xue Ggau	23
+中等学校	zhong Gden xue Ghau	23
 中等学校	zhong Gden xue xiao	23
-中等学校	zhong deng Ghok Ggau	23
+中等学校	zhong deng Ghok Ghau	23
 中等学校	zhong deng Ghok xiao	23
-中等学校	zhong deng xue Ggau	23
+中等学校	zhong deng xue Ghau	23
 中等学校	zhong deng xue xiao	23
 中等教育	Gzung Gden Ggau Gniuk	85
 中等教育	Gzung Gden Ggau Gyut	85
@@ -60645,9 +60645,9 @@ use_preset_vocabulary: false
 乌桓人	Gwu huan Gnin	7
 乌桓人	Gwu huan ren	7
 乌桓人	wu huan ren	7
-乌桓校	Gwu Gfon Ggau	14
+乌桓校	Gwu Gfon Ghau	14
 乌桓校	Gwu Gfon xiao	14
-乌桓校	Gwu huan Ggau	14
+乌桓校	Gwu huan Ghau	14
 乌桓校	Gwu huan xiao	14
 乌桓校	wu huan xiao	14
 乌梁海	Gwu Gliong Ghai	19
@@ -71060,21 +71060,21 @@ use_preset_vocabulary: false
 五七个	wu Gqit ge	14
 五七个	wu qi Ggo	14
 五七个	wu qi ge	14
-五七干校	Gng Gqit Ggon Ggau	25
+五七干校	Gng Gqit Ggon Ghau	25
 五七干校	Gng Gqit Ggon xiao	25
-五七干校	Gng Gqit gan Ggau	25
+五七干校	Gng Gqit gan Ghau	25
 五七干校	Gng Gqit gan xiao	25
-五七干校	Gng qi Ggon Ggau	25
+五七干校	Gng qi Ggon Ghau	25
 五七干校	Gng qi Ggon xiao	25
-五七干校	Gng qi gan Ggau	25
+五七干校	Gng qi gan Ghau	25
 五七干校	Gng qi gan xiao	25
-五七干校	wu Gqit Ggon Ggau	25
+五七干校	wu Gqit Ggon Ghau	25
 五七干校	wu Gqit Ggon xiao	25
-五七干校	wu Gqit gan Ggau	25
+五七干校	wu Gqit gan Ghau	25
 五七干校	wu Gqit gan xiao	25
-五七干校	wu qi Ggon Ggau	25
+五七干校	wu qi Ggon Ghau	25
 五七干校	wu qi Ggon xiao	25
-五七干校	wu qi gan Ggau	25
+五七干校	wu qi gan Ghau	25
 五七干校	wu qi gan xiao	25
 五七年	Gng Gqit Gnien	15
 五七年	Gng Gqit nian	15
@@ -88172,6 +88172,7 @@ use_preset_vocabulary: false
 众寡不敌	zhong Ggua bu Gtit	17
 众寡不敌	zhong Ggua bu di	17
 众寡不敌	zhong gua bu di	17
+众寡悬殊	Gzung Ggua Gxyuon Gsu	22
 众寡悬殊	Gzung Ggua Gxyuon Gxyu	22
 众寡悬殊	Gzung Ggua Gxyuon shu	22
 众寡悬殊	Gzung Ggua xuan Gxyu	22
@@ -90582,14 +90583,14 @@ use_preset_vocabulary: false
 伯克利	bo Gkiet Gli	37
 伯克利	bo ke Gli	37
 伯克利	bo ke li	37
-伯克利分校	Gbak Gkiet Gli Gfen Ggau	25
+伯克利分校	Gbak Gkiet Gli Gfen Ghau	25
 伯克利分校	Gbak Gkiet Gli Gfen xiao	25
-伯克利分校	Gbak ke Gli Gfen Ggau	25
+伯克利分校	Gbak ke Gli Gfen Ghau	25
 伯克利分校	Gbak ke Gli Gfen xiao	25
-伯克利分校	Gbet Gkiet Gli Gfen Ggau	25
-伯克利分校	bo Gkiet Gli Gfen Ggau	25
+伯克利分校	Gbet Gkiet Gli Gfen Ghau	25
+伯克利分校	bo Gkiet Gli Gfen Ghau	25
 伯克利分校	bo Gkiet Gli Gfen xiao	25
-伯克利分校	bo ke Gli Gfen Ggau	25
+伯克利分校	bo ke Gli Gfen Ghau	25
 伯克利分校	bo ke Gli Gfen xiao	25
 伯克利分校	bo ke li fen xiao	25
 伯克尔	Gbak Gkiet Go	13
@@ -91975,10 +91976,10 @@ use_preset_vocabulary: false
 住持	Gqyu Gci	161
 住持	zhu Gci	161
 住持	zhu chi	161
-住校	Gcu Ggau	18
+住校	Gcu Ghau	18
 住校	Gcu xiao	18
-住校	Gqyu Ggau	18
-住校	zhu Ggau	18
+住校	Gqyu Ghau	18
+住校	zhu Ghau	18
 住校	zhu xiao	18
 住满	Gcu Gmon	36
 住满	Gcu man	36
@@ -92209,7 +92210,7 @@ use_preset_vocabulary: false
 体晶	Gti Gjin	7
 体晶	Gti jing	7
 体晶	ti jing	7
-体校	Gti Ggau	51
+体校	Gti Ghau	51
 体校	Gti xiao	51
 体校	ti xiao	51
 体格	Gti Ggak	679
@@ -106460,9 +106461,9 @@ use_preset_vocabulary: false
 先进性	xian Gjin Gxin	167
 先进性	xian Gjin xing	167
 先进性	xian jin xing	167
-先进校	Gxien Gjin Ggau	8
+先进校	Gxien Gjin Ghau	8
 先进校	Gxien Gjin xiao	8
-先进校	xian Gjin Ggau	8
+先进校	xian Gjin Ghau	8
 先进校	xian Gjin xiao	8
 先进校	xian jin xiao	8
 先遣	Gxien Gqien	70
@@ -109084,9 +109085,9 @@ use_preset_vocabulary: false
 党旗	Gdong Gqi	27
 党旗	dang Gqi	27
 党旗	dang qi	27
-党校	Gdong Ggau	189
+党校	Gdong Ghau	189
 党校	Gdong xiao	189
-党校	dang Ggau	189
+党校	dang Ghau	189
 党校	dang xiao	189
 党河	Gdong Gho	17
 党河	Gdong he	17
@@ -109235,6 +109236,14 @@ use_preset_vocabulary: false
 兜揽	Gdeu Glon	18
 兜揽	dou Glan	18
 兜揽	dou lan	18
+兜老尿	Gdeu Glau Gnieu	100000
+兜老尿	Gdeu Glau niao	100000
+兜老尿	Gdeu lao Gnieu	100000
+兜老尿	Gdeu lao niao	100000
+兜老尿	dou Glau Gnieu	100000
+兜老尿	dou Glau niao	100000
+兜老尿	dou lao Gnieu	100000
+兜老尿	dou lao niao	100000
 兜肚	Gdeu Gdu	10
 兜肚	Gdeu Gtu	10
 兜肚	Gdeu du	10
@@ -109663,10 +109672,10 @@ use_preset_vocabulary: false
 入木三分	ru Gmuk Gsan Gfen	19
 入木三分	ru mu Gsan Gfen	19
 入木三分	ru mu san fen	19
-入校	Glet Ggau	66
-入校	Gluk Ggau	66
+入校	Glet Ghau	66
+入校	Gluk Ghau	66
 入校	Gluk xiao	66
-入校	ru Ggau	66
+入校	ru Ghau	66
 入校	ru xiao	66
 入梦	Glet Gmung	25
 入梦	Gluk Gmung	25
@@ -110720,9 +110729,9 @@ use_preset_vocabulary: false
 全村人	quan Gcun Gnin	65
 全村人	quan Gcun ren	65
 全村人	quan cun ren	65
-全校	Gqyuon Ggau	225
+全校	Gqyuon Ghau	225
 全校	Gqyuon xiao	225
-全校	quan Ggau	225
+全校	quan Ghau	225
 全校	quan xiao	225
 全椒	Gqyuon Gjieu	8
 全椒	Gqyuon jiao	8
@@ -122639,9 +122648,9 @@ use_preset_vocabulary: false
 军权	Gjyun quan	78
 军权	jun Gqyuon	78
 军权	jun quan	78
-军校	Gjyun Ggau	376
+军校	Gjyun Ghau	376
 军校	Gjyun xiao	376
-军校	jun Ggau	376
+军校	jun Ghau	376
 军校	jun xiao	376
 军械	Gjyun Gkai	408
 军械	Gjyun xie	408
@@ -123599,9 +123608,9 @@ use_preset_vocabulary: false
 农林牧渔业	nong Glin mu yu Gniet	260
 农林牧渔业	nong Glin mu yu ye	260
 农林牧渔业	nong lin mu yu ye	260
-农校	Glung Ggau	15
+农校	Glung Ghau	15
 农校	Glung xiao	15
-农校	nong Ggau	15
+农校	nong Ghau	15
 农校	nong xiao	15
 农桑	Glung Gsong	92
 农桑	Glung sang	92
@@ -133118,7 +133127,7 @@ use_preset_vocabulary: false
 分枝	Gfen Gzi	279
 分枝	Gfen zhi	279
 分枝	fen zhi	279
-分校	Gfen Ggau	417
+分校	Gfen Ghau	417
 分校	Gfen xiao	417
 分校	fen xiao	417
 分株	Gfen Gjyu	29
@@ -138365,9 +138374,9 @@ use_preset_vocabulary: false
 到来之际	dao lai Gzi Gji	164
 到来之际	dao lai zhi Gji	164
 到来之际	dao lai zhi ji	164
-到校	Gdau Ggau	71
+到校	Gdau Ghau	71
 到校	Gdau xiao	71
-到校	dao Ggau	71
+到校	dao Ghau	71
 到校	dao xiao	71
 到案	Gdau Gngon	24
 到案	Gdau an	24
@@ -141723,10 +141732,10 @@ use_preset_vocabulary: false
 办报	Gpan bao	38
 办报	ban Gbau	38
 办报	ban bao	38
-办校	Gban Ggau	17
-办校	Gpan Ggau	17
+办校	Gban Ghau	17
+办校	Gpan Ghau	17
 办校	Gpan xiao	17
-办校	ban Ggau	17
+办校	ban Ghau	17
 办校	ban xiao	17
 办案	Gban Gngon	136
 办案	Gpan Gngon	136
@@ -152583,13 +152592,13 @@ use_preset_vocabulary: false
 医学院	Gyi xue Gyuon	443
 医学院	Gyi xue yuan	443
 医学院	yi xue yuan	443
-医学院校	Gyi Ghok Gyuon Ggau	14
+医学院校	Gyi Ghok Gyuon Ghau	14
 医学院校	Gyi Ghok Gyuon xiao	14
-医学院校	Gyi Ghok yuan Ggau	14
+医学院校	Gyi Ghok yuan Ghau	14
 医学院校	Gyi Ghok yuan xiao	14
-医学院校	Gyi xue Gyuon Ggau	14
+医学院校	Gyi xue Gyuon Ghau	14
 医学院校	Gyi xue Gyuon xiao	14
-医学院校	Gyi xue yuan Ggau	14
+医学院校	Gyi xue yuan Ghau	14
 医学院校	Gyi xue yuan xiao	14
 医学院校	yi xue yuan xiao	14
 医家	Gyi Gga	58
@@ -166458,9 +166467,9 @@ use_preset_vocabulary: false
 卫普港	wei Gpu Ggong	8
 卫普港	wei Gpu gang	8
 卫普港	wei pu gang	8
-卫校	Gwui Ggau	25269
+卫校	Gwui Ghau	25269
 卫校	Gwui xiao	25269
-卫校	wei Ggau	25269
+卫校	wei Ghau	25269
 卫校	wei xiao	25269
 卫气营	Gwui Gqi Gyin	13
 卫气营	Gwui Gqi ying	13
@@ -181728,9 +181737,9 @@ use_preset_vocabulary: false
 司长	Gsi Gzong	788
 司长	Gsi zhang	788
 司长	si zhang	788
-司隶校	Gsi Gti Ggau	61
+司隶校	Gsi Gti Ghau	61
 司隶校	Gsi Gti xiao	61
-司隶校	Gsi li Ggau	61
+司隶校	Gsi li Ghau	61
 司隶校	Gsi li xiao	61
 司隶校	si li xiao	61
 司马	Gsi Gma	669
@@ -182862,9 +182871,9 @@ use_preset_vocabulary: false
 各条	Ggok tiao	25289
 各条	ge Gtieu	25289
 各条	ge tiao	25289
-各校	Ggok Ggau	1217
+各校	Ggok Ghau	1217
 各校	Ggok xiao	1217
-各校	ge Ggau	1217
+各校	ge Ghau	1217
 各校	ge xiao	1217
 各样	Ggok Gyong	47
 各样	Ggok yang	47
@@ -187109,10 +187118,10 @@ use_preset_vocabulary: false
 名木	Gmin mu	7
 名木	ming Gmuk	7
 名木	ming mu	7
-名校	Gmiang Ggau	228
-名校	Gmin Ggau	228
+名校	Gmiang Ghau	228
+名校	Gmin Ghau	228
 名校	Gmin xiao	228
-名校	ming Ggau	228
+名校	ming Ghau	228
 名校	ming xiao	228
 名模	Gmiang Gmu	24
 名模	Gmin Gmu	24
@@ -201695,6 +201704,15 @@ use_preset_vocabulary: false
 啯叫	Ggue jiao	132503
 啯叫	guo Gjieu	132503
 啯叫	guo jiao	132503
+啯魍鬼叫	Ggue Gwong Ggui Gjieu	100000
+啯魍鬼叫	Ggue Gwong Ggui jiao	100000
+啯魍鬼叫	Ggue wang Ggui Gjieu	100000
+啯魍鬼叫	Ggue wang Ggui jiao	100000
+啯魍鬼叫	guo Gwong Ggui Gjieu	100000
+啯魍鬼叫	guo Gwong Ggui jiao	100000
+啯魍鬼叫	guo wang Ggui Gjieu	100000
+啯魍鬼叫	guo wang Ggui jiao	100000
+啯魍鬼叫	guo wang gui jiao	100000
 啰	Glo	200000
 啰	luo	200000
 啴	Gtan	18445
@@ -207821,9 +207839,9 @@ use_preset_vocabulary: false
 团政委	tuan Gzen wei	20
 团政委	tuan zheng Gwui	20
 团政委	tuan zheng wei	20
-团校	Gton Ggau	8
+团校	Gton Ghau	8
 团校	Gton xiao	8
-团校	tuan Ggau	8
+团校	tuan Ghau	8
 团校	tuan xiao	8
 团省委	Gton Gsang Gwui	24
 团省委	Gton Gsen Gwui	24
@@ -214866,20 +214884,20 @@ use_preset_vocabulary: false
 在握	Gcei Gwot	30
 在握	zai Gngok	30
 在握	zai wo	30
-在校	Gcai Ggau	1213
+在校	Gcai Ghau	1213
 在校	Gcai xiao	1213
-在校	Gcei Ggau	1213
-在校	zai Ggau	1213
+在校	Gcei Ghau	1213
+在校	zai Ghau	1213
 在校	zai xiao	1213
-在校生	Gcai Ggau Gsang	392
-在校生	Gcai Ggau Gsen	392
-在校生	Gcai Ggau sheng	392
+在校生	Gcai Ghau Gsang	392
+在校生	Gcai Ghau Gsen	392
+在校生	Gcai Ghau sheng	392
 在校生	Gcai xiao Gsen	392
 在校生	Gcai xiao sheng	392
-在校生	Gcei Ggau Gsang	392
-在校生	Gcei Ggau Gsen	392
-在校生	zai Ggau Gsen	392
-在校生	zai Ggau sheng	392
+在校生	Gcei Ghau Gsang	392
+在校生	Gcei Ghau Gsen	392
+在校生	zai Ghau Gsen	392
+在校生	zai Ghau sheng	392
 在校生	zai xiao Gsen	392
 在校生	zai xiao sheng	392
 在案	Gcai Gngon	45
@@ -226363,7 +226381,7 @@ use_preset_vocabulary: false
 外来语	Gwai lai yu	21
 外来语	wai lai yu	21
 外果皮	Gwai Gguo Gpi	15
-外校	Gwai Ggau	285
+外校	Gwai Ghau	285
 外校	Gwai xiao	285
 外校	wai xiao	285
 外毒素	Gwai Gtuk Gsu	22
@@ -229240,9 +229258,9 @@ use_preset_vocabulary: false
 夜来香	ye Glei xiang	12
 夜来香	ye lai Gxiong	12
 夜来香	ye lai xiang	12
-夜校	Gya Ggau	58
+夜校	Gya Ghau	58
 夜校	Gya xiao	58
-夜校	ye Ggau	58
+夜校	ye Ghau	58
 夜校	ye xiao	58
 夜泊	Gya Gpok	9
 夜泊	Gya po	9
@@ -229628,21 +229646,21 @@ use_preset_vocabulary: false
 大专	Gtai zhuan	601
 大专	da Gzon	601
 大专	da zhuan	601
-大专学校	Gtai Gzon Ghok Ggau	386
+大专学校	Gtai Gzon Ghok Ghau	386
 大专学校	Gtai Gzon Ghok xiao	386
-大专学校	Gtai Gzon xue Ggau	386
+大专学校	Gtai Gzon xue Ghau	386
 大专学校	Gtai Gzon xue xiao	386
-大专学校	Gtai zhuan Ghok Ggau	386
+大专学校	Gtai zhuan Ghok Ghau	386
 大专学校	Gtai zhuan Ghok xiao	386
-大专学校	Gtai zhuan xue Ggau	386
+大专学校	Gtai zhuan xue Ghau	386
 大专学校	Gtai zhuan xue xiao	386
-大专学校	da Gzon Ghok Ggau	386
+大专学校	da Gzon Ghok Ghau	386
 大专学校	da Gzon Ghok xiao	386
-大专学校	da Gzon xue Ggau	386
+大专学校	da Gzon xue Ghau	386
 大专学校	da Gzon xue xiao	386
-大专学校	da zhuan Ghok Ggau	386
+大专学校	da zhuan Ghok Ghau	386
 大专学校	da zhuan Ghok xiao	386
-大专学校	da zhuan xue Ggau	386
+大专学校	da zhuan xue Ghau	386
 大专学校	da zhuan xue xiao	386
 大专班	Gtai Gzon Gban	12
 大专班	Gtai zhuan Gban	12
@@ -229658,21 +229676,21 @@ use_preset_vocabulary: false
 大专生	da Gzon sheng	57
 大专生	da zhuan Gsen	57
 大专生	da zhuan sheng	57
-大专院校	Gtai Gzon Gyuon Ggau	236
+大专院校	Gtai Gzon Gyuon Ghau	236
 大专院校	Gtai Gzon Gyuon xiao	236
-大专院校	Gtai Gzon yuan Ggau	236
+大专院校	Gtai Gzon yuan Ghau	236
 大专院校	Gtai Gzon yuan xiao	236
-大专院校	Gtai zhuan Gyuon Ggau	236
+大专院校	Gtai zhuan Gyuon Ghau	236
 大专院校	Gtai zhuan Gyuon xiao	236
-大专院校	Gtai zhuan yuan Ggau	236
+大专院校	Gtai zhuan yuan Ghau	236
 大专院校	Gtai zhuan yuan xiao	236
-大专院校	da Gzon Gyuon Ggau	236
+大专院校	da Gzon Gyuon Ghau	236
 大专院校	da Gzon Gyuon xiao	236
-大专院校	da Gzon yuan Ggau	236
+大专院校	da Gzon yuan Ghau	236
 大专院校	da Gzon yuan xiao	236
-大专院校	da zhuan Gyuon Ggau	236
+大专院校	da zhuan Gyuon Ghau	236
 大专院校	da zhuan Gyuon xiao	236
-大专院校	da zhuan yuan Ggau	236
+大专院校	da zhuan yuan Ghau	236
 大专院校	da zhuan yuan xiao	236
 大业	Gtai Gniet	1361
 大业	Gtai Gyet	1361
@@ -229765,21 +229783,21 @@ use_preset_vocabulary: false
 大中城市	da zhong Gcen shi	214
 大中城市	da zhong cheng Gsi	214
 大中城市	da zhong cheng shi	214
-大中学校	Gtai Gzung Ghok Ggau	152
+大中学校	Gtai Gzung Ghok Ghau	152
 大中学校	Gtai Gzung Ghok xiao	152
-大中学校	Gtai Gzung xue Ggau	152
+大中学校	Gtai Gzung xue Ghau	152
 大中学校	Gtai Gzung xue xiao	152
-大中学校	Gtai zhong Ghok Ggau	152
+大中学校	Gtai zhong Ghok Ghau	152
 大中学校	Gtai zhong Ghok xiao	152
-大中学校	Gtai zhong xue Ggau	152
+大中学校	Gtai zhong xue Ghau	152
 大中学校	Gtai zhong xue xiao	152
-大中学校	da Gzung Ghok Ggau	152
+大中学校	da Gzung Ghok Ghau	152
 大中学校	da Gzung Ghok xiao	152
-大中学校	da Gzung xue Ggau	152
+大中学校	da Gzung xue Ghau	152
 大中学校	da Gzung xue xiao	152
-大中学校	da zhong Ghok Ggau	152
+大中学校	da zhong Ghok Ghau	152
 大中学校	da zhong Ghok xiao	152
-大中学校	da zhong xue Ggau	152
+大中学校	da zhong xue Ghau	152
 大中学校	da zhong xue xiao	152
 大中学生	Gtai Gzung Ghok Gsang	9
 大中学生	Gtai Gzung Ghok Gsen	9
@@ -233648,9 +233666,9 @@ use_preset_vocabulary: false
 大树下	da Gsu xia	61
 大树下	da shu Gha	61
 大树下	da shu xia	61
-大校	Gtai Ggau	168
+大校	Gtai Ghau	168
 大校	Gtai xiao	168
-大校	da Ggau	168
+大校	da Ghau	168
 大校	da xiao	168
 大样	Gtai Gyong	9
 大样	Gtai yang	9
@@ -244922,9 +244940,9 @@ use_preset_vocabulary: false
 女板	Gnyu Gban	7
 女板	nv Gban	7
 女板	nv ban	7
-女校	Gnyu Ggau	13
+女校	Gnyu Ghau	13
 女校	Gnyu xiao	13
-女校	nv Ggau	13
+女校	nv Ghau	13
 女校	nv xiao	13
 女流	Gnyu Gliu	105
 女流	nv Gliu	105
@@ -254169,9 +254187,9 @@ use_preset_vocabulary: false
 学林	Ghok Glin	12
 学林	xue Glin	12
 学林	xue lin	12
-学校	Ghok Ggau	17020
+学校	Ghok Ghau	17020
 学校	Ghok xiao	17020
-学校	xue Ggau	17020
+学校	xue Ghau	17020
 学校	xue xiao	17020
 学步	Ghok Gpu	12
 学步	Ghok bu	12
@@ -269822,9 +269840,9 @@ use_preset_vocabulary: false
 将来	Gjiong lai	2817
 将来	jiang Glei	2817
 将来	jiang lai	2817
-将校	Gjiong Ggau	188
+将校	Gjiong Ghau	188
 将校	Gjiong xiao	188
-将校	jiang Ggau	188
+将校	jiang Ghau	188
 将校	jiang xiao	188
 将相	Gjiong Gxiong	66
 将相	Gjiong xiang	66
@@ -271051,13 +271069,13 @@ use_preset_vocabulary: false
 小学	Gxieu xue	13296
 小学	xiao Ghok	13296
 小学	xiao xue	13296
-小学校	Gxieu Ghok Ggau	99
+小学校	Gxieu Ghok Ghau	99
 小学校	Gxieu Ghok xiao	99
-小学校	Gxieu xue Ggau	99
+小学校	Gxieu xue Ghau	99
 小学校	Gxieu xue xiao	99
-小学校	xiao Ghok Ggau	99
+小学校	xiao Ghok Ghau	99
 小学校	xiao Ghok xiao	99
-小学校	xiao xue Ggau	99
+小学校	xiao xue Ghau	99
 小学校	xiao xue xiao	99
 小学生	Gxieu Ghok Gsang	25556
 小学生	Gxieu Ghok Gsen	25556
@@ -273485,9 +273503,9 @@ use_preset_vocabulary: false
 少林拳	shao Glin Gqyuon	43
 少林拳	shao Glin quan	43
 少林拳	shao lin quan	43
-少校	Gseu Ggau	151
+少校	Gseu Ghau	151
 少校	Gseu xiao	151
-少校	shao Ggau	151
+少校	shao Ghau	151
 少校	shao xiao	151
 少爷	Gseu Gya	741
 少爷	Gseu ye	741
@@ -276060,13 +276078,14 @@ use_preset_vocabulary: false
 层高	ceng Ggau	10
 层高	ceng gao	10
 屃	Gxi	30000
+屄	Gbie	100000
 屄	Gbiet	100000
 屄	bi	100000
 屄崽子	Gbiet Gzai Gzi	100000
 屄崽子	bi Gzai Gzi	100000
 屄崽子	bi zai zi	100000
-屄腥	Gbiet Gxiang	100000
-屄腥	Gbiet xing	100000
+屄腥	Gbie Gxiang	100000
+屄腥	Gbie xing	100000
 屄腥	bi Gxiang	100000
 屄腥	bi xing	100000
 居	Gjyu	120000
@@ -287038,13 +287057,13 @@ use_preset_vocabulary: false
 师范大学	shi Gfan da Ghok	438
 师范大学	shi Gfan da xue	438
 师范大学	shi fan da xue	438
-师范学校	Gsi Gfan Ghok Ggau	231
+师范学校	Gsi Gfan Ghok Ghau	231
 师范学校	Gsi Gfan Ghok xiao	231
-师范学校	Gsi Gfan xue Ggau	231
+师范学校	Gsi Gfan xue Ghau	231
 师范学校	Gsi Gfan xue xiao	231
-师范学校	shi Gfan Ghok Ggau	231
+师范学校	shi Gfan Ghok Ghau	231
 师范学校	shi Gfan Ghok xiao	231
-师范学校	shi Gfan xue Ggau	231
+师范学校	shi Gfan xue Ghau	231
 师范学校	shi Gfan xue xiao	231
 师范学校	shi fan xue xiao	231
 师范学院	Gsi Gfan Ghok Gyuon	1191
@@ -289398,9 +289417,9 @@ use_preset_vocabulary: false
 干栏	Ggon Glan	32
 干栏	gan Glan	32
 干栏	gan lan	32
-干校	Ggon Ggau	76
+干校	Ggon Ghau	76
 干校	Ggon xiao	76
-干校	gan Ggau	76
+干校	gan Ghau	76
 干校	gan xiao	76
 干椒含	Ggon Gjieu Ghon	257
 干椒含	Ggon Gjieu han	257
@@ -298391,9 +298410,9 @@ use_preset_vocabulary: false
 建树	Gjien shu	215
 建树	jian Gsu	215
 建树	jian shu	215
-建校	Gjien Ggau	68
+建校	Gjien Ghau	68
 建校	Gjien xiao	68
-建校	jian Ggau	68
+建校	jian Ghau	68
 建校	jian xiao	68
 建档	Gjien Gdong	7
 建档	Gjien dang	7
@@ -317381,9 +317400,9 @@ use_preset_vocabulary: false
 总机	Gzung Gji	20
 总机	zong Gji	20
 总机	zong ji	20
-总校	Gzung Ggau	16
+总校	Gzung Ghau	16
 总校	Gzung xiao	16
-总校	zong Ggau	16
+总校	zong Ghau	16
 总校	zong xiao	16
 总汇	Gzung Gfei	42
 总汇	Gzung hui	42
@@ -320032,6 +320051,7 @@ use_preset_vocabulary: false
 悬梁	Gxyuon liang	56
 悬梁	xuan Gliong	56
 悬梁	xuan liang	56
+悬殊	Gxyuon Gsu	629
 悬殊	Gxyuon Gxyu	629
 悬殊	Gxyuon shu	629
 悬殊	xuan Gxyu	629
@@ -325333,7 +325353,7 @@ use_preset_vocabulary: false
 戏曲片	Gxi qu Gpien	7
 戏曲片	Gxi qu pian	7
 戏曲片	xi qu pian	7
-戏校	Gxi Ggau	43
+戏校	Gxi Ghau	43
 戏校	Gxi xiao	43
 戏校	xi xiao	43
 戏楼	Gxi Gleu	94
@@ -326994,9 +327014,9 @@ use_preset_vocabulary: false
 我是	Gngo shi	62422
 我是	wo Gsi	62422
 我是	wo shi	62422
-我校	Gngo Ggau	823
+我校	Gngo Ghau	823
 我校	Gngo xiao	823
-我校	wo Ggau	823
+我校	wo Ghau	823
 我校	wo xiao	823
 我爸	Gngo Gbak	100000
 我爸	Gngo ba	100000
@@ -334251,22 +334271,22 @@ use_preset_vocabulary: false
 技术培训	ji shu Gpi xun	13
 技术培训	ji shu pei Gxyun	13
 技术培训	ji shu pei xun	13
-技术学校	Gqi Gsuet Ghok Ggau	44
+技术学校	Gqi Gsuet Ghok Ghau	44
 技术学校	Gqi Gsuet Ghok xiao	44
-技术学校	Gqi Gsuet xue Ggau	44
+技术学校	Gqi Gsuet xue Ghau	44
 技术学校	Gqi Gsuet xue xiao	44
-技术学校	Gqi Gsuk Ghok Ggau	44
-技术学校	Gqi shu Ghok Ggau	44
+技术学校	Gqi Gsuk Ghok Ghau	44
+技术学校	Gqi shu Ghok Ghau	44
 技术学校	Gqi shu Ghok xiao	44
-技术学校	Gqi shu xue Ggau	44
+技术学校	Gqi shu xue Ghau	44
 技术学校	Gqi shu xue xiao	44
-技术学校	ji Gsuet Ghok Ggau	44
+技术学校	ji Gsuet Ghok Ghau	44
 技术学校	ji Gsuet Ghok xiao	44
-技术学校	ji Gsuet xue Ggau	44
+技术学校	ji Gsuet xue Ghau	44
 技术学校	ji Gsuet xue xiao	44
-技术学校	ji shu Ghok Ggau	44
+技术学校	ji shu Ghok Ghau	44
 技术学校	ji shu Ghok xiao	44
-技术学校	ji shu xue Ggau	44
+技术学校	ji shu xue Ghau	44
 技术学校	ji shu xue xiao	44
 技术开发	Gqi Gsuet Gkai Gfat	26
 技术开发	Gqi Gsuet Gkai fa	26
@@ -334475,9 +334495,9 @@ use_preset_vocabulary: false
 技术部	ji Gsuet bu	50
 技术部	ji shu Gpu	50
 技术部	ji shu bu	50
-技校	Gqi Ggau	56
+技校	Gqi Ghau	56
 技校	Gqi xiao	56
-技校	ji Ggau	56
+技校	ji Ghau	56
 技校	ji xiao	56
 技法	Gqi Gfat	356
 技法	Gqi fa	356
@@ -337032,9 +337052,9 @@ use_preset_vocabulary: false
 护栏	Gfu Glan	38
 护栏	hu Glan	38
 护栏	hu lan	38
-护校	Gfu Ggau	11
+护校	Gfu Ghau	11
 护校	Gfu xiao	11
-护校	hu Ggau	11
+护校	hu Ghau	11
 护校	hu xiao	11
 护法	Gfu Gfat	296
 护法	Gfu fa	296
@@ -341551,35 +341571,35 @@ use_preset_vocabulary: false
 择机	Gzet Gji	13
 择机	ze Gji	13
 择机	ze ji	13
-择校	Gcet Ggau	52
+择校	Gcet Ghau	52
 择校	Gcet xiao	52
-择校	Gzet Ggau	52
-择校	ze Ggau	52
+择校	Gzet Ghau	52
+择校	ze Ghau	52
 择校	ze xiao	52
-择校热	Gcet Ggau Glet	11
-择校热	Gcet Ggau re	11
+择校热	Gcet Ghau Glet	11
+择校热	Gcet Ghau re	11
 择校热	Gcet xiao Glet	11
 择校热	Gcet xiao re	11
-择校热	Gzet Ggau Glet	11
-择校热	ze Ggau Glet	11
-择校热	ze Ggau re	11
+择校热	Gzet Ghau Glet	11
+择校热	ze Ghau Glet	11
+择校热	ze Ghau re	11
 择校热	ze xiao Glet	11
 择校热	ze xiao re	11
-择校生	Gcet Ggau Gsang	29
-择校生	Gcet Ggau Gsen	29
-择校生	Gcet Ggau sheng	29
+择校生	Gcet Ghau Gsang	29
+择校生	Gcet Ghau Gsen	29
+择校生	Gcet Ghau sheng	29
 择校生	Gcet xiao Gsen	29
 择校生	Gcet xiao sheng	29
-择校生	Gzet Ggau Gsang	29
-择校生	Gzet Ggau Gsen	29
-择校生	ze Ggau Gsen	29
-择校生	ze Ggau sheng	29
+择校生	Gzet Ghau Gsang	29
+择校生	Gzet Ghau Gsen	29
+择校生	ze Ghau Gsen	29
+择校生	ze Ghau sheng	29
 择校生	ze xiao Gsen	29
 择校生	ze xiao sheng	29
-择校费	Gcet Ggau Gfei	33
+择校费	Gcet Ghau Gfei	33
 择校费	Gcet xiao Gfei	33
-择校费	Gzet Ggau Gfei	33
-择校费	ze Ggau Gfei	33
+择校费	Gzet Ghau Gfei	33
+择校费	ze Ghau Gfei	33
 择校费	ze xiao Gfei	33
 择校费	ze xiao fei	33
 择菜	Gcet Gcai	12
@@ -350949,8 +350969,8 @@ use_preset_vocabulary: false
 摸透	Gmo Gteu	41
 摸透	Gmo tou	41
 摸透	mo tou	41
-摸金校尉	Gmo Gjin Ggau Gwui	405
-摸金校尉	Gmo Gjin Ggau wei	405
+摸金校尉	Gmo Gjin Ghau Gwui	405
+摸金校尉	Gmo Gjin Ghau wei	405
 摸金校尉	Gmo Gjin xiao Gwui	405
 摸金校尉	Gmo Gjin xiao wei	405
 摸金校尉	mo jin xiao wei	405
@@ -357282,10 +357302,10 @@ use_preset_vocabulary: false
 教育部门	jiao yu Gpu Gmen	110
 教育部门	jiao yu bu Gmen	110
 教育部门	jiao yu bu men	110
-教育部高校学生司	Ggau Gniuk Gpu Ggau Ggau Ghok Gsang Gsi	11
-教育部高校学生司	Ggau Gniuk Gpu Ggau Ggau Ghok Gsen Gsi	11
-教育部高校学生司	Ggau Gyut Gpu Ggau Ggau Ghok Gsang Gsi	11
-教育部高校学生司	Ggau Gyut Gpu Ggau Ggau Ghok Gsen Gsi	11
+教育部高校学生司	Ggau Gniuk Gpu Ggau Ghau Ghok Gsang Gsi	11
+教育部高校学生司	Ggau Gniuk Gpu Ggau Ghau Ghok Gsen Gsi	11
+教育部高校学生司	Ggau Gyut Gpu Ggau Ghau Ghok Gsang Gsi	11
+教育部高校学生司	Ggau Gyut Gpu Ggau Ghau Ghok Gsen Gsi	11
 教育部高校学生司	jiao yu bu gao xiao xue sheng si	11
 教育长	Ggau Gniuk Gzong	31
 教育长	Ggau Gniuk zhang	31
@@ -362407,6 +362427,7 @@ use_preset_vocabulary: false
 文武官	wen Gwu Gguon	26
 文武官	wen Gwu guan	26
 文武官	wen wu guan	26
+文殊	Gwun Gsu	52
 文殊	Gwun Gxyu	52
 文殊	Gwun shu	52
 文殊	wen Gxyu	52
@@ -364898,21 +364919,21 @@ use_preset_vocabulary: false
 新东方	Gxin dong Gfong	79
 新东方	Gxin dong fang	79
 新东方	xin dong fang	79
-新东方学校	Gxin Gdung Gfong Ghok Ggau	21
+新东方学校	Gxin Gdung Gfong Ghok Ghau	21
 新东方学校	Gxin Gdung Gfong Ghok xiao	21
-新东方学校	Gxin Gdung Gfong xue Ggau	21
+新东方学校	Gxin Gdung Gfong xue Ghau	21
 新东方学校	Gxin Gdung Gfong xue xiao	21
-新东方学校	Gxin Gdung fang Ghok Ggau	21
+新东方学校	Gxin Gdung fang Ghok Ghau	21
 新东方学校	Gxin Gdung fang Ghok xiao	21
-新东方学校	Gxin Gdung fang xue Ggau	21
+新东方学校	Gxin Gdung fang xue Ghau	21
 新东方学校	Gxin Gdung fang xue xiao	21
-新东方学校	Gxin dong Gfong Ghok Ggau	21
+新东方学校	Gxin dong Gfong Ghok Ghau	21
 新东方学校	Gxin dong Gfong Ghok xiao	21
-新东方学校	Gxin dong Gfong xue Ggau	21
+新东方学校	Gxin dong Gfong xue Ghau	21
 新东方学校	Gxin dong Gfong xue xiao	21
-新东方学校	Gxin dong fang Ghok Ggau	21
+新东方学校	Gxin dong fang Ghok Ghau	21
 新东方学校	Gxin dong fang Ghok xiao	21
-新东方学校	Gxin dong fang xue Ggau	21
+新东方学校	Gxin dong fang xue Ghau	21
 新东方学校	Gxin dong fang xue xiao	21
 新东方学校	xin dong fang xue xiao	21
 新丰	Gxin Gfung	9
@@ -388605,7 +388626,7 @@ use_preset_vocabulary: false
 本杰明	Gben jie ming	11
 本杰明	ben jie ming	11
 本栏	Gben Glan	35
-本校	Gben Ggau	288
+本校	Gben Ghau	288
 本校	Gben xiao	288
 本校	ben xiao	288
 本格拉	Gben Ggak Gla	21
@@ -389643,14 +389664,14 @@ use_preset_vocabulary: false
 朱熹	Gzu Gxi	367
 朱熹	zhu Gxi	367
 朱熹	zhu xi	367
-朱由校	Gjyu Gyiu Ggau	52
-朱由校	Gzu Gyiu Ggau	52
+朱由校	Gjyu Gyiu Ghau	52
+朱由校	Gzu Gyiu Ghau	52
 朱由校	Gzu Gyiu xiao	52
-朱由校	Gzu you Ggau	52
+朱由校	Gzu you Ghau	52
 朱由校	Gzu you xiao	52
-朱由校	zhu Gyiu Ggau	52
+朱由校	zhu Gyiu Ghau	52
 朱由校	zhu Gyiu xiao	52
-朱由校	zhu you Ggau	52
+朱由校	zhu you Ghau	52
 朱由校	zhu you xiao	52
 朱由检	Gjyu Gyiu Gjien	30
 朱由检	Gzu Gyiu Gjien	30
@@ -395117,9 +395138,9 @@ use_preset_vocabulary: false
 来来往往	lai lai Gwong wang	98
 来来往往	lai lai wang Gwong	98
 来来往往	lai lai wang wang	98
-来校	Glei Ggau	13
+来校	Glei Ghau	13
 来校	Glei xiao	13
-来校	lai Ggau	13
+来校	lai Ghau	13
 来校	lai xiao	13
 来水量	Glei Gsui Gliong	15
 来水量	Glei Gsui liang	15
@@ -400254,9 +400275,9 @@ use_preset_vocabulary: false
 某某	Gmeu mou	5416
 某某	mou Gmeu	5416
 某某	mou mou	5416
-某校	Gmeu Ggau	8
+某校	Gmeu Ghau	8
 某校	Gmeu xiao	8
-某校	mou Ggau	8
+某校	mou Ghau	8
 某校	mou xiao	8
 某次	Gmeu Gci	50051
 某次	mou Gci	50051
@@ -402808,26 +402829,27 @@ use_preset_vocabulary: false
 栠	ren	5520
 校	Ggau	120000
 校	Ghau	120000
+校	jiao	120000
 校	xiao	120000
-校企	Ggau Gqi	21
+校企	Ghau Gqi	21
 校企	xiao Gqi	21
 校企	xiao qi	21
-校党委	Ggau Gdong Gwui	12
-校党委	Ggau Gdong wei	12
-校党委	Ggau dang Gwui	12
-校党委	Ggau dang wei	12
+校党委	Ghau Gdong Gwui	12
+校党委	Ghau Gdong wei	12
+校党委	Ghau dang Gwui	12
+校党委	Ghau dang wei	12
 校党委	xiao Gdong Gwui	12
 校党委	xiao Gdong wei	12
 校党委	xiao dang Gwui	12
 校党委	xiao dang wei	12
-校内	Ggau Glei	115
-校内	Ggau Glui	115
-校内	Ggau nei	115
+校内	Ghau Glei	115
+校内	Ghau Glui	115
+校内	Ghau nei	115
 校内	xiao Glui	115
 校内	xiao nei	115
-校内外	Ggau Glei Gwai	7
-校内外	Ggau Glui Gwai	7
-校内外	Ggau nei Gwai	7
+校内外	Ghau Glei Gwai	7
+校内外	Ghau Glui Gwai	7
+校内外	Ghau nei Gwai	7
 校内外	xiao Glui Gwai	7
 校内外	xiao nei Gwai	7
 校内外	xiao nei wai	7
@@ -402835,16 +402857,16 @@ use_preset_vocabulary: false
 校准	Ggau zhun	22
 校准	jiao Gzun	22
 校准	jiao zhun	22
-校刊	Ggau Gkon	28
-校刊	Ggau kan	28
+校刊	Ghau Gkon	28
+校刊	Ghau kan	28
 校刊	xiao Gkon	28
 校刊	xiao kan	28
-校办	Ggau Gban	23
-校办	Ggau Gpan	23
-校办	Ggau ban	23
+校办	Ghau Gban	23
+校办	Ghau Gpan	23
+校办	Ghau ban	23
 校办	xiao Gpan	23
 校办	xiao ban	23
-校务	Ggau Gwu	54
+校务	Ghau Gwu	54
 校务	xiao Gwu	54
 校务	xiao wu	54
 校勘	Ggau Gkon	145
@@ -402859,31 +402881,31 @@ use_preset_vocabulary: false
 校勘学	jiao Gkon xue	17
 校勘学	jiao kan Ghok	17
 校勘学	jiao kan xue	17
-校区	Ggau Gqyu	989
-校区	Ggau qu	989
+校区	Ghau Gqyu	989
+校区	Ghau qu	989
 校区	xiao Gqyu	989
 校区	xiao qu	989
-校医	Ggau Gyi	13
+校医	Ghau Gyi	13
 校医	xiao Gyi	13
 校医	xiao yi	13
-校友	Ggau Gyiu	98
-校友	Ggau you	98
+校友	Ghau Gyiu	98
+校友	Ghau you	98
 校友	xiao Gyiu	98
 校友	xiao you	98
-校名	Ggau Gmiang	4391
-校名	Ggau Gmin	4391
-校名	Ggau ming	4391
+校名	Ghau Gmiang	4391
+校名	Ghau Gmin	4391
+校名	Ghau ming	4391
 校名	xiao Gmiang	4391
 校名	xiao ming	4391
-校园	Ggau Gyuon	2714
-校园	Ggau yuan	2714
+校园	Ghau Gyuon	2714
+校园	Ghau yuan	2714
 校园	xiao Gyuon	2714
 校园	xiao yuan	2714
-校园网	Ggau Gyuon Gmong	25037
-校园网	Ggau Gyuon Gwong	25037
-校园网	Ggau Gyuon wang	25037
-校园网	Ggau yuan Gwong	25037
-校园网	Ggau yuan wang	25037
+校园网	Ghau Gyuon Gmong	25037
+校园网	Ghau Gyuon Gwong	25037
+校园网	Ghau Gyuon wang	25037
+校园网	Ghau yuan Gwong	25037
+校园网	Ghau yuan wang	25037
 校园网	xiao Gyuon Gwong	25037
 校园网	xiao Gyuon wang	25037
 校园网	xiao yuan Gwong	25037
@@ -402892,50 +402914,50 @@ use_preset_vocabulary: false
 校场	Ggau chang	70
 校场	jiao Gcong	70
 校场	jiao chang	70
-校址	Ggau Gzi	98
-校址	Ggau zhi	98
+校址	Ghau Gzi	98
+校址	Ghau zhi	98
 校址	xiao Gzi	98
 校址	xiao zhi	98
-校外	Ggau Gwai	412
+校外	Ghau Gwai	412
 校外	xiao Gwai	412
 校外	xiao wai	412
-校官	Ggau Gguon	55
-校官	Ggau guan	55
+校官	Ghau Gguon	55
+校官	Ghau guan	55
 校官	xiao Gguon	55
 校官	xiao guan	55
 校对	Ggau Gdui	89
 校对	jiao Gdui	89
 校对	jiao dui	89
-校射	Ggau Gsa	21
-校射	Ggau she	21
+校射	Ghau Gsa	21
+校射	Ghau she	21
 校射	xiao Gsa	21
 校射	xiao she	21
-校尉	Ggau Gwui	157
-校尉	Ggau wei	157
+校尉	Ghau Gwui	157
+校尉	Ghau wei	157
 校尉	xiao Gwui	157
 校尉	xiao wei	157
-校工	Ggau Ggung	10
-校工	Ggau gong	10
+校工	Ghau Ggung	10
+校工	Ghau gong	10
 校工	xiao Ggung	10
 校工	xiao gong	10
-校庆	Ggau Gqin	102
-校庆	Ggau qing	102
+校庆	Ghau Gqin	102
+校庆	Ghau qing	102
 校庆	xiao Gqin	102
 校庆	xiao qing	102
-校徽	Ggau Gfei	15
-校徽	Ggau hui	15
+校徽	Ghau Gfei	15
+校徽	Ghau hui	15
 校徽	xiao Gfei	15
 校徽	xiao hui	15
-校报	Ggau Gbau	9
-校报	Ggau bao	9
+校报	Ghau Gbau	9
+校报	Ghau bao	9
 校报	xiao Gbau	9
 校报	xiao bao	9
-校方	Ggau Gfong	134
-校方	Ggau fang	134
+校方	Ghau Gfong	134
+校方	Ghau fang	134
 校方	xiao Gfong	134
 校方	xiao fang	134
-校服	Ggau Gfuk	38
-校服	Ggau fu	38
+校服	Ghau Gfuk	38
+校服	Ghau fu	38
 校服	xiao Gfuk	38
 校服	xiao fu	38
 校本	Ggau Gben	49
@@ -402950,8 +402972,8 @@ use_preset_vocabulary: false
 校核	Ggau he	12
 校核	jiao Ghet	12
 校核	jiao he	12
-校歌	Ggau Ggo	14
-校歌	Ggau ge	14
+校歌	Ghau Ggo	14
+校歌	Ghau ge	14
 校歌	xiao Ggo	14
 校歌	xiao ge	14
 校正	Ggau Gzang	191
@@ -402968,23 +402990,23 @@ use_preset_vocabulary: false
 校点	Ggau dian	77
 校点	jiao Gdien	77
 校点	jiao dian	77
-校级	Ggau Gjit	15
-校级	Ggau ji	15
+校级	Ghau Gjit	15
+校级	Ghau ji	15
 校级	xiao Gjit	15
 校级	xiao ji	15
-校舍	Ggau Gsa	182
-校舍	Ggau she	182
+校舍	Ghau Gsa	182
+校舍	Ghau she	182
 校舍	xiao Gsa	182
 校舍	xiao she	182
-校花	Ggau Gfa	11
-校花	Ggau hua	11
+校花	Ghau Gfa	11
+校花	Ghau hua	11
 校花	xiao Gfa	11
 校花	xiao hua	11
-校董	Ggau Gdung	7
-校董	Ggau dong	7
+校董	Ghau Gdung	7
+校董	Ghau dong	7
 校董	xiao Gdung	7
 校董	xiao dong	7
-校规	Ggau Ggui	13
+校规	Ghau Ggui	13
 校规	xiao Ggui	13
 校规	xiao gui	13
 校订	Ggau Gdiang	96
@@ -402992,28 +403014,28 @@ use_preset_vocabulary: false
 校订	Ggau ding	96
 校订	jiao Gtin	96
 校订	jiao ding	96
-校训	Ggau Gxyun	27
-校训	Ggau xun	27
+校训	Ghau Gxyun	27
+校训	Ghau xun	27
 校训	xiao Gxyun	27
 校训	xiao xun	27
-校车	Ggau Gca	53
-校车	Ggau che	53
+校车	Ghau Gca	53
+校车	Ghau che	53
 校车	xiao Gca	53
 校车	xiao che	53
-校释	Ggau Gset	19
-校释	Ggau Gsik	19
-校释	Ggau shi	19
+校释	Ghau Gset	19
+校释	Ghau Gsik	19
+校释	Ghau shi	19
 校释	xiao Gset	19
 校释	xiao shi	19
-校长	Ggau Gzong	3791
-校长	Ggau zhang	3791
+校长	Ghau Gzong	3791
+校长	Ghau zhang	3791
 校长	xiao Gzong	3791
 校长	xiao zhang	3791
-校门	Ggau Gmen	131
+校门	Ghau Gmen	131
 校门	xiao Gmen	131
 校门	xiao men	131
-校门口	Ggau Gmen Gkieu	14
-校门口	Ggau Gmen kou	14
+校门口	Ghau Gmen Gkieu	14
+校门口	Ghau Gmen kou	14
 校门口	xiao Gmen Gkieu	14
 校门口	xiao Gmen kou	14
 校门口	xiao men kou	14
@@ -403021,22 +403043,22 @@ use_preset_vocabulary: false
 校阅	Ggau yue	16
 校阅	jiao Gyuot	16
 校阅	jiao yue	16
-校际	Ggau Gji	25
+校际	Ghau Gji	25
 校际	xiao Gji	25
 校际	xiao ji	25
-校领导	Ggau Gliang Gdau	51
-校领导	Ggau Gliang Gtau	51
-校领导	Ggau Glin Gdau	51
-校领导	Ggau Glin Gtau	51
-校领导	Ggau Glin dao	51
-校领导	Ggau ling Gtau	51
-校领导	Ggau ling dao	51
+校领导	Ghau Gliang Gdau	51
+校领导	Ghau Gliang Gtau	51
+校领导	Ghau Glin Gdau	51
+校领导	Ghau Glin Gtau	51
+校领导	Ghau Glin dao	51
+校领导	Ghau ling Gtau	51
+校领导	Ghau ling dao	51
 校领导	xiao Glin Gtau	51
 校领导	xiao Glin dao	51
 校领导	xiao ling Gtau	51
 校领导	xiao ling dao	51
-校风	Ggau Gfung	58
-校风	Ggau feng	58
+校风	Ghau Gfung	58
+校风	Ghau feng	58
 校风	xiao Gfung	58
 校风	xiao feng	58
 校验	Ggau Gnien	62
@@ -417552,8 +417574,10 @@ use_preset_vocabulary: false
 殉难者	xun Glan zhe	10
 殉难者	xun nan Gza	10
 殉难者	xun nan zhe	10
+殊	Gsu	130000
 殊	Gxyu	120000
-殊	shu	120000
+殊	shu	130000
+殊不知	Gsu Gbet Gzi	195
 殊不知	Gxyu Gbet Gzi	195
 殊不知	Gxyu Gbet zhi	195
 殊不知	Gxyu bu Gzi	195
@@ -417562,9 +417586,11 @@ use_preset_vocabulary: false
 殊不知	shu Gbet zhi	195
 殊不知	shu bu Gzi	195
 殊不知	shu bu zhi	195
+殊死	Gsu Gsi	440
 殊死	Gxyu Gsi	440
 殊死	shu Gsi	440
 殊死	shu si	440
+殊死搏斗	Gsu Gsi Gfu Gdeu	12
 殊死搏斗	Gxyu Gsi Gfu Gdeu	12
 殊死搏斗	Gxyu Gsi Gfu dou	12
 殊死搏斗	Gxyu Gsi bo Gdeu	12
@@ -417574,11 +417600,14 @@ use_preset_vocabulary: false
 殊死搏斗	shu Gsi bo Gdeu	12
 殊死搏斗	shu Gsi bo dou	12
 殊死搏斗	shu si bo dou	12
+殊荣	Gsu Glung	200
+殊荣	Gsu Gyung	200
 殊荣	Gxyu Glung	200
 殊荣	Gxyu Gyung	200
 殊荣	Gxyu rong	200
 殊荣	shu Gyung	200
 殊荣	shu rong	200
+殊途同归	Gsu Gtu Gtung Ggui	56
 殊途同归	Gxyu Gtu Gtung Ggui	56
 殊途同归	Gxyu Gtu tong Ggui	56
 殊途同归	shu Gtu Gtung Ggui	56
@@ -418615,7 +418644,7 @@ use_preset_vocabulary: false
 母树	Gmu Gxyu	16
 母树	Gmu shu	16
 母树	mu shu	16
-母校	Gmu Ggau	75
+母校	Gmu Ghau	75
 母校	Gmu xiao	75
 母校	mu xiao	75
 母株	Gmu Gjyu	12
@@ -421652,7 +421681,7 @@ use_preset_vocabulary: false
 民权主义	Gmin quan zhu Gni	40
 民权主义	Gmin quan zhu yi	40
 民权主义	min quan zhu yi	40
-民校	Gmin Ggau	7
+民校	Gmin Ghau	7
 民校	Gmin xiao	7
 民校	min xiao	7
 民歌	Gmin Ggo	418
@@ -423928,12 +423957,12 @@ use_preset_vocabulary: false
 水栖	Gsui Gqi	8
 水栖	shui Gqi	8
 水栖	shui qi	8
-水校尉	Gsui Ggau Gwui	11
-水校尉	Gsui Ggau wei	11
+水校尉	Gsui Ghau Gwui	11
+水校尉	Gsui Ghau wei	11
 水校尉	Gsui xiao Gwui	11
 水校尉	Gsui xiao wei	11
-水校尉	shui Ggau Gwui	11
-水校尉	shui Ggau wei	11
+水校尉	shui Ghau Gwui	11
+水校尉	shui Ghau wei	11
 水校尉	shui xiao Gwui	11
 水校尉	shui xiao wei	11
 水样	Gsui Gyong	46
@@ -433182,10 +433211,10 @@ use_preset_vocabulary: false
 治标	Gzik Gbieu	34
 治标	zhi Gbieu	34
 治标	zhi biao	34
-治校	Gci Ggau	21
+治校	Gci Ghau	21
 治校	Gci xiao	21
-治校	Gzik Ggau	21
-治校	zhi Ggau	21
+治校	Gzik Ghau	21
+治校	zhi Ghau	21
 治校	zhi xiao	21
 治水	Gci Gsui	186
 治水	Gci shui	186
@@ -458752,9 +458781,9 @@ use_preset_vocabulary: false
 点染	Gdien ran	38
 点染	dian Gnien	38
 点染	dian ran	38
-点校	Gdien Ggau	9
+点校	Gdien Ghau	9
 点校	Gdien xiao	9
-点校	dian Ggau	9
+点校	dian Ghau	9
 点校	dian xiao	9
 点源	Gdien Gnyuon	7
 点源	Gdien Gyuon	7
@@ -467024,10 +467053,12 @@ use_preset_vocabulary: false
 特此	Gtet Gci	246
 特此	te Gci	246
 特此	te ci	246
+特殊	Gtet Gsu	137015
 特殊	Gtet Gxyu	137015
 特殊	Gtet shu	137015
 特殊	te Gxyu	137015
 特殊	te shu	137015
+特殊化	Gtet Gsu Gfa	26
 特殊化	Gtet Gxyu Gfa	26
 特殊化	Gtet Gxyu hua	26
 特殊化	Gtet shu Gfa	26
@@ -467036,6 +467067,7 @@ use_preset_vocabulary: false
 特殊化	te Gxyu hua	26
 特殊化	te shu Gfa	26
 特殊化	te shu hua	26
+特殊字符	Gtet Gsu Gci Gfu	17
 特殊字符	Gtet Gxyu Gci Gfu	17
 特殊字符	Gtet Gxyu zi Gfu	17
 特殊字符	Gtet shu Gci Gfu	17
@@ -467045,6 +467077,8 @@ use_preset_vocabulary: false
 特殊字符	te shu Gci Gfu	17
 特殊字符	te shu zi Gfu	17
 特殊字符	te shu zi fu	17
+特殊性	Gtet Gsu Gxiang	205
+特殊性	Gtet Gsu Gxin	205
 特殊性	Gtet Gxyu Gxiang	205
 特殊性	Gtet Gxyu Gxin	205
 特殊性	Gtet Gxyu xing	205
@@ -467054,6 +467088,8 @@ use_preset_vocabulary: false
 特殊性	te Gxyu xing	205
 特殊性	te shu Gxin	205
 特殊性	te shu xing	205
+特殊教育	Gtet Gsu Ggau Gniuk	302
+特殊教育	Gtet Gsu Ggau Gyut	302
 特殊教育	Gtet Gxyu Ggau Gniuk	302
 特殊教育	Gtet Gxyu Ggau Gyut	302
 特殊教育	Gtet Gxyu Ggau yu	302
@@ -467071,6 +467107,7 @@ use_preset_vocabulary: false
 特殊教育	te shu Ggau yu	302
 特殊教育	te shu jiao Gniuk	302
 特殊教育	te shu jiao yu	302
+特殊钢	Gtet Gsu Ggong	21
 特殊钢	Gtet Gxyu Ggong	21
 特殊钢	Gtet Gxyu gang	21
 特殊钢	Gtet shu Ggong	21
@@ -488441,7 +488478,7 @@ use_preset_vocabulary: false
 留有余地	Gliu you Gyu Gti	8
 留有余地	Gliu you Gyu di	8
 留有余地	liu you yu di	8
-留校	Gliu Ggau	140
+留校	Gliu Ghau	140
 留校	Gliu xiao	140
 留校	liu xiao	140
 留步	Gliu Gpu	33
@@ -501344,6 +501381,7 @@ use_preset_vocabulary: false
 相框	Gxiong Gkuang	12
 相框	xiang Gkuang	12
 相框	xiang kuang	12
+相殊	Gxiong Gsu	16
 相殊	Gxiong Gxyu	16
 相殊	Gxiong shu	16
 相殊	xiang Gxyu	16
@@ -512101,9 +512139,9 @@ use_preset_vocabulary: false
 示范性	shi Gfan Gxin	60
 示范性	shi Gfan xing	60
 示范性	shi fan xing	60
-示范校	Gsi Gfan Ggau	30
+示范校	Gsi Gfan Ghau	30
 示范校	Gsi Gfan xiao	30
-示范校	shi Gfan Ggau	30
+示范校	shi Gfan Ghau	30
 示范校	shi Gfan xiao	30
 示范校	shi fan xiao	30
 示范点	Gsi Gfan Gdien	58
@@ -516459,7 +516497,7 @@ use_preset_vocabulary: false
 离析	Gli Gxit	10
 离析	Gli xi	10
 离析	li xi	10
-离校	Gli Ggau	39
+离校	Gli Ghau	39
 离校	Gli xiao	39
 离校	li xiao	39
 离石	Gli Gset	65
@@ -519270,8 +519308,8 @@ use_preset_vocabulary: false
 秦末汉	Gqin mo Ghon	7
 秦末汉	Gqin mo han	7
 秦末汉	qin mo han	7
-秦校长	Gqin Ggau Gzong	9
-秦校长	Gqin Ggau zhang	9
+秦校长	Gqin Ghau Gzong	9
+秦校长	Gqin Ghau zhang	9
 秦校长	Gqin xiao Gzong	9
 秦校长	Gqin xiao zhang	9
 秦校长	qin xiao zhang	9
@@ -554760,10 +554798,10 @@ use_preset_vocabulary: false
 网架	Gwong jia	10
 网架	wang Gga	10
 网架	wang jia	10
-网校	Gmong Ggau	61
-网校	Gwong Ggau	61
+网校	Gmong Ghau	61
+网校	Gwong Ghau	61
 网校	Gwong xiao	61
-网校	wang Ggau	61
+网校	wang Ghau	61
 网校	wang xiao	61
 网格	Gmong Ggak	104
 网格	Gmong Ggiet	104
@@ -565698,21 +565736,21 @@ use_preset_vocabulary: false
 聋哑人	long Gnga ren	15
 聋哑人	long ya Gnin	15
 聋哑人	long ya ren	15
-聋哑学校	Glung Gnga Ghok Ggau	9
+聋哑学校	Glung Gnga Ghok Ghau	9
 聋哑学校	Glung Gnga Ghok xiao	9
-聋哑学校	Glung Gnga xue Ggau	9
+聋哑学校	Glung Gnga xue Ghau	9
 聋哑学校	Glung Gnga xue xiao	9
-聋哑学校	Glung ya Ghok Ggau	9
+聋哑学校	Glung ya Ghok Ghau	9
 聋哑学校	Glung ya Ghok xiao	9
-聋哑学校	Glung ya xue Ggau	9
+聋哑学校	Glung ya xue Ghau	9
 聋哑学校	Glung ya xue xiao	9
-聋哑学校	long Gnga Ghok Ggau	9
+聋哑学校	long Gnga Ghok Ghau	9
 聋哑学校	long Gnga Ghok xiao	9
-聋哑学校	long Gnga xue Ggau	9
+聋哑学校	long Gnga xue Ghau	9
 聋哑学校	long Gnga xue xiao	9
-聋哑学校	long ya Ghok Ggau	9
+聋哑学校	long ya Ghok Ghau	9
 聋哑学校	long ya Ghok xiao	9
-聋哑学校	long ya xue Ggau	9
+聋哑学校	long ya xue Ghau	9
 聋哑学校	long ya xue xiao	9
 聋子	Glung Gzi	69
 聋子	long Gzi	69
@@ -565950,10 +565988,10 @@ use_preset_vocabulary: false
 职权	Gzik Gqyuon	6518
 职权	zhi Gqyuon	6518
 职权	zhi quan	6518
-职校	Gzet Ggau	52
+职校	Gzet Ghau	52
 职校	Gzet xiao	52
-职校	Gzik Ggau	52
-职校	zhi Ggau	52
+职校	Gzik Ghau	52
+职校	zhi Ghau	52
 职校	zhi xiao	52
 职称	Gzet Gcen	25568
 职称	Gzet cheng	25568
@@ -566875,9 +566913,9 @@ use_preset_vocabulary: false
 联机	Glien Gji	78
 联机	lian Gji	78
 联机	lian ji	78
-联校	Glien Ggau	8
+联校	Glien Ghau	8
 联校	Glien xiao	8
-联校	lian Ggau	8
+联校	lian Ghau	8
 联校	lian xiao	8
 联欢	Glien Gfon	113
 联欢	Glien huan	113
@@ -571319,13 +571357,13 @@ use_preset_vocabulary: false
 胡枝子	hu Gzi Gzi	13
 胡枝子	hu zhi Gzi	13
 胡枝子	hu zhi zi	13
-胡校长	Gfu Ggau Gzong	21
-胡校长	Gfu Ggau zhang	21
+胡校长	Gfu Ghau Gzong	21
+胡校长	Gfu Ghau zhang	21
 胡校长	Gfu xiao Gzong	21
 胡校长	Gfu xiao zhang	21
-胡校长	Gwu Ggau Gzong	21
-胡校长	hu Ggau Gzong	21
-胡校长	hu Ggau zhang	21
+胡校长	Gwu Ghau Gzong	21
+胡校长	hu Ghau Gzong	21
+胡校长	hu Ghau zhang	21
 胡校长	hu xiao Gzong	21
 胡校长	hu xiao zhang	21
 胡格诺	Gfu Ggak Glok	53
@@ -580403,9 +580441,9 @@ use_preset_vocabulary: false
 航标灯	hang Gbieu deng	17
 航标灯	hang biao Gden	17
 航标灯	hang biao deng	17
-航校	Ghong Ggau	13
+航校	Ghong Ghau	13
 航校	Ghong xiao	13
-航校	hang Ggau	13
+航校	hang Ghau	13
 航校	hang xiao	13
 航模	Ghong Gmu	8
 航模	Ghong mo	8
@@ -582165,10 +582203,10 @@ use_preset_vocabulary: false
 艺术馆	yi Gsuet guan	82
 艺术馆	yi shu Gguon	82
 艺术馆	yi shu guan	82
-艺校	Gni Ggau	11
+艺校	Gni Ghau	11
 艺校	Gni xiao	11
-艺校	Gyi Ggau	11
-艺校	yi Ggau	11
+艺校	Gyi Ghau	11
+艺校	yi Ghau	11
 艺校	yi xiao	11
 艺能	Gni Glen	10
 艺能	Gni neng	10
@@ -585313,6 +585351,7 @@ use_preset_vocabulary: false
 苏普笑	Gsu Gpu Gxieu	8
 苏普笑	Gsu Gpu xiao	8
 苏普笑	su pu xiao	8
+苏曼殊	Gsu Gmon Gsu	24
 苏曼殊	Gsu Gmon Gxyu	24
 苏曼殊	Gsu Gmon shu	24
 苏曼殊	Gsu man Gxyu	24
@@ -609364,13 +609403,13 @@ use_preset_vocabulary: false
 西点	Gxi Gdien	29
 西点	Gxi dian	29
 西点	xi dian	29
-西点军校	Gxi Gdien Gjyun Ggau	37
+西点军校	Gxi Gdien Gjyun Ghau	37
 西点军校	Gxi Gdien Gjyun xiao	37
-西点军校	Gxi Gdien jun Ggau	37
+西点军校	Gxi Gdien jun Ghau	37
 西点军校	Gxi Gdien jun xiao	37
-西点军校	Gxi dian Gjyun Ggau	37
+西点军校	Gxi dian Gjyun Ghau	37
 西点军校	Gxi dian Gjyun xiao	37
-西点军校	Gxi dian jun Ggau	37
+西点军校	Gxi dian jun Ghau	37
 西点军校	Gxi dian jun xiao	37
 西点军校	xi dian jun xiao	37
 西燕	Gxi Gyen	38
@@ -619851,7 +619890,7 @@ use_preset_vocabulary: false
 该条	Ggai Gtieu	20
 该条	Ggai tiao	20
 该条	gai tiao	20
-该校	Ggai Ggau	678
+该校	Ggai Ghau	678
 该校	Ggai xiao	678
 该校	gai xiao	678
 该案	Ggai Gngon	100
@@ -628818,6 +628857,7 @@ use_preset_vocabulary: false
 贫困者	Gpin Gkun zhe	9
 贫困者	pin kun zhe	9
 贫富	Gpin Gfu	545
+贫富悬殊	Gpin Gfu Gxyuon Gsu	46
 贫富悬殊	Gpin Gfu Gxyuon Gxyu	46
 贫富悬殊	Gpin Gfu Gxyuon shu	46
 贫富悬殊	Gpin Gfu xuan Gxyu	46
@@ -629461,7 +629501,7 @@ use_preset_vocabulary: false
 贵族化	Ggui zu Gfa	7
 贵族化	Ggui zu hua	7
 贵族化	gui zu hua	7
-贵校	Ggui Ggau	10
+贵校	Ggui Ghau	10
 贵校	Ggui xiao	10
 贵校	gui xiao	10
 贵池	Ggui Gci	18
@@ -646656,7 +646696,7 @@ use_preset_vocabulary: false
 返家	fan jia	14
 返归	Gfan Ggui	28
 返抵	Gfan Gdi	14
-返校	Gfan Ggau	31
+返校	Gfan Ghau	31
 返校	Gfan xiao	31
 返校	fan xiao	31
 返照	Gfan Gzeu	7
@@ -647633,7 +647673,7 @@ use_preset_vocabulary: false
 进来	Gjin Glei	56878
 进来	Gjin lai	56878
 进来	jin lai	56878
-进校	Gjin Ggau	84
+进校	Gjin Ghau	84
 进校	Gjin xiao	84
 进校	jin xiao	84
 进款	Gjin Gkuon	15
@@ -656378,13 +656418,13 @@ use_preset_vocabulary: false
 那小官	na Gxieu guan	10
 那小官	na xiao Gguon	10
 那小官	na xiao guan	10
-那小校	Gla Gxieu Ggau	10
+那小校	Gla Gxieu Ghau	10
 那小校	Gla Gxieu xiao	10
-那小校	Gla xiao Ggau	10
+那小校	Gla xiao Ghau	10
 那小校	Gla xiao xiao	10
-那小校	na Gxieu Ggau	10
+那小校	na Gxieu Ghau	10
 那小校	na Gxieu xiao	10
-那小校	na xiao Ggau	10
+那小校	na xiao Ghau	10
 那小校	na xiao xiao	10
 那小沙弥	Gla Gxieu Gsa Gmi	10
 那小沙弥	Gla Gxieu sha Gmi	10
@@ -675867,14 +675907,14 @@ use_preset_vocabulary: false
 闵行区	min Gxin qu	15
 闵行区	min xing Gqyu	15
 闵行区	min xing qu	15
-闵行校	Gmen Ghen Ggau	14
-闵行校	Gmen Gxin Ggau	14
+闵行校	Gmen Ghen Ghau	14
+闵行校	Gmen Gxin Ghau	14
 闵行校	Gmen Gxin xiao	14
-闵行校	Gmen xing Ggau	14
+闵行校	Gmen xing Ghau	14
 闵行校	Gmen xing xiao	14
-闵行校	min Gxin Ggau	14
+闵行校	min Gxin Ghau	14
 闵行校	min Gxin xiao	14
-闵行校	min xing Ggau	14
+闵行校	min xing Ghau	14
 闵行校	min xing xiao	14
 闵采尔	Gmen Gcai Go	8
 闵采尔	Gmen Gcai er	8
@@ -685555,17 +685595,17 @@ use_preset_vocabulary: false
 院本	Gyuon Gben	40
 院本	yuan Gben	40
 院本	yuan ben	40
-院校	Gyuon Ggau	4170
+院校	Gyuon Ghau	4170
 院校	Gyuon xiao	4170
-院校	yuan Ggau	4170
+院校	yuan Ghau	4170
 院校	yuan xiao	4170
-院校所	Gyuon Ggau Gso	9
-院校所	Gyuon Ggau Gsu	9
-院校所	Gyuon Ggau suo	9
+院校所	Gyuon Ghau Gso	9
+院校所	Gyuon Ghau Gsu	9
+院校所	Gyuon Ghau suo	9
 院校所	Gyuon xiao Gso	9
 院校所	Gyuon xiao suo	9
-院校所	yuan Ggau Gso	9
-院校所	yuan Ggau suo	9
+院校所	yuan Ghau Gso	9
+院校所	yuan Ghau suo	9
 院校所	yuan xiao Gso	9
 院校所	yuan xiao suo	9
 院系	Gyuon Gxi	79
@@ -694487,6 +694527,7 @@ use_preset_vocabulary: false
 非得	Gfei Gdet	5314
 非得	Gfei dei	5314
 非得	fei dei	5314
+非怪	Gfei Gguai	100000
 非我族类	Gfei Gngo Gcuk Glei	15
 非我族类	Gfei Gngo Gcuk Glui	15
 非我族类	Gfei Gngo Gcuk lei	15
@@ -711471,9 +711512,9 @@ use_preset_vocabulary: false
 高树	Ggau shu	23
 高树	gao Gsu	23
 高树	gao shu	23
-高校	Ggau Ggau	3824
+高校	Ggau Ghau	3824
 高校	Ggau xiao	3824
-高校	gao Ggau	3824
+高校	gao Ghau	3824
 高校	gao xiao	3824
 高根明	Ggau Ggien Gmiang	10
 高根明	Ggau Ggien Gmin	10
@@ -711939,21 +711980,21 @@ use_preset_vocabulary: false
 高等	Ggau deng	2134
 高等	gao Gden	2134
 高等	gao deng	2134
-高等学校	Ggau Gden Ghok Ggau	837
+高等学校	Ggau Gden Ghok Ghau	837
 高等学校	Ggau Gden Ghok xiao	837
-高等学校	Ggau Gden xue Ggau	837
+高等学校	Ggau Gden xue Ghau	837
 高等学校	Ggau Gden xue xiao	837
-高等学校	Ggau deng Ghok Ggau	837
+高等学校	Ggau deng Ghok Ghau	837
 高等学校	Ggau deng Ghok xiao	837
-高等学校	Ggau deng xue Ggau	837
+高等学校	Ggau deng xue Ghau	837
 高等学校	Ggau deng xue xiao	837
-高等学校	gao Gden Ghok Ggau	837
+高等学校	gao Gden Ghok Ghau	837
 高等学校	gao Gden Ghok xiao	837
-高等学校	gao Gden xue Ggau	837
+高等学校	gao Gden xue Ghau	837
 高等学校	gao Gden xue xiao	837
-高等学校	gao deng Ghok Ggau	837
+高等学校	gao deng Ghok Ghau	837
 高等学校	gao deng Ghok xiao	837
-高等学校	gao deng xue Ggau	837
+高等学校	gao deng xue Ghau	837
 高等学校	gao deng xue xiao	837
 高等教育	Ggau Gden Ggau Gniuk	1341
 高等教育	Ggau Gden Ggau Gyut	1341
@@ -712114,21 +712155,21 @@ use_preset_vocabulary: false
 高等级	gao Gden ji	59
 高等级	gao deng Gjit	59
 高等级	gao deng ji	59
-高等院校	Ggau Gden Gyuon Ggau	604
+高等院校	Ggau Gden Gyuon Ghau	604
 高等院校	Ggau Gden Gyuon xiao	604
-高等院校	Ggau Gden yuan Ggau	604
+高等院校	Ggau Gden yuan Ghau	604
 高等院校	Ggau Gden yuan xiao	604
-高等院校	Ggau deng Gyuon Ggau	604
+高等院校	Ggau deng Gyuon Ghau	604
 高等院校	Ggau deng Gyuon xiao	604
-高等院校	Ggau deng yuan Ggau	604
+高等院校	Ggau deng yuan Ghau	604
 高等院校	Ggau deng yuan xiao	604
-高等院校	gao Gden Gyuon Ggau	604
+高等院校	gao Gden Gyuon Ghau	604
 高等院校	gao Gden Gyuon xiao	604
-高等院校	gao Gden yuan Ggau	604
+高等院校	gao Gden yuan Ghau	604
 高等院校	gao Gden yuan xiao	604
-高等院校	gao deng Gyuon Ggau	604
+高等院校	gao deng Gyuon Ghau	604
 高等院校	gao deng Gyuon xiao	604
-高等院校	gao deng yuan Ggau	604
+高等院校	gao deng yuan Ghau	604
 高等院校	gao deng yuan xiao	604
 高筒	Ggau Gtung	9
 高筒	Ggau tong	9
@@ -717905,6 +717946,10 @@ use_preset_vocabulary: false
 麸皮	Gfu Gpi	16
 麻	Gma	145000
 麻丘	Gma Gqiu	11418
+麻了胆	Gma Gle Gdan	100000
+麻了胆	Gma Glieu Gdan	100000
+麻了胆	Gma le Gdan	100000
+麻了胆	ma le dan	100000
 麻光佐	Gma Gguong Gzo	141
 麻光佐	Gma Gguong zuo	141
 麻光佐	Gma guang Gzo	141
