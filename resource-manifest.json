@@ -1,14 +1,14 @@
 {
   "files": [
     {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
       "path": "default.custom.yaml",
       "sha256": "79a6827cd63cba1ba23aaf3d9e821afadc092f19ace8d45b59383a7f57e62f4c",
       "size": 53
-    },
-    {
-      "path": "default.yaml",
-      "sha256": "cb790b37bae7a37f1801f4268d57b9a07b6d45edc65321f9b0e0941ede15143b",
-      "size": 585
     },
     {
       "path": "gannyu_lancong.dict.yaml",
