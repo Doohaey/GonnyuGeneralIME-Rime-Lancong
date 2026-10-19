@@ -28198,6 +28198,7 @@ use_preset_vocabulary: false
 三自爱国	Gsan zi ai Gguêt	259
 三自爱国	Gsan zi ai guo	259
 三自爱国	san zi ai guo	259
+三船	Gsan Gcon	10
 三船	Gsan Gson	10
 三船	Gsan chuan	10
 三船	san chuan	10
@@ -31217,6 +31218,7 @@ use_preset_vocabulary: false
 上臂	Gsong Gbi	63
 上臂	shang Gbi	63
 上臂	shang bi	63
+上船	Gsong Gcon	328
 上船	Gsong Gson	328
 上船	Gsong chuan	328
 上船	shang Gson	328
@@ -32538,7 +32540,9 @@ use_preset_vocabulary: false
 下臣	Gha chen	61
 下臣	xia Gcen	61
 下臣	xia chen	61
+下船	Gga Gcon	59
 下船	Gga Gson	59
+下船	Gha Gcon	59
 下船	Gha Gson	59
 下船	Gha chuan	59
 下船	xia Gson	59
@@ -55669,6 +55673,7 @@ use_preset_vocabulary: false
 中航油	zhong Ghong you	13
 中航油	zhong hang Gyiu	13
 中航油	zhong hang you	13
+中船	Gzung Gcon	22
 中船	Gzung Gson	22
 中船	Gzung chuan	22
 中船	zhong Gson	22
@@ -60892,6 +60897,7 @@ use_preset_vocabulary: false
 乌第河	Gwu di Gho	14
 乌第河	Gwu di he	14
 乌第河	wu di he	14
+乌篷船	Gwu Gpung Gcon	24
 乌篷船	Gwu Gpung Gson	24
 乌篷船	Gwu Gpung chuan	24
 乌篷船	Gwu peng Gson	24
@@ -62233,7 +62239,9 @@ use_preset_vocabulary: false
 乘舆	Gsen Gyu	30
 乘舆	sheng Gyu	30
 乘舆	sheng yu	30
+乘船	Gcen Gcon	177
 乘船	Gcen Gson	177
+乘船	Gsen Gcon	177
 乘船	Gsen Gson	177
 乘船	Gsen chuan	177
 乘船	cheng Gson	177
@@ -76738,6 +76746,7 @@ use_preset_vocabulary: false
 交通网	jiao Gtung wang	61
 交通网	jiao tong Gwong	61
 交通网	jiao tong wang	61
+交通船	Ggau Gtung Gcon	8
 交通船	Ggau Gtung Gson	8
 交通船	Ggau Gtung chuan	8
 交通船	Ggau tong Gson	8
@@ -100785,6 +100794,7 @@ use_preset_vocabulary: false
 修脚	Gxiu Gjiok	15
 修脚	Gxiu jiao	15
 修脚	xiu jiao	15
+修船	Gxiu Gcon	25028
 修船	Gxiu Gson	25028
 修船	Gxiu chuan	25028
 修船	xiu chuan	25028
@@ -100870,6 +100880,7 @@ use_preset_vocabulary: false
 修造厂	Gxiu zao Gcong	9
 修造厂	Gxiu zao chang	9
 修造厂	xiu zao chang	9
+修造船	Gxiu Gcau Gcon	7
 修造船	Gxiu Gcau Gson	7
 修造船	Gxiu Gcau chuan	7
 修造船	Gxiu zao Gson	7
@@ -118751,7 +118762,9 @@ use_preset_vocabulary: false
 兵舰	Gbin jian	13
 兵舰	bing Ggan	13
 兵舰	bing jian	13
+兵船	Gbiang Gcon	87
 兵船	Gbiang Gson	87
+兵船	Gbin Gcon	87
 兵船	Gbin Gson	87
 兵船	Gbin chuan	87
 兵船	bing Gson	87
@@ -122878,6 +122891,7 @@ use_preset_vocabulary: false
 军舰	Gjyun jian	1173
 军舰	jun Ggan	1173
 军舰	jun jian	1173
+军船	Gjyun Gcon	8
 军船	Gjyun Gson	8
 军船	Gjyun chuan	8
 军船	jun Gson	8
@@ -134416,6 +134430,7 @@ use_preset_vocabulary: false
 划线	Gfa xian	44
 划线	hua Gxiên	44
 划线	hua xian	44
+划船	Gfa Gcon	152
 划船	Gfa Gson	152
 划船	Gfa chuan	152
 划船	hua Gson	152
@@ -157037,6 +157052,7 @@ use_preset_vocabulary: false
 升至	Gsen zhi	292
 升至	sheng Gzi	292
 升至	sheng zhi	292
+升船机	Gsen Gcon Gji	47
 升船机	Gsen Gson Gji	47
 升船机	Gsen chuan Gji	47
 升船机	sheng Gson Gji	47
@@ -176713,6 +176729,7 @@ use_preset_vocabulary: false
 古老	Ggu Glau	27695
 古老	Ggu lao	27695
 古老	gu lao	27695
+古船	Ggu Gcon	35
 古船	Ggu Gson	35
 古船	Ggu chuan	35
 古船	gu chuan	35
@@ -185754,6 +185771,7 @@ use_preset_vocabulary: false
 同舟共济	tong zhou Gkung Gji	56
 同舟共济	tong zhou gong Gji	56
 同舟共济	tong zhou gong ji	56
+同船	Gtung Gcon	19
 同船	Gtung Gson	19
 同船	Gtung chuan	19
 同船	tong Gson	19
@@ -200101,10 +200119,12 @@ use_preset_vocabulary: false
 商老太	shang Glau Gtai	50
 商老太	shang lao Gtai	50
 商老太	shang lao tai	50
+商船	Gsong Gcon	285
 商船	Gsong Gson	285
 商船	Gsong chuan	285
 商船	shang Gson	285
 商船	shang chuan	285
+商船队	Gsong Gcon Gdui	39
 商船队	Gsong Gson Gdui	39
 商船队	Gsong chuan Gdui	39
 商船队	shang Gson Gdui	39
@@ -215962,6 +215982,7 @@ use_preset_vocabulary: false
 坐而论道	zuo er Glen dao	14
 坐而论道	zuo er lun Gtau	14
 坐而论道	zuo er lun dao	14
+坐船	Gco Gcon	142
 坐船	Gco Gson	142
 坐船	Gco chuan	142
 坐船	zuo Gson	142
@@ -216355,6 +216376,7 @@ use_preset_vocabulary: false
 坚称	Gjiên cheng	29
 坚称	jian Gcen	29
 坚称	jian cheng	29
+坚船利炮	Gjiên Gcon Gli Gpau	7
 坚船利炮	Gjiên Gson Gli Gpau	7
 坚船利炮	Gjiên Gson Gli pao	7
 坚船利炮	Gjiên chuan Gli Gpau	7
@@ -234091,6 +234113,7 @@ use_preset_vocabulary: false
 大舜	Gtai shun	8
 大舜	da Gsun	8
 大舜	da shun	8
+大船	Gtai Gcon	392
 大船	Gtai Gson	392
 大船	Gtai chuan	392
 大船	da Gson	392
@@ -239511,6 +239534,7 @@ use_preset_vocabulary: false
 太空站	Gtai kong Gzan	43
 太空站	Gtai kong zhan	43
 太空站	tai kong zhan	43
+太空船	Gtai Gkung Gcon	28
 太空船	Gtai Gkung Gson	28
 太空船	Gtai Gkung chuan	28
 太空船	Gtai kong Gson	28
@@ -253952,7 +253976,9 @@ use_preset_vocabulary: false
 宇宙速度	Gyu zhou su Gtu	12
 宇宙速度	Gyu zhou su du	12
 宇宙速度	yu zhou su du	12
+宇宙飞船	Gyu Gjiu Gfui Gcon	111
 宇宙飞船	Gyu Gjiu Gfui Gson	111
+宇宙飞船	Gyu Gzêu Gfui Gcon	111
 宇宙飞船	Gyu Gzêu Gfui Gson	111
 宇宙飞船	Gyu Gzêu Gfui chuan	111
 宇宙飞船	Gyu Gzêu fei Gson	111
@@ -260349,6 +260375,7 @@ use_preset_vocabulary: false
 宝石	Gbau shi	624
 宝石	bao Gset	624
 宝石	bao shi	624
+宝船	Gbau Gcon	8
 宝船	Gbau Gson	8
 宝船	Gbau chuan	8
 宝船	bao Gson	8
@@ -262150,8 +262177,10 @@ use_preset_vocabulary: false
 客舱	Gkiêt Gcong	36
 客舱	ke Gcong	36
 客舱	ke cang	36
+客船	Gkak Gcon	56
 客船	Gkak Gson	56
 客船	Gkak chuan	56
+客船	Gkiêt Gcon	56
 客船	Gkiêt Gson	56
 客船	ke Gson	56
 客船	ke chuan	56
@@ -271263,6 +271292,7 @@ use_preset_vocabulary: false
 小舟	Gxiêu zhou	171
 小舟	xiao Gzeu	171
 小舟	xiao zhou	171
+小船	Gxiêu Gcon	612
 小船	Gxiêu Gson	612
 小船	Gxiêu chuan	612
 小船	xiao Gson	612
@@ -285544,6 +285574,7 @@ use_preset_vocabulary: false
 帆影	Gfan ying	17
 帆影	fan ying	17
 帆板	Gfan Gban	39
+帆船	Gfan Gcon	336
 帆船	Gfan Gson	336
 帆船	Gfan chuan	336
 帆船	fan chuan	336
@@ -293205,6 +293236,7 @@ use_preset_vocabulary: false
 广纳	Gguong na	8
 广纳	guang Glat	8
 广纳	guang na	8
+广船国际	Gguong Gcon Gguêt Gji	26
 广船国际	Gguong Gson Gguêt Gji	26
 广船国际	Gguong Gson guo Gji	26
 广船国际	Gguong chuan Gguêt Gji	26
@@ -298450,6 +298482,7 @@ use_preset_vocabulary: false
 开航	Gkai Ghong	39
 开航	Gkai hang	39
 开航	kai hang	39
+开船	Gkai Gcon	63
 开船	Gkai Gson	63
 开船	Gkai chuan	63
 开船	kai chuan	63
@@ -313249,6 +313282,7 @@ use_preset_vocabulary: false
 快照	Gkuai Gzêu	5778
 快照	Gkuai zhao	5778
 快照	kuai zhao	5778
+快船	Gkuai Gcon	304
 快船	Gkuai Gson	304
 快船	Gkuai chuan	304
 快船	kuai chuan	304
@@ -326920,6 +326954,7 @@ use_preset_vocabulary: false
 战舰	Gzên jian	486
 战舰	zhan Ggan	486
 战舰	zhan jian	486
+战船	Gzên Gcon	339
 战船	Gzên Gson	339
 战船	Gzên chuan	339
 战船	zhan Gson	339
@@ -333069,6 +333104,7 @@ use_preset_vocabulary: false
 承继	Gcen Gji	92
 承继	cheng Gji	92
 承继	cheng ji	92
+承船厢	Gcen Gcon Gxiong	10
 承船厢	Gcen Gson Gxiong	10
 承船厢	Gcen Gson xiang	10
 承船厢	Gcen chuan Gxiong	10
@@ -339491,6 +339527,7 @@ use_preset_vocabulary: false
 拖腔	Gto qiang	14
 拖腔	tuo Gqiong	14
 拖腔	tuo qiang	14
+拖船	Gto Gcon	39
 拖船	Gto Gson	39
 拖船	Gto chuan	39
 拖船	tuo Gson	39
@@ -342785,6 +342822,7 @@ use_preset_vocabulary: false
 挖掘机	Gwa jue Gji	37
 挖掘机	wa jue ji	37
 挖泥	Gwa Gni	9
+挖泥船	Gwa Gni Gcon	20
 挖泥船	Gwa Gni Gson	20
 挖泥船	Gwa Gni chuan	20
 挖泥船	wa ni chuan	20
@@ -344022,6 +344060,7 @@ use_preset_vocabulary: false
 捕鲸	Gpu jing	73
 捕鲸	bu Gjin	73
 捕鲸	bu jing	73
+捕鲸船	Gpu Gjin Gcon	9
 捕鲸船	Gpu Gjin Gson	9
 捕鲸船	Gpu Gjin chuan	9
 捕鲸船	Gpu jing Gson	9
@@ -349608,6 +349647,7 @@ use_preset_vocabulary: false
 摇臂	Gyêu Gbi	7
 摇臂	yao Gbi	7
 摇臂	yao bi	7
+摇船	Gyêu Gcon	20
 摇船	Gyêu Gson	20
 摇船	Gyêu chuan	20
 摇船	yao Gson	20
@@ -350276,6 +350316,7 @@ use_preset_vocabulary: false
 撑腰	Gcang yao	137
 撑腰	cheng Gyêu	137
 撑腰	cheng yao	137
+撑船	Gcang Gcon	47
 撑船	Gcang Gson	47
 撑船	Gcang chuan	47
 撑船	cheng Gson	47
@@ -355281,7 +355322,9 @@ use_preset_vocabulary: false
 救生圈	Gjiu sheng Gqyuon	24
 救生圈	Gjiu sheng quan	24
 救生圈	jiu sheng quan	24
+救生船	Gjiu Gsang Gcon	11
 救生船	Gjiu Gsang Gson	11
+救生船	Gjiu Gsên Gcon	11
 救生船	Gjiu Gsên Gson	11
 救生船	Gjiu Gsên chuan	11
 救生船	Gjiu sheng Gson	11
@@ -356970,6 +357013,7 @@ use_preset_vocabulary: false
 散货	Gsan Gfo	295
 散货	Gsan huo	295
 散货	san huo	295
+散货船	Gsan Gfo Gcon	17
 散货船	Gsan Gfo Gson	17
 散货船	Gsan Gfo chuan	17
 散货船	Gsan huo Gson	17
@@ -367662,10 +367706,12 @@ use_preset_vocabulary: false
 旅游胜地	lv you Gsen di	237
 旅游胜地	lv you sheng Gti	237
 旅游胜地	lv you sheng di	237
+旅游船	Gli Gyiu Gcon	8
 旅游船	Gli Gyiu Gson	8
 旅游船	Gli Gyiu chuan	8
 旅游船	Gli you Gson	8
 旅游船	Gli you chuan	8
+旅游船	Glyu Gyiu Gcon	8
 旅游船	Glyu Gyiu Gson	8
 旅游船	lv Gyiu Gson	8
 旅游船	lv Gyiu chuan	8
@@ -372609,6 +372655,7 @@ use_preset_vocabulary: false
 旱稻	Ghon dao	30
 旱稻	han Gtau	30
 旱稻	han dao	30
+旱船	Ghon Gcon	17
 旱船	Ghon Gson	17
 旱船	Ghon chuan	17
 旱船	han Gson	17
@@ -377857,6 +377904,7 @@ use_preset_vocabulary: false
 晕眩	Gyun Gxyuon	111
 晕眩	Gyun xuan	111
 晕眩	yun xuan	111
+晕船	Gyun Gcon	25
 晕船	Gyun Gson	25
 晕船	Gyun chuan	25
 晕船	yun chuan	25
@@ -386671,6 +386719,7 @@ use_preset_vocabulary: false
 木已成舟	mu Gyi cheng Gzeu	26
 木已成舟	mu Gyi cheng zhou	26
 木已成舟	mu yi cheng zhou	26
+木帆船	Gmuk Gfan Gcon	19
 木帆船	Gmuk Gfan Gson	19
 木帆船	Gmuk Gfan chuan	19
 木帆船	mu Gfan Gson	19
@@ -387091,6 +387140,7 @@ use_preset_vocabulary: false
 木耳	Gmuk er	199
 木耳	mu Geo	199
 木耳	mu er	199
+木船	Gmuk Gcon	152
 木船	Gmuk Gson	152
 木船	Gmuk chuan	152
 木船	mu Gson	152
@@ -389511,6 +389561,7 @@ use_preset_vocabulary: false
 机动性	Gji dong Gxin	418
 机动性	Gji dong xing	418
 机动性	ji dong xing	418
+机动船	Gji Gtung Gcon	35
 机动船	Gji Gtung Gson	35
 机动船	Gji Gtung chuan	35
 机动船	Gji dong Gson	35
@@ -389598,6 +389649,7 @@ use_preset_vocabulary: false
 机巧	Gji Gqiêu	65
 机巧	Gji qiao	65
 机巧	ji qiao	65
+机帆船	Gji Gfan Gcon	12
 机帆船	Gji Gfan Gson	12
 机帆船	Gji Gfan chuan	12
 机帆船	ji fan chuan	12
@@ -390666,6 +390718,7 @@ use_preset_vocabulary: false
 杂货店	za Gfo dian	46
 杂货店	za huo Gdiên	46
 杂货店	za huo dian	46
+杂货船	Gcat Gfo Gcon	16
 杂货船	Gcat Gfo Gson	16
 杂货船	Gcat Gfo chuan	16
 杂货船	Gcat huo Gson	16
@@ -407733,6 +407786,7 @@ use_preset_vocabulary: false
 楼群	Glêu qun	28
 楼群	lou Gqyun	28
 楼群	lou qun	28
+楼船	Glêu Gcon	26
 楼船	Glêu Gson	26
 楼船	Glêu chuan	26
 楼船	lou Gson	26
@@ -419792,6 +419846,7 @@ use_preset_vocabulary: false
 民航机	Gmin Ghong Gji	9
 民航机	Gmin hang Gji	9
 民航机	min hang ji	9
+民船	Gmin Gcon	23
 民船	Gmin Gson	23
 民船	Gmin chuan	23
 民船	min chuan	23
@@ -420097,6 +420152,7 @@ use_preset_vocabulary: false
 气垫	Gqi Gtiên	57
 气垫	Gqi dian	57
 气垫	qi dian	57
+气垫船	Gqi Gtiên Gcon	49
 气垫船	Gqi Gtiên Gson	49
 气垫船	Gqi Gtiên chuan	49
 气垫船	Gqi dian Gson	49
@@ -422078,6 +422134,7 @@ use_preset_vocabulary: false
 水泥板	Gsui Gni Gban	16
 水泥板	shui Gni Gban	16
 水泥板	shui ni ban	16
+水泥船	Gsui Gni Gcon	13
 水泥船	Gsui Gni Gson	13
 水泥船	Gsui Gni chuan	13
 水泥船	shui Gni Gson	13
@@ -422171,6 +422228,7 @@ use_preset_vocabulary: false
 水涝	Gsui lao	11
 水涝	shui Glau	11
 水涝	shui lao	11
+水涨船高	Gsui Gzong Gcon Ggau	68
 水涨船高	Gsui Gzong Gson Ggau	68
 水涨船高	Gsui Gzong Gson gao	68
 水涨船高	Gsui Gzong chuan Ggau	68
@@ -422661,6 +422719,7 @@ use_preset_vocabulary: false
 水翼	Gsui yi	23
 水翼	shui Gyêt	23
 水翼	shui yi	23
+水翼船	Gsui Gyêt Gcon	24
 水翼船	Gsui Gyêt Gson	24
 水翼船	Gsui Gyêt chuan	24
 水翼船	Gsui yi Gson	24
@@ -425099,6 +425158,7 @@ use_preset_vocabulary: false
 江南运河	jiang nan Gyun Gho	40
 江南运河	jiang nan Gyun he	40
 江南运河	jiang nan yun he	40
+江南造船厂	Ggong Glan Gcau Gcon Gcong	9
 江南造船厂	Ggong Glan Gcau Gson Gcong	9
 江南造船厂	Ggong Glan Gcau Gson chang	9
 江南造船厂	Ggong Glan Gcau chuan Gcong	9
@@ -426924,6 +426984,7 @@ use_preset_vocabulary: false
 汽缸	Gqi Ggong	30
 汽缸	Gqi gang	30
 汽缸	qi gang	30
+汽船	Gqi Gcon	51
 汽船	Gqi Gson	51
 汽船	Gqi chuan	51
 汽船	qi chuan	51
@@ -428010,6 +428071,7 @@ use_preset_vocabulary: false
 沉箱	Gcen xiang	8
 沉箱	chen Gxiong	8
 沉箱	chen xiang	8
+沉船	Gcen Gcon	259
 沉船	Gcen Gson	259
 沉船	Gcen chuan	259
 沉船	chen Gson	259
@@ -428823,6 +428885,7 @@ use_preset_vocabulary: false
 沙老大	sha Glau da	8
 沙老大	sha lao Gtai	8
 沙老大	sha lao da	8
+沙船	Gsa Gcon	22
 沙船	Gsa Gson	22
 沙船	Gsa chuan	22
 沙船	sha Gson	22
@@ -430976,6 +431039,7 @@ use_preset_vocabulary: false
 油膜	Gyiu mo	25
 油膜	you Gmok	25
 油膜	you mo	25
+油船	Gyiu Gcon	66
 油船	Gyiu Gson	66
 油船	Gyiu chuan	66
 油船	you Gson	66
@@ -438274,6 +438338,7 @@ use_preset_vocabulary: false
 测量学	ce Gliong xue	89
 测量学	ce liang Ghok	89
 测量学	ce liang xue	89
+测量船	Gcêt Gliong Gcon	55
 测量船	Gcêt Gliong Gson	55
 测量船	Gcêt Gliong chuan	55
 测量船	Gcêt liang Gson	55
@@ -439670,8 +439735,10 @@ use_preset_vocabulary: false
 浮肿	Gpau Gzung	415
 浮肿	fu Gzung	415
 浮肿	fu zhong	415
+浮船坞	Gfêu Gcon Gwu	9
 浮船坞	Gfêu Gson Gwu	9
 浮船坞	Gfêu chuan Gwu	9
+浮船坞	Gpau Gcon Gwu	9
 浮船坞	Gpau Gson Gwu	9
 浮船坞	fu Gson Gwu	9
 浮船坞	fu chuan Gwu	9
@@ -440485,6 +440552,7 @@ use_preset_vocabulary: false
 海柯尔	Ghai ke er	7
 海柯尔	hai ke er	7
 海柳	Ghai Gliu	17
+海柳船	Ghai Gliu Gcon	12
 海柳船	Ghai Gliu Gson	12
 海柳船	Ghai Gliu chuan	12
 海柳船	hai liu chuan	12
@@ -440790,6 +440858,7 @@ use_preset_vocabulary: false
 海盗号	Ghai dao Ghau	7
 海盗号	Ghai dao hao	7
 海盗号	hai dao hao	7
+海盗船	Ghai Gtau Gcon	15
 海盗船	Ghai Gtau Gson	15
 海盗船	Ghai Gtau chuan	15
 海盗船	Ghai dao Gson	15
@@ -440886,6 +440955,7 @@ use_preset_vocabulary: false
 海航	Ghai Ghong	90
 海航	Ghai hang	90
 海航	hai hang	90
+海船	Ghai Gcon	129
 海船	Ghai Gson	129
 海船	Ghai chuan	129
 海船	hai chuan	129
@@ -446327,6 +446397,7 @@ use_preset_vocabulary: false
 渔舟	Gniê zhou	30
 渔舟	yu Gzeu	30
 渔舟	yu zhou	30
+渔船	Gniê Gcon	267
 渔船	Gniê Gson	267
 渔船	Gniê chuan	267
 渔船	yu Gson	267
@@ -446540,6 +446611,7 @@ use_preset_vocabulary: false
 渡海	Gtu Ghai	113
 渡海	du Ghai	113
 渡海	du hai	113
+渡船	Gtu Gcon	91
 渡船	Gtu Gson	91
 渡船	Gtu chuan	91
 渡船	du Gson	91
@@ -447966,6 +448038,7 @@ use_preset_vocabulary: false
 游者	Gyiu zhe	15
 游者	you Gza	15
 游者	you zhe	15
+游船	Gyiu Gcon	154
 游船	Gyiu Gson	154
 游船	Gyiu chuan	154
 游船	you Gson	154
@@ -450388,6 +450461,7 @@ use_preset_vocabulary: false
 滚装	Ggun Gzong	10
 滚装	Ggun zhuang	10
 滚装	gun zhuang	10
+滚装船	Ggun Gzong Gcon	20
 滚装船	Ggun Gzong Gson	20
 滚装船	Ggun Gzong chuan	20
 滚装船	Ggun zhuang Gson	20
@@ -455095,8 +455169,10 @@ use_preset_vocabulary: false
 火轮	Gfo lun	36
 火轮	huo Glen	36
 火轮	huo lun	36
+火轮船	Gfo Glen Gcon	10
 火轮船	Gfo Glen Gson	10
 火轮船	Gfo Glen chuan	10
+火轮船	Gfo Glun Gcon	10
 火轮船	Gfo Glun Gson	10
 火轮船	Gfo lun Gson	10
 火轮船	Gfo lun chuan	10
@@ -486160,6 +486236,7 @@ use_preset_vocabulary: false
 画舫	Gfa fang	23
 画舫	hua Gbong	23
 画舫	hua fang	23
+画船	Gfa Gcon	8
 画船	Gfa Gson	8
 画船	Gfa chuan	8
 画船	hua Gson	8
@@ -507628,6 +507705,7 @@ use_preset_vocabulary: false
 破冰	Gpo Gbin	57
 破冰	Gpo bing	57
 破冰	po bing	57
+破冰船	Gpo Gbin Gcon	51
 破冰船	Gpo Gbin Gson	51
 破冰船	Gpo Gbin chuan	51
 破冰船	Gpo bing Gson	51
@@ -507792,6 +507870,7 @@ use_preset_vocabulary: false
 破脸	Gpo Gliên	20
 破脸	Gpo lian	20
 破脸	po lian	20
+破船	Gpo Gcon	30
 破船	Gpo Gson	30
 破船	Gpo chuan	30
 破船	po chuan	30
@@ -517562,6 +517641,7 @@ use_preset_vocabulary: false
 租给	Gzu Gjit	55
 租给	Gzu gei	55
 租给	zu gei	55
+租船	Gzu Gcon	18
 租船	Gzu Gson	18
 租船	Gzu chuan	18
 租船	zu chuan	18
@@ -560268,6 +560348,7 @@ use_preset_vocabulary: false
 翻腾	Gfan Gtên	208
 翻腾	Gfan teng	208
 翻腾	fan teng	208
+翻船	Gfan Gcon	59
 翻船	Gfan Gson	59
 翻船	Gfan chuan	59
 翻船	fan chuan	59
@@ -562584,6 +562665,7 @@ use_preset_vocabulary: false
 考察者	kao Gcat zhe	8
 考察者	kao cha Gza	8
 考察者	kao cha zhe	8
+考察船	Gkau Gcat Gcon	23
 考察船	Gkau Gcat Gson	23
 考察船	Gkau Gcat chuan	23
 考察船	Gkau cha Gson	23
@@ -572715,7 +572797,9 @@ use_preset_vocabulary: false
 脚踏	Gjiok ta	245
 脚踏	jiao Gtat	245
 脚踏	jiao ta	245
+脚踏两只船	Gjiok Gtat Gliong Gzet Gcon	12
 脚踏两只船	Gjiok Gtat Gliong Gzet Gson	12
+脚踏两只船	Gjiok Gtat Gliong Gzik Gcon	12
 脚踏两只船	Gjiok Gtat Gliong Gzik Gson	12
 脚踏两只船	Gjiok Gtat Gliong Gzik chuan	12
 脚踏两只船	Gjiok Gtat Gliong zhi Gson	12
@@ -579622,6 +579706,7 @@ use_preset_vocabulary: false
 航线	Ghong xian	2882
 航线	hang Gxiên	2882
 航线	hang xian	2882
+航船	Ghong Gcon	69
 航船	Ghong Gson	69
 航船	Ghong chuan	69
 航船	hang Gson	69
@@ -579711,6 +579796,7 @@ use_preset_vocabulary: false
 舰种	Ggan zhong	21
 舰种	jian Gzung	21
 舰种	jian zhong	21
+舰船	Ggan Gcon	536
 舰船	Ggan Gson	536
 舰船	Ggan chuan	536
 舰船	jian Gson	536
@@ -579838,54 +579924,70 @@ use_preset_vocabulary: false
 船	Gcon	30000
 船	Gson	30000
 船	chuan	30000
+船上	Gcon Gsong	1357
 船上	Gson Gsong	1357
 船上	Gson shang	1357
 船上	chuan Gsong	1357
 船上	chuan shang	1357
+船东	Gcon Gdung	9
 船东	Gson Gdung	9
 船东	Gson dong	9
 船东	chuan Gdung	9
 船东	chuan dong	9
+船主	Gcon Gjyu	41
+船主	Gcon Gzu	41
 船主	Gson Gjyu	41
 船主	Gson Gzu	41
 船主	Gson zhu	41
 船主	chuan Gzu	41
 船主	chuan zhu	41
+船位	Gcon Gwi	18
 船位	Gson Gwi	18
 船位	Gson wei	18
 船位	chuan Gwi	18
 船位	chuan wei	18
+船体	Gcon Gti	254
 船体	Gson Gti	254
 船体	chuan Gti	254
 船体	chuan ti	254
+船儿	Gcon Geo	41
 船儿	Gson Geo	41
 船儿	Gson er	41
 船儿	chuan Geo	41
 船儿	chuan er	41
+船务	Gcon Gwu	7
 船务	Gson Gwu	7
 船务	chuan Gwu	7
 船务	chuan wu	7
+船厂	Gcon Gcong	186
 船厂	Gson Gcong	186
 船厂	Gson chang	186
 船厂	chuan Gcong	186
 船厂	chuan chang	186
+船只	Gcon Gzet	26140
+船只	Gcon Gzik	26140
 船只	Gson Gzet	26140
 船只	Gson Gzik	26140
 船只	Gson zhi	26140
 船只	chuan Gzik	26140
 船只	chuan zhi	26140
+船台	Gcon Gtai	35
 船台	Gson Gtai	35
 船台	chuan Gtai	35
 船台	chuan tai	35
+船名	Gcon Gmiang	9
+船名	Gcon Gmin	9
 船名	Gson Gmiang	9
 船名	Gson Gmin	9
 船名	Gson ming	9
 船名	chuan Gmiang	9
 船名	chuan ming	9
+船员	Gcon Gyuon	165
 船员	Gson Gyuon	165
 船员	Gson yuan	165
 船员	chuan Gyuon	165
 船员	chuan yuan	165
+船坚炮利	Gcon Gjiên Gpau Gli	20
 船坚炮利	Gson Gjiên Gpau Gli	20
 船坚炮利	Gson Gjiên pao Gli	20
 船坚炮利	Gson jian Gpau Gli	20
@@ -579895,93 +579997,118 @@ use_preset_vocabulary: false
 船坚炮利	chuan jian Gpau Gli	20
 船坚炮利	chuan jian pao Gli	20
 船坚炮利	chuan jian pao li	20
+船坞	Gcon Gwu	187
 船坞	Gson Gwu	187
 船坞	chuan Gwu	187
 船坞	chuan wu	187
+船型	Gcon Gxin	33
 船型	Gson Gxin	33
 船型	Gson xing	33
 船型	chuan Gxin	33
 船型	chuan xing	33
+船夫	Gcon Gfu	115
 船夫	Gson Gfu	115
 船夫	chuan Gfu	115
 船夫	chuan fu	115
+船头	Gcon Gtêu	533
 船头	Gson Gtêu	533
 船头	Gson tou	533
 船头	chuan Gtêu	533
 船头	chuan tou	533
+船家	Gcon Gga	129
 船家	Gson Gga	129
 船家	Gson jia	129
 船家	chuan Gga	129
 船家	chuan jia	129
+船尾	Gcon Gmi	125
+船尾	Gcon Gwi	125
 船尾	Gson Gmi	125
 船尾	Gson Gwi	125
 船尾	Gson wei	125
 船尾	chuan Gwi	125
 船尾	chuan wei	125
+船山	Gcon Gsan	21
 船山	Gson Gsan	21
 船山	Gson shan	21
 船山	chuan Gsan	21
 船山	chuan shan	21
+船工	Gcon Ggung	31
 船工	Gson Ggung	31
 船工	Gson gong	31
 船工	chuan Ggung	31
 船工	chuan gong	31
+船帆	Gcon Gfan	39
 船帆	Gson Gfan	39
 船帆	chuan Gfan	39
 船帆	chuan fan	39
+船帮	Gcon Gbong	16
 船帮	Gson Gbong	16
 船帮	Gson bang	16
 船帮	chuan Gbong	16
 船帮	chuan bang	16
+船底	Gcon Gdi	64
 船底	Gson Gdi	64
 船底	chuan Gdi	64
 船底	chuan di	64
+船形	Gcon Gxin	36
 船形	Gson Gxin	36
 船形	Gson xing	36
 船形	chuan Gxin	36
 船形	chuan xing	36
+船户	Gcon Gfu	17
 船户	Gson Gfu	17
 船户	Gson hu	17
 船户	chuan Gfu	17
 船户	chuan hu	17
+船政	Gcon Gzen	34
 船政	Gson Gzen	34
 船政	Gson zheng	34
 船政	chuan Gzen	34
 船政	chuan zheng	34
+船旗国	Gcon Gqi Gguêt	12
 船旗国	Gson Gqi Gguêt	12
 船旗国	Gson Gqi guo	12
 船旗国	chuan Gqi Gguêt	12
 船旗国	chuan Gqi guo	12
 船旗国	chuan qi guo	12
+船期	Gcon Gqi	7
 船期	Gson Gqi	7
 船期	chuan Gqi	7
 船期	chuan qi	7
+船板	Gcon Gban	76
 船板	Gson Gban	76
 船板	chuan Gban	76
 船板	chuan ban	76
+船桅	Gcon Gwi	15
 船桅	Gson Gwi	15
 船桅	Gson wei	15
 船桅	chuan Gwi	15
 船桅	chuan wei	15
+船桨	Gcon Gjiong	24
 船桨	Gson Gjiong	24
 船桨	Gson jiang	24
 船桨	chuan Gjiong	24
 船桨	chuan jiang	24
+船民	Gcon Gmin	10
 船民	Gson Gmin	10
 船民	chuan Gmin	10
 船民	chuan min	10
+船用	Gcon Gyung	42
 船用	Gson Gyung	42
 船用	Gson yong	42
 船用	chuan Gyung	42
 船用	chuan yong	42
+船票	Gcon Gpiêu	45
 船票	Gson Gpiêu	45
 船票	Gson piao	45
 船票	chuan Gpiêu	45
 船票	chuan piao	45
+船篷	Gcon Gpung	47
 船篷	Gson Gpung	47
 船篷	Gson peng	47
 船篷	chuan Gpung	47
 船篷	chuan peng	47
+船级社	Gcon Gjit Gsa	17
 船级社	Gson Gjit Gsa	17
 船级社	Gson Gjit she	17
 船级社	Gson ji Gsa	17
@@ -579990,6 +580117,7 @@ use_preset_vocabulary: false
 船级社	chuan Gjit she	17
 船级社	chuan ji Gsa	17
 船级社	chuan ji she	17
+船老大	Gcon Glau Gtai	119
 船老大	Gson Glau Gtai	119
 船老大	Gson Glau da	119
 船老大	Gson lao Gtai	119
@@ -579998,41 +580126,52 @@ use_preset_vocabulary: false
 船老大	chuan Glau da	119
 船老大	chuan lao Gtai	119
 船老大	chuan lao da	119
+船舱	Gcon Gcong	291
 船舱	Gson Gcong	291
 船舱	Gson cang	291
 船舱	chuan Gcong	291
 船舱	chuan cang	291
+船舵	Gcon Gto	9
 船舵	Gson Gto	9
 船舵	Gson duo	9
 船舵	chuan Gto	9
 船舵	chuan duo	9
+船舶	Gcon Gpêt	1793
 船舶	Gson Gpêt	1793
 船舶	Gson bo	1793
 船舶	chuan Gpêt	1793
 船舶	chuan bo	1793
+船舷	Gcon Gxiên	102
 船舷	Gson Gxiên	102
 船舷	Gson xian	102
 船舷	chuan Gxiên	102
 船舷	chuan xian	102
+船艇	Gcon Gtin	76
 船艇	Gson Gtin	76
 船艇	Gson ting	76
 船艇	chuan Gtin	76
 船艇	chuan ting	76
+船身	Gcon Gsen	185
 船身	Gson Gsen	185
 船身	Gson shen	185
 船身	chuan Gsen	185
 船身	chuan shen	185
+船运	Gcon Gyun	73
 船运	Gson Gyun	73
 船运	chuan Gyun	73
 船运	chuan yun	73
+船速	Gcon Gsuk	18
 船速	Gson Gsuk	18
 船速	Gson su	18
 船速	chuan Gsuk	18
 船速	chuan su	18
+船长	Gcon Gzong	26379
 船长	Gson Gzong	26379
 船长	Gson zhang	26379
 船长	chuan Gzong	26379
 船长	chuan zhang	26379
+船长室	Gcon Gzong Gset	24
+船长室	Gcon Gzong Gsik	24
 船长室	Gson Gzong Gset	24
 船长室	Gson Gzong Gsik	24
 船长室	Gson Gzong shi	24
@@ -580042,13 +580181,17 @@ use_preset_vocabulary: false
 船长室	chuan Gzong shi	24
 船长室	chuan zhang Gset	24
 船长室	chuan zhang shi	24
+船闸	Gcon Gzat	135
 船闸	Gson Gzat	135
 船闸	Gson zha	135
 船闸	chuan Gzat	135
 船闸	chuan zha	135
+船队	Gcon Gdui	5431
 船队	Gson Gdui	5431
 船队	chuan Gdui	5431
 船队	chuan dui	5431
+船首	Gcon Gseu	30
+船首	Gcon Gxiu	30
 船首	Gson Gseu	30
 船首	Gson Gxiu	30
 船首	Gson shou	30
@@ -588466,6 +588609,8 @@ use_preset_vocabulary: false
 草编	Gcau bian	30
 草编	cao Gbiên	30
 草编	cao bian	30
+草船借箭	Gcau Gcon Gjia Gjiên	7
+草船借箭	Gcau Gcon Gqia Gjiên	7
 草船借箭	Gcau Gson Gjia Gjiên	7
 草船借箭	Gcau Gson Gjia jian	7
 草船借箭	Gcau Gson Gqia Gjiên	7
@@ -602651,7 +602796,9 @@ use_preset_vocabulary: false
 行舟	Gxin zhou	15
 行舟	xing Gzeu	15
 行舟	xing zhou	15
+行船	Ghên Gcon	63
 行船	Ghên Gson	63
+行船	Gxin Gcon	63
 行船	Gxin Gson	63
 行船	Gxin chuan	63
 行船	xing Gson	63
@@ -603598,7 +603745,9 @@ use_preset_vocabulary: false
 补给舰	Gbu ji Ggan	22
 补给舰	Gbu ji jian	22
 补给舰	bu ji jian	22
+补给船	Gbu Ggêi Gcon	34
 补给船	Gbu Ggêi Gson	34
+补给船	Gbu Gjit Gcon	34
 补给船	Gbu Gjit Gson	34
 补给船	Gbu Gjit chuan	34
 补给船	Gbu ji Gson	34
@@ -605846,6 +605995,7 @@ use_preset_vocabulary: false
 装腔作势	zhuang qiang Gzok shi	50089
 装腔作势	zhuang qiang zuo Gsi	50089
 装腔作势	zhuang qiang zuo shi	50089
+装船	Gzong Gcon	31
 装船	Gzong Gson	31
 装船	Gzong chuan	31
 装船	zhuang Gson	31
@@ -627417,6 +627567,7 @@ use_preset_vocabulary: false
 货舱	Gfo cang	168
 货舱	huo Gcong	168
 货舱	huo cang	168
+货船	Gfo Gcon	65
 货船	Gfo Gson	65
 货船	Gfo chuan	65
 货船	huo Gson	65
@@ -629542,6 +629693,7 @@ use_preset_vocabulary: false
 贼窝	Gcêt Gwo	11
 贼窝	zei Gwo	11
 贼窝	zei wo	11
+贼船	Gcêt Gcon	16
 贼船	Gcêt Gson	16
 贼船	Gcêt chuan	16
 贼船	zei Gson	16
@@ -632302,6 +632454,7 @@ use_preset_vocabulary: false
 走私罪	zou Gsi Gcui	8
 走私罪	zou Gsi zui	8
 走私罪	zou si zui	8
+走私船	Gzêu Gsi Gcon	10
 走私船	Gzêu Gsi Gson	10
 走私船	Gzêu Gsi chuan	10
 走私船	zou Gsi Gson	10
@@ -633223,6 +633376,7 @@ use_preset_vocabulary: false
 起重机	Gqi Gcung Gji	78
 起重机	Gqi zhong Gji	78
 起重机	qi zhong ji	78
+起重船	Gqi Gcung Gcon	8
 起重船	Gqi Gcung Gson	8
 起重船	Gqi Gcung chuan	8
 起重船	Gqi zhong Gson	8
@@ -637820,6 +637974,7 @@ use_preset_vocabulary: false
 车臣	Gca chen	129
 车臣	che Gcen	129
 车臣	che chen	129
+车船	Gca Gcon	48
 车船	Gca Gson	48
 车船	Gca chuan	48
 车船	che Gson	48
@@ -639067,8 +639222,10 @@ use_preset_vocabulary: false
 轮舞	Glun Gwu	9
 轮舞	lun Gwu	9
 轮舞	lun wu	9
+轮船	Glen Gcon	679
 轮船	Glen Gson	679
 轮船	Glen chuan	679
+轮船	Glun Gcon	679
 轮船	Glun Gson	679
 轮船	lun Gson	679
 轮船	lun chuan	679
@@ -640634,6 +640791,7 @@ use_preset_vocabulary: false
 载量	Gzai Gliong	14
 载量	Gzai liang	14
 载量	zai liang	14
+载驳船	Gzai Gbok Gcon	15
 载驳船	Gzai Gbok Gson	15
 载驳船	Gzai Gbok chuan	15
 载驳船	Gzai bo Gson	15
@@ -644635,8 +644793,10 @@ use_preset_vocabulary: false
 运输舰	Gyun shu Ggan	52
 运输舰	Gyun shu jian	52
 运输舰	yun shu jian	52
+运输船	Gyun Gsu Gcon	53
 运输船	Gyun Gsu Gson	53
 运输船	Gyun Gsu chuan	53
+运输船	Gyun Gxyu Gcon	53
 运输船	Gyun Gxyu Gson	53
 运输船	Gyun shu Gson	53
 运输船	Gyun shu chuan	53
@@ -646537,6 +646697,7 @@ use_preset_vocabulary: false
 远洋渔业	yuan yang Gniê ye	11
 远洋渔业	yuan yang yu Gniêt	11
 远洋渔业	yuan yang yu ye	11
+远洋船	Gyuon Gyong Gcon	15
 远洋船	Gyuon Gyong Gson	15
 远洋船	Gyuon Gyong chuan	15
 远洋船	Gyuon yang Gson	15
@@ -652058,10 +652219,13 @@ use_preset_vocabulary: false
 造纸机	zao Gzi Gji	16
 造纸机	zao zhi Gji	16
 造纸机	zao zhi ji	16
+造船	Gcau Gcon	668
 造船	Gcau Gson	668
 造船	Gcau chuan	668
 造船	zao Gson	668
 造船	zao chuan	668
+造船业	Gcau Gcon Gniêt	79
+造船业	Gcau Gcon Gyêt	79
 造船业	Gcau Gson Gniêt	79
 造船业	Gcau Gson Gyêt	79
 造船业	Gcau Gson ye	79
@@ -652071,6 +652235,7 @@ use_preset_vocabulary: false
 造船业	zao Gson ye	79
 造船业	zao chuan Gniêt	79
 造船业	zao chuan ye	79
+造船厂	Gcau Gcon Gcong	210
 造船厂	Gcau Gson Gcong	210
 造船厂	Gcau Gson chang	210
 造船厂	Gcau chuan Gcong	210
@@ -655706,6 +655871,7 @@ use_preset_vocabulary: false
 邮编	Gyiu bian	377
 邮编	you Gbiên	377
 邮编	you bian	377
+邮船	Gyiu Gcon	13
 邮船	Gyiu Gson	13
 邮船	Gyiu chuan	13
 邮船	you Gson	13
@@ -687926,6 +688092,7 @@ use_preset_vocabulary: false
 集装箱	ji Gzong xiang	411
 集装箱	ji zhuang Gxiong	411
 集装箱	ji zhuang xiang	411
+集装箱船	Gjit Gzong Gxiong Gcon	34
 集装箱船	Gjit Gzong Gxiong Gson	34
 集装箱船	Gjit Gzong Gxiong chuan	34
 集装箱船	Gjit Gzong xiang Gson	34
@@ -687934,6 +688101,7 @@ use_preset_vocabulary: false
 集装箱船	Gjit zhuang Gxiong chuan	34
 集装箱船	Gjit zhuang xiang Gson	34
 集装箱船	Gjit zhuang xiang chuan	34
+集装箱船	Gqit Gzong Gxiong Gcon	34
 集装箱船	Gqit Gzong Gxiong Gson	34
 集装箱船	ji Gzong Gxiong Gson	34
 集装箱船	ji Gzong Gxiong chuan	34
@@ -701660,6 +701828,7 @@ use_preset_vocabulary: false
 飞航	Gfui hang	13
 飞航	fei Ghong	13
 飞航	fei hang	13
+飞船	Gfui Gcon	382
 飞船	Gfui Gson	382
 飞船	Gfui chuan	382
 飞船	fei Gson	382
@@ -707634,6 +707803,7 @@ use_preset_vocabulary: false
 驳杂	Gbok za	27
 驳杂	bo Gcat	27
 驳杂	bo za	27
+驳船	Gbok Gcon	73
 驳船	Gbok Gson	73
 驳船	Gbok chuan	73
 驳船	bo Gson	73
@@ -724102,6 +724272,7 @@ use_preset_vocabulary: false
 龙舟	Glung zhou	230
 龙舟	long Gzeu	230
 龙舟	long zhou	230
+龙船	Glung Gcon	25287
 龙船	Glung Gson	25287
 龙船	Glung chuan	25287
 龙船	long Gson	25287
