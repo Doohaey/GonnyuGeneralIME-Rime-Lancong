@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong
-version: "1.2.2"
+version: "1.2.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -193536,10 +193536,10 @@ use_preset_vocabulary: false
 咀嚼	Gjyu jue	337
 咀嚼	ju Gqiok	337
 咀嚼	ju jue	337
-咁	Ggon	174513
+咁	Ggong	174513
 咁	gan	174513
-咁样	Ggon Gyong	100000
-咁样	Ggon yang	100000
+咁样	Ggong Gyong	100000
+咁样	Ggong yang	100000
 咁样	gan Gyong	100000
 咁样	gan yang	100000
 咂	Gzat	5626
@@ -376033,10 +376033,10 @@ use_preset_vocabulary: false
 星夜	Gxin ye	297
 星夜	xing Gya	297
 星夜	xing ye	297
-星子	Gxiang Gzi	109
-星子	Gxin Gzi	109
-星子	xing Gzi	109
-星子	xing zi	109
+星子	Gxiang Gzi	100000
+星子	Gxin Gzi	100000
+星子	xing Gzi	100000
+星子	xing zi	100000
 星子过位	Gxiang Gzi Gguo Gwi	100000
 星子过位	Gxiang Gzi Gguo wei	100000
 星子过位	Gxin Gzi Gguo Gwi	100000
@@ -446521,6 +446521,10 @@ use_preset_vocabulary: false
 渠	Gqiê	200000
 渠	Gqyu	200000
 渠	qu	200000
+渠们	Gjiê Gmen	200000
+渠们	Gqiê Gmen	200000
+渠们	qu Gmen	200000
+渠们	qu men	200000
 渠化	Gjiê Gfa	16
 渠化	Gqiê Gfa	16
 渠化	Gqiê hua	16
@@ -534647,6 +534651,9 @@ use_preset_vocabulary: false
 筝	zheng	109332
 筟	Gfu	4181
 筠	Gyun	77631
+筠阳	Gyun Gyong	100000
+筠阳	Gyun yang	100000
+筠阳	yun yang	100000
 筡	Gqyu	5398
 筡	Gtu	4065
 筡	tu	5398
