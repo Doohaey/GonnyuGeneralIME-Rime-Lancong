@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong_both_norel
-version: "1.2.4"
+version: "1.2.5"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -165602,6 +165602,12 @@ use_preset_vocabulary: false
 去世	Wqiê Gxi	1590
 去世	qu Gxi	1590
 去世	qu shi	1590
+去了归	Gqiê Gle Ggui	100000
+去了归	Gqiê Gliêu Ggui	100000
+去了归	Wqyu Gle Ggui	100000
+去了归	Wqyu Gliêu Ggui	100000
+去了归	qu Gle Ggui	100000
+去了归	qu le gui	100000
 去了货	Gqiê Gle Gfo	125000
 去了货	Gqiê Gliêu Gfo	125000
 去了货	Gqiê Gliêu huo	125000
@@ -165690,6 +165696,10 @@ use_preset_vocabulary: false
 去年末	qu Gniên mo	8
 去年末	qu nian Gmot	8
 去年末	qu nian mo	8
+去归	Gqiê Ggui	100000
+去归	Wqyu Ggui	100000
+去归	qu Ggui	100000
+去归	qu gui	100000
 去往	Gqiê Gwong	56
 去往	Gqiê wang	56
 去往	Wqyu Gwong	56
@@ -297472,6 +297482,10 @@ use_preset_vocabulary: false
 强奸罪	qiang Ggan zui	26
 强奸罪	qiang jian Gcui	26
 强奸罪	qiang jian zui	26
+强妄	Gqiong Gwong	78549
+强妄	Gqiong wang	78549
+强妄	qiang Gwong	78549
+强妄	qiang wang	78549
 强子	Gqiong Gzi	55
 强子	qiang Gzi	55
 强子	qiang zi	55
@@ -323807,9 +323821,6 @@ use_preset_vocabulary: false
 打擂台	Gda lei Gtai	9
 打擂台	da lei tai	9
 打散	Gda Gsan	49
-打斗	Gda Gdêu	100
-打斗	Gda dou	100
-打斗	da dou	100
 打断	Gda Gton	5916
 打断	Gda duan	5916
 打断	da duan	5916
@@ -355030,6 +355041,9 @@ use_preset_vocabulary: false
 斗志昂扬	dou zhi Gngong yang	28
 斗志昂扬	dou zhi ang Gyong	28
 斗志昂扬	dou zhi ang yang	28
+斗打	Gdêu Gda	100000
+斗打	dou Gda	100000
+斗打	dou da	100000
 斗拱	Gdêu Ggung	398
 斗拱	Gdêu gong	398
 斗拱	dou Ggung	398
@@ -383417,6 +383431,9 @@ use_preset_vocabulary: false
 李公子	Gli Ggung Gzi	194
 李公子	Gli gong Gzi	194
 李公子	li gong zi	194
+李冰	Gli Gbin	48
+李冰	Gli bing	48
+李冰	li bing	48
 李叔同	Gli Gsuk Gtung	24
 李叔同	Gli Gsuk tong	24
 李叔同	Gli shu Gtung	24
@@ -383504,6 +383521,9 @@ use_preset_vocabulary: false
 李娘娘	Gli niang Gniong	8
 李娘娘	Gli niang niang	8
 李娘娘	li niang niang	8
+李娜	Gli Gla	438
+李娜	Gli na	438
+李娜	li na	438
 李媚姐	Gli Gmi Gjia	8
 李媚姐	Gli Gmi jie	8
 李媚姐	Gli mei Gjia	8
@@ -383631,6 +383651,9 @@ use_preset_vocabulary: false
 李文忠	Gli wen zhong	90
 李文忠	li wen zhong	90
 李斯	Gli Gsi	72
+李斯特	Gli Gsi Gtêt	41
+李斯特	Gli Gsi te	41
+李斯特	li si te	41
 李时珍	Gli Gsi Gzen	349
 李时珍	Gli Gsi zhen	349
 李时珍	Gli Gxi Gzen	349
@@ -383709,6 +383732,9 @@ use_preset_vocabulary: false
 李烈钧	Gli lie Gjyun	23
 李烈钧	Gli lie jun	23
 李烈钧	li lie jun	23
+李煜	Gli Gyit	71
+李煜	Gli yu	71
+李煜	li yu	71
 李瑞环	Gli Glui Gfan	244
 李瑞环	Gli Glui Gwan	244
 李瑞环	Gli Gsui Gfan	244
@@ -493884,6 +493910,10 @@ use_preset_vocabulary: false
 着色剂	zhuo Gsêt ji	77
 着色剂	zhuo se Gqi	77
 着色剂	zhuo se ji	77
+着落	Gzok Glok	150
+着落	Gzok luo	150
+着落	zhuo Glok	150
+着落	zhuo luo	150
 着装	Gzok Gzong	159
 着装	Gzok zhuang	159
 着装	zhuo Gzong	159
@@ -589255,10 +589285,6 @@ use_preset_vocabulary: false
 蛮干	Gman Ggon	57
 蛮干	Gman gan	57
 蛮干	man gan	57
-蛮横	Gman Ghên	109
-蛮横	Gman Gwang	109
-蛮横	Gman heng	109
-蛮横	man heng	109
 蛮横无理	Gman Ghên Gwu Gli	144
 蛮横无理	Gman Gwang Gwu Gli	144
 蛮横无理	Gman heng Gwu Gli	144
