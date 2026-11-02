@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_lancong_new_rel_special_gan
   name: lancong
-  version: "1.2.5"
+  version: "1.2.7"
 translator:
   dictionary: gannyu_lancong_new_rel
   prism: gannyu_lancong_new_rel_special_gan
@@ -42,6 +42,10 @@ speller:
     - derive/^Gcêt$/Fcet/
     - derive/^Gcêu$/Fceeu/
     - derive/^Gcêu$/Fceu/
+    - derive/^Gcï$/Fci/
+    - derive/^Gcï$/Fcii/
+    - derive/^Gcïk$/Fciik/
+    - derive/^Gcïk$/Fcik/
     - derive/^Gden$/Fdirn/
     - derive/^Gdiên$/Fdieen/
     - derive/^Gdiên$/Fdien/
@@ -206,6 +210,10 @@ speller:
     - derive/^Gsêt$/Fset/
     - derive/^Gsêu$/Fseeu/
     - derive/^Gsêu$/Fseu/
+    - derive/^Gsï$/Fsi/
+    - derive/^Gsï$/Fsii/
+    - derive/^Gsïk$/Fsiik/
+    - derive/^Gsïk$/Fsik/
     - derive/^Gten$/Ftirn/
     - derive/^Gtet$/Ftirt/
     - derive/^Gtiên$/Ftieen/
@@ -256,6 +264,10 @@ speller:
     - derive/^Gzêt$/Fzet/
     - derive/^Gzêu$/Fzeeu/
     - derive/^Gzêu$/Fzeu/
+    - derive/^Gzï$/Fzi/
+    - derive/^Gzï$/Fzii/
+    - derive/^Gzïk$/Fziik/
+    - derive/^Gzïk$/Fzik/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
     - erase/^[^GF].*$/

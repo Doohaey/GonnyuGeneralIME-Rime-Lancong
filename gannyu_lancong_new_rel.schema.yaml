@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_lancong_new_rel
   name: lancong
-  version: "1.2.5"
+  version: "1.2.7"
 translator:
   dictionary: gannyu_lancong_new_rel
   prism: gannyu_lancong_new_rel
@@ -79,8 +79,6 @@ speller:
     - derive/^Gceu$/Fciru/
     - derive/^Gceu$/Fciu/
     - derive/^Gceu$/Fcou/
-    - fuzz/^Gcik$/Fci/
-    - fuzz/^Gcik$/Fcit/
     - fuzz/^Gcok$/Fco/
     - fuzz/^Gcok$/Fcot/
     - derive/^Gcon$/Fcuon/
@@ -118,6 +116,16 @@ speller:
     - derive/^Gcêu$/Fceeu/
     - derive/^Gcêu$/Fceu/
     - derive/^Gcêu$/Fcou/
+    - derive/^Gcï$/Fci/
+    - derive/^Gcï$/Fcii/
+    - fuzz/^Gcïk$/Fci/
+    - fuzz/^Gcïk$/Fcii/
+    - derive/^Gcïk$/Fciik/
+    - fuzz/^Gcïk$/Fciit/
+    - derive/^Gcïk$/Fcik/
+    - fuzz/^Gcïk$/Fcit/
+    - fuzz/^Gcïk$/Fcï/
+    - fuzz/^Gcïk$/Fcït/
     - fuzz/^Gdak$/Fda/
     - fuzz/^Gdak$/Fdat/
     - fuzz/^Gdat$/Fda/
@@ -858,8 +866,6 @@ speller:
     - derive/^Gseu$/Fsiru/
     - derive/^Gseu$/Fsiu/
     - derive/^Gseu$/Fsou/
-    - fuzz/^Gsik$/Fsi/
-    - fuzz/^Gsik$/Fsit/
     - fuzz/^Gsok$/Fso/
     - fuzz/^Gsok$/Fsot/
     - derive/^Gson$/Fsuon/
@@ -897,6 +903,16 @@ speller:
     - derive/^Gsêu$/Fseeu/
     - derive/^Gsêu$/Fseu/
     - derive/^Gsêu$/Fsou/
+    - derive/^Gsï$/Fsi/
+    - derive/^Gsï$/Fsii/
+    - fuzz/^Gsïk$/Fsi/
+    - fuzz/^Gsïk$/Fsii/
+    - derive/^Gsïk$/Fsiik/
+    - fuzz/^Gsïk$/Fsiit/
+    - derive/^Gsïk$/Fsik/
+    - fuzz/^Gsïk$/Fsit/
+    - fuzz/^Gsïk$/Fsï/
+    - fuzz/^Gsïk$/Fsït/
     - fuzz/^Gtat$/Fta/
     - fuzz/^Gtat$/Ftak/
     - derive/^Gtau$/Ftao/
@@ -1237,8 +1253,6 @@ speller:
     - derive/^Gzet$/Fzirt/
     - derive/^Gzeu$/Fziru/
     - derive/^Gzeu$/Fzou/
-    - fuzz/^Gzik$/Fzi/
-    - fuzz/^Gzik$/Fzit/
     - fuzz/^Gzok$/Fzo/
     - fuzz/^Gzok$/Fzot/
     - derive/^Gzon$/Fzuon/
@@ -1274,6 +1288,16 @@ speller:
     - derive/^Gzêu$/Fzeeu/
     - derive/^Gzêu$/Fzeu/
     - derive/^Gzêu$/Fzou/
+    - derive/^Gzï$/Fzi/
+    - derive/^Gzï$/Fzii/
+    - fuzz/^Gzïk$/Fzi/
+    - fuzz/^Gzïk$/Fzii/
+    - derive/^Gzïk$/Fziik/
+    - fuzz/^Gzïk$/Fziit/
+    - derive/^Gzïk$/Fzik/
+    - fuzz/^Gzïk$/Fzit/
+    - fuzz/^Gzïk$/Fzï/
+    - fuzz/^Gzïk$/Fzït/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
     - xform/^G//
