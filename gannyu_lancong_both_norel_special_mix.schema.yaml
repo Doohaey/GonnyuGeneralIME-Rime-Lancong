@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_lancong_both_norel_special_mix
   name: lancong
-  version: "1.2.7"
+  version: "1.2.8"
 translator:
   dictionary: gannyu_lancong_both_norel
   prism: gannyu_lancong_both_norel_special_mix

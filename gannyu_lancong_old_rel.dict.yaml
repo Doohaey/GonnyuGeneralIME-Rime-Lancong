@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong_old_rel
-version: "1.2.7"
+version: "1.2.8"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -69866,10 +69866,12 @@ use_preset_vocabulary: false
 于无声处	Gyu Gwu sheng chu	12
 于无声处	yu wu sheng chu	12
 于明嘉靖	Gyu Gmin Gga Gqin	7
+于明嘉靖	Gyu Gmin Gga Wqiang	7
 于明嘉靖	Gyu Gmin Gga jing	7
 于明嘉靖	Gyu Gmin jia Gqin	7
 于明嘉靖	Gyu Gmin jia jing	7
 于明嘉靖	Gyu Wmiang Gga Gqin	7
+于明嘉靖	Gyu Wmiang Gga Wqiang	7
 于明嘉靖	Gyu ming Gga Gqin	7
 于明嘉靖	Gyu ming Gga jing	7
 于明嘉靖	Gyu ming jia Gqin	7
@@ -99040,6 +99042,7 @@ use_preset_vocabulary: false
 保障金	bao zhang Gjin	19
 保障金	bao zhang jin	19
 保靖	Gbau Gqin	7
+保靖	Gbau Wqiang	7
 保靖	Gbau jing	7
 保靖	bao Gqin	7
 保靖	bao jing	7
@@ -120567,6 +120570,9 @@ use_preset_vocabulary: false
 再生性	Gzai sheng Gxin	8
 再生性	Gzai sheng xing	8
 再生性	zai sheng xing	8
+再看	Gzai Gkon	200000
+再看	Gzai kan	200000
+再看	zai kan	200000
 再着	Gzai Gzok	150000
 再着	Gzai zhe	150000
 再着	zai zhe	150000
@@ -132998,6 +133004,10 @@ use_preset_vocabulary: false
 划归	Gfa Ggui	316
 划归	hua Ggui	316
 划归	hua gui	316
+划得	Gfa Gdêt	108
+划得	Gfa de	108
+划得	hua Gdêt	108
+划得	hua de	108
 划得来	Gfa Gdêt Glêi	8
 划得来	Gfa Gdêt lai	8
 划得来	Gfa de Glêi	8
@@ -134574,6 +134584,7 @@ use_preset_vocabulary: false
 初六	chu Gliuk	99
 初六	chu liu	99
 初兴靖	Gcu Gxin Gqin	128
+初兴靖	Gcu Gxin Wqiang	128
 初兴靖	Gcu Gxin jing	128
 初兴靖	Gcu xing Gqin	128
 初兴靖	Gcu xing jing	128
@@ -162198,6 +162209,7 @@ use_preset_vocabulary: false
 南霸天	nan Gba tian	11
 南霸天	nan ba tian	11
 南靖	Glan Gqin	10
+南靖	Glan Wqiang	10
 南靖	Glan jing	10
 南靖	nan Gqin	10
 南靖	nan jing	10
@@ -183377,6 +183389,10 @@ use_preset_vocabulary: false
 同创	Gtung chuang	24
 同创	tong Gcong	24
 同创	tong chuang	24
+同到	Gtung Gdau	100000
+同到	Gtung dao	100000
+同到	tong Gdau	100000
+同到	tong dao	100000
 同化	Gtung Gfa	176
 同化	Gtung hua	176
 同化	tong Gfa	176
@@ -193652,7 +193668,7 @@ use_preset_vocabulary: false
 咭	ji	12000
 咮	Gjyu	4942
 咮	zhou	4942
-咯	Glo	100000
+咯	Glo	200000
 咯	Glêu	200000
 咯	ge	200000
 咰	Gsut	4289
@@ -201073,6 +201089,7 @@ use_preset_vocabulary: false
 嘉陵江	jia ling Ggong	120
 嘉陵江	jia ling jiang	120
 嘉靖	Gga Gqin	2290
+嘉靖	Gga Wqiang	2290
 嘉靖	Gga jing	2290
 嘉靖	jia Gqin	2290
 嘉靖	jia jing	2290
@@ -230154,12 +230171,12 @@ use_preset_vocabulary: false
 大威	Gtai wei	25
 大威	da Gwi	25
 大威	da wei	25
-大娄山	Gtai Gli Gsan	13
-大娄山	Gtai Gli shan	13
+大娄山	Gtai Glêu Gsan	13
+大娄山	Gtai Glêu shan	13
 大娄山	Gtai lou Gsan	13
 大娄山	Gtai lou shan	13
-大娄山	da Gli Gsan	13
-大娄山	da Gli shan	13
+大娄山	da Glêu Gsan	13
+大娄山	da Glêu shan	13
 大娄山	da lou Gsan	13
 大娄山	da lou shan	13
 大娘	Gtai Gniong	301
@@ -248123,40 +248140,40 @@ use_preset_vocabulary: false
 娃子	Gwa Gzï	159
 娃子	Gwa zi	159
 娃子	wa zi	159
-娄	Gli	102331
+娄	Glêu	102331
 娄	lou	102331
-娄丞相	Gli Gcen Gxiong	9
-娄丞相	Gli Gcen xiang	9
-娄丞相	Gli cheng Gxiong	9
-娄丞相	Gli cheng xiang	9
+娄丞相	Glêu Gcen Gxiong	9
+娄丞相	Glêu Gcen xiang	9
+娄丞相	Glêu cheng Gxiong	9
+娄丞相	Glêu cheng xiang	9
 娄丞相	lou Gcen Gxiong	9
 娄丞相	lou Gcen xiang	9
 娄丞相	lou cheng Gxiong	9
 娄丞相	lou cheng xiang	9
-娄子	Gli Gzï	21
-娄子	Gli zi	21
+娄子	Glêu Gzï	21
+娄子	Glêu zi	21
 娄子	lou Gzï	21
 娄子	lou zi	21
-娄山关	Gli Gsan Gguan	21
-娄山关	Gli shan Gguan	21
+娄山关	Glêu Gsan Gguan	21
+娄山关	Glêu shan Gguan	21
 娄山关	lou Gsan Gguan	21
 娄山关	lou shan Gguan	21
 娄山关	lou shan guan	21
-娄底	Gli Gdi	51
+娄底	Glêu Gdi	51
 娄底	lou Gdi	51
 娄底	lou di	51
-娄底市	Gli Gdi Gsï	12
-娄底市	Gli Gdi shi	12
+娄底市	Glêu Gdi Gsï	12
+娄底市	Glêu Gdi shi	12
 娄底市	lou Gdi Gsï	12
 娄底市	lou Gdi shi	12
 娄底市	lou di shi	12
-娄敏中	Gli Gmin Gzung	8
-娄敏中	Gli Gmin zhong	8
+娄敏中	Glêu Gmin Gzung	8
+娄敏中	Glêu Gmin zhong	8
 娄敏中	lou Gmin Gzung	8
 娄敏中	lou Gmin zhong	8
 娄敏中	lou min zhong	8
-娄江	Gli Ggong	10
-娄江	Gli jiang	10
+娄江	Glêu Ggong	10
+娄江	Glêu jiang	10
 娄江	lou Ggong	10
 娄江	lou jiang	10
 娅	Gnga	71302
@@ -306597,6 +306614,7 @@ use_preset_vocabulary: false
 徐老爷子	xu lao ye Gzï	7
 徐老爷子	xu lao ye zi	7
 徐致靖	Gqyu Gzï Gqin	14
+徐致靖	Gqyu Gzï Wqiang	14
 徐致靖	Gqyu Gzï jing	14
 徐致靖	Gqyu zhi Gqin	14
 徐致靖	Gqyu zhi jing	14
@@ -312543,6 +312561,11 @@ use_preset_vocabulary: false
 怀庆府	huai Gqin Gfu	9
 怀庆府	huai qing Gfu	9
 怀庆府	huai qing fu	9
+怀得	Gfai Gdêt	901
+怀得	Gfai de	901
+怀得	Wwai Gdêt	901
+怀得	huai Gdêt	901
+怀得	huai de	901
 怀念	Gfai Gniên	437
 怀念	Gfai nian	437
 怀念	Wwai Gniên	437
@@ -321522,6 +321545,11 @@ use_preset_vocabulary: false
 愢	Gsai	4492
 愣	Glên	5119
 愣	leng	5119
+愣是	Glên Gsï	200000
+愣是	Glên Gxi	200000
+愣是	Glên shi	200000
+愣是	leng Gsï	200000
+愣是	leng shi	200000
 愤	Gfen	102996
 愤世嫉俗	Gfen Gsï Gqit Gxiuk	33
 愤世嫉俗	Gfen Gxi Gqit Gxiuk	33
@@ -328804,6 +328832,9 @@ use_preset_vocabulary: false
 打开天窗说亮话	Gda Gkai tian chuang shuo liang Gwa	14
 打开天窗说亮话	Gda Gkai tian chuang shuo liang hua	14
 打开天窗说亮话	da kai tian chuang shuo liang hua	14
+打得	Gda Gdêt	1052
+打得	Gda de	1052
+打得	da de	1052
 打得火热	Gda Gdêt Gfo Glêt	28
 打得火热	Gda Gdêt Gfo re	28
 打得火热	Gda Gdêt huo Glêt	28
@@ -340329,6 +340360,10 @@ use_preset_vocabulary: false
 指引	Gzï Gyin	25533
 指引	zhi Gyin	25533
 指引	zhi yin	25533
+指得	Gzï Gdêt	2192
+指得	Gzï de	2192
+指得	zhi Gdêt	2192
+指得	zhi de	2192
 指战员	Gzï Gzên Gyuon	200
 指战员	Gzï Gzên yuan	200
 指战员	Gzï zhan Gyuon	200
@@ -340939,6 +340974,10 @@ use_preset_vocabulary: false
 按序	Gngon xu	13
 按序	an Gxyu	13
 按序	an xu	13
+按得	Gngon Gdêt	349
+按得	Gngon de	349
+按得	an Gdêt	349
+按得	an de	349
 按捺	Gngon Glat	62
 按捺	Gngon na	62
 按捺	an Glat	62
@@ -342114,9 +342153,9 @@ use_preset_vocabulary: false
 挸	jian	5093
 挹	Gyit	72088
 挹	yi	72088
-挹娄	Gyit Gli	14
+挹娄	Gyit Glêu	14
 挹娄	Gyit lou	14
-挹娄	yi Gli	14
+挹娄	yi Glêu	14
 挹娄	yi lou	14
 挺	Gtin	135000
 挺	ting	135000
@@ -356804,6 +356843,10 @@ use_preset_vocabulary: false
 数很多	shu Ghên duo	18
 数很多	shu hen Gdo	18
 数很多	shu hen duo	18
+数得	Gsu Gdêt	61
+数得	Gsu de	61
+数得	shu Gdêt	61
+数得	shu de	61
 数得着	Gsu Gdêt Gzok	8
 数得着	Gsu Gdêt zhao	8
 数得着	Gsu de Gzok	8
@@ -372976,10 +373019,12 @@ use_preset_vocabulary: false
 明哲诸	ming zhe Gjyu	16
 明哲诸	ming zhe zhu	16
 明嘉靖	Gmin Gga Gqin	36
+明嘉靖	Gmin Gga Wqiang	36
 明嘉靖	Gmin Gga jing	36
 明嘉靖	Gmin jia Gqin	36
 明嘉靖	Gmin jia jing	36
 明嘉靖	Wmiang Gga Gqin	36
+明嘉靖	Wmiang Gga Wqiang	36
 明嘉靖	ming Gga Gqin	36
 明嘉靖	ming Gga jing	36
 明嘉靖	ming jia Gqin	36
@@ -379278,11 +379323,13 @@ use_preset_vocabulary: false
 曲霉	qu Gmi	52
 曲霉	qu mei	52
 曲靖	Gqyut Gqin	58
+曲靖	Gqyut Wqiang	58
 曲靖	Gqyut jing	58
 曲靖	qu Gqin	58
 曲靖	qu jing	58
 曲靖市	Gqyut Gqin Gsï	12
 曲靖市	Gqyut Gqin shi	12
+曲靖市	Gqyut Wqiang Gsï	12
 曲靖市	Gqyut jing Gsï	12
 曲靖市	Gqyut jing shi	12
 曲靖市	qu Gqin Gsï	12
@@ -379902,6 +379949,7 @@ use_preset_vocabulary: false
 曹雪芹	cao xue qin	114
 曹靖华	Gcau Gqin Gfa	8
 曹靖华	Gcau Gqin hua	8
+曹靖华	Gcau Wqiang Gfa	8
 曹靖华	Gcau jing Gfa	8
 曹靖华	Gcau jing hua	8
 曹靖华	cao Gqin Gfa	8
@@ -389875,6 +389923,7 @@ use_preset_vocabulary: false
 李隆基	Gli long Gji	50
 李隆基	li long ji	50
 李靖	Gli Gqin	77
+李靖	Gli Wqiang	77
 李靖	Gli jing	77
 李靖	li jing	77
 李顺达	Gli Gsun Gtat	21
@@ -393148,6 +393197,7 @@ use_preset_vocabulary: false
 杨陵	yang Glin	17
 杨陵	yang ling	17
 杨靖宇	Gyong Gqin Gyu	71
+杨靖宇	Gyong Wqiang Gyu	71
 杨靖宇	Gyong jing Gyu	71
 杨靖宇	yang Gqin Gyu	71
 杨靖宇	yang jing Gyu	71
@@ -421697,11 +421747,13 @@ use_preset_vocabulary: false
 永隆	yong Glung	9
 永隆	yong long	9
 永靖	Gyung Gqin	13
+永靖	Gyung Wqiang	13
 永靖	Gyung jing	13
 永靖	yong Gqin	13
 永靖	yong jing	13
 永靖县	Gyung Gqin Gxiên	9
 永靖县	Gyung Gqin xian	9
+永靖县	Gyung Wqiang Gxiên	9
 永靖县	Gyung jing Gxiên	9
 永靖县	Gyung jing xian	9
 永靖县	yong Gqin Gxiên	9
@@ -497945,6 +497997,10 @@ use_preset_vocabulary: false
 看待	Gkon dai	5855
 看待	kan Gtai	5855
 看待	kan dai	5855
+看得	Gkon Gdêt	200000
+看得	Gkon de	200000
+看得	kan Gdêt	200000
+看得	kan de	200000
 看得出	Gkon Gdêt Gcet	50225
 看得出	Gkon Gdêt chu	50225
 看得出	Gkon de Gcet	50225
@@ -505347,6 +505403,7 @@ use_preset_vocabulary: false
 硫黄岛	Gliu huang Gdau	24
 硫黄岛	Gliu huang dao	24
 硫黄岛	liu huang dao	24
+硬	Gngan	200000
 硬	Gngang	200000
 硬	ying	200000
 硬仗	Gngang Gcong	52
@@ -505478,6 +505535,9 @@ use_preset_vocabulary: false
 硬撑	Gngang cheng	60
 硬撑	ying Gcang	60
 硬撑	ying cheng	60
+硬是	Gngan Gsï	25454
+硬是	Gngan Gxi	25454
+硬是	Gngan shi	25454
 硬是	Gngang Gsï	25454
 硬是	Gngang Gxi	25454
 硬是	Gngang shi	25454
@@ -537078,6 +537138,11 @@ use_preset_vocabulary: false
 糊糊涂涂	hu Gfu Gtu Gtu	15
 糊糊涂涂	hu hu Gtu Gtu	15
 糊糊涂涂	hu hu tu tu	15
+糊羹	Gfu Ggang	139992
+糊羹	Gfu Wgiên	139992
+糊羹	Gfu geng	139992
+糊羹	hu Ggang	139992
+糊羹	hu geng	139992
 糊里糊涂	Gfu Gli Gfu Gtu	101
 糊里糊涂	Gfu Gli hu Gtu	101
 糊里糊涂	hu Gli Gfu Gtu	101
@@ -547593,10 +547658,12 @@ use_preset_vocabulary: false
 绥远	Gsui yuan	132
 绥远	sui yuan	132
 绥靖	Gsui Gqin	106
+绥靖	Gsui Wqiang	106
 绥靖	Gsui jing	106
 绥靖	sui jing	106
 绥靖区	Gsui Gqin Gqyu	8
 绥靖区	Gsui Gqin qu	8
+绥靖区	Gsui Wqiang Gqyu	8
 绥靖区	Gsui jing Gqyu	8
 绥靖区	Gsui jing qu	8
 绥靖区	sui jing qu	8
@@ -565935,6 +566002,10 @@ use_preset_vocabulary: false
 背影	Gbi ying	729
 背影	bei Gyin	729
 背影	bei ying	729
+背得	Gbi Gdêt	62
+背得	Gbi de	62
+背得	bei Gdêt	62
+背得	bei de	62
 背心	Gbi Gxin	942
 背心	bei Gxin	942
 背心	bei xin	942
@@ -601919,6 +601990,14 @@ use_preset_vocabulary: false
 被囚	Gpi Gqiu	81
 被囚	bei Gqiu	81
 被囚	bei qiu	81
+被处罚	Gpi Gqyu Gfat	125000
+被处罚	Gpi Gqyu fa	125000
+被处罚	Gpi chu Gfat	125000
+被处罚	Gpi chu fa	125000
+被处罚	bei Gqyu Gfat	125000
+被处罚	bei Gqyu fa	125000
+被处罚	bei chu Gfat	125000
+被处罚	bei chu fa	125000
 被套	Gpi Gtau	23
 被套	Gpi tao	23
 被套	bei Gtau	23
@@ -624409,6 +624488,10 @@ use_preset_vocabulary: false
 贴己	Gtiêt Gji	100000
 贴己	tie Gji	100000
 贴己	tie ji	100000
+贴得	Gtiêt Gdêt	370
+贴得	Gtiêt de	370
+贴得	tie Gdêt	370
+贴得	tie de	370
 贴心	Gtiêt Gxin	102
 贴心	tie Gxin	102
 贴心	tie xin	102
@@ -629086,6 +629169,10 @@ use_preset_vocabulary: false
 赶往	Ggon wang	205
 赶往	gan Gwong	205
 赶往	gan wang	205
+赶得	Ggon Gdêt	403
+赶得	Ggon de	403
+赶得	gan Gdêt	403
+赶得	gan de	403
 赶忙	Ggon Gmong	627
 赶忙	Ggon mang	627
 赶忙	gan Gmong	627
@@ -631459,6 +631546,10 @@ use_preset_vocabulary: false
 跟头	Ggiên tou	111
 跟头	gen Gtêu	111
 跟头	gen tou	111
+跟得	Ggiên Gdêt	200000
+跟得	Ggiên de	200000
+跟得	gen Gdêt	200000
+跟得	gen de	200000
 跟我	Ggiên Gngo	200000
 跟我	Ggiên wo	200000
 跟我	gen Gngo	200000
@@ -653784,6 +653875,7 @@ use_preset_vocabulary: false
 郭锡章	guo xi zhang	257
 郭靖之	Gguok Gqin Gzï	23
 郭靖之	Gguok Gqin zhi	23
+郭靖之	Gguok Wqiang Gzï	23
 郭靖之	Gguok jing Gzï	23
 郭靖之	Gguok jing zhi	23
 郭靖之	guo Gqin Gzï	23
@@ -653793,6 +653885,8 @@ use_preset_vocabulary: false
 郭靖乘	Gguok Gqin Gcen	7
 郭靖乘	Gguok Gqin Gsen	7
 郭靖乘	Gguok Gqin cheng	7
+郭靖乘	Gguok Wqiang Gcen	7
+郭靖乘	Gguok Wqiang Gsen	7
 郭靖乘	Gguok jing Gsen	7
 郭靖乘	Gguok jing cheng	7
 郭靖乘	guo Gqin Gsen	7
@@ -653801,6 +653895,7 @@ use_preset_vocabulary: false
 郭靖乘	guo jing cheng	7
 郭靖伸	Gguok Gqin Gsen	10
 郭靖伸	Gguok Gqin shen	10
+郭靖伸	Gguok Wqiang Gsen	10
 郭靖伸	Gguok jing Gsen	10
 郭靖伸	Gguok jing shen	10
 郭靖伸	guo Gqin Gsen	10
@@ -653808,12 +653903,14 @@ use_preset_vocabulary: false
 郭靖伸	guo jing Gsen	10
 郭靖伸	guo jing shen	10
 郭靖依	Gguok Gqin Gyi	26
+郭靖依	Gguok Wqiang Gyi	26
 郭靖依	Gguok jing Gyi	26
 郭靖依	guo Gqin Gyi	26
 郭靖依	guo jing Gyi	26
 郭靖依	guo jing yi	26
 郭靖便	Gguok Gqin Gpiên	8
 郭靖便	Gguok Gqin bian	8
+郭靖便	Gguok Wqiang Gpiên	8
 郭靖便	Gguok jing Gpiên	8
 郭靖便	Gguok jing bian	8
 郭靖便	guo Gqin Gpiên	8
@@ -653823,6 +653920,8 @@ use_preset_vocabulary: false
 郭靖刚	Gguok Gqin Ggong	8
 郭靖刚	Gguok Gqin Wjiong	8
 郭靖刚	Gguok Gqin gang	8
+郭靖刚	Gguok Wqiang Ggong	8
+郭靖刚	Gguok Wqiang Wjiong	8
 郭靖刚	Gguok jing Ggong	8
 郭靖刚	Gguok jing gang	8
 郭靖刚	guo Gqin Ggong	8
@@ -653831,6 +653930,7 @@ use_preset_vocabulary: false
 郭靖刚	guo jing gang	8
 郭靖双	Gguok Gqin Gsong	17
 郭靖双	Gguok Gqin shuang	17
+郭靖双	Gguok Wqiang Gsong	17
 郭靖双	Gguok jing Gsong	17
 郭靖双	Gguok jing shuang	17
 郭靖双	guo Gqin Gsong	17
@@ -653838,12 +653938,14 @@ use_preset_vocabulary: false
 郭靖双	guo jing Gsong	17
 郭靖双	guo jing shuang	17
 郭靖叹	Gguok Gqin Gtan	16
+郭靖叹	Gguok Wqiang Gtan	16
 郭靖叹	Gguok jing Gtan	16
 郭靖叹	guo Gqin Gtan	16
 郭靖叹	guo jing Gtan	16
 郭靖叹	guo jing tan	16
 郭靖吓	Gguok Gqin Ghak	10
 郭靖吓	Gguok Gqin xia	10
+郭靖吓	Gguok Wqiang Ghak	10
 郭靖吓	Gguok jing Ghak	10
 郭靖吓	Gguok jing xia	10
 郭靖吓	guo Gqin Ghak	10
@@ -653853,6 +653955,8 @@ use_preset_vocabulary: false
 郭靖听	Gguok Gqin Gtiang	53
 郭靖听	Gguok Gqin Wtin	53
 郭靖听	Gguok Gqin ting	53
+郭靖听	Gguok Wqiang Gtiang	53
+郭靖听	Gguok Wqiang Wtin	53
 郭靖听	Gguok jing Gtiang	53
 郭靖听	Gguok jing ting	53
 郭靖听	guo Gqin Gtiang	53
@@ -653860,12 +653964,14 @@ use_preset_vocabulary: false
 郭靖听	guo jing Gtiang	53
 郭靖听	guo jing ting	53
 郭靖喜	Gguok Gqin Gxi	24
+郭靖喜	Gguok Wqiang Gxi	24
 郭靖喜	Gguok jing Gxi	24
 郭靖喜	guo Gqin Gxi	24
 郭靖喜	guo jing Gxi	24
 郭靖喜	guo jing xi	24
 郭靖回	Gguok Gqin Gfui	8
 郭靖回	Gguok Gqin hui	8
+郭靖回	Gguok Wqiang Gfui	8
 郭靖回	Gguok jing Gfui	8
 郭靖回	Gguok jing hui	8
 郭靖回	guo Gqin Gfui	8
@@ -653874,6 +653980,7 @@ use_preset_vocabulary: false
 郭靖回	guo jing hui	8
 郭靖大	Gguok Gqin Gtai	20
 郭靖大	Gguok Gqin da	20
+郭靖大	Gguok Wqiang Gtai	20
 郭靖大	Gguok jing Gtai	20
 郭靖大	Gguok jing da	20
 郭靖大	guo Gqin Gtai	20
@@ -653881,12 +653988,14 @@ use_preset_vocabulary: false
 郭靖大	guo jing Gtai	20
 郭靖大	guo jing da	20
 郭靖奇	Gguok Gqin Gqi	32
+郭靖奇	Gguok Wqiang Gqi	32
 郭靖奇	Gguok jing Gqi	32
 郭靖奇	guo Gqin Gqi	32
 郭靖奇	guo jing Gqi	32
 郭靖奇	guo jing qi	32
 郭靖安	Gguok Gqin Gngon	7
 郭靖安	Gguok Gqin an	7
+郭靖安	Gguok Wqiang Gngon	7
 郭靖安	Gguok jing Gngon	7
 郭靖安	Gguok jing an	7
 郭靖安	guo Gqin Gngon	7
@@ -653895,6 +654004,7 @@ use_preset_vocabulary: false
 郭靖安	guo jing an	7
 郭靖左	Gguok Gqin Gzo	19
 郭靖左	Gguok Gqin zuo	19
+郭靖左	Gguok Wqiang Gzo	19
 郭靖左	Gguok jing Gzo	19
 郭靖左	Gguok jing zuo	19
 郭靖左	guo Gqin Gzo	19
@@ -653904,6 +654014,8 @@ use_preset_vocabulary: false
 郭靖微	Gguok Gqin Gwi	7
 郭靖微	Gguok Gqin Wmi	7
 郭靖微	Gguok Gqin wei	7
+郭靖微	Gguok Wqiang Gwi	7
+郭靖微	Gguok Wqiang Wmi	7
 郭靖微	Gguok jing Gwi	7
 郭靖微	Gguok jing wei	7
 郭靖微	guo Gqin Gwi	7
@@ -653917,6 +654029,10 @@ use_preset_vocabulary: false
 郭靖微微	Gguok Gqin Wmi Wmi	11
 郭靖微微	Gguok Gqin wei Gwi	11
 郭靖微微	Gguok Gqin wei wei	11
+郭靖微微	Gguok Wqiang Gwi Gwi	11
+郭靖微微	Gguok Wqiang Gwi Wmi	11
+郭靖微微	Gguok Wqiang Wmi Gwi	11
+郭靖微微	Gguok Wqiang Wmi Wmi	11
 郭靖微微	Gguok jing Gwi Gwi	11
 郭靖微微	Gguok jing Gwi wei	11
 郭靖微微	Gguok jing wei Gwi	11
@@ -653930,12 +654046,14 @@ use_preset_vocabulary: false
 郭靖微微	guo jing wei Gwi	11
 郭靖微微	guo jing wei wei	11
 郭靖心	Gguok Gqin Gxin	41
+郭靖心	Gguok Wqiang Gxin	41
 郭靖心	Gguok jing Gxin	41
 郭靖心	guo Gqin Gxin	41
 郭靖心	guo jing Gxin	41
 郭靖心	guo jing xin	41
 郭靖忙	Gguok Gqin Gmong	48
 郭靖忙	Gguok Gqin mang	48
+郭靖忙	Gguok Wqiang Gmong	48
 郭靖忙	Gguok jing Gmong	48
 郭靖忙	Gguok jing mang	48
 郭靖忙	guo Gqin Gmong	48
@@ -653944,6 +654062,7 @@ use_preset_vocabulary: false
 郭靖忙	guo jing mang	48
 郭靖怒	Gguok Gqin Glu	11
 郭靖怒	Gguok Gqin nu	11
+郭靖怒	Gguok Wqiang Glu	11
 郭靖怒	Gguok jing Glu	11
 郭靖怒	Gguok jing nu	11
 郭靖怒	guo Gqin Glu	11
@@ -653953,6 +654072,8 @@ use_preset_vocabulary: false
 郭靖惊	Gguok Gqin Gjin	14
 郭靖惊	Gguok Gqin Wjiang	14
 郭靖惊	Gguok Gqin jing	14
+郭靖惊	Gguok Wqiang Gjin	14
+郭靖惊	Gguok Wqiang Wjiang	14
 郭靖惊	Gguok jing Gjin	14
 郭靖惊	Gguok jing jing	14
 郭靖惊	guo Gqin Gjin	14
@@ -653961,6 +654082,7 @@ use_preset_vocabulary: false
 郭靖惊	guo jing jing	14
 郭靖抢	Gguok Gqin Gqiong	15
 郭靖抢	Gguok Gqin qiang	15
+郭靖抢	Gguok Wqiang Gqiong	15
 郭靖抢	Gguok jing Gqiong	15
 郭靖抢	Gguok jing qiang	15
 郭靖抢	guo Gqin Gqiong	15
@@ -653969,6 +654091,7 @@ use_preset_vocabulary: false
 郭靖抢	guo jing qiang	15
 郭靖抱	Gguok Gqin Gpau	13
 郭靖抱	Gguok Gqin bao	13
+郭靖抱	Gguok Wqiang Gpau	13
 郭靖抱	Gguok jing Gpau	13
 郭靖抱	Gguok jing bao	13
 郭靖抱	guo Gqin Gpau	13
@@ -653977,6 +654100,7 @@ use_preset_vocabulary: false
 郭靖抱	guo jing bao	13
 郭靖掌	Gguok Gqin Gzong	24
 郭靖掌	Gguok Gqin zhang	24
+郭靖掌	Gguok Wqiang Gzong	24
 郭靖掌	Gguok jing Gzong	24
 郭靖掌	Gguok jing zhang	24
 郭靖掌	guo Gqin Gzong	24
@@ -653985,6 +654109,7 @@ use_preset_vocabulary: false
 郭靖掌	guo jing zhang	24
 郭靖斗	Gguok Gqin Gdêu	7
 郭靖斗	Gguok Gqin dou	7
+郭靖斗	Gguok Wqiang Gdêu	7
 郭靖斗	Gguok jing Gdêu	7
 郭靖斗	Gguok jing dou	7
 郭靖斗	guo Gqin Gdêu	7
@@ -653994,6 +654119,8 @@ use_preset_vocabulary: false
 郭靖望	Gguok Gqin Gwong	15
 郭靖望	Gguok Gqin Wmong	15
 郭靖望	Gguok Gqin wang	15
+郭靖望	Gguok Wqiang Gwong	15
+郭靖望	Gguok Wqiang Wmong	15
 郭靖望	Gguok jing Gwong	15
 郭靖望	Gguok jing wang	15
 郭靖望	guo Gqin Gwong	15
@@ -654002,6 +654129,7 @@ use_preset_vocabulary: false
 郭靖望	guo jing wang	15
 郭靖未	Gguok Gqin Gwi	7
 郭靖未	Gguok Gqin wei	7
+郭靖未	Gguok Wqiang Gwi	7
 郭靖未	Gguok jing Gwi	7
 郭靖未	Gguok jing wei	7
 郭靖未	guo Gqin Gwi	7
@@ -654009,6 +654137,7 @@ use_preset_vocabulary: false
 郭靖未	guo jing Gwi	7
 郭靖未	guo jing wei	7
 郭靖本	Gguok Gqin Gben	20
+郭靖本	Gguok Wqiang Gben	20
 郭靖本	Gguok jing Gben	20
 郭靖本	guo Gqin Gben	20
 郭靖本	guo jing Gben	20
@@ -654016,6 +654145,8 @@ use_preset_vocabulary: false
 郭靖横	Gguok Gqin Gwang	10
 郭靖横	Gguok Gqin Wfen	10
 郭靖横	Gguok Gqin heng	10
+郭靖横	Gguok Wqiang Gwang	10
+郭靖横	Gguok Wqiang Wfen	10
 郭靖横	Gguok jing Gwang	10
 郭靖横	Gguok jing heng	10
 郭靖横	guo Gqin Gwang	10
@@ -654025,6 +654156,8 @@ use_preset_vocabulary: false
 郭靖正	Gguok Gqin Gzen	18
 郭靖正	Gguok Gqin Wzang	18
 郭靖正	Gguok Gqin zheng	18
+郭靖正	Gguok Wqiang Gzen	18
+郭靖正	Gguok Wqiang Wzang	18
 郭靖正	Gguok jing Gzen	18
 郭靖正	Gguok jing zheng	18
 郭靖正	guo Gqin Gzen	18
@@ -654033,6 +654166,7 @@ use_preset_vocabulary: false
 郭靖正	guo jing zheng	18
 郭靖甚	Gguok Gqin Gsen	7
 郭靖甚	Gguok Gqin shen	7
+郭靖甚	Gguok Wqiang Gsen	7
 郭靖甚	Gguok jing Gsen	7
 郭靖甚	Gguok jing shen	7
 郭靖甚	guo Gqin Gsen	7
@@ -654041,6 +654175,7 @@ use_preset_vocabulary: false
 郭靖甚	guo jing shen	7
 郭靖相	Gguok Gqin Gxiong	9
 郭靖相	Gguok Gqin xiang	9
+郭靖相	Gguok Wqiang Gxiong	9
 郭靖相	Gguok jing Gxiong	9
 郭靖相	Gguok jing xiang	9
 郭靖相	guo Gqin Gxiong	9
@@ -654049,6 +654184,7 @@ use_preset_vocabulary: false
 郭靖相	guo jing xiang	9
 郭靖知	Gguok Gqin Gzï	14
 郭靖知	Gguok Gqin zhi	14
+郭靖知	Gguok Wqiang Gzï	14
 郭靖知	Gguok jing Gzï	14
 郭靖知	Gguok jing zhi	14
 郭靖知	guo Gqin Gzï	14
@@ -654057,6 +654193,7 @@ use_preset_vocabulary: false
 郭靖知	guo jing zhi	14
 郭靖站	Gguok Gqin Gzan	17
 郭靖站	Gguok Gqin zhan	17
+郭靖站	Gguok Wqiang Gzan	17
 郭靖站	Gguok jing Gzan	17
 郭靖站	Gguok jing zhan	17
 郭靖站	guo Gqin Gzan	17
@@ -654065,6 +654202,7 @@ use_preset_vocabulary: false
 郭靖站	guo jing zhan	17
 郭靖竟	Gguok Gqin Gjin	7
 郭靖竟	Gguok Gqin jing	7
+郭靖竟	Gguok Wqiang Gjin	7
 郭靖竟	Gguok jing Gjin	7
 郭靖竟	Gguok jing jing	7
 郭靖竟	guo Gqin Gjin	7
@@ -654073,6 +654211,7 @@ use_preset_vocabulary: false
 郭靖竟	guo jing jing	7
 郭靖笑	Gguok Gqin Gxiêu	44
 郭靖笑	Gguok Gqin xiao	44
+郭靖笑	Gguok Wqiang Gxiêu	44
 郭靖笑	Gguok jing Gxiêu	44
 郭靖笑	Gguok jing xiao	44
 郭靖笑	guo Gqin Gxiêu	44
@@ -654081,6 +654220,7 @@ use_preset_vocabulary: false
 郭靖笑	guo jing xiao	44
 郭靖背	Gguok Gqin Gbi	7
 郭靖背	Gguok Gqin bei	7
+郭靖背	Gguok Wqiang Gbi	7
 郭靖背	Gguok jing Gbi	7
 郭靖背	Gguok jing bei	7
 郭靖背	guo Gqin Gbi	7
@@ -654089,6 +654229,7 @@ use_preset_vocabulary: false
 郭靖背	guo jing bei	7
 郭靖自	Gguok Gqin Gcï	12
 郭靖自	Gguok Gqin zi	12
+郭靖自	Gguok Wqiang Gcï	12
 郭靖自	Gguok jing Gcï	12
 郭靖自	Gguok jing zi	12
 郭靖自	guo Gqin Gcï	12
@@ -654097,6 +654238,7 @@ use_preset_vocabulary: false
 郭靖自	guo jing zi	12
 郭靖见	Gguok Gqin Gjiên	117
 郭靖见	Gguok Gqin jian	117
+郭靖见	Gguok Wqiang Gjiên	117
 郭靖见	Gguok jing Gjiên	117
 郭靖见	Gguok jing jian	117
 郭靖见	guo Gqin Gjiên	117
@@ -654105,6 +654247,7 @@ use_preset_vocabulary: false
 郭靖见	guo jing jian	117
 郭靖跃	Gguok Gqin Gyok	8
 郭靖跃	Gguok Gqin yue	8
+郭靖跃	Gguok Wqiang Gyok	8
 郭靖跃	Gguok jing Gyok	8
 郭靖跃	Gguok jing yue	8
 郭靖跃	guo Gqin Gyok	8
@@ -654113,6 +654256,7 @@ use_preset_vocabulary: false
 郭靖跃	guo jing yue	8
 郭靖身	Gguok Gqin Gsen	21
 郭靖身	Gguok Gqin shen	21
+郭靖身	Gguok Wqiang Gsen	21
 郭靖身	Gguok jing Gsen	21
 郭靖身	Gguok jing shen	21
 郭靖身	guo Gqin Gsen	21
@@ -654121,6 +654265,7 @@ use_preset_vocabulary: false
 郭靖身	guo jing shen	21
 郭靖连	Gguok Gqin Gliên	15
 郭靖连	Gguok Gqin lian	15
+郭靖连	Gguok Wqiang Gliên	15
 郭靖连	Gguok jing Gliên	15
 郭靖连	Gguok jing lian	15
 郭靖连	guo Gqin Gliên	15
@@ -654129,6 +654274,7 @@ use_preset_vocabulary: false
 郭靖连	guo jing lian	15
 郭靖郭	Gguok Gqin Gguok	20
 郭靖郭	Gguok Gqin guo	20
+郭靖郭	Gguok Wqiang Gguok	20
 郭靖郭	Gguok jing Gguok	20
 郭靖郭	Gguok jing guo	20
 郭靖郭	guo Gqin Gguok	20
@@ -654137,6 +654283,7 @@ use_preset_vocabulary: false
 郭靖郭	guo jing guo	20
 郭靖飞	Gguok Gqin Gfui	9
 郭靖飞	Gguok Gqin fei	9
+郭靖飞	Gguok Wqiang Gfui	9
 郭靖飞	Gguok jing Gfui	9
 郭靖飞	Gguok jing fei	9
 郭靖飞	guo Gqin Gfui	9
@@ -654146,6 +654293,8 @@ use_preset_vocabulary: false
 郭靖黄	Gguok Gqin Gwong	8
 郭靖黄	Gguok Gqin Wfong	8
 郭靖黄	Gguok Gqin huang	8
+郭靖黄	Gguok Wqiang Gwong	8
+郭靖黄	Gguok Wqiang Wfong	8
 郭靖黄	Gguok jing Gwong	8
 郭靖黄	Gguok jing huang	8
 郭靖黄	guo Gqin Gwong	8
@@ -687800,12 +687949,14 @@ use_preset_vocabulary: false
 靓女	Gjiên nv	13
 靓女	liang Gnyu	13
 靓女	liang nv	13
+靖	Gqiang	100000
 靖	Gqin	100937
 靖	jing	100937
 靖南王	Gqin Glan Gwong	8
 靖南王	Gqin Glan wang	8
 靖南王	Gqin nan Gwong	8
 靖南王	Gqin nan wang	8
+靖南王	Wqiang Glan Gwong	8
 靖南王	jing Glan Gwong	8
 靖南王	jing Glan wang	8
 靖南王	jing nan Gwong	8
@@ -687814,6 +687965,7 @@ use_preset_vocabulary: false
 靖哥哥	Gqin Ggo ge	63
 靖哥哥	Gqin ge Ggo	63
 靖哥哥	Gqin ge ge	63
+靖哥哥	Wqiang Ggo Ggo	63
 靖哥哥	jing Ggo Ggo	63
 靖哥哥	jing Ggo ge	63
 靖哥哥	jing ge Ggo	63
@@ -687822,6 +687974,7 @@ use_preset_vocabulary: false
 靖国安	Gqin Gguêt an	20
 靖国安	Gqin guo Gngon	20
 靖国安	Gqin guo an	20
+靖国安	Wqiang Gguêt Gngon	20
 靖国安	jing Gguêt Gngon	20
 靖国安	jing Gguêt an	20
 靖国安	jing guo Gngon	20
@@ -687835,6 +687988,8 @@ use_preset_vocabulary: false
 靖国神社	Gqin guo Gsen she	75
 靖国神社	Gqin guo shen Gsa	75
 靖国神社	Gqin guo shen she	75
+靖国神社	Wqiang Gguêt Gsen Gsa	75
+靖国神社	Wqiang Gguêt Gxin Gsa	75
 靖国神社	jing Gguêt Gsen Gsa	75
 靖国神社	jing Gguêt Gsen she	75
 靖国神社	jing Gguêt shen Gsa	75
@@ -687844,27 +687999,38 @@ use_preset_vocabulary: false
 靖国神社	jing guo shen Gsa	75
 靖国神社	jing guo shen she	75
 靖宇	Gqin Gyu	7
+靖宇	Wqiang Gyu	7
 靖宇	jing Gyu	7
 靖宇	jing yu	7
 靖宇县	Gqin Gyu Gxiên	10
 靖宇县	Gqin Gyu xian	10
+靖宇县	Wqiang Gyu Gxiên	10
 靖宇县	jing Gyu Gxiên	10
 靖宇县	jing Gyu xian	10
 靖宇县	jing yu xian	10
+靖安	Gqiang Gngon	100000
+靖安	Gqiang an	100000
+靖安	Wqin Gngon	100000
+靖安	jing Gngon	100000
+靖安	jing an	100000
 靖康	Gqin Gkong	59
 靖康	Gqin kang	59
+靖康	Wqiang Gkong	59
 靖康	jing Gkong	59
 靖康	jing kang	59
 靖江	Gqin Ggong	18
 靖江	Gqin jiang	18
+靖江	Wqiang Ggong	18
 靖江	jing Ggong	18
 靖江	jing jiang	18
 靖边	Gqin Gbiên	24
 靖边	Gqin bian	24
+靖边	Wqiang Gbiên	24
 靖边	jing Gbiên	24
 靖边	jing bian	24
 靖远	Gqin Gyuon	45
 靖远	Gqin yuan	45
+靖远	Wqiang Gyuon	45
 靖远	jing Gyuon	45
 靖远	jing yuan	45
 靗	Gcen	4239
@@ -689264,6 +689430,10 @@ use_preset_vocabulary: false
 靠岸	Gkau an	90
 靠岸	kao Gngon	90
 靠岸	kao an	90
+靠得	Gkau Gdêt	394
+靠得	Gkau de	394
+靠得	kao Gdêt	394
+靠得	kao de	394
 靠得住	Gkau Gdêt Gqyu	117
 靠得住	Gkau Gdêt zhu	117
 靠得住	Gkau de Gqyu	117
@@ -702684,6 +702854,12 @@ use_preset_vocabulary: false
 驮沓子	tuo Gdat zi	125000
 驮沓子	tuo ta Gzï	125000
 驮沓子	tuo ta zi	125000
+驮生意	Gto Gsên Gyi	100000
+驮生意	Gto Wsang Gyi	100000
+驮生意	Gto sheng Gyi	100000
+驮生意	tuo Gsên Gyi	100000
+驮生意	tuo sheng Gyi	100000
+驮生意	tuo sheng yi	100000
 驮肚	Gto Gdu	100000
 驮肚	Gto Gtu	100000
 驮肚	Gto du	100000
