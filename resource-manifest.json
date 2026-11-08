@@ -12,278 +12,263 @@
     },
     {
       "path": "gannyu_lancong.dict.yaml",
-      "sha256": "460792c0f393c774afc9604e9d84bb658b3dd129620337587e010825131811f2",
-      "size": 21259685
+      "sha256": "52546f566b1cd6bbcc96f30912bf3f5ff24bc2162b171ddad3f123af38b4bb29",
+      "size": 21260161
     },
     {
       "path": "gannyu_lancong.schema.yaml",
-      "sha256": "412aa7133710916da96dddf6200e3f95bdf285f12cf2d88886ac5a72049ada6f",
-      "size": 38317
-    },
-    {
-      "path": "gannyu_lancong_both_norel.dict.yaml",
-      "sha256": "0e75d9c2d07ff32bb49e500cf605f1fa379e76029a3a4878cf7ae54a933ccf84",
-      "size": 20893856
+      "sha256": "659b708b6fdd0d5bf19161574f09feff25d45c67212e6263630cd4bd8a924f12",
+      "size": 38920
     },
     {
       "path": "gannyu_lancong_both_norel.schema.yaml",
-      "sha256": "5a43014955f48a6222413e779f49463ac2b706fcd430bb47fad8a95fde6a8204",
-      "size": 34833
+      "sha256": "5869971a32a3d4121fd42539f3fcc59050e025438fbfbb3e81ea32b6bd2c63b3",
+      "size": 65636
     },
     {
       "path": "gannyu_lancong_both_norel_full_gan.schema.yaml",
-      "sha256": "a34d26ae62df34a0d59f9286350523cf9d391cdc661482d8cda018256e96e8da",
-      "size": 34874
+      "sha256": "4dae0c630b082f5b77e15779f51e64d8e4f8da78b49ecf406dcc235a20c7deee",
+      "size": 65677
     },
     {
       "path": "gannyu_lancong_both_norel_full_gan_nowenbai.schema.yaml",
-      "sha256": "7a7cd1b97fcaeb7ad6538590856f9aa67c01cf062be252b38d07baeb7b793aa5",
-      "size": 34893
+      "sha256": "09efc7895582917fd90591f0ab178558b784c064f0e7ab9e8a9826b2aefdd163",
+      "size": 65696
     },
     {
       "path": "gannyu_lancong_both_norel_nowenbai.schema.yaml",
-      "sha256": "780fd8293ce474987fcaa6bdb111693332ea54b411ade0b31f2deb7ce18f090c",
-      "size": 34852
+      "sha256": "a1c18f16c374a8b02add01406144f62be6fe07f9dffe3934ef0b44c4531b1405",
+      "size": 65655
     },
     {
       "path": "gannyu_lancong_both_norel_special_gan.schema.yaml",
-      "sha256": "f1f1e91ffaa4a638dbd464ec885377cb0f75e8e8fceefb31af667d5d61ada8d3",
-      "size": 7666
+      "sha256": "29229097dd707c321d992fbe920b4ab0ade51781546365e764bbf71bc560c336",
+      "size": 38585
     },
     {
       "path": "gannyu_lancong_both_norel_special_gan_nowenbai.schema.yaml",
-      "sha256": "a1459662fc85c0b6cca99da26e9878191d389888ec54047395f15b0120b1ce4b",
-      "size": 7685
+      "sha256": "282d6ecc787db3f4c118fabd968b87d0cc3c972384eeaf33f619178ee5f534a3",
+      "size": 38604
     },
     {
       "path": "gannyu_lancong_both_norel_special_mix.schema.yaml",
-      "sha256": "7f157e598751286718ecd2ccbfeab6f6f039f27b638833e9c2017c0888e6073b",
-      "size": 7643
+      "sha256": "2e1ae98d141e29edd1910d2020227951aa45bc481bf624474cd401b6340f7a2c",
+      "size": 38562
     },
     {
       "path": "gannyu_lancong_both_norel_special_mix_nowenbai.schema.yaml",
-      "sha256": "478c2cd516181497701c2794078aa2bc1a0abe8a8a9c97b076569b503579e3f3",
-      "size": 7662
+      "sha256": "0be8ed4c174dd1239465d2f359d3717b34ed7ddbd28edf481bafad8c4ed6b070",
+      "size": 38581
     },
     {
       "path": "gannyu_lancong_full_gan.schema.yaml",
-      "sha256": "dbaf519392701fea677aec15257bfcc1457722478a7adcfea3ad786b6506e272",
-      "size": 34830
+      "sha256": "9db53ed195591b896ae2780eda97131069f40a4a08e6b210169fc916f78b9a73",
+      "size": 35387
     },
     {
       "path": "gannyu_lancong_full_gan_nowenbai.schema.yaml",
-      "sha256": "2b1ea7da27ec9011d02394813baf01dc0a44f9b0af642d608f2b332153e0906e",
-      "size": 34849
-    },
-    {
-      "path": "gannyu_lancong_new_norel.dict.yaml",
-      "sha256": "046f323e812e56f0e443812abc9e75f103e8345a665dc762a65a4d548f76d608",
-      "size": 19939205
+      "sha256": "3739bc5a0bc232becc17b066a09e68cfc38f660cad846f0066d389355829f542",
+      "size": 35406
     },
     {
       "path": "gannyu_lancong_new_norel.schema.yaml",
-      "sha256": "cf2c765858d8c5e1fac77dfa173b6176eb3d423d171f82b82de668537d8ab7c1",
-      "size": 34829
+      "sha256": "fd0c2b08497db92b067728a833a17278d3b11a6903bbed0e36ad218e564012ba",
+      "size": 65650
     },
     {
       "path": "gannyu_lancong_new_norel_full_gan.schema.yaml",
-      "sha256": "6390117b418539a9b45ca25f29a6f4a93f51a42c39774b32276da066e4c2f982",
-      "size": 34870
+      "sha256": "729f9c67b54fa0f47b1c110a4abd1b94414877c5f7ee8d798bb02de7aa1673ea",
+      "size": 65691
     },
     {
       "path": "gannyu_lancong_new_norel_full_gan_nowenbai.schema.yaml",
-      "sha256": "5fa92ce0b3f7eace96cd3793f3562ec06e885bcfbfe26bb0a0a0e31bc934a395",
-      "size": 34889
+      "sha256": "19159607cc4488fbe84bb19e14cf8155486084374168559c5d90da5d1b06bd57",
+      "size": 65710
     },
     {
       "path": "gannyu_lancong_new_norel_nowenbai.schema.yaml",
-      "sha256": "4fe2d382af7604392a8dd5119fa464a24dee837a6464c8ca376344c369cdc0bb",
-      "size": 34848
+      "sha256": "5435dbe099eb943d15aabb4128656b1b0f5fc430d752e7c35bc75aa31a5ecba7",
+      "size": 65669
     },
     {
       "path": "gannyu_lancong_new_norel_special_gan.schema.yaml",
-      "sha256": "53a96ad5a5940e53d69a030ea490100e1fa6b98f8bf0b339b274b6d71041f4c4",
-      "size": 7662
+      "sha256": "06c55888847a83637675d8e73a6eacae37258908e3e875b91ca4122e306b5e06",
+      "size": 38599
     },
     {
       "path": "gannyu_lancong_new_norel_special_gan_nowenbai.schema.yaml",
-      "sha256": "ea10533e17595dc170615707b90bbb8bfbeae152af3e5deca24de197227df76d",
-      "size": 7681
+      "sha256": "842a7a2d51e1ef8f5126c5850f9f0a49c849d224d7769c2d44324b9bb5a807c3",
+      "size": 38618
     },
     {
       "path": "gannyu_lancong_new_norel_special_mix.schema.yaml",
-      "sha256": "289c4558cd284c2dd436f1118a6c2880527035979f78f61f712e89ecce9cf060",
-      "size": 7639
+      "sha256": "df44e176bbc2f98021a687481e1438304b84d0553ad0eb12a21d56872926bfbd",
+      "size": 38576
     },
     {
       "path": "gannyu_lancong_new_norel_special_mix_nowenbai.schema.yaml",
-      "sha256": "76ecc79ee7f333e45bebadfd8d0c932f7cd57faec1945321ee9741930491d18c",
-      "size": 7658
+      "sha256": "d5bc6ccac83eb8d63216e23396dd77c6dd168f65b249bd6602192bda43effe1b",
+      "size": 38595
     },
     {
       "path": "gannyu_lancong_new_rel.dict.yaml",
-      "sha256": "cd80d86b0fca296626940749e5cd73bd57b7f01acedbb19d7b131b6c73531e6a",
-      "size": 20297024
+      "sha256": "10ced93a2b76cb72b7b31f07301c7d5b9835ec28e4f8879f43a1eaf5016e8816",
+      "size": 20296791
     },
     {
       "path": "gannyu_lancong_new_rel.schema.yaml",
-      "sha256": "d3a39a649f839e5072bce9cc44762ecf482924f5e7b0c90020011d26e2a284dc",
-      "size": 34821
+      "sha256": "2801ac267b70992d77f9c88cd927f3362717566d11793ef2bf49bd6ee4009a93",
+      "size": 35378
     },
     {
       "path": "gannyu_lancong_new_rel_full_gan.schema.yaml",
-      "sha256": "8fbb7be44f04c6f5caafa2f71375714e60efbaaba29e9492efbe11666a5f3b7a",
-      "size": 34862
+      "sha256": "d5742576e1af2102cba283b61d0e66adaf15875c29649db57050da88f915fc5a",
+      "size": 35419
     },
     {
       "path": "gannyu_lancong_new_rel_full_gan_nowenbai.schema.yaml",
-      "sha256": "495595e8a44d60ea1da7c65fd0e91013e068d603efd07ba8b6be628a4276b805",
-      "size": 34881
+      "sha256": "e0e4437d6e6776dafc121209dea6e7859bc0398ff9513cacad05c56c3e4bdb5b",
+      "size": 35438
     },
     {
       "path": "gannyu_lancong_new_rel_nowenbai.schema.yaml",
-      "sha256": "e8696eae2c6fb6f57729d14503b770cc730c4e77c719901ec5124275a821d1f7",
-      "size": 34840
+      "sha256": "0a2d833b0296c204338a13fa53f84a29442a29a8d134b6a0e67ce9d199a14925",
+      "size": 35397
     },
     {
       "path": "gannyu_lancong_new_rel_special_gan.schema.yaml",
-      "sha256": "62520b84cd8ffc3f0928a27a3c9a08ccfad1cd4b572cbcb4acba7198b671b7ac",
-      "size": 7654
+      "sha256": "e70f331859651e80437cc52988030f8c2e93058c1dd7bb8dc9ef69d11f9c05e2",
+      "size": 8327
     },
     {
       "path": "gannyu_lancong_new_rel_special_gan_nowenbai.schema.yaml",
-      "sha256": "84bddbe1cced5e3dc023833f461f00d5c7cf16a76a9f5ccf37f8f87352034bd7",
-      "size": 7673
+      "sha256": "c566b629b58cda3e840cb8bb437b223db760b3979bd1caa0df8ce46d7e3a7945",
+      "size": 8346
     },
     {
       "path": "gannyu_lancong_new_rel_special_mix.schema.yaml",
-      "sha256": "96e73bde3f7f9e4ae71fa161a7c962aee29254993fa4207671b41d367f5c0e98",
-      "size": 7631
+      "sha256": "4f723fc99830d1fac416b751c5600298b15bc7ea3f5f06b9a5e77a2ad190fa5c",
+      "size": 8304
     },
     {
       "path": "gannyu_lancong_new_rel_special_mix_nowenbai.schema.yaml",
-      "sha256": "be82e4093cd80aa05570f188a893b5ce5f8a893bfe9fb81e3e05eaf5b1b3ef0a",
-      "size": 7650
+      "sha256": "80306e4cfddd52eb8a7f0bd534954afb6b2472364caf4e9c55f2d6604ca8e5e6",
+      "size": 8323
     },
     {
       "path": "gannyu_lancong_nowenbai.schema.yaml",
-      "sha256": "23ce751846d0f5b7cf2809fd12ad3888253397a5bc2ae4c0edfd30a28cd4538b",
-      "size": 34808
-    },
-    {
-      "path": "gannyu_lancong_old_norel.dict.yaml",
-      "sha256": "2b1582b2f5dc31a8bc1f9325fcb6c18fab34245117197682c3e0040f3000d2c8",
-      "size": 20196397
+      "sha256": "7cb7e84bc1265149741f68ba8a557dcb9181d61e800e91e2d1f31143b7a088b2",
+      "size": 35365
     },
     {
       "path": "gannyu_lancong_old_norel.schema.yaml",
-      "sha256": "071dbc50725e1de239eed61d367f9b865773fc7333a44e4fc1c9ec6b4fcad0bf",
-      "size": 34829
+      "sha256": "f90b1a31c956b4b14c9808f3737990899421846e657fe308e4ebd29e9413232c",
+      "size": 65650
     },
     {
       "path": "gannyu_lancong_old_norel_full_gan.schema.yaml",
-      "sha256": "84a45dfde009711dcc54b2ac8a6a25126c38ced536359c0f658716757bd6a9d3",
-      "size": 34870
+      "sha256": "fb4d8fd516f082c18c08301bd5d2f8b3eca9ebc45e4379ff1ff6ba9b6b3532cf",
+      "size": 65691
     },
     {
       "path": "gannyu_lancong_old_norel_full_gan_nowenbai.schema.yaml",
-      "sha256": "0b806a01adf43451e85dc3d07740e5ebc80c3366dd1fe4de9e28c55ecb9a6fa7",
-      "size": 34889
+      "sha256": "eb5b7239e94660c14f0750f2d264b045be694133941c735f511b8e6f5ca23f3c",
+      "size": 65710
     },
     {
       "path": "gannyu_lancong_old_norel_nowenbai.schema.yaml",
-      "sha256": "e1cba4afd06fcb30df061bced6e044a2d9b57927494757240404ef86f7afbc8a",
-      "size": 34848
+      "sha256": "a017da8c9e35884ee9eff25ed6f7f5840439c7c61e38e8ad6a23de590088f561",
+      "size": 65669
     },
     {
       "path": "gannyu_lancong_old_norel_special_gan.schema.yaml",
-      "sha256": "be12a85edb1029b3418bc7e9c3245b091bc7089d429c2c202e6a0b5c8f431109",
-      "size": 7662
+      "sha256": "ad431048f5322b3a108735338380193736f7aa3e50875164b762b168a2706856",
+      "size": 38599
     },
     {
       "path": "gannyu_lancong_old_norel_special_gan_nowenbai.schema.yaml",
-      "sha256": "81495d23e6d9cbf432114c210026b4fccf733ea1e16f804a92f5c622bf560943",
-      "size": 7681
+      "sha256": "de5351dc8802cd39111cbcce60f736f3b32d8d62f8aa40a5319f90b96ef4139d",
+      "size": 38618
     },
     {
       "path": "gannyu_lancong_old_norel_special_mix.schema.yaml",
-      "sha256": "d34143d141d21f6c2c0e2ef7a5091de9dd14154535b629175acb89cd2eb3d682",
-      "size": 7639
+      "sha256": "791e3fa0e483e79a520b8ef08a70da1d33337c555e5dfd812dbcbbf725c2b395",
+      "size": 38576
     },
     {
       "path": "gannyu_lancong_old_norel_special_mix_nowenbai.schema.yaml",
-      "sha256": "8f096746ecfbcc3f37760d2f47c6d8640086fea8af4c94ace6fcbd106350fad9",
-      "size": 7658
+      "sha256": "6e675388beeaf025c7295b52e7608b83d11cf52d2bd02b81cf7a2e7b33bdeba2",
+      "size": 38595
     },
     {
       "path": "gannyu_lancong_old_rel.dict.yaml",
-      "sha256": "4730af5e5926cd3413711a6172f32c07b5414e026fbd5737a643710b2f0925e6",
-      "size": 20556121
+      "sha256": "a2f0cb98b578d2c308a18e25d06c87476dbf6048a5c6113ebcffc8d5eab9189f",
+      "size": 20551870
     },
     {
       "path": "gannyu_lancong_old_rel.schema.yaml",
-      "sha256": "9dde5458c0af2816a1ec6603d08fa2d70bf2ba135246884203b5ad6d957cea7d",
-      "size": 34821
+      "sha256": "a586d0e7053ac2ff2a011fb5c7e6a8b5b962348ca6c271769fd0d0b1b4da9f17",
+      "size": 35378
     },
     {
       "path": "gannyu_lancong_old_rel_full_gan.schema.yaml",
-      "sha256": "b632af7c539d8cc45d8faaa3cb285bdd4320dcb267475b2b6e4921d90000f51c",
-      "size": 34862
+      "sha256": "7710e21abbb3603dd5a4a8b9c60cf94ae4fe6ecff0a00862d96006d836451d4f",
+      "size": 35419
     },
     {
       "path": "gannyu_lancong_old_rel_full_gan_nowenbai.schema.yaml",
-      "sha256": "4a098603d09545e94d247af79abcd15ac6ef0cc418ff7aafb9d638843c6fe5b7",
-      "size": 34881
+      "sha256": "8cde5b236f13834a9bec95b53931162729f982da86bd80c9f0dd6d1319fd4a9f",
+      "size": 35438
     },
     {
       "path": "gannyu_lancong_old_rel_nowenbai.schema.yaml",
-      "sha256": "b1650fe7b9206d88a3a1bf10829090048e2bdb0c9b396eac3507c4325948547d",
-      "size": 34840
+      "sha256": "8eb2de6434774b4890e3f5618d4301837aa21867c560c65f8b8ffb88bb398689",
+      "size": 35397
     },
     {
       "path": "gannyu_lancong_old_rel_special_gan.schema.yaml",
-      "sha256": "dc9082ba1b513a7a1806b2d089a6cabe0985c49c02b4583576183e5264fb7453",
-      "size": 7654
+      "sha256": "fc19953f3cdfac0240497b92ea56315b06d2817cbe9cc91d830a3c0733eff468",
+      "size": 8327
     },
     {
       "path": "gannyu_lancong_old_rel_special_gan_nowenbai.schema.yaml",
-      "sha256": "031e369215d4ce48f8ac0c270229d31156a1452177d665e328d4c63d443565eb",
-      "size": 7673
+      "sha256": "d6fddf061e0f739b4e1f41bc1262b197f19960ad672bdae422da7a87d9f571a7",
+      "size": 8346
     },
     {
       "path": "gannyu_lancong_old_rel_special_mix.schema.yaml",
-      "sha256": "17903cbb3f1dceb7a9d2fef7c242a570f0f075299770fbec346dc728b0160340",
-      "size": 7631
+      "sha256": "8fe661f1b86e68824ad683d03d834c2a613c33ec946c9348629e3bc92aace701",
+      "size": 8304
     },
     {
       "path": "gannyu_lancong_old_rel_special_mix_nowenbai.schema.yaml",
-      "sha256": "27f52b2e9814546f259914c1c882e2ed64d40703f1ecf39d39caaca71d3e3d48",
-      "size": 7650
+      "sha256": "3cccf4197e8d41eee16b780cad1655965fe933abc9511f37500c80c297311d79",
+      "size": 8323
     },
     {
       "path": "gannyu_lancong_special_gan.schema.yaml",
-      "sha256": "4415681cdefe80467837601f960e42e2096df7b54994ff486f66763d50ca1621",
-      "size": 7622
+      "sha256": "68df813ccc87630c08138d63fc72106b7175e2db5f79f729eea42338b7061940",
+      "size": 8295
     },
     {
       "path": "gannyu_lancong_special_gan_nowenbai.schema.yaml",
-      "sha256": "eb9b7b2d123de4f9396cc6ae7da493f2137357d3ebbe8966093ac1b982be1439",
-      "size": 7641
+      "sha256": "0321fc1ddb0f743aef754379a33ffe110a31479114528ee17537d978295edeb8",
+      "size": 8314
     },
     {
       "path": "gannyu_lancong_special_mix.schema.yaml",
-      "sha256": "a9acdbf445fc1c12da760646efff17930251f3aa13d983efd282e1ae3e8156b9",
-      "size": 7599
+      "sha256": "d06b0088e6f3288fe6eb7e9b101e465595a90506e88351fbd7c93ad0ae35b9ed",
+      "size": 8272
     },
     {
       "path": "gannyu_lancong_special_mix_nowenbai.schema.yaml",
-      "sha256": "6a1456c29b6edafbf46cdd1d3117c1656c478ab49a3ab9bf50b86642d91ce2e5",
-      "size": 7618
+      "sha256": "4a6015920bb8c0007158be51b3cdd4a0281f5785c3b721ecde0d4b9bc4c000c1",
+      "size": 8291
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
-      "sha256": "3ee4dad02b1ef320a6583bf814316c9640881395606d41954b1dae421e6086b5",
-      "size": 1299
+      "sha256": "7ba31dc81afd555178813466c3623d5cd9c524023c8caeb6a23c6b53c311955d",
+      "size": 3840
     },
     {
       "path": "lua/gannyu_annotation_store.lua",
@@ -292,73 +277,73 @@
     },
     {
       "path": "lua/gannyu_data_lifecycle.lua",
-      "sha256": "401b0f4a96eb9fa53c577d73da8f3648976155c02136650769e393e88f0cc2a6",
-      "size": 925
+      "sha256": "931aa3acddb26ea289ab72d20c36b45d75169c593c31e898c9e35d4c09d7501b",
+      "size": 1109
     },
     {
       "path": "lua/gannyu_input_options.lua",
-      "sha256": "45fb9d65c0a24e74a101a2f46a67495b7dd0b2b7cb3861a9bed424cf04c00732",
-      "size": 1504
+      "sha256": "1f7fc6dcae7bf9886c37933a6263fdf36d04f10bcb95b775d069a542d8c2d0b4",
+      "size": 2061
     },
     {
       "path": "lua/gannyu_lancong_annotations.bin",
-      "sha256": "5a7bc7c46b927a2ee207acf17149167223f4d6ab26b8badc326c1f9be95c322f",
-      "size": 5171390
+      "sha256": "f7eeb7fea02ef7211e22a111564ce5a3bc7f7b63ca174e48b34bc67591919163",
+      "size": 5171910
     },
     {
       "path": "lua/gannyu_lancong_both_norel_annotations.bin",
-      "sha256": "7518ac81b233db7cab5765fe4473719b44fe3caedfe29db9c734cfa7d95f7e7d",
-      "size": 5000473
+      "sha256": "a27a1e1e6ae9ff1f6ae34b123972aebdaeeac3fa2dcf814b4ea85a0f3c0970d4",
+      "size": 5000702
     },
     {
       "path": "lua/gannyu_lancong_both_norel_data.lua",
-      "sha256": "f47d1ea9c9d7073805d4e43f0a73a0214bbd4b12252758112d4951572076c90e",
-      "size": 903946
+      "sha256": "8305df5fa429aacd0671e47e43377478284342cd2e18816f9d26b5dd68d75843",
+      "size": 903904
     },
     {
       "path": "lua/gannyu_lancong_data.lua",
-      "sha256": "5abe254a46892220784fbad361ab6a7480f26942d718850a009ba643721f4a59",
-      "size": 950388
+      "sha256": "d40ea12f8b822d3cee0045ae0e54526f358e7a9c792de36fc4c7c4f9855d3494",
+      "size": 950503
     },
     {
       "path": "lua/gannyu_lancong_new_norel_annotations.bin",
-      "sha256": "08fe7fb616bf3e3f317cedf89fdbac44bf2f0b8c841e9979f4898ed2a49add76",
-      "size": 4667727
+      "sha256": "b9433e460ceac07f562f44d45d7bcb0ded8c0477e586f48b3be5169b2db5ae7e",
+      "size": 4667501
     },
     {
       "path": "lua/gannyu_lancong_new_norel_data.lua",
-      "sha256": "7bbdaddb93e9962220fb84dc29329acfd43bea89997277621390f2a678cd5dc6",
-      "size": 903940
+      "sha256": "a15cf2928592abe713962773dc493983d08ab350eb312a46ba61fa3771ad9e93",
+      "size": 903897
     },
     {
       "path": "lua/gannyu_lancong_new_rel_annotations.bin",
-      "sha256": "c2225d196d53424a2f1f2072da71e96b9e24cb7063d66cc9b72b27f3fcb85a9f",
-      "size": 4833600
+      "sha256": "aaf6cc900b85aacc08a604cf7e272887d77f666855912cf79a7363adfd0df6a7",
+      "size": 4833661
     },
     {
       "path": "lua/gannyu_lancong_new_rel_data.lua",
-      "sha256": "8d3e597a2a371a914b500cb6b95de26ec8242e7abb177051825444607edaea3c",
-      "size": 950390
+      "sha256": "0733f837b0d675b8c665538ed79d4732b57add9ccc75958324542bfd5550a28a",
+      "size": 950504
     },
     {
       "path": "lua/gannyu_lancong_old_norel_annotations.bin",
-      "sha256": "daf387c93e79ec33051f478163025247ba29e4431729a0ae02010e7c103c0595",
-      "size": 4668989
+      "sha256": "f54557b560d10d2223d4ad2454c68a185c5fd95062de5119f6a5d15707e55e13",
+      "size": 4667959
     },
     {
       "path": "lua/gannyu_lancong_old_norel_data.lua",
-      "sha256": "dbc04a99efdb6bb2d3e7809f50cc09b1df2c58c46036d77c4c51a9ee5e9c9034",
-      "size": 903906
+      "sha256": "3d1d5aae53f429a9c9332a37f726980ed92c467f51ea1a413763f8d709e36238",
+      "size": 903864
     },
     {
       "path": "lua/gannyu_lancong_old_rel_annotations.bin",
-      "sha256": "6053b2e590015cbf0eb44fa2ccfd1afb26b08b0dfaf558e973ee53388acf3689",
-      "size": 4834988
+      "sha256": "2af052ccbf3fb3e047747dbc150d5d1733e749767e0372782151cfb542696114",
+      "size": 4834232
     },
     {
       "path": "lua/gannyu_lancong_old_rel_data.lua",
-      "sha256": "13972939b05cbdf41bf62017e3cd40a7289ddcc2d19d72b2010b828171893d42",
-      "size": 950357
+      "sha256": "e5ffa453c857bea2f5340d6d573e08a290641ea9895c410071fc0ce11428a9ec",
+      "size": 950472
     },
     {
       "path": "lua/gannyu_options_translator.lua",
@@ -376,7 +361,7 @@
       "size": 1616
     }
   ],
-  "product_version": "1.2.8",
+  "product_version": "1.3.0",
   "regions": [
     {
       "id": "lancong",
@@ -384,5 +369,5 @@
       "schema_id": "gannyu_lancong"
     }
   ],
-  "schema_version": "1.2.8"
+  "schema_version": "1.3.0"
 }
