@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong_new_rel
-version: "1.3.1"
+version: "1.3.2"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -3987,8 +3987,8 @@ use_preset_vocabulary: false
 䝸	ji	5411
 䝹	Gwon	4265
 䝹	wan	4265
-䞀	Ghêu	19188
-䞀	hou	19188
+䞀	Ghêu	155000
+䞀	hou	155000
 䞁	Gyên	5044
 䞁	yan	5044
 䞂	Glon	5181
@@ -157688,6 +157688,9 @@ use_preset_vocabulary: false
 单打独斗	Gdan Gda du Gdêu	150
 单打独斗	Gdan Gda du dou	150
 单打独斗	dan da du dou	150
+单挑	Gdan Gtiêu	100000
+单挑	Gdan tiao	100000
+单挑	dan tiao	100000
 单据	Gdan Gjyu	108
 单据	Gdan ju	108
 单据	dan ju	108
@@ -196551,6 +196554,10 @@ use_preset_vocabulary: false
 啯魍鬼叫	guo wang gui jiao	100000
 啰	Glo	200000
 啰	luo	200000
+啰嗦	Glo Gso	100000
+啰嗦	Glo suo	100000
+啰嗦	luo Gso	100000
+啰嗦	luo suo	100000
 啴	Gtan	18445
 啴	chan	18445
 啵	Gbo	200000
@@ -285239,10 +285246,10 @@ use_preset_vocabulary: false
 平推式	ping Gtui Gsïk	16
 平推式	ping Gtui shi	16
 平推式	ping tui shi	16
-平摊	Gpin Gtan	19
-平摊	Wpiang Gtan	19
-平摊	ping Gtan	19
-平摊	ping tan	19
+平摊	Gpin Gtan	111521
+平摊	Wpiang Gtan	111521
+平摊	ping Gtan	111521
+平摊	ping tan	111521
 平摩尔	Gpin Gmo Geo	9
 平摩尔	Gpin Gmo er	9
 平摩尔	Wpiang Gmo Geo	9
@@ -299206,10 +299213,6 @@ use_preset_vocabulary: false
 强奸罪	qiang Ggan zui	26
 强奸罪	qiang jian Gcui	26
 强奸罪	qiang jian zui	26
-强妄	Gqiong Gwong	78549
-强妄	Gqiong wang	78549
-强妄	qiang Gwong	78549
-强妄	qiang wang	78549
 强子	Gqiong Gzï	55
 强子	Gqiong zi	55
 强子	qiang Gzï	55
@@ -299446,10 +299449,10 @@ use_preset_vocabulary: false
 强梁	Gqiong liang	9
 强梁	qiang Gliong	9
 强梁	qiang liang	9
-强横	Gqiong Ghên	82
-强横	Gqiong heng	82
-强横	qiang Ghên	82
-强横	qiang heng	82
+强横	Gqiong Ghên	78549
+强横	Gqiong heng	78549
+强横	qiang Ghên	78549
+强横	qiang heng	78549
 强求	Gqiong Gqiu	134000
 强求	qiang Gqiu	134000
 强求	qiang qiu	134000
@@ -302631,6 +302634,11 @@ use_preset_vocabulary: false
 很早以前	hen zao Gyi Gqiên	18
 很早以前	hen zao Gyi qian	18
 很早以前	hen zao yi qian	18
+很轻	Ghên Gqin	115717
+很轻	Ghên Wqiang	115717
+很轻	Ghên qing	115717
+很轻	hen Gqin	115717
+很轻	hen qing	115717
 很难说	Ghên Glan Gsot	25223
 很难说	Ghên Glan shuo	25223
 很难说	Ghên nan Gsot	25223
@@ -325279,6 +325287,12 @@ use_preset_vocabulary: false
 打平	Gda Wpiang	34
 打平	Gda ping	34
 打平	da ping	34
+打平伙	Gda Gpiang Gfo	128250
+打平伙	Gda Gpiang huo	128250
+打平伙	Gda Wpin Gfo	128250
+打平伙	Gda ping Gfo	128250
+打平伙	Gda ping huo	128250
+打平伙	da ping huo	128250
 打底	Gda Gdi	18
 打开	Gda Gkai	200000
 打开天窗说亮话	Gda Gkai Gtiên Gcong Gsot Gliong Gwa	14
@@ -325655,11 +325669,11 @@ use_preset_vocabulary: false
 打罗	Gda Glo	110000
 打罗	Gda luo	110000
 打罗	da luo	110000
-打群架	Gda Gqyun Gga	16
-打群架	Gda Gqyun jia	16
-打群架	Gda qun Gga	16
-打群架	Gda qun jia	16
-打群架	da qun jia	16
+打群架	Gda Gqyun Gga	100000
+打群架	Gda Gqyun jia	100000
+打群架	Gda qun Gga	100000
+打群架	Gda qun jia	100000
+打群架	da qun jia	100000
 打翻	Gda Gfan	56
 打耳光	Gda Geo Gguong	11
 打耳光	Gda Geo guang	11
@@ -343911,6 +343925,7 @@ use_preset_vocabulary: false
 搰	Gfet	5603
 搰	Gfuk	4875
 搰	hu	5603
+搲	Gwa	123289
 搴	Gjiên	73577
 搴	qian	73577
 搷	Gtiên	4370
@@ -343974,8 +343989,8 @@ use_preset_vocabulary: false
 携起手来	xie Gqi shou Glêi	20
 携起手来	xie Gqi shou lai	20
 携起手来	xie qi shou lai	20
-搽	Gca	10006
-搽	cha	10006
+搽	Gca	128342
+搽	cha	128342
 搿	Ghot	4290
 搿	ge	4290
 摀	Gwu	4347
@@ -345080,6 +345095,15 @@ use_preset_vocabulary: false
 撎	Gyi	4759
 撑	Gcang	195000
 撑	cheng	195000
+撑不清	Gcang Gbet Gqin	128452
+撑不清	Gcang Gbet Wqiang	128452
+撑不清	Gcang Gbet qing	128452
+撑不清	Gcang bu Gqin	128452
+撑不清	Gcang bu qing	128452
+撑不清	cheng Gbet Gqin	128452
+撑不清	cheng Gbet qing	128452
+撑不清	cheng bu Gqin	128452
+撑不清	cheng bu qing	128452
 撑伞	Gcang Gsan	8
 撑伞	cheng Gsan	8
 撑伞	cheng san	8
@@ -384428,6 +384452,14 @@ use_preset_vocabulary: false
 杀场	Gsat chang	16
 杀场	sha Gcong	16
 杀场	sha chang	16
+杀大阵	Gsat Gtai Gqin	100000
+杀大阵	Gsat Gtai zhen	100000
+杀大阵	Gsat da Gqin	100000
+杀大阵	Gsat da zhen	100000
+杀大阵	sha Gtai Gqin	100000
+杀大阵	sha Gtai zhen	100000
+杀大阵	sha da Gqin	100000
+杀大阵	sha da zhen	100000
 杀头	Gsat Gtêu	217
 杀头	Gsat tou	217
 杀头	sha Gtêu	217
@@ -384513,6 +384545,14 @@ use_preset_vocabulary: false
 杀灭	Gsat mie	120
 杀灭	sha Gmiêt	120
 杀灭	sha mie	120
+杀点子	Gsat Gdiên Gzï	100000
+杀点子	Gsat Gdiên zi	100000
+杀点子	Gsat dian Gzï	100000
+杀点子	Gsat dian zi	100000
+杀点子	sha Gdiên Gzï	100000
+杀点子	sha Gdiên zi	100000
+杀点子	sha dian Gzï	100000
+杀点子	sha dian zi	100000
 杀猴子	Gsat Ghêu Gzï	100000
 杀猴子	Gsat Ghêu zi	100000
 杀猴子	Gsat hou Gzï	100000
@@ -399534,10 +399574,10 @@ use_preset_vocabulary: false
 梯队	Gti Gdui	106
 械	Gkai	145000
 械	xie	145000
-械斗	Gkai Gdêu	25031
-械斗	Gkai dou	25031
-械斗	xie Gdêu	25031
-械斗	xie dou	25031
+械斗	Gkai Gdêu	100000
+械斗	Gkai dou	100000
+械斗	xie Gdêu	100000
+械斗	xie dou	100000
 梱	Gkun	4184
 梱	Gwun	5413
 梱	kun	5413
@@ -403277,41 +403317,51 @@ use_preset_vocabulary: false
 橘黄色	ju huang Gsêt	15
 橘黄色	ju huang se	15
 橙	Gcang	30000
-橙	cheng	30000
-橙子	Gcang Gzï	41
-橙子	Gcang zi	41
+橙	Gcen	100000
+橙	cheng	100000
+橙子	Gcen Gzï	41
+橙子	Gcen zi	41
+橙子	Wcang Gzï	41
 橙子	cheng Gzï	41
 橙子	cheng zi	41
-橙汁	Gcang Gzet	26
-橙汁	Gcang zhi	26
+橙汁	Gcen Gzet	26
+橙汁	Gcen zhi	26
+橙汁	Wcang Gzet	26
 橙汁	cheng Gzet	26
 橙汁	cheng zhi	26
-橙红	Gcang Gfung	7
-橙红	Gcang hong	7
+橙红	Gcen Gfung	7
+橙红	Gcen hong	7
+橙红	Wcang Gfung	7
 橙红	cheng Gfung	7
 橙红	cheng hong	7
-橙红色	Gcang Gfung Gsêt	32
-橙红色	Gcang Gfung se	32
-橙红色	Gcang hong Gsêt	32
-橙红色	Gcang hong se	32
+橙红色	Gcen Gfung Gsêt	32
+橙红色	Gcen Gfung se	32
+橙红色	Gcen hong Gsêt	32
+橙红色	Gcen hong se	32
+橙红色	Wcang Gfung Gsêt	32
 橙红色	cheng Gfung Gsêt	32
 橙红色	cheng Gfung se	32
 橙红色	cheng hong Gsêt	32
 橙红色	cheng hong se	32
-橙色	Gcang Gsêt	80
-橙色	Gcang se	80
+橙色	Gcen Gsêt	80
+橙色	Gcen se	80
+橙色	Wcang Gsêt	80
 橙色	cheng Gsêt	80
 橙色	cheng se	80
-橙黄	Gcang Gwong	29
-橙黄	Gcang Wfong	29
-橙黄	Gcang huang	29
+橙黄	Gcen Gwong	29
+橙黄	Gcen Wfong	29
+橙黄	Gcen huang	29
+橙黄	Wcang Gwong	29
+橙黄	Wcang Wfong	29
 橙黄	cheng Gwong	29
 橙黄	cheng huang	29
-橙黄色	Gcang Gwong Gsêt	48
-橙黄色	Gcang Gwong se	48
-橙黄色	Gcang Wfong Gsêt	48
-橙黄色	Gcang huang Gsêt	48
-橙黄色	Gcang huang se	48
+橙黄色	Gcen Gwong Gsêt	48
+橙黄色	Gcen Gwong se	48
+橙黄色	Gcen Wfong Gsêt	48
+橙黄色	Gcen huang Gsêt	48
+橙黄色	Gcen huang se	48
+橙黄色	Wcang Gwong Gsêt	48
+橙黄色	Wcang Wfong Gsêt	48
 橙黄色	cheng Gwong Gsêt	48
 橙黄色	cheng Gwong se	48
 橙黄色	cheng huang Gsêt	48
@@ -431849,34 +431899,34 @@ use_preset_vocabulary: false
 浒	Gfu	90000
 浒	Gxyu	90000
 浒	hu	90000
-浓	Gniung	145000
-浓	nong	145000
-浓厚	Gniung Ghêu	1369
-浓厚	Gniung hou	1369
+浓	Glung	126878
+浓	nong	126878
+浓厚	Glung Ghêu	1369
+浓厚	Glung hou	1369
 浓厚	nong Ghêu	1369
 浓厚	nong hou	1369
-浓墨重彩	Gniung Gmêt Gcung Gcai	20
-浓墨重彩	Gniung Gmêt zhong Gcai	20
-浓墨重彩	Gniung Wmak Gcung Gcai	20
-浓墨重彩	Gniung mo Gcung Gcai	20
-浓墨重彩	Gniung mo zhong Gcai	20
+浓墨重彩	Glung Gmêt Gcung Gcai	20
+浓墨重彩	Glung Gmêt zhong Gcai	20
+浓墨重彩	Glung Wmak Gcung Gcai	20
+浓墨重彩	Glung mo Gcung Gcai	20
+浓墨重彩	Glung mo zhong Gcai	20
 浓墨重彩	nong Gmêt Gcung Gcai	20
 浓墨重彩	nong Gmêt zhong Gcai	20
 浓墨重彩	nong mo Gcung Gcai	20
 浓墨重彩	nong mo zhong Gcai	20
 浓墨重彩	nong mo zhong cai	20
-浓妆	Gniung Gzong	26
-浓妆	Gniung zhuang	26
+浓妆	Glung Gzong	26
+浓妆	Glung zhuang	26
 浓妆	nong Gzong	26
 浓妆	nong zhuang	26
-浓妆艳抹	Gniung Gzong Gyên Gmot	40
-浓妆艳抹	Gniung Gzong Gyên mo	40
-浓妆艳抹	Gniung Gzong yan Gmot	40
-浓妆艳抹	Gniung Gzong yan mo	40
-浓妆艳抹	Gniung zhuang Gyên Gmot	40
-浓妆艳抹	Gniung zhuang Gyên mo	40
-浓妆艳抹	Gniung zhuang yan Gmot	40
-浓妆艳抹	Gniung zhuang yan mo	40
+浓妆艳抹	Glung Gzong Gyên Gmot	40
+浓妆艳抹	Glung Gzong Gyên mo	40
+浓妆艳抹	Glung Gzong yan Gmot	40
+浓妆艳抹	Glung Gzong yan mo	40
+浓妆艳抹	Glung zhuang Gyên Gmot	40
+浓妆艳抹	Glung zhuang Gyên mo	40
+浓妆艳抹	Glung zhuang yan Gmot	40
+浓妆艳抹	Glung zhuang yan mo	40
 浓妆艳抹	nong Gzong Gyên Gmot	40
 浓妆艳抹	nong Gzong Gyên mo	40
 浓妆艳抹	nong Gzong yan Gmot	40
@@ -431885,67 +431935,67 @@ use_preset_vocabulary: false
 浓妆艳抹	nong zhuang Gyên mo	40
 浓妆艳抹	nong zhuang yan Gmot	40
 浓妆艳抹	nong zhuang yan mo	40
-浓密	Gniung Gmit	161
-浓密	Gniung mi	161
+浓密	Glung Gmit	161
+浓密	Glung mi	161
 浓密	nong Gmit	161
 浓密	nong mi	161
-浓度	Gniung Gtu	1043
-浓度	Gniung du	1043
+浓度	Glung Gtu	1043
+浓度	Glung du	1043
 浓度	nong Gtu	1043
 浓度	nong du	1043
-浓汁	Gniung Gzet	9
-浓汁	Gniung zhi	9
+浓汁	Glung Gzet	9
+浓汁	Glung zhi	9
 浓汁	nong Gzet	9
 浓汁	nong zhi	9
-浓浓	Gniung Gniung	48
-浓浓	Gniung nong	48
-浓浓	nong Gniung	48
+浓浓	Glung Glung	48
+浓浓	Glung nong	48
+浓浓	nong Glung	48
 浓浓	nong nong	48
-浓浓嗰	Gniung Gniung Ggo	119
-浓浓嗰	Gniung Gniung ge	119
-浓浓嗰	Gniung nong Ggo	119
-浓浓嗰	Gniung nong ge	119
-浓浓嗰	nong Gniung Ggo	119
-浓浓嗰	nong Gniung ge	119
+浓浓嗰	Glung Glung Ggo	119
+浓浓嗰	Glung Glung ge	119
+浓浓嗰	Glung nong Ggo	119
+浓浓嗰	Glung nong ge	119
+浓浓嗰	nong Glung Ggo	119
+浓浓嗰	nong Glung ge	119
 浓浓嗰	nong nong Ggo	119
 浓浓嗰	nong nong ge	119
-浓浓的	Gniung Gniung Gdit	119
-浓浓的	Gniung Gniung de	119
-浓浓的	Gniung nong Gdit	119
-浓浓的	Gniung nong de	119
-浓浓的	nong Gniung Gdit	119
-浓浓的	nong Gniung de	119
+浓浓的	Glung Glung Gdit	119
+浓浓的	Glung Glung de	119
+浓浓的	Glung nong Gdit	119
+浓浓的	Glung nong de	119
+浓浓的	nong Glung Gdit	119
+浓浓的	nong Glung de	119
 浓浓的	nong nong Gdit	119
 浓浓的	nong nong de	119
-浓淡	Gniung Gtan	52
-浓淡	Gniung dan	52
+浓淡	Glung Gtan	52
+浓淡	Glung dan	52
 浓淡	nong Gtan	52
 浓淡	nong dan	52
-浓烈	Gniung Gliêt	247
-浓烈	Gniung lie	247
+浓烈	Glung Gliêt	247
+浓烈	Glung lie	247
 浓烈	nong Gliêt	247
 浓烈	nong lie	247
-浓烟	Gniung Gyên	216
-浓烟	Gniung yan	216
+浓烟	Glung Gyên	216
+浓烟	Glung yan	216
 浓烟	nong Gyên	216
 浓烟	nong yan	216
-浓烟滚滚	Gniung Gyên Ggun Ggun	14
-浓烟滚滚	Gniung yan Ggun Ggun	14
+浓烟滚滚	Glung Gyên Ggun Ggun	14
+浓烟滚滚	Glung yan Ggun Ggun	14
 浓烟滚滚	nong Gyên Ggun Ggun	14
 浓烟滚滚	nong yan Ggun Ggun	14
 浓烟滚滚	nong yan gun gun	14
-浓眉	Gniung Gmi	72
-浓眉	Gniung mei	72
+浓眉	Glung Gmi	72
+浓眉	Glung mei	72
 浓眉	nong Gmi	72
 浓眉	nong mei	72
-浓眉大眼	Gniung Gmi Gtai Gngan	65
-浓眉大眼	Gniung Gmi Gtai yan	65
-浓眉大眼	Gniung Gmi da Gngan	65
-浓眉大眼	Gniung Gmi da yan	65
-浓眉大眼	Gniung mei Gtai Gngan	65
-浓眉大眼	Gniung mei Gtai yan	65
-浓眉大眼	Gniung mei da Gngan	65
-浓眉大眼	Gniung mei da yan	65
+浓眉大眼	Glung Gmi Gtai Gngan	65
+浓眉大眼	Glung Gmi Gtai yan	65
+浓眉大眼	Glung Gmi da Gngan	65
+浓眉大眼	Glung Gmi da yan	65
+浓眉大眼	Glung mei Gtai Gngan	65
+浓眉大眼	Glung mei Gtai yan	65
+浓眉大眼	Glung mei da Gngan	65
+浓眉大眼	Glung mei da yan	65
 浓眉大眼	nong Gmi Gtai Gngan	65
 浓眉大眼	nong Gmi Gtai yan	65
 浓眉大眼	nong Gmi da Gngan	65
@@ -431954,42 +432004,42 @@ use_preset_vocabulary: false
 浓眉大眼	nong mei Gtai yan	65
 浓眉大眼	nong mei da Gngan	65
 浓眉大眼	nong mei da yan	65
-浓绿	Gniung Glyut	26
-浓绿	Gniung lv	26
+浓绿	Glung Glyut	26
+浓绿	Glung lv	26
 浓绿	nong Glyut	26
 浓绿	nong lv	26
-浓缩	Gniung Gsok	692
-浓缩	Gniung suo	692
+浓缩	Glung Gsok	692
+浓缩	Glung suo	692
 浓缩	nong Gsok	692
 浓缩	nong suo	692
-浓艳	Gniung Gyên	33
-浓艳	Gniung yan	33
+浓艳	Glung Gyên	33
+浓艳	Glung yan	33
 浓艳	nong Gyên	33
 浓艳	nong yan	33
-浓茶	Gniung Gca	75
-浓茶	Gniung cha	75
+浓茶	Glung Gca	75
+浓茶	Glung cha	75
 浓茶	nong Gca	75
 浓茶	nong cha	75
-浓荫	Gniung Gyin	46
+浓荫	Glung Gyin	46
 浓荫	nong Gyin	46
 浓荫	nong yin	46
-浓郁	Gniung Gyut	1227
-浓郁	Gniung yu	1227
+浓郁	Glung Gyut	1227
+浓郁	Glung yu	1227
 浓郁	nong Gyut	1227
 浓郁	nong yu	1227
-浓重	Gniung Gcung	259
-浓重	Gniung zhong	259
+浓重	Glung Gcung	259
+浓重	Glung zhong	259
 浓重	nong Gcung	259
 浓重	nong zhong	259
-浓雾	Gniung Gwu	125
+浓雾	Glung Gwu	125
 浓雾	nong Gwu	125
 浓雾	nong wu	125
-浓香	Gniung Gxiong	49
-浓香	Gniung xiang	49
+浓香	Glung Gxiong	49
+浓香	Glung xiang	49
 浓香	nong Gxiong	49
 浓香	nong xiang	49
-浓黑	Gniung Ghêt	43
-浓黑	Gniung hei	43
+浓黑	Glung Ghêt	43
+浓黑	Glung hei	43
 浓黑	nong Ghêt	43
 浓黑	nong hei	43
 浔	Gxyun	90000
@@ -457109,22 +457159,22 @@ use_preset_vocabulary: false
 牲口棚	sheng Gkiêu peng	17
 牲口棚	sheng kou Gpang	17
 牲口棚	sheng kou peng	17
-牲畜	Gsên Gxiuk	717
+牲畜	Gsên Gcuk	717
 牲畜	Gsên chu	717
-牲畜	sheng Gxiuk	717
+牲畜	sheng Gcuk	717
 牲畜	sheng chu	717
-牲畜头数	Gsên Gxiuk Gtêu Gsu	17
-牲畜头数	Gsên Gxiuk Gtêu shu	17
-牲畜头数	Gsên Gxiuk tou Gsu	17
-牲畜头数	Gsên Gxiuk tou shu	17
+牲畜头数	Gsên Gcuk Gtêu Gsu	17
+牲畜头数	Gsên Gcuk Gtêu shu	17
+牲畜头数	Gsên Gcuk tou Gsu	17
+牲畜头数	Gsên Gcuk tou shu	17
 牲畜头数	Gsên chu Gtêu Gsu	17
 牲畜头数	Gsên chu Gtêu shu	17
 牲畜头数	Gsên chu tou Gsu	17
 牲畜头数	Gsên chu tou shu	17
-牲畜头数	sheng Gxiuk Gtêu Gsu	17
-牲畜头数	sheng Gxiuk Gtêu shu	17
-牲畜头数	sheng Gxiuk tou Gsu	17
-牲畜头数	sheng Gxiuk tou shu	17
+牲畜头数	sheng Gcuk Gtêu Gsu	17
+牲畜头数	sheng Gcuk Gtêu shu	17
+牲畜头数	sheng Gcuk tou Gsu	17
+牲畜头数	sheng Gcuk tou shu	17
 牲畜头数	sheng chu Gtêu Gsu	17
 牲畜头数	sheng chu Gtêu shu	17
 牲畜头数	sheng chu tou Gsu	17
@@ -461444,6 +461494,11 @@ use_preset_vocabulary: false
 猪兜	Gzu dou	100000
 猪兜	zhu Gdêu	100000
 猪兜	zhu dou	100000
+猪兜哩	Gzu Gdêu Gli	126738
+猪兜哩	Gzu dou Gli	126738
+猪兜哩	zhu Gdêu Gli	126738
+猪兜哩	zhu dou Gli	126738
+猪兜哩	zhu dou li	126738
 猪八戒	Gzu Gbat Ggai	172
 猪八戒	Gzu Gbat jie	172
 猪八戒	Gzu ba Ggai	172
@@ -461568,6 +461623,14 @@ use_preset_vocabulary: false
 猪食	Gzu shi	15
 猪食	zhu Gsïk	15
 猪食	zhu shi	15
+猪食槽	Gzu Gsïk Gcau	114762
+猪食槽	Gzu Gsïk cao	114762
+猪食槽	Gzu shi Gcau	114762
+猪食槽	Gzu shi cao	114762
+猪食槽	zhu Gsïk Gcau	114762
+猪食槽	zhu Gsïk cao	114762
+猪食槽	zhu shi Gcau	114762
+猪食槽	zhu shi cao	114762
 猪鬃	Gzu Gzung	23
 猪鬃	Gzu zong	23
 猪鬃	zhu Gzung	23
@@ -470814,76 +470877,76 @@ use_preset_vocabulary: false
 甂	bian	5355
 甃	Gzêu	5916
 甃	zhou	5916
-甄	Gjiên	76633
+甄	Gzen	76633
 甄	zhen	76633
-甄五臣	Gjiên Gng Gcen	23
-甄五臣	Gjiên Gng chen	23
-甄五臣	Gjiên wu Gcen	23
-甄五臣	Gjiên wu chen	23
+甄五臣	Gzen Gng Gcen	23
+甄五臣	Gzen Gng chen	23
+甄五臣	Gzen wu Gcen	23
+甄五臣	Gzen wu chen	23
 甄五臣	zhen Gng Gcen	23
 甄五臣	zhen Gng chen	23
 甄五臣	zhen wu Gcen	23
 甄五臣	zhen wu chen	23
-甄六臣	Gjiên Gliuk Gcen	10
-甄六臣	Gjiên Gliuk chen	10
-甄六臣	Gjiên liu Gcen	10
-甄六臣	Gjiên liu chen	10
+甄六臣	Gzen Gliuk Gcen	10
+甄六臣	Gzen Gliuk chen	10
+甄六臣	Gzen liu Gcen	10
+甄六臣	Gzen liu chen	10
 甄六臣	zhen Gliuk Gcen	10
 甄六臣	zhen Gliuk chen	10
 甄六臣	zhen liu Gcen	10
 甄六臣	zhen liu chen	10
-甄别	Gjiên Gpiêt	94
-甄别	Gjiên bie	94
+甄别	Gzen Gpiêt	94
+甄别	Gzen bie	94
 甄别	zhen Gpiêt	94
 甄别	zhen bie	94
-甄士隐	Gjiên Gsï Gyin	17
-甄士隐	Gjiên shi Gyin	17
+甄士隐	Gzen Gsï Gyin	17
+甄士隐	Gzen shi Gyin	17
 甄士隐	zhen Gsï Gyin	17
 甄士隐	zhen shi Gyin	17
 甄士隐	zhen shi yin	17
-甄宝玉	Gjiên Gbau Gniuk	36
-甄宝玉	Gjiên Gbau yu	36
-甄宝玉	Gjiên bao Gniuk	36
-甄宝玉	Gjiên bao yu	36
+甄宝玉	Gzen Gbau Gniuk	36
+甄宝玉	Gzen Gbau yu	36
+甄宝玉	Gzen bao Gniuk	36
+甄宝玉	Gzen bao yu	36
 甄宝玉	zhen Gbau Gniuk	36
 甄宝玉	zhen Gbau yu	36
 甄宝玉	zhen bao Gniuk	36
 甄宝玉	zhen bao yu	36
-甄应嘉	Gjiên Gyin Gga	10
-甄应嘉	Gjiên Gyin jia	10
-甄应嘉	Gjiên Wngiên Gga	10
-甄应嘉	Gjiên ying Gga	10
-甄应嘉	Gjiên ying jia	10
+甄应嘉	Gzen Gyin Gga	10
+甄应嘉	Gzen Gyin jia	10
+甄应嘉	Gzen Wngiên Gga	10
+甄应嘉	Gzen ying Gga	10
+甄应嘉	Gzen ying jia	10
 甄应嘉	zhen Gyin Gga	10
 甄应嘉	zhen Gyin jia	10
 甄应嘉	zhen ying Gga	10
 甄应嘉	zhen ying jia	10
-甄志丙	Gjiên Gzï Gbin	270
-甄志丙	Gjiên Gzï bing	270
-甄志丙	Gjiên zhi Gbin	270
-甄志丙	Gjiên zhi bing	270
+甄志丙	Gzen Gzï Gbin	270
+甄志丙	Gzen Gzï bing	270
+甄志丙	Gzen zhi Gbin	270
+甄志丙	Gzen zhi bing	270
 甄志丙	zhen Gzï Gbin	270
 甄志丙	zhen Gzï bing	270
 甄志丙	zhen zhi Gbin	270
 甄志丙	zhen zhi bing	270
-甄洛之	Gjiên Glok Gzï	7
-甄洛之	Gjiên Glok zhi	7
-甄洛之	Gjiên luo Gzï	7
-甄洛之	Gjiên luo zhi	7
+甄洛之	Gzen Glok Gzï	7
+甄洛之	Gzen Glok zhi	7
+甄洛之	Gzen luo Gzï	7
+甄洛之	Gzen luo zhi	7
 甄洛之	zhen Glok Gzï	7
 甄洛之	zhen Glok zhi	7
 甄洛之	zhen luo Gzï	7
 甄洛之	zhen luo zhi	7
-甄老爷	Gjiên Glau Gya	7
-甄老爷	Gjiên Glau ye	7
-甄老爷	Gjiên lao Gya	7
-甄老爷	Gjiên lao ye	7
+甄老爷	Gzen Glau Gya	7
+甄老爷	Gzen Glau ye	7
+甄老爷	Gzen lao Gya	7
+甄老爷	Gzen lao ye	7
 甄老爷	zhen Glau Gya	7
 甄老爷	zhen Glau ye	7
 甄老爷	zhen lao Gya	7
 甄老爷	zhen lao ye	7
-甄选	Gjiên Gxyuon	25023
-甄选	Gjiên xuan	25023
+甄选	Gzen Gxyuon	25023
+甄选	Gzen xuan	25023
 甄选	zhen Gxyuon	25023
 甄选	zhen xuan	25023
 甈	Gni	4259
@@ -471370,9 +471433,10 @@ use_preset_vocabulary: false
 甜槠	Gtiên zhu	9
 甜槠	tian Gjyu	9
 甜槠	tian zhu	9
-甜橙	Gtiên Gcang	25
+甜橙	Gtiên Gcen	25
+甜橙	Gtiên Wcang	25
 甜橙	Gtiên cheng	25
-甜橙	tian Gcang	25
+甜橙	tian Gcen	25
 甜橙	tian cheng	25
 甜水	Gtiên Gsui	8
 甜水	Gtiên shui	8
@@ -479151,8 +479215,8 @@ use_preset_vocabulary: false
 畜牧场	xu Gmuk chang	14
 畜牧场	xu mu Gcong	14
 畜牧场	xu mu chang	14
-畜牲	Gxiuk Gsên	67
-畜牲	Gxiuk sheng	67
+畜牲	Gcuk Gsên	67
+畜牲	Gcuk sheng	67
 畜牲	chu Gsên	67
 畜牲	chu sheng	67
 畜生	Gxiuk Gsên	459
@@ -489593,13 +489657,13 @@ use_preset_vocabulary: false
 盛暑	Gsen shu	31
 盛暑	sheng Gsu	31
 盛暑	sheng shu	31
-盛有浓	Gsen Gyiu Gniung	8
+盛有浓	Gsen Gyiu Glung	8
 盛有浓	Gsen Gyiu nong	8
-盛有浓	Gsen you Gniung	8
+盛有浓	Gsen you Glung	8
 盛有浓	Gsen you nong	8
-盛有浓	sheng Gyiu Gniung	8
+盛有浓	sheng Gyiu Glung	8
 盛有浓	sheng Gyiu nong	8
-盛有浓	sheng you Gniung	8
+盛有浓	sheng you Glung	8
 盛有浓	sheng you nong	8
 盛有生	Gsen Gyiu Gsên	8
 盛有生	Gsen Gyiu Wsang	8
@@ -513887,7 +513951,6 @@ use_preset_vocabulary: false
 窡	Gzot	5005
 窡	zhuo	5005
 窣	Gsot	100000
-窣	Gsut	70217
 窣	su	100000
 窥	Gkui	100676
 窥伺	Gkui Gcï	75
@@ -531156,8 +531219,6 @@ use_preset_vocabulary: false
 糅合	Gniu he	48
 糅合	rou Ghot	48
 糅合	rou he	48
-糇	Ghêu	155000
-糇	hou	155000
 糈	Gsu	14599
 糈	xu	14599
 糊	Gfu	145000
@@ -532915,6 +532976,7 @@ use_preset_vocabulary: false
 紫黑色	zi hei se	36
 紭	Gfen	5002
 紭	hong	5002
+累	Glie	200000
 累	Glui	200000
 累	lei	200000
 累人	Glui Gnin	22
@@ -552012,10 +552074,6 @@ use_preset_vocabulary: false
 老土	Glau Gtu	20
 老土	lao Gtu	20
 老土	lao tu	20
-老坐	Glau Gco	100000
-老坐	Glau zuo	100000
-老坐	lao Gco	100000
-老坐	lao zuo	100000
 老坟	Glau Gfen	16
 老坟	lao Gfen	16
 老坟	lao fen	16
@@ -552623,6 +552681,10 @@ use_preset_vocabulary: false
 老店	Glau dian	30
 老店	lao Gdiên	30
 老店	lao dian	30
+老座	Glau Gco	100000
+老座	Glau zuo	100000
+老座	lao Gco	100000
+老座	lao zuo	100000
 老式	Glau Gsïk	241
 老式	Glau shi	241
 老式	lao Gsïk	241
@@ -563189,7 +563251,8 @@ use_preset_vocabulary: false
 脏话	zang hua	58
 脐	Gqi	120000
 脐带	Gqi Gdai	43
-脐橙	Gqi Gcang	8
+脐橙	Gqi Gcen	8
+脐橙	Gqi Wcang	8
 脐橙	Gqi cheng	8
 脐橙	qi cheng	8
 脐部	Gqi Gpu	8
@@ -568968,21 +569031,21 @@ use_preset_vocabulary: false
 臭氧洞	chou Gyong dong	13
 臭氧洞	chou yang Gtung	13
 臭氧洞	chou yang dong	13
-臭氧浓度	Gceu Gyong Gniung Gtu	7
-臭氧浓度	Gceu Gyong Gniung du	7
+臭氧浓度	Gceu Gyong Glung Gtu	7
+臭氧浓度	Gceu Gyong Glung du	7
 臭氧浓度	Gceu Gyong nong Gtu	7
 臭氧浓度	Gceu Gyong nong du	7
-臭氧浓度	Gceu yang Gniung Gtu	7
-臭氧浓度	Gceu yang Gniung du	7
+臭氧浓度	Gceu yang Glung Gtu	7
+臭氧浓度	Gceu yang Glung du	7
 臭氧浓度	Gceu yang nong Gtu	7
 臭氧浓度	Gceu yang nong du	7
-臭氧浓度	Gqiu Gyong Gniung Gtu	7
-臭氧浓度	chou Gyong Gniung Gtu	7
-臭氧浓度	chou Gyong Gniung du	7
+臭氧浓度	Gqiu Gyong Glung Gtu	7
+臭氧浓度	chou Gyong Glung Gtu	7
+臭氧浓度	chou Gyong Glung du	7
 臭氧浓度	chou Gyong nong Gtu	7
 臭氧浓度	chou Gyong nong du	7
-臭氧浓度	chou yang Gniung Gtu	7
-臭氧浓度	chou yang Gniung du	7
+臭氧浓度	chou yang Glung Gtu	7
+臭氧浓度	chou yang Glung du	7
 臭氧浓度	chou yang nong Gtu	7
 臭氧浓度	chou yang nong du	7
 臭水	Gceu Gsui	18
@@ -665208,6 +665271,7 @@ use_preset_vocabulary: false
 阴鸷	Gyin Gzï	24
 阴鸷	Gyin zhi	24
 阴鸷	yin zhi	24
+阵	Gqin	100000
 阵	Gzen	100000
 阵	zhen	100000
 阵亡	Gzen Gwong	420
@@ -679789,6 +679853,11 @@ use_preset_vocabulary: false
 青甲狮	qing Ggat shi	11
 青甲狮	qing jia Gsï	11
 青甲狮	qing jia shi	11
+青痛	Gqin Gtung	100000
+青痛	Gqin tong	100000
+青痛	Wqiang Gtung	100000
+青痛	qing Gtung	100000
+青痛	qing tong	100000
 青白	Gqin Gpak	56
 青白	Gqin Wpêt	56
 青白	Gqin bai	56
@@ -682624,6 +682693,9 @@ use_preset_vocabulary: false
 革新派	Ggiêt Gxin Gpai	13
 革新派	ge Gxin Gpai	13
 革新派	ge xin pai	13
+革紧	Ggiêt Gjin	100000
+革紧	ge Gjin	100000
+革紧	ge jin	100000
 革职	Ggiêt Gzïk	189
 革职	Ggiêt zhi	189
 革职	ge Gzïk	189
@@ -688962,6 +689034,11 @@ use_preset_vocabulary: false
 飘落	Gpiêu luo	109
 飘落	piao Glok	109
 飘落	piao luo	109
+飘轻	Gpiêu Gqiang	127041
+飘轻	Gpiêu Wqin	127041
+飘轻	Gpiêu qing	127041
+飘轻	piao Gqiang	127041
+飘轻	piao qing	127041
 飘逸	Gpiêu Gyit	167
 飘逸	Gpiêu yi	167
 飘逸	piao Gyit	167
@@ -698419,12 +698496,12 @@ use_preset_vocabulary: false
 高活性	gao Gwot xing	8
 高活性	gao huo Gxin	8
 高活性	gao huo xing	8
-高浓度	Ggau Gniung Gtu	90
-高浓度	Ggau Gniung du	90
+高浓度	Ggau Glung Gtu	90
+高浓度	Ggau Glung du	90
 高浓度	Ggau nong Gtu	90
 高浓度	Ggau nong du	90
-高浓度	gao Gniung Gtu	90
-高浓度	gao Gniung du	90
+高浓度	gao Glung Gtu	90
+高浓度	gao Glung du	90
 高浓度	gao nong Gtu	90
 高浓度	gao nong du	90
 高涨	Ggau Gzong	789
@@ -702057,12 +702134,13 @@ use_preset_vocabulary: false
 鲜果	Gxiên Gguo	52
 鲜果	xian Gguo	52
 鲜果	xian guo	52
-鲜橙多	Gxiên Gcang Gdo	9
-鲜橙多	Gxiên Gcang duo	9
+鲜橙多	Gxiên Gcen Gdo	9
+鲜橙多	Gxiên Gcen duo	9
+鲜橙多	Gxiên Wcang Gdo	9
 鲜橙多	Gxiên cheng Gdo	9
 鲜橙多	Gxiên cheng duo	9
-鲜橙多	xian Gcang Gdo	9
-鲜橙多	xian Gcang duo	9
+鲜橙多	xian Gcen Gdo	9
+鲜橙多	xian Gcen duo	9
 鲜橙多	xian cheng Gdo	9
 鲜橙多	xian cheng duo	9
 鲜汤	Gxiên Gtong	14
@@ -706184,13 +706262,15 @@ use_preset_vocabulary: false
 黄榜	Wfong Gbong	128
 黄榜	huang Gbong	128
 黄榜	huang bang	128
-黄橙子	Gwong Gcang Gzï	256
-黄橙子	Gwong Gcang zi	256
+黄橙子	Gwong Gcen Gzï	256
+黄橙子	Gwong Gcen zi	256
+黄橙子	Gwong Wcang Gzï	256
 黄橙子	Gwong cheng Gzï	256
 黄橙子	Gwong cheng zi	256
-黄橙子	Wfong Gcang Gzï	256
-黄橙子	huang Gcang Gzï	256
-黄橙子	huang Gcang zi	256
+黄橙子	Wfong Gcen Gzï	256
+黄橙子	Wfong Wcang Gzï	256
+黄橙子	huang Gcen Gzï	256
+黄橙子	huang Gcen zi	256
 黄橙子	huang cheng Gzï	256
 黄橙子	huang cheng zi	256
 黄檀	Gwong Gtan	21

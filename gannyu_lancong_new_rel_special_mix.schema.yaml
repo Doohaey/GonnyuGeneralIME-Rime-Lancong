@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_lancong_new_rel_special_mix
   name: lancong
-  version: "1.3.1"
+  version: "1.3.2"
 translator:
   dictionary: gannyu_lancong_new_rel
   prism: gannyu_lancong_new_rel_special_mix
@@ -129,6 +129,8 @@ speller:
     - derive/^Glen$/Flirn/
     - derive/^Glet$/Flert/
     - derive/^Glet$/Flirt/
+    - derive/^Glie$/Flier/
+    - derive/^Glie$/Fliir/
     - derive/^Gliê$/Flie/
     - derive/^Gliê$/Fliee/
     - derive/^Gliên$/Flieen/
