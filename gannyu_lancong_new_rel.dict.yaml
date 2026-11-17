@@ -134732,11 +134732,6 @@ use_preset_vocabulary: false
 到位	Gdau wei	145852
 到位	dao Gwi	145852
 到位	dao wei	145852
-到刮里	Gdau Gguat Gli	100000
-到刮里	Gdau gua Gli	100000
-到刮里	dao Gguat Gli	100000
-到刮里	dao gua Gli	100000
-到刮里	dao gua li	100000
 到场	Gdau Gcong	145
 到场	Gdau chang	145
 到场	dao Gcong	145
@@ -134870,6 +134865,9 @@ use_preset_vocabulary: false
 到货	Gdau huo	22
 到货	dao Gfo	22
 到货	dao huo	22
+到跨里	Gdau Gkua Gli	100000
+到跨里	dao Gkua Gli	100000
+到跨里	dao kua li	100000
 到达	Gdau Gdat	8107
 到达	Gdau da	8107
 到达	dao Gdat	8107
