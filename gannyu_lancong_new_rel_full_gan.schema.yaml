@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_lancong_new_rel_full_gan
   name: lancong
-  version: "1.3.2"
+  version: "1.3.3"
 translator:
   dictionary: gannyu_lancong_new_rel
   prism: gannyu_lancong_new_rel_full_gan
@@ -500,8 +500,6 @@ speller:
     - derive/^Glet$/Flirt/
     - fuzz/^Gliak$/Flia/
     - fuzz/^Gliak$/Fliat/
-    - derive/^Glie$/Flier/
-    - derive/^Glie$/Fliir/
     - fuzz/^Gliok$/Flio/
     - fuzz/^Gliok$/Fliot/
     - fuzz/^Glit$/Fli/
@@ -1107,8 +1105,6 @@ speller:
     - fuzz/^Gwêt$/Fwêk/
     - fuzz/^Gxiak$/Fxia/
     - fuzz/^Gxiak$/Fxiat/
-    - fuzz/^Gxik$/Fxi/
-    - fuzz/^Gxik$/Fxit/
     - fuzz/^Gxiok$/Fxio/
     - fuzz/^Gxiok$/Fxiot/
     - fuzz/^Gxit$/Fxi/
@@ -1129,14 +1125,6 @@ speller:
     - derive/^Gxiêu$/Fxieu/
     - fuzz/^Gxyu$/Fxu/
     - derive/^Gxyu$/Fxv/
-    - derive/^Gxyue$/Fxue/
-    - derive/^Gxyue$/Fxuer/
-    - derive/^Gxyue$/Fxuir/
-    - derive/^Gxyue$/Fxve/
-    - derive/^Gxyue$/Fxver/
-    - derive/^Gxyue$/Fxvir/
-    - derive/^Gxyue$/Fxyuer/
-    - derive/^Gxyue$/Fxyuir/
     - fuzz/^Gxyun$/Fxun/
     - derive/^Gxyun$/Fxvn/
     - derive/^Gxyuon$/Fxuen/

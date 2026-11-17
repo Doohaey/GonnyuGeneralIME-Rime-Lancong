@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong_new_rel
-version: "1.3.2"
+version: "1.3.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -55948,6 +55948,7 @@ use_preset_vocabulary: false
 丰田汽车公司	feng tian Gqi che gong si	7
 丰田汽车公司	feng tian qi che gong si	7
 丰盈	Gfung Gyin	30
+丰盈	Gfung Wyang	30
 丰盈	Gfung ying	30
 丰盈	feng Gyin	30
 丰盈	feng ying	30
@@ -91961,9 +91962,9 @@ use_preset_vocabulary: false
 余味	Gyu Gwi	19
 余味	Gyu wei	19
 余味	yu wei	19
-余嘉锡	Gyu Gga Gxik	7
+余嘉锡	Gyu Gga Gxit	7
 余嘉锡	Gyu Gga xi	7
-余嘉锡	Gyu jia Gxik	7
+余嘉锡	Gyu jia Gxit	7
 余嘉锡	Gyu jia xi	7
 余嘉锡	yu jia xi	7
 余地	Gyu Gti	697
@@ -92250,9 +92251,9 @@ use_preset_vocabulary: false
 佛事	Gfok shi	60
 佛事	fo Gsï	60
 佛事	fo shi	60
-佛像	Gfok Gqiong	405
+佛像	Gfok Gxiong	405
 佛像	Gfok xiang	405
-佛像	fo Gqiong	405
+佛像	fo Gxiong	405
 佛像	fo xiang	405
 佛光	Gfok Gguong	41
 佛光	Gfok guang	41
@@ -92841,12 +92842,12 @@ use_preset_vocabulary: false
 作弊	Gzok bi	203
 作弊	zuo Gpi	203
 作弊	zuo bi	203
-作式子	Gzok Gxik Gzï	125000
-作式子	Gzok Gxik zi	125000
+作式子	Gzok Gxit Gzï	125000
+作式子	Gzok Gxit zi	125000
 作式子	Gzok shi Gzï	125000
 作式子	Gzok shi zi	125000
-作式子	zuo Gxik Gzï	125000
-作式子	zuo Gxik zi	125000
+作式子	zuo Gxit Gzï	125000
+作式子	zuo Gxit zi	125000
 作式子	zuo shi Gzï	125000
 作式子	zuo shi zi	125000
 作怪	Gzok Gguai	147
@@ -99412,9 +99413,9 @@ use_preset_vocabulary: false
 倒伏	Gdau fu	55
 倒伏	dao Gfuk	55
 倒伏	dao fu	55
-倒像	Gdau Gqiong	211
+倒像	Gdau Gxiong	211
 倒像	Gdau xiang	211
-倒像	dao Gqiong	211
+倒像	dao Gxiong	211
 倒像	dao xiang	211
 倒入	Gdau Glet	121
 倒入	Gdau Gluk	121
@@ -102132,9 +102133,9 @@ use_preset_vocabulary: false
 偶人	Gngiêu ren	30
 偶人	ou Gnin	30
 偶人	ou ren	30
-偶像	Gngiêu Gqiong	367
+偶像	Gngiêu Gxiong	367
 偶像	Gngiêu xiang	367
-偶像	ou Gqiong	367
+偶像	ou Gxiong	367
 偶像	ou xiang	367
 偶发	Gngiêu Gfat	105044
 偶发	Gngiêu fa	105044
@@ -103055,8 +103056,8 @@ use_preset_vocabulary: false
 像到	Gqiong dao	100000
 像到	xiang Gdau	100000
 像到	xiang dao	100000
-像头	Gqiong Gtêu	35
-像头	Gqiong tou	35
+像头	Gxiong Gtêu	35
+像头	Gxiong tou	35
 像头	xiang Gtêu	35
 像头	xiang tou	35
 像是	Gqiong Gsï	2388
@@ -103073,7 +103074,7 @@ use_preset_vocabulary: false
 像样	Gqiong yang	175
 像样	xiang Gyong	175
 像样	xiang yang	175
-像框	Gqiong Gkuang	10
+像框	Gxiong Gkuang	10
 像框	xiang Gkuang	10
 像框	xiang kuang	10
 像模像样	Gqiong Gmu Gqiong Gyong	41
@@ -103085,15 +103086,15 @@ use_preset_vocabulary: false
 像模像样	xiang Gmu xiang Gyong	41
 像模像样	xiang Gmu xiang yang	41
 像模像样	xiang mu xiang yang	41
-像片	Gqiong Gpiên	37
-像片	Gqiong pian	37
+像片	Gxiong Gpiên	37
+像片	Gxiong pian	37
 像片	xiang Gpiên	37
 像片	xiang pian	37
-像章	Gqiong Gzong	45
-像章	Gqiong zhang	45
+像章	Gxiong Gzong	45
+像章	Gxiong zhang	45
 像章	xiang Gzong	45
 像章	xiang zhang	45
-像素	Gqiong Gsu	96
+像素	Gxiong Gsu	96
 像素	xiang Gsu	96
 像素	xiang su	96
 像绝了	Gqiong Gqyuot Gle	100000
@@ -104135,6 +104136,7 @@ use_preset_vocabulary: false
 充电器	chong dian Gqi	12
 充电器	chong dian qi	12
 充盈	Gcung Gyin	91
+充盈	Gcung Wyang	91
 充盈	Gcung ying	91
 充盈	chong Gyin	91
 充盈	chong ying	91
@@ -109449,13 +109451,13 @@ use_preset_vocabulary: false
 全身	Gqyuon shen	3714
 全身	quan Gsen	3714
 全身	quan shen	3714
-全身像	Gqyuon Gsen Gqiong	7
+全身像	Gqyuon Gsen Gxiong	7
 全身像	Gqyuon Gsen xiang	7
-全身像	Gqyuon shen Gqiong	7
+全身像	Gqyuon shen Gxiong	7
 全身像	Gqyuon shen xiang	7
-全身像	quan Gsen Gqiong	7
+全身像	quan Gsen Gxiong	7
 全身像	quan Gsen xiang	7
-全身像	quan shen Gqiong	7
+全身像	quan shen Gxiong	7
 全身像	quan shen xiang	7
 全身心	Gqyuon Gsen Gxin	86
 全身心	Gqyuon shen Gxin	86
@@ -122641,9 +122643,9 @@ use_preset_vocabulary: false
 冯铁匠	feng Gtiêt jiang	66
 冯铁匠	feng tie Gqiong	66
 冯铁匠	feng tie jiang	66
-冯锡范	Gfung Gxik Gfan	208
+冯锡范	Gfung Gxit Gfan	208
 冯锡范	Gfung xi Gfan	208
-冯锡范	feng Gxik Gfan	208
+冯锡范	feng Gxit Gfan	208
 冯锡范	feng xi Gfan	208
 冯锡范	feng xi fan	208
 冯阿三	Gfung Gnga Gsan	9
@@ -132371,7 +132373,7 @@ use_preset_vocabulary: false
 刘禅	Gliu Gsên	42
 刘禅	Gliu chan	42
 刘禅	liu chan	42
-刘禹锡	Gliu Gyu Gxik	44
+刘禹锡	Gliu Gyu Gxit	44
 刘禹锡	Gliu Gyu xi	44
 刘禹锡	liu yu xi	44
 刘秀才	Gliu Gxiu Gcai	12
@@ -137580,10 +137582,10 @@ use_preset_vocabulary: false
 劈头盖脸	pi tou Ggai Gliên	65
 劈头盖脸	pi tou Ggai lian	65
 劈头盖脸	pi tou gai lian	65
-劈实	Gpiak Gxik	100000
+劈实	Gpiak Gxit	100000
 劈实	Gpiak shi	100000
-劈实	Wpit Gxik	100000
-劈实	pi Gxik	100000
+劈实	Wpit Gxit	100000
+劈实	pi Gxit	100000
 劈实	pi shi	100000
 劈山	Gpit Gsan	14
 劈山	Gpit shan	14
@@ -138540,9 +138542,9 @@ use_preset_vocabulary: false
 加之	Gga zhi	817
 加之	jia Gzï	817
 加之	jia zhi	817
-加九锡	Gga Gjiu Gxik	7
+加九锡	Gga Gjiu Gxit	7
 加九锡	Gga Gjiu xi	7
-加九锡	jia Gjiu Gxik	7
+加九锡	jia Gjiu Gxit	7
 加九锡	jia Gjiu xi	7
 加九锡	jia jiu xi	7
 加仑	Gga Glen	47
@@ -156896,12 +156898,12 @@ use_preset_vocabulary: false
 华金	Gfa Gjin	7
 华金	hua Gjin	7
 华金	hua jin	7
-华锡钧	Gfa Gxik Gjyun	29
-华锡钧	Gfa Gxik jun	29
+华锡钧	Gfa Gxit Gjyun	29
+华锡钧	Gfa Gxit jun	29
 华锡钧	Gfa xi Gjyun	29
 华锡钧	Gfa xi jun	29
-华锡钧	hua Gxik Gjyun	29
-华锡钧	hua Gxik jun	29
+华锡钧	hua Gxit Gjyun	29
+华锡钧	hua Gxit jun	29
 华锡钧	hua xi Gjyun	29
 华锡钧	hua xi jun	29
 华阳	Gfa Gyong	58
@@ -160526,9 +160528,9 @@ use_preset_vocabulary: false
 南里	Glan Gli	24
 南里	nan Gli	24
 南里	nan li	24
-南锡	Glan Gxik	19
+南锡	Glan Gxit	19
 南锡	Glan xi	19
-南锡	nan Gxik	19
+南锡	nan Gxit	19
 南锡	nan xi	19
 南门	Glan Gmen	831
 南门	nan Gmen	831
@@ -162180,9 +162182,9 @@ use_preset_vocabulary: false
 卢员外	Glu Gyuon Gwai	65
 卢员外	Glu yuan Gwai	65
 卢员外	lu yuan wai	65
-卢嘉锡	Glu Gga Gxik	13
+卢嘉锡	Glu Gga Gxit	13
 卢嘉锡	Glu Gga xi	13
-卢嘉锡	Glu jia Gxik	13
+卢嘉锡	Glu jia Gxit	13
 卢嘉锡	Glu jia xi	13
 卢嘉锡	lu jia xi	13
 卢大夫	Glu Gtai Gfu	101
@@ -191255,9 +191257,9 @@ use_preset_vocabulary: false
 和豪格	he Ghau ge	7
 和豪格	he hao Ggiêt	7
 和豪格	he hao ge	7
-和锡兰	Gho Gxik Glan	10
+和锡兰	Gho Gxit Glan	10
 和锡兰	Gho xi Glan	10
-和锡兰	he Gxik Glan	10
+和锡兰	he Gxit Glan	10
 和锡兰	he xi Glan	10
 和锡兰	he xi lan	10
 和长松	Gho Gcong Gsung	8
@@ -198733,11 +198735,11 @@ use_preset_vocabulary: false
 嗽	Gsêu	102097
 嗽	sou	102097
 嗾	Gsêu	90000
-嗾	Gxyue	135682
+嗾	Gxyuê	135682
 嗾	sou	135682
 嗾祸	Gsêu Gfo	100000
 嗾祸	Gsêu huo	100000
-嗾祸	Gxyue Gfo	100000
+嗾祸	Gxyuê Gfo	100000
 嗾祸	sou Gfo	100000
 嗾祸	sou huo	100000
 嗿	Gtan	5669
@@ -208430,20 +208432,20 @@ use_preset_vocabulary: false
 图件	Gtu Gqiên	17
 图件	Gtu jian	17
 图件	tu jian	17
-图像	Gtu Gqiong	1093
+图像	Gtu Gxiong	1093
 图像	Gtu xiang	1093
 图像	tu xiang	1093
-图像压缩	Gtu Gqiong Gngat Gsok	7
-图像压缩	Gtu Gqiong Gngat suo	7
-图像压缩	Gtu Gqiong ya Gsok	7
-图像压缩	Gtu Gqiong ya suo	7
+图像压缩	Gtu Gxiong Gngat Gsok	7
+图像压缩	Gtu Gxiong Gngat suo	7
+图像压缩	Gtu Gxiong ya Gsok	7
+图像压缩	Gtu Gxiong ya suo	7
 图像压缩	Gtu xiang Gngat Gsok	7
 图像压缩	Gtu xiang Gngat suo	7
 图像压缩	Gtu xiang ya Gsok	7
 图像压缩	Gtu xiang ya suo	7
 图像压缩	tu xiang ya suo	7
-图像处理	Gtu Gqiong Gcu Gli	31
-图像处理	Gtu Gqiong chu Gli	31
+图像处理	Gtu Gxiong Gcu Gli	31
+图像处理	Gtu Gxiong chu Gli	31
 图像处理	Gtu xiang Gcu Gli	31
 图像处理	Gtu xiang chu Gli	31
 图像处理	tu xiang chu li	31
@@ -209830,9 +209832,9 @@ use_preset_vocabulary: false
 圣保罗州	sheng bao Glo zhou	10
 圣保罗州	sheng bao luo Gzeu	10
 圣保罗州	sheng bao luo zhou	10
-圣像	Gsen Gqiong	82
+圣像	Gsen Gxiong	82
 圣像	Gsen xiang	82
-圣像	sheng Gqiong	82
+圣像	sheng Gxiong	82
 圣像	sheng xiang	82
 圣僧	Gsen Gsên	154
 圣僧	Gsen seng	154
@@ -212750,9 +212752,9 @@ use_preset_vocabulary: false
 坐位	Gco wei	80
 坐位	zuo Gwi	80
 坐位	zuo wei	80
-坐像	Gco Gqiong	54
+坐像	Gco Gxiong	54
 坐像	Gco xiang	54
-坐像	zuo Gqiong	54
+坐像	zuo Gxiong	54
 坐像	zuo xiang	54
 坐具	Gco Gjyu	9
 坐具	Gco ju	9
@@ -216739,7 +216741,7 @@ use_preset_vocabulary: false
 塎	yong	5618
 塐	Gsu	4713
 塑	Gsu	120000
-塑像	Gsu Gqiong	276
+塑像	Gsu Gxiong	276
 塑像	Gsu xiang	276
 塑像	su xiang	276
 塑化	Gsu Gfa	7
@@ -219512,10 +219514,10 @@ use_preset_vocabulary: false
 声价	Wsang Gga	13
 声价	sheng Gga	13
 声价	sheng jia	13
-声像	Gsen Gqiong	50
+声像	Gsen Gxiong	50
 声像	Gsen xiang	50
-声像	Wsang Gqiong	50
-声像	sheng Gqiong	50
+声像	Wsang Gxiong	50
+声像	sheng Gxiong	50
 声像	sheng xiang	50
 声光	Gsen Gguong	36
 声光	Gsen guang	36
@@ -226044,13 +226046,13 @@ use_preset_vocabulary: false
 大佛	Gtai fu	88
 大佛	da Gfok	88
 大佛	da fu	88
-大佛像	Gtai Gfok Gqiong	11
+大佛像	Gtai Gfok Gxiong	11
 大佛像	Gtai Gfok xiang	11
-大佛像	Gtai fo Gqiong	11
+大佛像	Gtai fo Gxiong	11
 大佛像	Gtai fo xiang	11
-大佛像	da Gfok Gqiong	11
+大佛像	da Gfok Gxiong	11
 大佛像	da Gfok xiang	11
-大佛像	da fo Gqiong	11
+大佛像	da fo Gxiong	11
 大佛像	da fo xiang	11
 大佛寺	Gtai Gfok Gsï	79
 大佛寺	Gtai Gfok si	79
@@ -237197,9 +237199,9 @@ use_preset_vocabulary: false
 头人	Gtêu ren	139
 头人	tou Gnin	139
 头人	tou ren	139
-头像	Gtêu Gqiong	129
+头像	Gtêu Gxiong	129
 头像	Gtêu xiang	129
-头像	tou Gqiong	129
+头像	tou Gxiong	129
 头像	tou xiang	129
 头儿	Gtêu Geo	780
 头儿	Gtêu er	780
@@ -239643,20 +239645,20 @@ use_preset_vocabulary: false
 奥斯卡奖	ao si Gka Gjiong	29
 奥斯卡奖	ao si Gka jiang	29
 奥斯卡奖	ao si ka jiang	29
-奥斯卡金像奖	Gngau Gsï Gka Gjin Gqiong Gjiong	8
-奥斯卡金像奖	Gngau Gsï Gka Gjin Gqiong jiang	8
+奥斯卡金像奖	Gngau Gsï Gka Gjin Gxiong Gjiong	8
+奥斯卡金像奖	Gngau Gsï Gka Gjin Gxiong jiang	8
 奥斯卡金像奖	Gngau Gsï Gka Gjin xiang Gjiong	8
 奥斯卡金像奖	Gngau Gsï Gka Gjin xiang jiang	8
-奥斯卡金像奖	Gngau si Gka Gjin Gqiong Gjiong	8
-奥斯卡金像奖	Gngau si Gka Gjin Gqiong jiang	8
+奥斯卡金像奖	Gngau si Gka Gjin Gxiong Gjiong	8
+奥斯卡金像奖	Gngau si Gka Gjin Gxiong jiang	8
 奥斯卡金像奖	Gngau si Gka Gjin xiang Gjiong	8
 奥斯卡金像奖	Gngau si Gka Gjin xiang jiang	8
-奥斯卡金像奖	ao Gsï Gka Gjin Gqiong Gjiong	8
-奥斯卡金像奖	ao Gsï Gka Gjin Gqiong jiang	8
+奥斯卡金像奖	ao Gsï Gka Gjin Gxiong Gjiong	8
+奥斯卡金像奖	ao Gsï Gka Gjin Gxiong jiang	8
 奥斯卡金像奖	ao Gsï Gka Gjin xiang Gjiong	8
 奥斯卡金像奖	ao Gsï Gka Gjin xiang jiang	8
-奥斯卡金像奖	ao si Gka Gjin Gqiong Gjiong	8
-奥斯卡金像奖	ao si Gka Gjin Gqiong jiang	8
+奥斯卡金像奖	ao si Gka Gjin Gxiong Gjiong	8
+奥斯卡金像奖	ao si Gka Gjin Gxiong jiang	8
 奥斯卡金像奖	ao si Gka Gjin xiang Gjiong	8
 奥斯卡金像奖	ao si Gka Gjin xiang jiang	8
 奥斯卡金像奖	ao si ka jin xiang jiang	8
@@ -240713,14 +240715,14 @@ use_preset_vocabulary: false
 女神	Gnyu shen	307
 女神	nv Gsen	307
 女神	nv shen	307
-女神像	Gnyu Gsen Gqiong	22
+女神像	Gnyu Gsen Gxiong	22
 女神像	Gnyu Gsen xiang	22
-女神像	Gnyu Gxin Gqiong	22
-女神像	Gnyu shen Gqiong	22
+女神像	Gnyu Gxin Gxiong	22
+女神像	Gnyu shen Gxiong	22
 女神像	Gnyu shen xiang	22
-女神像	nv Gsen Gqiong	22
+女神像	nv Gsen Gxiong	22
 女神像	nv Gsen xiang	22
-女神像	nv shen Gqiong	22
+女神像	nv shen Gxiong	22
 女神像	nv shen xiang	22
 女神庙	Gnyu Gsen Gmiêu	9
 女神庙	Gnyu Gsen miao	9
@@ -244590,12 +244592,12 @@ use_preset_vocabulary: false
 姚苌载	yao Gcong Gzai	15
 姚苌载	yao chang Gzai	15
 姚苌载	yao chang zai	15
-姚锡铭	Gyêu Gxik Gmin	49
-姚锡铭	Gyêu Gxik ming	49
+姚锡铭	Gyêu Gxit Gmin	49
+姚锡铭	Gyêu Gxit ming	49
 姚锡铭	Gyêu xi Gmin	49
 姚锡铭	Gyêu xi ming	49
-姚锡铭	yao Gxik Gmin	49
-姚锡铭	yao Gxik ming	49
+姚锡铭	yao Gxit Gmin	49
+姚锡铭	yao Gxit ming	49
 姚锡铭	yao xi Gmin	49
 姚锡铭	yao xi ming	49
 姚际恒	Gyêu Gji Ghên	7
@@ -253619,9 +253621,9 @@ use_preset_vocabulary: false
 安锁子	an Gso zi	60
 安锁子	an suo Gzï	60
 安锁子	an suo zi	60
-安锡	Gngon Gxik	15
+安锡	Gngon Gxit	15
 安锡	Gngon xi	15
-安锡	an Gxik	15
+安锡	an Gxit	15
 安锡	an xi	15
 安闲	Gngon Gxiên	84
 安闲	Gngon xian	84
@@ -257330,7 +257332,7 @@ use_preset_vocabulary: false
 宝鸡市	bao Gji shi	35
 宝鸡市	bao ji shi	35
 实	Gsïk	200000
-实	Gxik	200000
+实	Gxit	200000
 实	shi	200000
 实业	Gsïk Gyêt	810
 实业	Gsïk ye	810
@@ -257421,9 +257423,9 @@ use_preset_vocabulary: false
 实例	Gsïk Gli	312
 实例	shi Gli	312
 实例	shi li	312
-实像	Gsïk Gqiong	14
+实像	Gsïk Gxiong	14
 实像	Gsïk xiang	14
-实像	shi Gqiong	14
+实像	shi Gxiong	14
 实像	shi xiang	14
 实况	Gsïk Gkuong	158
 实况	Gsïk kuang	158
@@ -280141,7 +280143,7 @@ use_preset_vocabulary: false
 巴锅	Gba Gwo	100000
 巴锅	Gba guo	100000
 巴锅	ba guo	100000
-巴锡	Gba Gxik	9
+巴锡	Gba Gxit	9
 巴锡	Gba xi	9
 巴锡	ba xi	9
 巴陵	Gba Glin	9
@@ -280574,6 +280576,7 @@ use_preset_vocabulary: false
 市民文学	shi min wen xue	7
 市盈率	Gsï Gyin Glyut	108
 市盈率	Gsï Gyin lv	108
+市盈率	Gsï Wyang Glyut	108
 市盈率	Gsï ying Glyut	108
 市盈率	Gsï ying lv	108
 市盈率	shi Gyin Glyut	108
@@ -292169,12 +292172,12 @@ use_preset_vocabulary: false
 廖萦卫	liao Gyang wei	40
 廖萦卫	liao ying Gwi	40
 廖萦卫	liao ying wei	40
-廖锡龙	Gliêu Gxik Glung	116
-廖锡龙	Gliêu Gxik long	116
+廖锡龙	Gliêu Gxit Glung	116
+廖锡龙	Gliêu Gxit long	116
 廖锡龙	Gliêu xi Glung	116
 廖锡龙	Gliêu xi long	116
-廖锡龙	liao Gxik Glung	116
-廖锡龙	liao Gxik long	116
+廖锡龙	liao Gxit Glung	116
+廖锡龙	liao Gxit long	116
 廖锡龙	liao xi Glung	116
 廖锡龙	liao xi long	116
 廖雪静	Gliêu Gxyuot Gqin	9
@@ -294740,7 +294743,7 @@ use_preset_vocabulary: false
 弍	er	4049
 弎	Gsan	5573
 式	Gsïk	200000
-式	Gxik	200000
+式	Gxit	200000
 式	shi	200000
 式子	Gsïk Gzï	31
 式子	Gsïk zi	31
@@ -296497,13 +296500,13 @@ use_preset_vocabulary: false
 张天翼	zhang Gtiên yi	18
 张天翼	zhang tian Gyêt	18
 张天翼	zhang tian yi	18
-张天锡	Gzong Gtiên Gxik	14
+张天锡	Gzong Gtiên Gxit	14
 张天锡	Gzong Gtiên xi	14
-张天锡	Gzong tian Gxik	14
+张天锡	Gzong tian Gxit	14
 张天锡	Gzong tian xi	14
-张天锡	zhang Gtiên Gxik	14
+张天锡	zhang Gtiên Gxit	14
 张天锡	zhang Gtiên xi	14
-张天锡	zhang tian Gxik	14
+张天锡	zhang tian Gxit	14
 张天锡	zhang tian xi	14
 张太雷	Gzong Gtai Glui	79
 张太雷	Gzong Gtai lei	79
@@ -298226,12 +298229,12 @@ use_preset_vocabulary: false
 张铁男	zhang Gtiêt nan	71
 张铁男	zhang tie Glan	71
 张铁男	zhang tie nan	71
-张锡昌	Gzong Gxik Gcong	10
-张锡昌	Gzong Gxik chang	10
+张锡昌	Gzong Gxit Gcong	10
+张锡昌	Gzong Gxit chang	10
 张锡昌	Gzong xi Gcong	10
 张锡昌	Gzong xi chang	10
-张锡昌	zhang Gxik Gcong	10
-张锡昌	zhang Gxik chang	10
+张锡昌	zhang Gxit Gcong	10
+张锡昌	zhang Gxit chang	10
 张锡昌	zhang xi Gcong	10
 张锡昌	zhang xi chang	10
 张锦芳	Gzong Gjin Gfong	8
@@ -300499,26 +300502,26 @@ use_preset_vocabulary: false
 当面	dang mian	708
 录	Gluk	120000
 录	lu	120000
-录像	Gluk Gqiong	313
+录像	Gluk Gxiong	313
 录像	Gluk xiang	313
-录像	lu Gqiong	313
+录像	lu Gxiong	313
 录像	lu xiang	313
-录像带	Gluk Gqiong Gdai	69
+录像带	Gluk Gxiong Gdai	69
 录像带	Gluk xiang Gdai	69
-录像带	lu Gqiong Gdai	69
+录像带	lu Gxiong Gdai	69
 录像带	lu xiang Gdai	69
 录像带	lu xiang dai	69
-录像机	Gluk Gqiong Gji	91
+录像机	Gluk Gxiong Gji	91
 录像机	Gluk xiang Gji	91
-录像机	lu Gqiong Gji	91
+录像机	lu Gxiong Gji	91
 录像机	lu xiang Gji	91
 录像机	lu xiang ji	91
-录像片	Gluk Gqiong Gpiên	22
-录像片	Gluk Gqiong pian	22
+录像片	Gluk Gxiong Gpiên	22
+录像片	Gluk Gxiong pian	22
 录像片	Gluk xiang Gpiên	22
 录像片	Gluk xiang pian	22
-录像片	lu Gqiong Gpiên	22
-录像片	lu Gqiong pian	22
+录像片	lu Gxiong Gpiên	22
+录像片	lu Gxiong pian	22
 录像片	lu xiang Gpiên	22
 录像片	lu xiang pian	22
 录入	Gluk Glet	38
@@ -301144,9 +301147,9 @@ use_preset_vocabulary: false
 彩色	Gcai Gsêt	730
 彩色	Gcai se	730
 彩色	cai se	730
-彩色图像	Gcai Gsêt Gtu Gqiong	16
+彩色图像	Gcai Gsêt Gtu Gxiong	16
 彩色图像	Gcai Gsêt Gtu xiang	16
-彩色图像	Gcai se Gtu Gqiong	16
+彩色图像	Gcai se Gtu Gxiong	16
 彩色图像	Gcai se Gtu xiang	16
 彩色图像	cai se tu xiang	16
 彩色显示器	Gcai Gsêt Gxiên Gsï Gqi	9
@@ -301604,18 +301607,18 @@ use_preset_vocabulary: false
 影业	Wyang Gyêt	99
 影业	ying Gyêt	99
 影业	ying ye	99
-影像	Gyin Gqiong	335
+影像	Gyin Gxiong	335
 影像	Gyin xiang	335
-影像	Wyang Gqiong	335
-影像	ying Gqiong	335
+影像	Wyang Gxiong	335
+影像	ying Gxiong	335
 影像	ying xiang	335
-影像学	Gyin Gqiong Ghok	24
-影像学	Gyin Gqiong xue	24
+影像学	Gyin Gxiong Ghok	24
+影像学	Gyin Gxiong xue	24
 影像学	Gyin xiang Ghok	24
 影像学	Gyin xiang xue	24
-影像学	Wyang Gqiong Ghok	24
-影像学	ying Gqiong Ghok	24
-影像学	ying Gqiong xue	24
+影像学	Wyang Gxiong Ghok	24
+影像学	ying Gxiong Ghok	24
+影像学	ying Gxiong xue	24
 影像学	ying xiang Ghok	24
 影像学	ying xiang xue	24
 影儿	Gyin Geo	50
@@ -303397,9 +303400,9 @@ use_preset_vocabulary: false
 徐铸成	xu Gcu cheng	10
 徐铸成	xu zhu Gcen	10
 徐铸成	xu zhu cheng	10
-徐锡麟	Gqyu Gxik Glin	23
+徐锡麟	Gqyu Gxit Glin	23
 徐锡麟	Gqyu xi Glin	23
-徐锡麟	xu Gxik Glin	23
+徐锡麟	xu Gxit Glin	23
 徐锡麟	xu xi Glin	23
 徐锡麟	xu xi lin	23
 徐镜人	Gqyu Gjiang Gnin	13
@@ -313817,6 +313820,7 @@ use_preset_vocabulary: false
 恶语相向	e Gyu xiang xiang	7
 恶语相向	e yu xiang xiang	7
 恶贯满盈	Gngok Gguon Gmon Gyin	55
+恶贯满盈	Gngok Gguon Gmon Wyang	55
 恶贯满盈	Gngok Gguon Gmon ying	55
 恶贯满盈	Gngok Gguon man Gyin	55
 恶贯满盈	Gngok Gguon man ying	55
@@ -316566,16 +316570,16 @@ use_preset_vocabulary: false
 想不开	xiang Gbet Gkai	32
 想不开	xiang bu Gkai	32
 想不开	xiang bu kai	32
-想像	Gxiong Gqiong	550
+想像	Gxiong Gxiong	550
 想像	Gxiong xiang	550
-想像	xiang Gqiong	550
+想像	xiang Gxiong	550
 想像	xiang xiang	550
-想像力	Gxiong Gqiong Glit	48
-想像力	Gxiong Gqiong li	48
+想像力	Gxiong Gxiong Glit	48
+想像力	Gxiong Gxiong li	48
 想像力	Gxiong xiang Glit	48
 想像力	Gxiong xiang li	48
-想像力	xiang Gqiong Glit	48
-想像力	xiang Gqiong li	48
+想像力	xiang Gxiong Glit	48
+想像力	xiang Gxiong li	48
 想像力	xiang xiang Glit	48
 想像力	xiang xiang li	48
 想入非非	Gxiong Glet Gfui Gfui	41
@@ -320042,15 +320046,15 @@ use_preset_vocabulary: false
 成倍	Wsang Gpi	109
 成倍	cheng Gpi	109
 成倍	cheng bei	109
-成像	Gcen Gqiong	315
+成像	Gcen Gxiong	315
 成像	Gcen xiang	315
-成像	Wsang Gqiong	315
-成像	cheng Gqiong	315
+成像	Wsang Gxiong	315
+成像	cheng Gxiong	315
 成像	cheng xiang	315
-成像仪	Gcen Gqiong Gyi	7
+成像仪	Gcen Gxiong Gyi	7
 成像仪	Gcen xiang Gyi	7
-成像仪	Wsang Gqiong Gyi	7
-成像仪	cheng Gqiong Gyi	7
+成像仪	Wsang Gxiong Gyi	7
+成像仪	cheng Gxiong Gyi	7
 成像仪	cheng xiang Gyi	7
 成像仪	cheng xiang yi	7
 成全	Gcen Gqyuon	177
@@ -327384,11 +327388,13 @@ use_preset_vocabulary: false
 扭	Gniu	120000
 扭亏	Gniu Gkui	68
 扭亏为盈	Gniu Gkui Gwi Gyin	65
+扭亏为盈	Gniu Gkui Gwi Wyang	65
 扭亏为盈	Gniu Gkui Gwi ying	65
 扭亏为盈	Gniu Gkui wei Gyin	65
 扭亏为盈	Gniu Gkui wei ying	65
 扭亏为盈	niu kui wei ying	65
 扭亏增盈	Gniu Gkui Gzên Gyin	21
+扭亏增盈	Gniu Gkui Gzên Wyang	21
 扭亏增盈	Gniu Gkui Gzên ying	21
 扭亏增盈	Gniu Gkui zeng Gyin	21
 扭亏增盈	Gniu Gkui zeng ying	21
@@ -333594,7 +333600,7 @@ use_preset_vocabulary: false
 拉瓦尔品第	Gla Gwa er Gpin Gti	20
 拉瓦尔品第	Gla Gwa er Gpin di	20
 拉瓦尔品第	la wa er pin di	20
-拉瓦锡	Gla Gwa Gxik	63
+拉瓦锡	Gla Gwa Gxit	63
 拉瓦锡	Gla Gwa xi	63
 拉瓦锡	la wa xi	63
 拉登	Gla Gdên	58
@@ -343996,37 +344002,37 @@ use_preset_vocabulary: false
 摀	Gwu	4347
 摄	Gsêt	105141
 摄	she	105141
-摄像	Gsêt Gqiong	102
+摄像	Gsêt Gxiong	102
 摄像	Gsêt xiang	102
-摄像	she Gqiong	102
+摄像	she Gxiong	102
 摄像	she xiang	102
-摄像头	Gsêt Gqiong Gtêu	53
-摄像头	Gsêt Gqiong tou	53
+摄像头	Gsêt Gxiong Gtêu	53
+摄像头	Gsêt Gxiong tou	53
 摄像头	Gsêt xiang Gtêu	53
 摄像头	Gsêt xiang tou	53
-摄像头	she Gqiong Gtêu	53
-摄像头	she Gqiong tou	53
+摄像头	she Gxiong Gtêu	53
+摄像头	she Gxiong tou	53
 摄像头	she xiang Gtêu	53
 摄像头	she xiang tou	53
-摄像师	Gsêt Gqiong Gsï	8
-摄像师	Gsêt Gqiong shi	8
+摄像师	Gsêt Gxiong Gsï	8
+摄像师	Gsêt Gxiong shi	8
 摄像师	Gsêt xiang Gsï	8
 摄像师	Gsêt xiang shi	8
-摄像师	she Gqiong Gsï	8
-摄像师	she Gqiong shi	8
+摄像师	she Gxiong Gsï	8
+摄像师	she Gxiong shi	8
 摄像师	she xiang Gsï	8
 摄像师	she xiang shi	8
-摄像机	Gsêt Gqiong Gji	249
+摄像机	Gsêt Gxiong Gji	249
 摄像机	Gsêt xiang Gji	249
-摄像机	she Gqiong Gji	249
+摄像机	she Gxiong Gji	249
 摄像机	she xiang Gji	249
 摄像机	she xiang ji	249
-摄像管	Gsêt Gqiong Gguon	16
-摄像管	Gsêt Gqiong guan	16
+摄像管	Gsêt Gxiong Gguon	16
+摄像管	Gsêt Gxiong guan	16
 摄像管	Gsêt xiang Gguon	16
 摄像管	Gsêt xiang guan	16
-摄像管	she Gqiong Gguon	16
-摄像管	she Gqiong guan	16
+摄像管	she Gxiong Gguon	16
+摄像管	she Gxiong guan	16
 摄像管	she xiang Gguon	16
 摄像管	she xiang guan	16
 摄入	Gsêt Glet	365
@@ -352963,13 +352969,13 @@ use_preset_vocabulary: false
 数字化	shu Gcï hua	369
 数字化	shu zi Gfa	369
 数字化	shu zi hua	369
-数字图像	Gsu Gcï Gtu Gqiong	7
+数字图像	Gsu Gcï Gtu Gxiong	7
 数字图像	Gsu Gcï Gtu xiang	7
-数字图像	Gsu zi Gtu Gqiong	7
+数字图像	Gsu zi Gtu Gxiong	7
 数字图像	Gsu zi Gtu xiang	7
-数字图像	shu Gcï Gtu Gqiong	7
+数字图像	shu Gcï Gtu Gxiong	7
 数字图像	shu Gcï Gtu xiang	7
-数字图像	shu zi Gtu Gqiong	7
+数字图像	shu zi Gtu Gxiong	7
 数字图像	shu zi Gtu xiang	7
 数字图像	shu zi tu xiang	7
 数字式	Gsu Gcï Gsïk	87
@@ -364950,22 +364956,22 @@ use_preset_vocabulary: false
 无错	Gwu Gco	11
 无错	Gwu cuo	11
 无错	wu cuo	11
-无锡	Gwu Gxik	466
+无锡	Gwu Gxit	466
 无锡	Gwu xi	466
 无锡	wu xi	466
-无锡人	Gwu Gxik Gnin	34
-无锡人	Gwu Gxik Wlen	34
-无锡人	Gwu Gxik ren	34
+无锡人	Gwu Gxit Gnin	34
+无锡人	Gwu Gxit Wlen	34
+无锡人	Gwu Gxit ren	34
 无锡人	Gwu xi Gnin	34
 无锡人	Gwu xi ren	34
 无锡人	wu xi ren	34
-无锡县	Gwu Gxik Gxiên	32
-无锡县	Gwu Gxik xian	32
+无锡县	Gwu Gxit Gxiên	32
+无锡县	Gwu Gxit xian	32
 无锡县	Gwu xi Gxiên	32
 无锡县	Gwu xi xian	32
 无锡县	wu xi xian	32
-无锡市	Gwu Gxik Gsï	102
-无锡市	Gwu Gxik shi	102
+无锡市	Gwu Gxit Gsï	102
+无锡市	Gwu Gxit shi	102
 无锡市	Gwu xi Gsï	102
 无锡市	Gwu xi shi	102
 无锡市	wu xi shi	102
@@ -370999,9 +371005,9 @@ use_preset_vocabulary: false
 星驰	xing chi	14
 映	Gyin	102862
 映	ying	102862
-映像	Gyin Gqiong	16
+映像	Gyin Gxiong	16
 映像	Gyin xiang	16
-映像	ying Gqiong	16
+映像	ying Gxiong	16
 映像	ying xiang	16
 映入	Gyin Glet	48
 映入	Gyin Gluk	48
@@ -371860,16 +371866,16 @@ use_preset_vocabulary: false
 昽	long	16992
 显	Gxiên	175000
 显	xian	175000
-显像	Gxiên Gqiong	45
+显像	Gxiên Gxiong	45
 显像	Gxiên xiang	45
-显像	xian Gqiong	45
+显像	xian Gxiong	45
 显像	xian xiang	45
-显像管	Gxiên Gqiong Gguon	59
-显像管	Gxiên Gqiong guan	59
+显像管	Gxiên Gxiong Gguon	59
+显像管	Gxiên Gxiong guan	59
 显像管	Gxiên xiang Gguon	59
 显像管	Gxiên xiang guan	59
-显像管	xian Gqiong Gguon	59
-显像管	xian Gqiong guan	59
+显像管	xian Gxiong Gguon	59
+显像管	xian Gxiong guan	59
 显像管	xian xiang Gguon	59
 显像管	xian xiang guan	59
 显出	Gxiên Gcuk	635
@@ -380109,14 +380115,14 @@ use_preset_vocabulary: false
 望其项背	wang Gqi xiang Gbi	28
 望其项背	wang Gqi xiang bei	28
 望其项背	wang qi xiang bei	28
-望加锡	Gwong Gga Gxik	13
+望加锡	Gwong Gga Gxit	13
 望加锡	Gwong Gga xi	13
-望加锡	Gwong jia Gxik	13
+望加锡	Gwong jia Gxit	13
 望加锡	Gwong jia xi	13
-望加锡	Wmong Gga Gxik	13
-望加锡	wang Gga Gxik	13
+望加锡	Wmong Gga Gxit	13
+望加锡	wang Gga Gxit	13
 望加锡	wang Gga xi	13
-望加锡	wang jia Gxik	13
+望加锡	wang jia Gxit	13
 望加锡	wang jia xi	13
 望厦	Gwong Gha	34
 望厦	Gwong sha	34
@@ -388993,9 +388999,9 @@ use_preset_vocabulary: false
 杨锐	Gyong rui	94
 杨锐	yang Glui	94
 杨锐	yang rui	94
-杨锡金	Gyong Gxik Gjin	7
+杨锡金	Gyong Gxit Gjin	7
 杨锡金	Gyong xi Gjin	7
-杨锡金	yang Gxik Gjin	7
+杨锡金	yang Gxit Gjin	7
 杨锡金	yang xi Gjin	7
 杨锡金	yang xi jin	7
 杨锦麟	Gyong Gjin Glin	8
@@ -406014,10 +406020,10 @@ use_preset_vocabulary: false
 正值	Wzang Gzïk	548
 正值	zheng Gzïk	548
 正值	zheng zhi	548
-正像	Gzen Gqiong	171
+正像	Gzen Gxiong	171
 正像	Gzen xiang	171
-正像	Wzang Gqiong	171
-正像	zheng Gqiong	171
+正像	Wzang Gxiong	171
+正像	zheng Gxiong	171
 正像	zheng xiang	171
 正儿八经	Gzen Geo Gbat Gjin	40
 正儿八经	Gzen Geo Gbat Wjiang	40
@@ -410152,9 +410158,9 @@ use_preset_vocabulary: false
 殷天正	Gyin tian Gzen	164
 殷天正	Gyin tian zheng	164
 殷天正	yin tian zheng	164
-殷天锡	Gyin Gtiên Gxik	37
+殷天锡	Gyin Gtiên Gxit	37
 殷天锡	Gyin Gtiên xi	37
-殷天锡	Gyin tian Gxik	37
+殷天锡	Gyin tian Gxit	37
 殷天锡	Gyin tian xi	37
 殷天锡	yin tian xi	37
 殷太白	Gyin Gtai Gpak	14
@@ -419352,12 +419358,12 @@ use_preset_vocabulary: false
 江醉章	jiang Gzui Gzong	317
 江醉章	jiang Gzui zhang	317
 江醉章	jiang zui zhang	317
-江锡兴	Ggong Gxik Gxin	7
-江锡兴	Ggong Gxik xing	7
+江锡兴	Ggong Gxit Gxin	7
+江锡兴	Ggong Gxit xing	7
 江锡兴	Ggong xi Gxin	7
 江锡兴	Ggong xi xing	7
-江锡兴	jiang Gxik Gxin	7
-江锡兴	jiang Gxik xing	7
+江锡兴	jiang Gxit Gxin	7
+江锡兴	jiang Gxit xing	7
 江锡兴	jiang xi Gxin	7
 江锡兴	jiang xi xing	7
 江门	Ggong Gmen	36
@@ -451283,14 +451289,14 @@ use_preset_vocabulary: false
 热感	Glêt gan	14
 热感	re Ggon	14
 热感	re gan	14
-热成像仪	Glêt Gcen Gqiong Gyi	14
+热成像仪	Glêt Gcen Gxiong Gyi	14
 热成像仪	Glêt Gcen xiang Gyi	14
-热成像仪	Glêt Wsang Gqiong Gyi	14
-热成像仪	Glêt cheng Gqiong Gyi	14
+热成像仪	Glêt Wsang Gxiong Gyi	14
+热成像仪	Glêt cheng Gxiong Gyi	14
 热成像仪	Glêt cheng xiang Gyi	14
-热成像仪	re Gcen Gqiong Gyi	14
+热成像仪	re Gcen Gxiong Gyi	14
 热成像仪	re Gcen xiang Gyi	14
-热成像仪	re cheng Gqiong Gyi	14
+热成像仪	re cheng Gxiong Gyi	14
 热成像仪	re cheng xiang Gyi	14
 热成像仪	re cheng xiang yi	14
 热战	Glêt Gzên	11
@@ -451436,6 +451442,7 @@ use_preset_vocabulary: false
 热泪夺眶	re lei duo Gkuang	10
 热泪夺眶	re lei duo kuang	10
 热泪盈眶	Glêt Glêi Gyin Gkuang	280
+热泪盈眶	Glêt Glêi Wyang Gkuang	280
 热泪盈眶	Glêt Glêi ying Gkuang	280
 热泪盈眶	Glêt lei Gyin Gkuang	280
 热泪盈眶	Glêt lei ying Gkuang	280
@@ -452022,9 +452029,9 @@ use_preset_vocabulary: false
 焊花	Ghon hua	7
 焊花	han Gfa	7
 焊花	han hua	7
-焊锡	Ghon Gxik	8
+焊锡	Ghon Gxit	8
 焊锡	Ghon xi	8
-焊锡	han Gxik	8
+焊锡	han Gxit	8
 焊锡	han xi	8
 焌	Gzun	18760
 焌	jun	18760
@@ -452781,9 +452788,9 @@ use_preset_vocabulary: false
 照例	Gzêu Gli	780
 照例	zhao Gli	780
 照例	zhao li	780
-照像	Gzêu Gqiong	24
+照像	Gzêu Gxiong	24
 照像	Gzêu xiang	24
-照像	zhao Gqiong	24
+照像	zhao Gxiong	24
 照像	zhao xiang	24
 照准	Gzêu Gzun	32
 照准	Gzêu zhun	32
@@ -456766,9 +456773,9 @@ use_preset_vocabulary: false
 物候学	wu Ghêu xue	9
 物候学	wu hou Ghok	9
 物候学	wu hou xue	9
-物像	Gwut Gqiong	9
+物像	Gwut Gxiong	9
 物像	Gwut xiang	9
-物像	wu Gqiong	9
+物像	wu Gxiong	9
 物像	wu xiang	9
 物力	Gwut Glit	403
 物力	Gwut li	403
@@ -466762,20 +466769,20 @@ use_preset_vocabulary: false
 王银满	wang Gyin Gmon	14
 王银满	wang Gyin man	14
 王银满	wang yin man	14
-王锡爵	Gwong Gxik Gjiok	178
-王锡爵	Gwong Gxik jue	178
+王锡爵	Gwong Gxit Gjiok	178
+王锡爵	Gwong Gxit jue	178
 王锡爵	Gwong xi Gjiok	178
 王锡爵	Gwong xi jue	178
-王锡爵	wang Gxik Gjiok	178
-王锡爵	wang Gxik jue	178
+王锡爵	wang Gxit Gjiok	178
+王锡爵	wang Gxit jue	178
 王锡爵	wang xi Gjiok	178
 王锡爵	wang xi jue	178
-王锡阐	Gwong Gxik Gcen	21
-王锡阐	Gwong Gxik chan	21
+王锡阐	Gwong Gxit Gcen	21
+王锡阐	Gwong Gxit chan	21
 王锡阐	Gwong xi Gcen	21
 王锡阐	Gwong xi chan	21
-王锡阐	wang Gxik Gcen	21
-王锡阐	wang Gxik chan	21
+王锡阐	wang Gxit Gcen	21
+王锡阐	wang Gxit chan	21
 王锡阐	wang xi Gcen	21
 王锡阐	wang xi chan	21
 王镇恶	Gwong Gzen Gngok	12
@@ -478379,24 +478386,24 @@ use_preset_vocabulary: false
 画作	Gfa zuo	64
 画作	hua Gzok	64
 画作	hua zuo	64
-画像	Gfa Gqiong	1625
+画像	Gfa Gxiong	1625
 画像	Gfa xiang	1625
-画像	hua Gqiong	1625
+画像	hua Gxiong	1625
 画像	hua xiang	1625
-画像石	Gfa Gqiong Gsïk	52
-画像石	Gfa Gqiong shi	52
+画像石	Gfa Gxiong Gsïk	52
+画像石	Gfa Gxiong shi	52
 画像石	Gfa xiang Gsïk	52
 画像石	Gfa xiang shi	52
-画像石	hua Gqiong Gsïk	52
-画像石	hua Gqiong shi	52
+画像石	hua Gxiong Gsïk	52
+画像石	hua Gxiong shi	52
 画像石	hua xiang Gsïk	52
 画像石	hua xiang shi	52
-画像砖	Gfa Gqiong Gzon	28
-画像砖	Gfa Gqiong zhuan	28
+画像砖	Gfa Gxiong Gzon	28
+画像砖	Gfa Gxiong zhuan	28
 画像砖	Gfa xiang Gzon	28
 画像砖	Gfa xiang zhuan	28
-画像砖	hua Gqiong Gzon	28
-画像砖	hua Gqiong zhuan	28
+画像砖	hua Gxiong Gzon	28
+画像砖	hua Gxiong zhuan	28
 画像砖	hua xiang Gzon	28
 画像砖	hua xiang zhuan	28
 画册	Gfa Gcêt	194
@@ -488188,47 +488195,62 @@ use_preset_vocabulary: false
 盆花	Gpen Gfa	50
 盆花	Gpen hua	50
 盆花	pen hua	50
-盈	Gyin	30000
-盈	ying	30000
+盈	Gyang	129842
+盈	Gyin	129842
+盈	ying	129842
 盈亏	Gyin Gkui	5069
+盈亏	Wyang Gkui	5069
 盈亏	ying Gkui	5069
 盈亏	ying kui	5069
 盈余	Gyin Gyu	164
+盈余	Wyang Gyu	164
 盈余	ying Gyu	164
 盈余	ying yu	164
 盈利	Gyin Gli	75896
+盈利	Wyang Gli	75896
 盈利	ying Gli	75896
 盈利	ying li	75896
 盈利性	Gyin Gli Gxin	8
 盈利性	Gyin Gli Wxiang	8
 盈利性	Gyin Gli xing	8
+盈利性	Wyang Gli Gxin	8
+盈利性	Wyang Gli Wxiang	8
 盈利性	ying Gli Gxin	8
 盈利性	ying Gli xing	8
 盈利性	ying li xing	8
 盈尺	Gyin Gcak	10
 盈尺	Gyin chi	10
+盈尺	Wyang Gcak	10
 盈尺	ying Gcak	10
 盈尺	ying chi	10
 盈江	Gyin Ggong	16
 盈江	Gyin jiang	16
+盈江	Wyang Ggong	16
 盈江	ying Ggong	16
 盈江	ying jiang	16
 盈满	Gyin Gmon	17
 盈满	Gyin man	17
+盈满	Wyang Gmon	17
 盈满	ying Gmon	17
 盈满	ying man	17
 盈盈	Gyin Gyin	1197
+盈盈	Gyin Wyang	1197
 盈盈	Gyin ying	1197
+盈盈	Wyang Gyin	1197
+盈盈	Wyang Wyang	1197
 盈盈	ying Gyin	1197
 盈盈	ying ying	1197
 盈眶	Gyin Gkuang	22
+盈眶	Wyang Gkuang	22
 盈眶	ying Gkuang	22
 盈眶	ying kuang	22
 盈科	Gyin Gkuo	9
 盈科	Gyin ke	9
+盈科	Wyang Gkuo	9
 盈科	ying Gkuo	9
 盈科	ying ke	9
 盈门	Gyin Gmen	13
+盈门	Wyang Gmen	13
 盈门	ying Gmen	13
 盈门	ying men	13
 盉	Gfo	77633
@@ -489759,12 +489781,12 @@ use_preset_vocabulary: false
 盛赞	Gsen Gzan	68
 盛赞	sheng Gzan	68
 盛赞	sheng zan	68
-盛锡福	Gsen Gxik Gfuk	7
-盛锡福	Gsen Gxik fu	7
+盛锡福	Gsen Gxit Gfuk	7
+盛锡福	Gsen Gxit fu	7
 盛锡福	Gsen xi Gfuk	7
 盛锡福	Gsen xi fu	7
-盛锡福	sheng Gxik Gfuk	7
-盛锡福	sheng Gxik fu	7
+盛锡福	sheng Gxit Gfuk	7
+盛锡福	sheng Gxit fu	7
 盛锡福	sheng xi Gfuk	7
 盛锡福	sheng xi fu	7
 盛饭	Gsen Gfan	38
@@ -496924,9 +496946,9 @@ use_preset_vocabulary: false
 石佛寺	shi Gfok si	15
 石佛寺	shi fo Gsï	15
 石佛寺	shi fo si	15
-石像	Gsïk Gqiong	179
+石像	Gsïk Gxiong	179
 石像	Gsïk xiang	179
-石像	shi Gqiong	179
+石像	shi Gxiong	179
 石像	shi xiang	179
 石兽	Gsïk Gsêu	402
 石兽	Gsïk Gxiu	402
@@ -498089,13 +498111,13 @@ use_preset_vocabulary: false
 石膏	Gsïk gao	25645
 石膏	shi Ggau	25645
 石膏	shi gao	25645
-石膏像	Gsïk Ggau Gqiong	15
+石膏像	Gsïk Ggau Gxiong	15
 石膏像	Gsïk Ggau xiang	15
-石膏像	Gsïk gao Gqiong	15
+石膏像	Gsïk gao Gxiong	15
 石膏像	Gsïk gao xiang	15
-石膏像	shi Ggau Gqiong	15
+石膏像	shi Ggau Gxiong	15
 石膏像	shi Ggau xiang	15
-石膏像	shi gao Gqiong	15
+石膏像	shi gao Gxiong	15
 石膏像	shi gao xiang	15
 石膏矿	Gsïk Ggau Gkuong	267
 石膏矿	Gsïk Ggau kuang	267
@@ -500210,9 +500232,9 @@ use_preset_vocabulary: false
 确定无疑	que Gtin Gwu Gyi	24
 确定无疑	que ding Gwu Gyi	24
 确定无疑	que ding wu yi	24
-确实	Gqyuot Gxik	200000
+确实	Gqyuot Gxit	200000
 确实	Gqyuot shi	200000
-确实	que Gxik	200000
+确实	que Gxit	200000
 确实	que shi	200000
 确山	Gqyuot Gsan	18
 确山	Gqyuot shan	18
@@ -500230,21 +500252,21 @@ use_preset_vocabulary: false
 确有	Gqyuot you	538
 确有	que Gyiu	538
 确有	que you	538
-确确实实	Gqyuot Gqyuot Gxik Gxik	25092
-确确实实	Gqyuot Gqyuot Gxik shi	25092
-确确实实	Gqyuot Gqyuot shi Gxik	25092
+确确实实	Gqyuot Gqyuot Gxit Gxit	25092
+确确实实	Gqyuot Gqyuot Gxit shi	25092
+确确实实	Gqyuot Gqyuot shi Gxit	25092
 确确实实	Gqyuot Gqyuot shi shi	25092
-确确实实	Gqyuot que Gxik Gxik	25092
-确确实实	Gqyuot que Gxik shi	25092
-确确实实	Gqyuot que shi Gxik	25092
+确确实实	Gqyuot que Gxit Gxit	25092
+确确实实	Gqyuot que Gxit shi	25092
+确确实实	Gqyuot que shi Gxit	25092
 确确实实	Gqyuot que shi shi	25092
-确确实实	que Gqyuot Gxik Gxik	25092
-确确实实	que Gqyuot Gxik shi	25092
-确确实实	que Gqyuot shi Gxik	25092
+确确实实	que Gqyuot Gxit Gxit	25092
+确确实实	que Gqyuot Gxit shi	25092
+确确实实	que Gqyuot shi Gxit	25092
 确确实实	que Gqyuot shi shi	25092
-确确实实	que que Gxik Gxik	25092
-确确实实	que que Gxik shi	25092
-确确实实	que que shi Gxik	25092
+确确实实	que que Gxit Gxit	25092
+确确实实	que que Gxit shi	25092
+确确实实	que que shi Gxit	25092
 确确实实	que que shi shi	25092
 确立	Gqyuot Glit	27450
 确立	Gqyuot li	27450
@@ -503466,10 +503488,10 @@ use_preset_vocabulary: false
 神佛	Gxin Gfok	28
 神佛	shen Gfok	28
 神佛	shen fo	28
-神像	Gsen Gqiong	351
+神像	Gsen Gxiong	351
 神像	Gsen xiang	351
-神像	Gxin Gqiong	351
-神像	shen Gqiong	351
+神像	Gxin Gxiong	351
+神像	shen Gxiong	351
 神像	shen xiang	351
 神兆时	Gsen Gcêu Gsï	16
 神兆时	Gsen Gcêu Gxi	16
@@ -514219,9 +514241,9 @@ use_preset_vocabulary: false
 立体角	li Gti Ggok	10
 立体角	li Gti jiao	10
 立体角	li ti jiao	10
-立像	Glit Gqiong	22
+立像	Glit Gxiong	22
 立像	Glit xiang	22
-立像	li Gqiong	22
+立像	li Gxiong	22
 立像	li xiang	22
 立克	Glit Gkiêt	39
 立克	Glit ke	39
@@ -516307,7 +516329,10 @@ use_preset_vocabulary: false
 笑柄	xiao Gbin	41
 笑柄	xiao bing	41
 笑盈盈	Gxiêu Gyin Gyin	42
+笑盈盈	Gxiêu Gyin Wyang	42
 笑盈盈	Gxiêu Gyin ying	42
+笑盈盈	Gxiêu Wyang Gyin	42
+笑盈盈	Gxiêu Wyang Wyang	42
 笑盈盈	Gxiêu ying Gyin	42
 笑盈盈	Gxiêu ying ying	42
 笑盈盈	xiao Gyin Gyin	42
@@ -532976,7 +533001,7 @@ use_preset_vocabulary: false
 紫黑色	zi hei se	36
 紭	Gfen	5002
 紭	hong	5002
-累	Glie	200000
+累	Gliê	200000
 累	Glui	200000
 累	lei	200000
 累人	Glui Gnin	22
@@ -541676,7 +541701,7 @@ use_preset_vocabulary: false
 绢花	juan Gfa	26
 绢花	juan hua	26
 绣	Gxiu	120000
-绣像	Gxiu Gqiong	20
+绣像	Gxiu Gxiong	20
 绣像	Gxiu xiang	20
 绣像	xiu xiang	20
 绣制	Gxiu Gzï	18
@@ -543309,7 +543334,10 @@ use_preset_vocabulary: false
 绿皮书	lv Gpi shu	17
 绿皮书	lv pi shu	17
 绿盈盈	Glyut Gyin Gyin	8
+绿盈盈	Glyut Gyin Wyang	8
 绿盈盈	Glyut Gyin ying	8
+绿盈盈	Glyut Wyang Gyin	8
+绿盈盈	Glyut Wyang Wyang	8
 绿盈盈	Glyut ying Gyin	8
 绿盈盈	Glyut ying ying	8
 绿盈盈	lv Gyin Gyin	8
@@ -550690,9 +550718,9 @@ use_preset_vocabulary: false
 群体性	qun Gti Gxin	26
 群体性	qun Gti xing	26
 群体性	qun ti xing	26
-群像	Gqyun Gqiong	41
+群像	Gqyun Gxiong	41
 群像	Gqyun xiang	41
-群像	qun Gqiong	41
+群像	qun Gxiong	41
 群像	qun xiang	41
 群儒	Gqyun Geo	7
 群儒	Gqyun Glu	7
@@ -558087,16 +558115,16 @@ use_preset_vocabulary: false
 肖下唇	xiao Gha chun	33
 肖下唇	xiao xia Gcun	33
 肖下唇	xiao xia chun	33
-肖像	Gxiêu Gqiong	368
+肖像	Gxiêu Gxiong	368
 肖像	Gxiêu xiang	368
-肖像	xiao Gqiong	368
+肖像	xiao Gxiong	368
 肖像	xiao xiang	368
-肖像画	Gxiêu Gqiong Gfa	101
-肖像画	Gxiêu Gqiong hua	101
+肖像画	Gxiêu Gxiong Gfa	101
+肖像画	Gxiêu Gxiong hua	101
 肖像画	Gxiêu xiang Gfa	101
 肖像画	Gxiêu xiang hua	101
-肖像画	xiao Gqiong Gfa	101
-肖像画	xiao Gqiong hua	101
+肖像画	xiao Gxiong Gfa	101
+肖像画	xiao Gxiong hua	101
 肖像画	xiao xiang Gfa	101
 肖像画	xiao xiang hua	101
 肖克利	Gxiêu Gkiêt Gli	10
@@ -562293,9 +562321,9 @@ use_preset_vocabulary: false
 胸中	Gxiung zhong	410
 胸中	xiong Gzung	410
 胸中	xiong zhong	410
-胸像	Gxiung Gqiong	15
+胸像	Gxiung Gxiong	15
 胸像	Gxiung xiang	15
-胸像	xiong Gqiong	15
+胸像	xiong Gxiong	15
 胸像	xiong xiang	15
 胸前	Gxiung Gqiên	857
 胸前	Gxiung qian	857
@@ -568185,13 +568213,13 @@ use_preset_vocabulary: false
 自由邦	zi Gyiu bang	36
 自由邦	zi you Gbong	36
 自由邦	zi you bang	36
-自画像	Gcï Gfa Gqiong	31
+自画像	Gcï Gfa Gxiong	31
 自画像	Gcï Gfa xiang	31
-自画像	Gcï hua Gqiong	31
+自画像	Gcï hua Gxiong	31
 自画像	Gcï hua xiang	31
-自画像	zi Gfa Gqiong	31
+自画像	zi Gfa Gxiong	31
 自画像	zi Gfa xiang	31
-自画像	zi hua Gqiong	31
+自画像	zi hua Gxiong	31
 自画像	zi hua xiang	31
 自留	Gcï Gliu	10
 自留	zi Gliu	10
@@ -568697,6 +568725,7 @@ use_preset_vocabulary: false
 自负	zi Gfu	321
 自负	zi fu	321
 自负盈亏	Gcï Gfu Gyin Gkui	61
+自负盈亏	Gcï Gfu Wyang Gkui	61
 自负盈亏	Gcï Gfu ying Gkui	61
 自负盈亏	zi Gfu Gyin Gkui	61
 自负盈亏	zi Gfu ying Gkui	61
@@ -581565,7 +581594,7 @@ use_preset_vocabulary: false
 莱曼	Glai man	25
 莱曼	lai man	25
 莱比	Glai Gbi	8
-莱比锡	Glai Gbi Gxik	266
+莱比锡	Glai Gbi Gxit	266
 莱比锡	Glai Gbi xi	266
 莱比锡	lai bi xi	266
 莱温斯基	Glai Gwun Gsï Gji	8
@@ -585708,9 +585737,9 @@ use_preset_vocabulary: false
 蒋远华	jiang Gyuon hua	256
 蒋远华	jiang yuan Gfa	256
 蒋远华	jiang yuan hua	256
-蒋锡金	Gjiong Gxik Gjin	10
+蒋锡金	Gjiong Gxit Gjin	10
 蒋锡金	Gjiong xi Gjin	10
-蒋锡金	jiang Gxik Gjin	10
+蒋锡金	jiang Gxit Gjin	10
 蒋锡金	jiang xi Gjin	10
 蒋锡金	jiang xi jin	10
 蒋长瑜	Gjiong Gzong Gyu	19
@@ -588952,9 +588981,9 @@ use_preset_vocabulary: false
 虚假	Gxyu jia	850
 虚假	xu Gga	850
 虚假	xu jia	850
-虚像	Gxyu Gqiong	18
+虚像	Gxyu Gxiong	18
 虚像	Gxyu xiang	18
-虚像	xu Gqiong	18
+虚像	xu Gxiong	18
 虚像	xu xiang	18
 虚劳	Gxyu Glau	25
 虚劳	Gxyu lao	25
@@ -590654,16 +590683,16 @@ use_preset_vocabulary: false
 蜡丸	Glat wan	47
 蜡丸	la Gyuon	47
 蜡丸	la wan	47
-蜡像	Glat Gqiong	27
+蜡像	Glat Gxiong	27
 蜡像	Glat xiang	27
-蜡像	la Gqiong	27
+蜡像	la Gxiong	27
 蜡像	la xiang	27
-蜡像馆	Glat Gqiong Gguon	21
-蜡像馆	Glat Gqiong guan	21
+蜡像馆	Glat Gxiong Gguon	21
+蜡像馆	Glat Gxiong guan	21
 蜡像馆	Glat xiang Gguon	21
 蜡像馆	Glat xiang guan	21
-蜡像馆	la Gqiong Gguon	21
-蜡像馆	la Gqiong guan	21
+蜡像馆	la Gxiong Gguon	21
+蜡像馆	la Gxiong guan	21
 蜡像馆	la xiang Gguon	21
 蜡像馆	la xiang guan	21
 蜡台	Glat Gtai	9
@@ -595173,9 +595202,9 @@ use_preset_vocabulary: false
 袁贵妃	yuan Ggui Gfui	11
 袁贵妃	yuan Ggui fei	11
 袁贵妃	yuan gui fei	11
-袁锡藩	Gyuon Gxik Gfan	130
+袁锡藩	Gyuon Gxit Gfan	130
 袁锡藩	Gyuon xi Gfan	130
-袁锡藩	yuan Gxik Gfan	130
+袁锡藩	yuan Gxit Gfan	130
 袁锡藩	yuan xi Gfan	130
 袁锡藩	yuan xi fan	130
 袁隆平	Gyuon Glung Gpin	44
@@ -596514,7 +596543,7 @@ use_preset_vocabulary: false
 裘谷主	Gqiu gu Gzu	8
 裘谷主	Gqiu gu zhu	8
 裘谷主	qiu gu zhu	8
-裘锡圭	Gqiu Gxik Ggui	9
+裘锡圭	Gqiu Gxit Ggui	9
 裘锡圭	Gqiu xi Ggui	9
 裘锡圭	qiu xi gui	9
 裙	Gqyun	120000
@@ -600603,9 +600632,9 @@ use_preset_vocabulary: false
 视作	Gsï zuo	181
 视作	shi Gzok	181
 视作	shi zuo	181
-视像	Gsï Gqiong	8
+视像	Gsï Gxiong	8
 视像	Gsï xiang	8
-视像	shi Gqiong	8
+视像	shi Gxiong	8
 视像	shi xiang	8
 视力	Gsï Glit	431
 视力	Gsï li	431
@@ -614804,8 +614833,9 @@ use_preset_vocabulary: false
 賲	Gbau	5738
 賲	bao	5738
 賷	Gji	4735
-賸	Gsen	5426
-賸	sheng	5426
+賸	Gyang	129842
+賸	Gyin	129842
+賸	sheng	129842
 賹	Gngai	4012
 賹	yi	4012
 賿	Glau	4310
@@ -629490,8 +629520,10 @@ use_preset_vocabulary: false
 轻生	qing Gsên	48
 轻生	qing sheng	48
 轻盈	Gqin Gyin	232
+轻盈	Gqin Wyang	232
 轻盈	Gqin ying	232
 轻盈	Wqiang Gyin	232
+轻盈	Wqiang Wyang	232
 轻盈	qing Gyin	232
 轻盈	qing ying	232
 轻纺	Gqin Gfong	210
@@ -640568,9 +640600,9 @@ use_preset_vocabulary: false
 造假者	zao Gga zhe	16
 造假者	zao jia Gza	16
 造假者	zao jia zhe	16
-造像	Gcau Gqiong	262
+造像	Gcau Gxiong	262
 造像	Gcau xiang	262
-造像	zao Gqiong	262
+造像	zao Gxiong	262
 造像	zao xiang	262
 造册	Gcau Gcêt	41
 造册	Gcau ce	41
@@ -641686,7 +641718,7 @@ use_preset_vocabulary: false
 遗作	Gyi Gzok	23
 遗作	Gyi zuo	23
 遗作	yi zuo	23
-遗像	Gyi Gqiong	75
+遗像	Gyi Gxiong	75
 遗像	Gyi xiang	75
 遗像	yi xiang	75
 遗嘱	Gyi Gzuk	330
@@ -646686,12 +646718,12 @@ use_preset_vocabulary: false
 郭超人	guo Gcêu ren	257
 郭超人	guo chao Gnin	257
 郭超人	guo chao ren	257
-郭锡章	Gguok Gxik Gzong	257
-郭锡章	Gguok Gxik zhang	257
+郭锡章	Gguok Gxit Gzong	257
+郭锡章	Gguok Gxit zhang	257
 郭锡章	Gguok xi Gzong	257
 郭锡章	Gguok xi zhang	257
-郭锡章	guo Gxik Gzong	257
-郭锡章	guo Gxik zhang	257
+郭锡章	guo Gxit Gzong	257
+郭锡章	guo Gxit zhang	257
 郭锡章	guo xi Gzong	257
 郭锡章	guo xi zhang	257
 郭靖之	Gguok Gqin Gzï	23
@@ -651350,11 +651382,11 @@ use_preset_vocabulary: false
 金信安	Gjin Gxin Gngon	32
 金信安	Gjin Gxin an	32
 金信安	jin xin an	32
-金像	Gjin Gqiong	13
+金像	Gjin Gxiong	13
 金像	Gjin xiang	13
 金像	jin xiang	13
-金像奖	Gjin Gqiong Gjiong	30
-金像奖	Gjin Gqiong jiang	30
+金像奖	Gjin Gxiong Gjiong	30
+金像奖	Gjin Gxiong jiang	30
 金像奖	Gjin xiang Gjiong	30
 金像奖	Gjin xiang jiang	30
 金像奖	jin xiang jiang	30
@@ -654799,13 +654831,13 @@ use_preset_vocabulary: false
 钱青健	qian Gqin jian	9
 钱青健	qian qing Gqiên	9
 钱青健	qian qing jian	9
-钱龙锡	Gqiên Glung Gxik	51
+钱龙锡	Gqiên Glung Gxit	51
 钱龙锡	Gqiên Glung xi	51
-钱龙锡	Gqiên long Gxik	51
+钱龙锡	Gqiên long Gxit	51
 钱龙锡	Gqiên long xi	51
-钱龙锡	qian Glung Gxik	51
+钱龙锡	qian Glung Gxit	51
 钱龙锡	qian Glung xi	51
-钱龙锡	qian long Gxik	51
+钱龙锡	qian long Gxit	51
 钱龙锡	qian long xi	51
 钲	Gzen	72955
 钲	zheng	72955
@@ -656160,9 +656192,9 @@ use_preset_vocabulary: false
 铜价	Gtung jia	28
 铜价	tong Gga	28
 铜价	tong jia	28
-铜像	Gtung Gqiong	143
+铜像	Gtung Gxiong	143
 铜像	Gtung xiang	143
-铜像	tong Gqiong	143
+铜像	tong Gxiong	143
 铜像	tong xiang	143
 铜元	Gtung Gyuon	66
 铜元	Gtung yuan	66
@@ -657952,107 +657984,107 @@ use_preset_vocabulary: false
 锟	kun	74850
 锠	Gcong	4209
 锠	chang	4209
-锡	Gxik	100000
+锡	Gxit	100000
 锡	xi	100000
-锡伯	Gxik Gbak	73
-锡伯	Gxik Wbêt	73
-锡伯	Gxik bo	73
+锡伯	Gxit Gbak	73
+锡伯	Gxit Wbêt	73
+锡伯	Gxit bo	73
 锡伯	xi Gbak	73
 锡伯	xi bo	73
-锡伯族	Gxik Gbak Gcuk	319
-锡伯族	Gxik Gbak zu	319
-锡伯族	Gxik Wbêt Gcuk	319
-锡伯族	Gxik bo Gcuk	319
-锡伯族	Gxik bo zu	319
+锡伯族	Gxit Gbak Gcuk	319
+锡伯族	Gxit Gbak zu	319
+锡伯族	Gxit Wbêt Gcuk	319
+锡伯族	Gxit bo Gcuk	319
+锡伯族	Gxit bo zu	319
 锡伯族	xi Gbak Gcuk	319
 锡伯族	xi Gbak zu	319
 锡伯族	xi bo Gcuk	319
 锡伯族	xi bo zu	319
-锡克	Gxik Gkiêt	27
-锡克	Gxik ke	27
+锡克	Gxit Gkiêt	27
+锡克	Gxit ke	27
 锡克	xi Gkiêt	27
 锡克	xi ke	27
-锡克人	Gxik Gkiêt Gnin	12
-锡克人	Gxik Gkiêt Wlen	12
-锡克人	Gxik Gkiêt ren	12
-锡克人	Gxik ke Gnin	12
-锡克人	Gxik ke ren	12
+锡克人	Gxit Gkiêt Gnin	12
+锡克人	Gxit Gkiêt Wlen	12
+锡克人	Gxit Gkiêt ren	12
+锡克人	Gxit ke Gnin	12
+锡克人	Gxit ke ren	12
 锡克人	xi Gkiêt Gnin	12
 锡克人	xi Gkiêt ren	12
 锡克人	xi ke Gnin	12
 锡克人	xi ke ren	12
-锡克教	Gxik Gkiêt Ggau	20
-锡克教	Gxik Gkiêt jiao	20
-锡克教	Gxik ke Ggau	20
-锡克教	Gxik ke jiao	20
+锡克教	Gxit Gkiêt Ggau	20
+锡克教	Gxit Gkiêt jiao	20
+锡克教	Gxit ke Ggau	20
+锡克教	Gxit ke jiao	20
 锡克教	xi Gkiêt Ggau	20
 锡克教	xi Gkiêt jiao	20
 锡克教	xi ke Ggau	20
 锡克教	xi ke jiao	20
-锡兰	Gxik Glan	73
+锡兰	Gxit Glan	73
 锡兰	xi Glan	73
 锡兰	xi lan	73
-锡剧	Gxik Gjyu	28
-锡剧	Gxik ju	28
+锡剧	Gxit Gjyu	28
+锡剧	Gxit ju	28
 锡剧	xi Gjyu	28
 锡剧	xi ju	28
-锡华	Gxik Gfa	77
-锡华	Gxik hua	77
+锡华	Gxit Gfa	77
+锡华	Gxit hua	77
 锡华	xi Gfa	77
 锡华	xi hua	77
-锡尔河	Gxik Geo Gho	52
-锡尔河	Gxik Geo he	52
-锡尔河	Gxik er Gho	52
-锡尔河	Gxik er he	52
+锡尔河	Gxit Geo Gho	52
+锡尔河	Gxit Geo he	52
+锡尔河	Gxit er Gho	52
+锡尔河	Gxit er he	52
 锡尔河	xi Geo Gho	52
 锡尔河	xi Geo he	52
 锡尔河	xi er Gho	52
 锡尔河	xi er he	52
-锡山	Gxik Gsan	87
-锡山	Gxik shan	87
+锡山	Gxit Gsan	87
+锡山	Gxit shan	87
 锡山	xi Gsan	87
 锡山	xi shan	87
-锡山市	Gxik Gsan Gsï	32
-锡山市	Gxik Gsan shi	32
-锡山市	Gxik shan Gsï	32
-锡山市	Gxik shan shi	32
+锡山市	Gxit Gsan Gsï	32
+锡山市	Gxit Gsan shi	32
+锡山市	Gxit shan Gsï	32
+锡山市	Gxit shan shi	32
 锡山市	xi Gsan Gsï	32
 锡山市	xi Gsan shi	32
 锡山市	xi shan Gsï	32
 锡山市	xi shan shi	32
-锡杖	Gxik Gcong	37
-锡杖	Gxik zhang	37
+锡杖	Gxit Gcong	37
+锡杖	Gxit zhang	37
 锡杖	xi Gcong	37
 锡杖	xi zhang	37
-锡林	Gxik Glin	7
+锡林	Gxit Glin	7
 锡林	xi Glin	7
 锡林	xi lin	7
-锡林浩特	Gxik Glin Ghau Gtêt	8
-锡林浩特	Gxik Glin Ghau te	8
-锡林浩特	Gxik Glin hao Gtêt	8
-锡林浩特	Gxik Glin hao te	8
+锡林浩特	Gxit Glin Ghau Gtêt	8
+锡林浩特	Gxit Glin Ghau te	8
+锡林浩特	Gxit Glin hao Gtêt	8
+锡林浩特	Gxit Glin hao te	8
 锡林浩特	xi Glin Ghau Gtêt	8
 锡林浩特	xi Glin Ghau te	8
 锡林浩特	xi Glin hao Gtêt	8
 锡林浩特	xi Glin hao te	8
 锡林浩特	xi lin hao te	8
-锡林郭勒	Gxik Glin Gguok Glêt	14
-锡林郭勒	Gxik Glin Gguok lei	14
-锡林郭勒	Gxik Glin guo Glêt	14
-锡林郭勒	Gxik Glin guo lei	14
+锡林郭勒	Gxit Glin Gguok Glêt	14
+锡林郭勒	Gxit Glin Gguok lei	14
+锡林郭勒	Gxit Glin guo Glêt	14
+锡林郭勒	Gxit Glin guo lei	14
 锡林郭勒	xi Glin Gguok Glêt	14
 锡林郭勒	xi Glin Gguok lei	14
 锡林郭勒	xi Glin guo Glêt	14
 锡林郭勒	xi Glin guo lei	14
 锡林郭勒	xi lin guo lei	14
-锡林郭勒盟	Gxik Glin Gguok Glêt Gmen	31
-锡林郭勒盟	Gxik Glin Gguok Glêt meng	31
-锡林郭勒盟	Gxik Glin Gguok lei Gmen	31
-锡林郭勒盟	Gxik Glin Gguok lei meng	31
-锡林郭勒盟	Gxik Glin guo Glêt Gmen	31
-锡林郭勒盟	Gxik Glin guo Glêt meng	31
-锡林郭勒盟	Gxik Glin guo lei Gmen	31
-锡林郭勒盟	Gxik Glin guo lei meng	31
+锡林郭勒盟	Gxit Glin Gguok Glêt Gmen	31
+锡林郭勒盟	Gxit Glin Gguok Glêt meng	31
+锡林郭勒盟	Gxit Glin Gguok lei Gmen	31
+锡林郭勒盟	Gxit Glin Gguok lei meng	31
+锡林郭勒盟	Gxit Glin guo Glêt Gmen	31
+锡林郭勒盟	Gxit Glin guo Glêt meng	31
+锡林郭勒盟	Gxit Glin guo lei Gmen	31
+锡林郭勒盟	Gxit Glin guo lei meng	31
 锡林郭勒盟	xi Glin Gguok Glêt Gmen	31
 锡林郭勒盟	xi Glin Gguok Glêt meng	31
 锡林郭勒盟	xi Glin Gguok lei Gmen	31
@@ -658062,22 +658094,22 @@ use_preset_vocabulary: false
 锡林郭勒盟	xi Glin guo lei Gmen	31
 锡林郭勒盟	xi Glin guo lei meng	31
 锡林郭勒盟	xi lin guo lei meng	31
-锡林郭勒草原	Gxik Glin Gguok Glêt Gcau Gyuon	8
-锡林郭勒草原	Gxik Glin Gguok Glêt Gcau yuan	8
-锡林郭勒草原	Gxik Glin Gguok Glêt cao Gyuon	8
-锡林郭勒草原	Gxik Glin Gguok Glêt cao yuan	8
-锡林郭勒草原	Gxik Glin Gguok lei Gcau Gyuon	8
-锡林郭勒草原	Gxik Glin Gguok lei Gcau yuan	8
-锡林郭勒草原	Gxik Glin Gguok lei cao Gyuon	8
-锡林郭勒草原	Gxik Glin Gguok lei cao yuan	8
-锡林郭勒草原	Gxik Glin guo Glêt Gcau Gyuon	8
-锡林郭勒草原	Gxik Glin guo Glêt Gcau yuan	8
-锡林郭勒草原	Gxik Glin guo Glêt cao Gyuon	8
-锡林郭勒草原	Gxik Glin guo Glêt cao yuan	8
-锡林郭勒草原	Gxik Glin guo lei Gcau Gyuon	8
-锡林郭勒草原	Gxik Glin guo lei Gcau yuan	8
-锡林郭勒草原	Gxik Glin guo lei cao Gyuon	8
-锡林郭勒草原	Gxik Glin guo lei cao yuan	8
+锡林郭勒草原	Gxit Glin Gguok Glêt Gcau Gyuon	8
+锡林郭勒草原	Gxit Glin Gguok Glêt Gcau yuan	8
+锡林郭勒草原	Gxit Glin Gguok Glêt cao Gyuon	8
+锡林郭勒草原	Gxit Glin Gguok Glêt cao yuan	8
+锡林郭勒草原	Gxit Glin Gguok lei Gcau Gyuon	8
+锡林郭勒草原	Gxit Glin Gguok lei Gcau yuan	8
+锡林郭勒草原	Gxit Glin Gguok lei cao Gyuon	8
+锡林郭勒草原	Gxit Glin Gguok lei cao yuan	8
+锡林郭勒草原	Gxit Glin guo Glêt Gcau Gyuon	8
+锡林郭勒草原	Gxit Glin guo Glêt Gcau yuan	8
+锡林郭勒草原	Gxit Glin guo Glêt cao Gyuon	8
+锡林郭勒草原	Gxit Glin guo Glêt cao yuan	8
+锡林郭勒草原	Gxit Glin guo lei Gcau Gyuon	8
+锡林郭勒草原	Gxit Glin guo lei Gcau yuan	8
+锡林郭勒草原	Gxit Glin guo lei cao Gyuon	8
+锡林郭勒草原	Gxit Glin guo lei cao yuan	8
 锡林郭勒草原	xi Glin Gguok Glêt Gcau Gyuon	8
 锡林郭勒草原	xi Glin Gguok Glêt Gcau yuan	8
 锡林郭勒草原	xi Glin Gguok Glêt cao Gyuon	8
@@ -658095,48 +658127,48 @@ use_preset_vocabulary: false
 锡林郭勒草原	xi Glin guo lei cao Gyuon	8
 锡林郭勒草原	xi Glin guo lei cao yuan	8
 锡林郭勒草原	xi lin guo lei cao yuan	8
-锡瓦	Gxik Gwa	7
+锡瓦	Gxit Gwa	7
 锡瓦	xi Gwa	7
 锡瓦	xi wa	7
-锡盟	Gxik Gmen	7
-锡盟	Gxik meng	7
+锡盟	Gxit Gmen	7
+锡盟	Gxit meng	7
 锡盟	xi Gmen	7
 锡盟	xi meng	7
-锡矿	Gxik Gkuong	90
-锡矿	Gxik kuang	90
+锡矿	Gxit Gkuong	90
+锡矿	Gxit kuang	90
 锡矿	xi Gkuong	90
 锡矿	xi kuang	90
-锡矿山	Gxik Gkuong Gsan	17
-锡矿山	Gxik Gkuong shan	17
-锡矿山	Gxik kuang Gsan	17
-锡矿山	Gxik kuang shan	17
+锡矿山	Gxit Gkuong Gsan	17
+锡矿山	Gxit Gkuong shan	17
+锡矿山	Gxit kuang Gsan	17
+锡矿山	Gxit kuang shan	17
 锡矿山	xi Gkuong Gsan	17
 锡矿山	xi Gkuong shan	17
 锡矿山	xi kuang Gsan	17
 锡矿山	xi kuang shan	17
-锡箔	Gxik Gpok	41
-锡箔	Gxik bo	41
+锡箔	Gxit Gpok	41
+锡箔	Gxit bo	41
 锡箔	xi Gpok	41
 锡箔	xi bo	41
-锡纸	Gxik Gzï	10
-锡纸	Gxik zhi	10
+锡纸	Gxit Gzï	10
+锡纸	Gxit zhi	10
 锡纸	xi Gzï	10
 锡纸	xi zhi	10
-锡耶纳	Gxik Gya Glat	78
-锡耶纳	Gxik Gya na	78
-锡耶纳	Gxik ye Glat	78
-锡耶纳	Gxik ye na	78
+锡耶纳	Gxit Gya Glat	78
+锡耶纳	Gxit Gya na	78
+锡耶纳	Gxit ye Glat	78
+锡耶纳	Gxit ye na	78
 锡耶纳	xi Gya Glat	78
 锡耶纳	xi Gya na	78
 锡耶纳	xi ye Glat	78
 锡耶纳	xi ye na	78
-锡金	Gxik Gjin	105
+锡金	Gxit Gjin	105
 锡金	xi Gjin	105
 锡金	xi jin	105
-锡铁山	Gxik Gtiêt Gsan	12
-锡铁山	Gxik Gtiêt shan	12
-锡铁山	Gxik tie Gsan	12
-锡铁山	Gxik tie shan	12
+锡铁山	Gxit Gtiêt Gsan	12
+锡铁山	Gxit Gtiêt shan	12
+锡铁山	Gxit tie Gsan	12
+锡铁山	Gxit tie shan	12
 锡铁山	xi Gtiêt Gsan	12
 锡铁山	xi Gtiêt shan	12
 锡铁山	xi tie Gsan	12
@@ -658859,9 +658891,9 @@ use_preset_vocabulary: false
 镛	yong	78947
 镜	Gjiang	103654
 镜	jing	103654
-镜像	Gjiang Gqiong	45
+镜像	Gjiang Gxiong	45
 镜像	Gjiang xiang	45
-镜像	jing Gqiong	45
+镜像	jing Gxiong	45
 镜像	jing xiang	45
 镜台	Gjiang Gtai	14
 镜台	jing Gtai	14
@@ -663381,12 +663413,12 @@ use_preset_vocabulary: false
 阎银玲	yan Gyin Glin	8
 阎银玲	yan Gyin ling	8
 阎银玲	yan yin ling	8
-阎锡山	Gyên Gxik Gsan	82
-阎锡山	Gyên Gxik shan	82
+阎锡山	Gyên Gxit Gsan	82
+阎锡山	Gyên Gxit shan	82
 阎锡山	Gyên xi Gsan	82
 阎锡山	Gyên xi shan	82
-阎锡山	yan Gxik Gsan	82
-阎锡山	yan Gxik shan	82
+阎锡山	yan Gxit Gsan	82
+阎锡山	yan Gxit shan	82
 阎锡山	yan xi Gsan	82
 阎锡山	yan xi shan	82
 阎鸿唤	Gyên Gfung Gfon	486
@@ -671582,12 +671614,12 @@ use_preset_vocabulary: false
 陈金刚	chen Gjin Ggong	20
 陈金刚	chen Gjin gang	20
 陈金刚	chen jin gang	20
-陈锡联	Gcen Gxik Gliên	268
-陈锡联	Gcen Gxik lian	268
+陈锡联	Gcen Gxit Gliên	268
+陈锡联	Gcen Gxit lian	268
 陈锡联	Gcen xi Gliên	268
 陈锡联	Gcen xi lian	268
-陈锡联	chen Gxik Gliên	268
-陈锡联	chen Gxik lian	268
+陈锡联	chen Gxit Gliên	268
+陈锡联	chen Gxit lian	268
 陈锡联	chen xi Gliên	268
 陈锡联	chen xi lian	268
 陈镐民	Gcen Ghau Gmin	12
@@ -676272,9 +676304,9 @@ use_preset_vocabulary: false
 雔	chou	5351
 雕	Gdiêu	120000
 雕	diao	120000
-雕像	Gdiêu Gqiong	372
+雕像	Gdiêu Gxiong	372
 雕像	Gdiêu xiang	372
-雕像	diao Gqiong	372
+雕像	diao Gxiong	372
 雕像	diao xiang	372
 雕凿	Gdiêu Gcok	27
 雕凿	Gdiêu zao	27
@@ -680614,13 +680646,13 @@ use_preset_vocabulary: false
 静止	Gqin zhi	582
 静止	jing Gzï	582
 静止	jing zhi	582
-静止图像	Gqin Gzï Gtu Gqiong	8
+静止图像	Gqin Gzï Gtu Gxiong	8
 静止图像	Gqin Gzï Gtu xiang	8
-静止图像	Gqin zhi Gtu Gqiong	8
+静止图像	Gqin zhi Gtu Gxiong	8
 静止图像	Gqin zhi Gtu xiang	8
-静止图像	jing Gzï Gtu Gqiong	8
+静止图像	jing Gzï Gtu Gxiong	8
 静止图像	jing Gzï Gtu xiang	8
-静止图像	jing zhi Gtu Gqiong	8
+静止图像	jing zhi Gtu Gxiong	8
 静止图像	jing zhi Gtu xiang	8
 静止图像	jing zhi tu xiang	8
 静水压	Gqin Gsui Gngat	12
@@ -681604,6 +681636,7 @@ use_preset_vocabulary: false
 非生产性	fei sheng chan Gxin	31
 非生产性	fei sheng chan xing	31
 非盈利	Gfui Gyin Gli	12
+非盈利	Gfui Wyang Gli	12
 非盈利	Gfui ying Gli	12
 非盈利	fei Gyin Gli	12
 非盈利	fei ying Gli	12
@@ -681611,6 +681644,8 @@ use_preset_vocabulary: false
 非盈利性	Gfui Gyin Gli Gxin	7
 非盈利性	Gfui Gyin Gli Wxiang	7
 非盈利性	Gfui Gyin Gli xing	7
+非盈利性	Gfui Wyang Gli Gxin	7
+非盈利性	Gfui Wyang Gli Wxiang	7
 非盈利性	Gfui ying Gli Gxin	7
 非盈利性	Gfui ying Gli xing	7
 非盈利性	fei Gyin Gli Gxin	7
@@ -684228,7 +684263,7 @@ use_preset_vocabulary: false
 音值	Gyin Gzïk	8
 音值	Gyin zhi	8
 音值	yin zhi	8
-音像	Gyin Gqiong	269
+音像	Gyin Gxiong	269
 音像	Gyin xiang	269
 音像	yin xiang	269
 音典	Gyin Gdiên	180000
@@ -685849,8 +685884,8 @@ use_preset_vocabulary: false
 顾金标	Ggu Gjin Gbiêu	216
 顾金标	Ggu Gjin biao	216
 顾金标	gu jin biao	216
-顾锡畴	Ggu Gxik Gcêu	12
-顾锡畴	Ggu Gxik chou	12
+顾锡畴	Ggu Gxit Gcêu	12
+顾锡畴	Ggu Gxit chou	12
 顾锡畴	Ggu xi Gcêu	12
 顾锡畴	Ggu xi chou	12
 顾锡畴	gu xi chou	12
@@ -686610,10 +686645,10 @@ use_preset_vocabulary: false
 领袖	Wliang Gxiu	2578
 领袖	ling Gxiu	2578
 领袖	ling xiu	2578
-领袖像	Glin Gxiu Gqiong	137
+领袖像	Glin Gxiu Gxiong	137
 领袖像	Glin Gxiu xiang	137
-领袖像	Wliang Gxiu Gqiong	137
-领袖像	ling Gxiu Gqiong	137
+领袖像	Wliang Gxiu Gxiong	137
+领袖像	ling Gxiu Gxiong	137
 领袖像	ling Gxiu xiang	137
 领袖像	ling xiu xiang	137
 领袖群伦	Glin Gxiu Gqyun Glun	12
@@ -692980,9 +693015,9 @@ use_preset_vocabulary: false
 马东	Gma Gdung	9
 马东	Gma dong	9
 马东	ma dong	9
-马中锡	Gma Gzung Gxik	9
+马中锡	Gma Gzung Gxit	9
 马中锡	Gma Gzung xi	9
-马中锡	Gma zhong Gxik	9
+马中锡	Gma zhong Gxit	9
 马中锡	Gma zhong xi	9
 马中锡	ma zhong xi	9
 马丽华	Gma Gli Gfa	8
@@ -704473,17 +704508,17 @@ use_preset_vocabulary: false
 麦勒斯	mai Glêt si	8
 麦勒斯	mai lei Gsï	8
 麦勒斯	mai lei si	8
-麦卡锡	Gmêt Gka Gxik	26
+麦卡锡	Gmêt Gka Gxit	26
 麦卡锡	Gmêt Gka xi	26
-麦卡锡	mai Gka Gxik	26
+麦卡锡	mai Gka Gxit	26
 麦卡锡	mai Gka xi	26
 麦卡锡	mai ka xi	26
-麦卡锡主义	Gmêt Gka Gxik Gzu Gyi	17
-麦卡锡主义	Gmêt Gka Gxik zhu Gyi	17
+麦卡锡主义	Gmêt Gka Gxit Gzu Gyi	17
+麦卡锡主义	Gmêt Gka Gxit zhu Gyi	17
 麦卡锡主义	Gmêt Gka xi Gzu Gyi	17
 麦卡锡主义	Gmêt Gka xi zhu Gyi	17
-麦卡锡主义	mai Gka Gxik Gzu Gyi	17
-麦卡锡主义	mai Gka Gxik zhu Gyi	17
+麦卡锡主义	mai Gka Gxit Gzu Gyi	17
+麦卡锡主义	mai Gka Gxit zhu Gyi	17
 麦卡锡主义	mai Gka xi Gzu Gyi	17
 麦卡锡主义	mai Gka xi zhu Gyi	17
 麦卡锡主义	mai ka xi zhu yi	17
@@ -704679,42 +704714,42 @@ use_preset_vocabulary: false
 麦罗埃	mai Glo ai	21
 麦罗埃	mai luo Gngai	21
 麦罗埃	mai luo ai	21
-麦肯锡	Gmêt Gkiên Gxik	10
+麦肯锡	Gmêt Gkiên Gxit	10
 麦肯锡	Gmêt Gkiên xi	10
-麦肯锡	Gmêt ken Gxik	10
+麦肯锡	Gmêt ken Gxit	10
 麦肯锡	Gmêt ken xi	10
-麦肯锡	mai Gkiên Gxik	10
+麦肯锡	mai Gkiên Gxit	10
 麦肯锡	mai Gkiên xi	10
-麦肯锡	mai ken Gxik	10
+麦肯锡	mai ken Gxit	10
 麦肯锡	mai ken xi	10
-麦肯锡公司	Gmêt Gkiên Gxik Ggung Gsï	9
-麦肯锡公司	Gmêt Gkiên Gxik Ggung si	9
-麦肯锡公司	Gmêt Gkiên Gxik gong Gsï	9
-麦肯锡公司	Gmêt Gkiên Gxik gong si	9
+麦肯锡公司	Gmêt Gkiên Gxit Ggung Gsï	9
+麦肯锡公司	Gmêt Gkiên Gxit Ggung si	9
+麦肯锡公司	Gmêt Gkiên Gxit gong Gsï	9
+麦肯锡公司	Gmêt Gkiên Gxit gong si	9
 麦肯锡公司	Gmêt Gkiên xi Ggung Gsï	9
 麦肯锡公司	Gmêt Gkiên xi Ggung si	9
 麦肯锡公司	Gmêt Gkiên xi gong Gsï	9
 麦肯锡公司	Gmêt Gkiên xi gong si	9
-麦肯锡公司	Gmêt ken Gxik Ggung Gsï	9
-麦肯锡公司	Gmêt ken Gxik Ggung si	9
-麦肯锡公司	Gmêt ken Gxik gong Gsï	9
-麦肯锡公司	Gmêt ken Gxik gong si	9
+麦肯锡公司	Gmêt ken Gxit Ggung Gsï	9
+麦肯锡公司	Gmêt ken Gxit Ggung si	9
+麦肯锡公司	Gmêt ken Gxit gong Gsï	9
+麦肯锡公司	Gmêt ken Gxit gong si	9
 麦肯锡公司	Gmêt ken xi Ggung Gsï	9
 麦肯锡公司	Gmêt ken xi Ggung si	9
 麦肯锡公司	Gmêt ken xi gong Gsï	9
 麦肯锡公司	Gmêt ken xi gong si	9
-麦肯锡公司	mai Gkiên Gxik Ggung Gsï	9
-麦肯锡公司	mai Gkiên Gxik Ggung si	9
-麦肯锡公司	mai Gkiên Gxik gong Gsï	9
-麦肯锡公司	mai Gkiên Gxik gong si	9
+麦肯锡公司	mai Gkiên Gxit Ggung Gsï	9
+麦肯锡公司	mai Gkiên Gxit Ggung si	9
+麦肯锡公司	mai Gkiên Gxit gong Gsï	9
+麦肯锡公司	mai Gkiên Gxit gong si	9
 麦肯锡公司	mai Gkiên xi Ggung Gsï	9
 麦肯锡公司	mai Gkiên xi Ggung si	9
 麦肯锡公司	mai Gkiên xi gong Gsï	9
 麦肯锡公司	mai Gkiên xi gong si	9
-麦肯锡公司	mai ken Gxik Ggung Gsï	9
-麦肯锡公司	mai ken Gxik Ggung si	9
-麦肯锡公司	mai ken Gxik gong Gsï	9
-麦肯锡公司	mai ken Gxik gong si	9
+麦肯锡公司	mai ken Gxit Ggung Gsï	9
+麦肯锡公司	mai ken Gxit Ggung si	9
+麦肯锡公司	mai ken Gxit gong Gsï	9
+麦肯锡公司	mai ken Gxit gong si	9
 麦肯锡公司	mai ken xi Ggung Gsï	9
 麦肯锡公司	mai ken xi Ggung si	9
 麦肯锡公司	mai ken xi gong Gsï	9
