@@ -544,6 +544,7 @@ translator:
     - "占便宜"
     - "占座"
     - "卷儿"
+    - "卿卿我我"
     - "厉害"
     - "压根儿"
     - "压矮"
@@ -915,6 +916,7 @@ translator:
     - "打着"
     - "打瞌睡"
     - "打群架"
+    - "打转"
     - "扔垃圾"
     - "托儿"
     - "扣儿"
@@ -2018,8 +2020,6 @@ speller:
     - derive/^Gtêt$/Ftet/
     - derive/^Gtêu$/Fteeu/
     - derive/^Gtêu$/Fteu/
-    - derive/^Gwet$/Fwert/
-    - derive/^Gwet$/Fwirt/
     - derive/^Gwêt$/Fweet/
     - derive/^Gwêt$/Fwet/
     - derive/^Gxiên$/Fxieen/

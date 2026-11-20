@@ -4059,8 +4059,12 @@ use_preset_vocabulary: false
 䟂	Gmen	4851
 䟂	Gmon	5291
 䟂	man	5291
+䟃	Gcok	200000
 䟃	Gcuêt	200000
 䟃	can	200000
+䟃七䟃八	Gcok Gqit Gcok Gbat	100000
+䟃七䟃八	Gcok Gqit Gcuêt Gbat	100000
+䟃七䟃八	Gcuêt Gqit Gcok Gbat	100000
 䟃七䟃八	Gcuêt Gqit Gcuêt Gbat	100000
 䟃七䟃八	Gcuêt Gqit Gcuêt ba	100000
 䟃七䟃八	Gcuêt Gqit can Gbat	100000
@@ -4077,6 +4081,12 @@ use_preset_vocabulary: false
 䟃七䟃八	can qi Gcuêt ba	100000
 䟃七䟃八	can qi can Gbat	100000
 䟃七䟃八	can qi can ba	100000
+䟃进䟃出	Gcok Gjin Gcok Gcet	100000
+䟃进䟃出	Gcok Gjin Gcok Gcuk	100000
+䟃进䟃出	Gcok Gjin Gcuêt Gcet	100000
+䟃进䟃出	Gcok Gjin Gcuêt Gcuk	100000
+䟃进䟃出	Gcuêt Gjin Gcok Gcet	100000
+䟃进䟃出	Gcuêt Gjin Gcok Gcuk	100000
 䟃进䟃出	Gcuêt Gjin Gcuêt Gcet	100000
 䟃进䟃出	Gcuêt Gjin Gcuêt Gcuk	100000
 䟃进䟃出	Gcuêt Gjin Gcuêt chu	100000
@@ -25115,13 +25125,10 @@ use_preset_vocabulary: false
 万片	Gwan pian	21
 万片	Wman Gpiên	21
 万片	wan pian	21
-万物	Gwan Gwet	848
 万物	Gwan Gwut	848
 万物	Gwan wu	848
-万物	Wman Gwet	848
 万物	Wman Gwut	848
 万物	wan wu	848
-万物之灵	Gwan Gwet Gzï Glin	16
 万物之灵	Gwan Gwut Gzï Glin	16
 万物之灵	Gwan Gwut Gzï ling	16
 万物之灵	Gwan Gwut zhi Glin	16
@@ -25130,7 +25137,6 @@ use_preset_vocabulary: false
 万物之灵	Gwan wu Gzï ling	16
 万物之灵	Gwan wu zhi Glin	16
 万物之灵	Gwan wu zhi ling	16
-万物之灵	Wman Gwet Gzï Glin	16
 万物之灵	Wman Gwut Gzï Glin	16
 万物之灵	wan wu zhi ling	16
 万特	Gwan Gtêt	7
@@ -30843,7 +30849,6 @@ use_preset_vocabulary: false
 上海南京路	shang Ghai nan Gjin Glu	10
 上海南京路	shang Ghai nan jing Glu	10
 上海南京路	shang hai nan jing lu	10
-上海博物馆	Gsong Ghai Gbok Gwet Gguon	26
 上海博物馆	Gsong Ghai Gbok Gwut Gguon	26
 上海博物馆	Gsong Ghai Gbok Gwut guan	26
 上海博物馆	Gsong Ghai Gbok wu Gguon	26
@@ -37112,10 +37117,8 @@ use_preset_vocabulary: false
 不明	Gbet ming	185820
 不明	bu Gmin	185820
 不明	bu ming	185820
-不明飞行物	Gbet Gmin Gfui Gxin Gwet	24
 不明飞行物	Gbet Gmin Gfui Gxin Gwut	24
 不明飞行物	Gbet Gmin Gfui Gxin wu	24
-不明飞行物	Gbet Gmin Gfui Whên Gwet	24
 不明飞行物	Gbet Gmin Gfui Whên Gwut	24
 不明飞行物	Gbet Gmin Gfui xing Gwut	24
 不明飞行物	Gbet Gmin Gfui xing wu	24
@@ -37123,9 +37126,7 @@ use_preset_vocabulary: false
 不明飞行物	Gbet Gmin fei Gxin wu	24
 不明飞行物	Gbet Gmin fei xing Gwut	24
 不明飞行物	Gbet Gmin fei xing wu	24
-不明飞行物	Gbet Wmiang Gfui Gxin Gwet	24
 不明飞行物	Gbet Wmiang Gfui Gxin Gwut	24
-不明飞行物	Gbet Wmiang Gfui Whên Gwet	24
 不明飞行物	Gbet Wmiang Gfui Whên Gwut	24
 不明飞行物	Gbet ming Gfui Gxin Gwut	24
 不明飞行物	Gbet ming Gfui Gxin wu	24
@@ -37325,8 +37326,8 @@ use_preset_vocabulary: false
 不正之风	bu zheng Gzï feng	151
 不正之风	bu zheng zhi Gfung	151
 不正之风	bu zheng zhi feng	151
-不死不活	Gbet Gsï Gbet Gwet	19
 不死不活	Gbet Gsï Gbet Gwot	19
+不死不活	Gbet Gsï Gbet Gwut	19
 不死不活	Gbet Gsï Gbet huo	19
 不死不活	Gbet Gsï bu Gwot	19
 不死不活	Gbet Gsï bu huo	19
@@ -38063,8 +38064,8 @@ use_preset_vocabulary: false
 不知所终	bu zhi Gso zhong	30
 不知所终	bu zhi suo Gzung	30
 不知所终	bu zhi suo zhong	30
-不知死活	Gbet Gzï Gsï Gwet	37
 不知死活	Gbet Gzï Gsï Gwot	37
+不知死活	Gbet Gzï Gsï Gwut	37
 不知死活	Gbet Gzï Gsï huo	37
 不知死活	Gbet Gzï si Gwot	37
 不知死活	Gbet Gzï si huo	37
@@ -39711,8 +39712,8 @@ use_preset_vocabulary: false
 不顾大局	bu Ggu da Gqiuk	7
 不顾大局	bu Ggu da ju	7
 不顾大局	bu gu da ju	7
-不顾死活	Gbet Ggu Gsï Gwet	11
 不顾死活	Gbet Ggu Gsï Gwot	11
+不顾死活	Gbet Ggu Gsï Gwut	11
 不顾死活	Gbet Ggu Gsï huo	11
 不顾死活	Gbet Ggu si Gwot	11
 不顾死活	Gbet Ggu si huo	11
@@ -44613,10 +44614,8 @@ use_preset_vocabulary: false
 丝织品	si Gzet Gpin	127
 丝织品	si zhi Gpin	127
 丝织品	si zhi pin	127
-丝织物	Gsï Gzet Gwet	42
 丝织物	Gsï Gzet Gwut	42
 丝织物	Gsï Gzet wu	42
-丝织物	Gsï Gzïk Gwet	42
 丝织物	Gsï Gzïk Gwut	42
 丝织物	Gsï zhi Gwut	42
 丝织物	Gsï zhi wu	42
@@ -45962,7 +45961,6 @@ use_preset_vocabulary: false
 两栖	Gliong Gqi	587
 两栖	liang Gqi	587
 两栖	liang qi	587
-两栖动物	Gliong Gqi Gtung Gwet	43
 两栖动物	Gliong Gqi Gtung Gwut	43
 两栖动物	Gliong Gqi Gtung wu	43
 两栖动物	Gliong Gqi dong Gwut	43
@@ -50482,7 +50480,6 @@ use_preset_vocabulary: false
 中国农工民主党	zhong guo nong gong Gmin zhu Gdong	46
 中国农工民主党	zhong guo nong gong Gmin zhu dang	46
 中国农工民主党	zhong guo nong gong min zhu dang	46
-中国动物学会	Gzung Gguêt Gtung Gwet Ghok Gfui	7
 中国动物学会	Gzung Gguêt Gtung Gwut Ghok Gfui	7
 中国动物学会	Gzung Gguêt Gtung Gwut Ghok hui	7
 中国动物学会	Gzung Gguêt Gtung Gwut xue Gfui	7
@@ -50860,7 +50857,6 @@ use_preset_vocabulary: false
 中国卫生部	zhong guo wei Gsên bu	26
 中国卫生部	zhong guo wei sheng Gpu	26
 中国卫生部	zhong guo wei sheng bu	26
-中国历史博物馆	Gzung Gguêt Glit Gsï Gbok Gwet Gguon	546
 中国历史博物馆	Gzung Gguêt Glit Gsï Gbok Gwut Gguon	546
 中国历史博物馆	zhong guo li shi bo wu guan	546
 中国台北	Gzung Gguêt Gtai Gbêt	22
@@ -52773,7 +52769,6 @@ use_preset_vocabulary: false
 中国清政府	zhong guo qing Gzen Gfu	31
 中国清政府	zhong guo qing zheng Gfu	31
 中国清政府	zhong guo qing zheng fu	31
-中国物理学会	Gzung Gguêt Gwet Gli Ghok Gfui	25
 中国物理学会	Gzung Gguêt Gwut Gli Ghok Gfui	25
 中国物理学会	Gzung Gguêt Gwut Gli Ghok hui	25
 中国物理学会	Gzung Gguêt Gwut Gli xue Gfui	25
@@ -54099,9 +54094,7 @@ use_preset_vocabulary: false
 中国青年艺术剧院	Gzung Gguêt Wqiang Gniên Gyi Gsuet Gjyu Gyuon	9
 中国青年艺术剧院	Gzung Gguêt Wqiang Gniên Gyi Gsuk Gjyu Gyuon	9
 中国青年艺术剧院	zhong guo qing nian yi shu ju yuan	9
-中国革命博物馆	Gzung Gguêt Ggiêt Gmin Gbok Gwet Gguon	390
 中国革命博物馆	Gzung Gguêt Ggiêt Gmin Gbok Gwut Gguon	390
-中国革命博物馆	Gzung Gguêt Ggiêt Wmiang Gbok Gwet Gguon	390
 中国革命博物馆	Gzung Gguêt Ggiêt Wmiang Gbok Gwut Gguon	390
 中国革命博物馆	zhong guo ge ming bo wu guan	390
 中国音乐学院	Gzung Gguêt Gyin Gyok Ghok Gyuon	8
@@ -56280,7 +56273,6 @@ use_preset_vocabulary: false
 中牟县	zhong Gmêu xian	13
 中牟县	zhong mu Gxiên	13
 中牟县	zhong mu xian	13
-中物	Gzung Gwet	19
 中物	Gzung Gwut	19
 中物	Gzung wu	19
 中物	zhong Gwut	19
@@ -67179,7 +67171,6 @@ use_preset_vocabulary: false
 事权	Gsï quan	79
 事权	shi Gqyuon	79
 事权	shi quan	79
-事物	Gsï Gwet	29044
 事物	Gsï Gwut	29044
 事物	Gsï wu	29044
 事物	shi Gwut	29044
@@ -79033,7 +79024,6 @@ use_preset_vocabulary: false
 产煤区	chan Gmi qu	11
 产煤区	chan mei Gqyu	11
 产煤区	chan mei qu	11
-产物	Gcan Gwet	111628
 产物	Gcan Gwut	111628
 产物	Gcan wu	111628
 产物	chan Gwut	111628
@@ -79988,6 +79978,9 @@ use_preset_vocabulary: false
 亲热	Gqin Glêt	560
 亲热	Gqin re	560
 亲热	qin re	560
+亲热巴㲃	Gqin Glêt Gba Gjiu	100000
+亲热巴㲃	Gqin re Gba Gjiu	100000
+亲热巴㲃	qin re ba jiu	100000
 亲爱	Gqin Gngai	443
 亲爱	Gqin ai	443
 亲爱	qin ai	443
@@ -82456,30 +82449,24 @@ use_preset_vocabulary: false
 人烟稠密	ren yan Gcêu mi	27
 人烟稠密	ren yan chou Gmêt	27
 人烟稠密	ren yan chou mi	27
-人物	Gnin Gwet	10520
 人物	Gnin Gwut	10520
 人物	Gnin wu	10520
-人物	Wlen Gwet	10520
 人物	Wlen Gwut	10520
 人物	ren Gwut	10520
 人物	ren wu	10520
-人物奖	Gnin Gwet Gjiong	7
 人物奖	Gnin Gwut Gjiong	7
 人物奖	Gnin Gwut jiang	7
 人物奖	Gnin wu Gjiong	7
 人物奖	Gnin wu jiang	7
-人物奖	Wlen Gwet Gjiong	7
 人物奖	Wlen Gwut Gjiong	7
 人物奖	ren Gwut Gjiong	7
 人物奖	ren Gwut jiang	7
 人物奖	ren wu Gjiong	7
 人物奖	ren wu jiang	7
-人物画	Gnin Gwet Gfa	90
 人物画	Gnin Gwut Gfa	90
 人物画	Gnin Gwut hua	90
 人物画	Gnin wu Gfa	90
 人物画	Gnin wu hua	90
-人物画	Wlen Gwet Gfa	90
 人物画	Wlen Gwut Gfa	90
 人物画	ren Gwut Gfa	90
 人物画	ren Gwut hua	90
@@ -82890,10 +82877,8 @@ use_preset_vocabulary: false
 人财两空	ren Gcai liang Gkung	11
 人财两空	ren Gcai liang kong	11
 人财两空	ren cai liang kong	11
-人财物	Gnin Gcai Gwet	21
 人财物	Gnin Gcai Gwut	21
 人财物	Gnin Gcai wu	21
-人财物	Wlen Gcai Gwet	21
 人财物	Wlen Gcai Gwut	21
 人财物	ren Gcai Gwut	21
 人财物	ren Gcai wu	21
@@ -83680,10 +83665,8 @@ use_preset_vocabulary: false
 什时间	shen Gsï jian	160000
 什时间	shen shi Ggan	160000
 什时间	shen shi jian	160000
-什物	Gxit Gwet	89
 什物	Gxit Gwut	89
 什物	Gxit wu	89
-什物	Wset Gwet	89
 什物	Wset Gwut	89
 什物	shi Gwut	89
 什物	shi wu	89
@@ -85129,19 +85112,16 @@ use_preset_vocabulary: false
 仓鼠	Gcong shu	20
 仓鼠	cang Gxyu	20
 仓鼠	cang shu	20
-仔	Gzï	120000
-仔	zai	120000
-仔仔细细	Gzï Gzï Gxi Gxi	40
-仔仔细细	Gzï zi Gxi Gxi	40
-仔仔细细	zai Gzï Gxi Gxi	40
-仔仔细细	zai zi Gxi Gxi	40
+仔	Gzai	120000
+仔仔细细	Gzai Gzai Gxi Gxi	40
+仔仔细细	Gzai zi Gxi Gxi	40
 仔仔细细	zai zi xi xi	40
-仔猪	Gzï Gjyu	15
-仔猪	Gzï Gzu	15
-仔猪	Gzï zhu	15
+仔猪	Gzai Gjyu	15
+仔猪	Gzai Gzu	15
+仔猪	Gzai zhu	15
 仔猪	zi Gzu	15
 仔猪	zi zhu	15
-仔细	Gzï Gxi	137997
+仔细	Gzai Gxi	137997
 仔细	zi Gxi	137997
 仔细	zi xi	137997
 仕	Gsï	120000
@@ -85209,7 +85189,6 @@ use_preset_vocabulary: false
 他杀	Gta Gsat	270
 他杀	Gta sha	270
 他杀	ta sha	270
-他物权	Gta Gwet Gqyuon	7
 他物权	Gta Gwut Gqyuon	7
 他物权	Gta Gwut quan	7
 他物权	Gta wu Gqyuon	7
@@ -86169,10 +86148,8 @@ use_preset_vocabulary: false
 代谢性	dai Gxia xing	35
 代谢性	dai xie Gxin	35
 代谢性	dai xie xing	35
-代谢物	Gtai Gxia Gwet	21
 代谢物	Gtai Gxia Gwut	21
 代谢物	Gtai Gxia wu	21
-代谢物	Gtai Wqia Gwet	21
 代谢物	Gtai Wqia Gwut	21
 代谢物	Gtai xie Gwut	21
 代谢物	Gtai xie wu	21
@@ -88053,8 +88030,6 @@ use_preset_vocabulary: false
 价廉	Gga lian	30
 价廉	jia Gliên	30
 价廉	jia lian	30
-价廉物美	Gga Gliên Gwet Gmi	35
-价廉物美	Gga Gliên Gwet Gmêi	35
 价廉物美	Gga Gliên Gwut Gmi	35
 价廉物美	Gga Gliên Gwut Gmêi	35
 价廉物美	Gga Gliên Gwut mei	35
@@ -93994,7 +93969,6 @@ use_preset_vocabulary: false
 低等	Gdi Gdên	95
 低等	Gdi deng	95
 低等	di deng	95
-低等动物	Gdi Gdên Gtung Gwet	17
 低等动物	Gdi Gdên Gtung Gwut	17
 低等动物	Gdi Gdên Gtung wu	17
 低等动物	Gdi Gdên dong Gwut	17
@@ -94004,10 +93978,8 @@ use_preset_vocabulary: false
 低等动物	Gdi deng dong Gwut	17
 低等动物	Gdi deng dong wu	17
 低等动物	di deng dong wu	17
-低等植物	Gdi Gdên Gcet Gwet	21
 低等植物	Gdi Gdên Gcet Gwut	21
 低等植物	Gdi Gdên Gcet wu	21
-低等植物	Gdi Gdên Gzïk Gwet	21
 低等植物	Gdi Gdên Gzïk Gwut	21
 低等植物	Gdi Gdên zhi Gwut	21
 低等植物	Gdi Gdên zhi wu	21
@@ -95224,7 +95196,6 @@ use_preset_vocabulary: false
 何润宇	he Glen Gyu	8
 何润宇	he run Gyu	8
 何润宇	he run yu	8
-何物	Gho Gwet	25151
 何物	Gho Gwut	25151
 何物	Gho wu	25151
 何物	he Gwut	25151
@@ -96762,7 +96733,6 @@ use_preset_vocabulary: false
 作派	Gzok Gpai	26
 作派	zuo Gpai	26
 作派	zuo pai	26
-作物	Gzok Gwet	1282
 作物	Gzok Gwut	1282
 作物	Gzok wu	1282
 作物	zuo Gwut	1282
@@ -97173,8 +97143,8 @@ use_preset_vocabulary: false
 你来我往	ni lai Gngo wang	75079
 你来我往	ni lai wo Gwong	75079
 你来我往	ni lai wo wang	75079
-你死我活	Gnên Gsï Gngo Gwet	201
 你死我活	Gnên Gsï Gngo Gwot	201
+你死我活	Gnên Gsï Gngo Gwut	201
 你死我活	Gnên Gsï Gngo huo	201
 你死我活	Gnên Gsï wo Gwot	201
 你死我活	Gnên Gsï wo huo	201
@@ -100392,9 +100362,7 @@ use_preset_vocabulary: false
 俗气	Gxiuk Gqi	53
 俗气	su Gqi	53
 俗气	su qi	53
-俗物	Gsuk Gwet	25
 俗物	Gsuk Gwut	25
-俗物	Gxiuk Gwet	25
 俗物	Gxiuk Gwut	25
 俗物	Gxiuk wu	25
 俗物	su Gwut	25
@@ -102610,7 +102578,6 @@ use_preset_vocabulary: false
 信源	Gxin Gyuon	46
 信源	Gxin yuan	46
 信源	xin yuan	46
-信物	Gxin Gwet	29
 信物	Gxin Gwut	29
 信物	Gxin wu	29
 信物	xin wu	29
@@ -105765,14 +105732,14 @@ use_preset_vocabulary: false
 做法	Gzu fa	53412
 做法	zuo Gfat	53412
 做法	zuo fa	53412
-做活	Gzu Gwet	71
 做活	Gzu Gwot	71
+做活	Gzu Gwut	71
 做活	Gzu huo	71
 做活	zuo Gwot	71
 做活	zuo huo	71
-做活儿	Gzu Gwet Geo	23
 做活儿	Gzu Gwot Geo	23
 做活儿	Gzu Gwot er	23
+做活儿	Gzu Gwut Geo	23
 做活儿	Gzu huo Geo	23
 做活儿	Gzu huo er	23
 做活儿	zuo Gwot Geo	23
@@ -111698,8 +111665,6 @@ use_preset_vocabulary: false
 党建	Gdong jian	141
 党建	dang Gjiên	141
 党建	dang jian	141
-党建读物出版社	Gdong Gjiên Gtuk Gwet Gcet Gban Gsa	17
-党建读物出版社	Gdong Gjiên Gtuk Gwet Gcuk Gban Gsa	17
 党建读物出版社	Gdong Gjiên Gtuk Gwut Gcet Gban Gsa	17
 党建读物出版社	Gdong Gjiên Gtuk Gwut Gcuk Gban Gsa	17
 党建读物出版社	Gdong Gjiên Gtuk Gwut Gcuk Gban she	17
@@ -115774,9 +115739,8 @@ use_preset_vocabulary: false
 公仓	Ggung cang	16
 公仓	gong Gcong	16
 公仓	gong cang	16
-公仔	Ggung Gzï	13
-公仔	Ggung zai	13
-公仔	gong Gzï	13
+公仔	Ggung Gzai	13
+公仔	gong Gzai	13
 公仔	gong zai	13
 公任官	Ggung Glen Gguon	16
 公任官	Ggung Glen guan	16
@@ -116880,7 +116844,6 @@ use_preset_vocabulary: false
 公牛	Ggung Wngiêu	201
 公牛	gong Gniu	201
 公牛	gong niu	201
-公物	Ggung Gwet	38
 公物	Ggung Gwut	38
 公物	Ggung wu	38
 公物	gong Gwut	38
@@ -119641,12 +119604,10 @@ use_preset_vocabulary: false
 共聚	Wqiung Gqyu	55
 共聚	gong Gqyu	55
 共聚	gong ju	55
-共聚物	Gkung Gqyu Gwet	64
 共聚物	Gkung Gqyu Gwut	64
 共聚物	Gkung Gqyu wu	64
 共聚物	Gkung ju Gwut	64
 共聚物	Gkung ju wu	64
-共聚物	Wqiung Gqyu Gwet	64
 共聚物	Wqiung Gqyu Gwut	64
 共聚物	gong Gqyu Gwut	64
 共聚物	gong Gqyu wu	64
@@ -122020,8 +121981,8 @@ use_preset_vocabulary: false
 养气	Gyong Gqi	30
 养气	yang Gqi	30
 养气	yang qi	30
-养活	Gyong Gwet	383
 养活	Gyong Gwot	383
+养活	Gyong Gwut	383
 养活	Gyong huo	383
 养活	yang Gwot	383
 养活	yang huo	383
@@ -124714,7 +124675,6 @@ use_preset_vocabulary: false
 军事医学科学院	jun shi Gyi xue ke xue Gyuon	9
 军事医学科学院	jun shi Gyi xue ke xue yuan	9
 军事医学科学院	jun shi yi xue ke xue yuan	9
-军事博物馆	Gjyun Gsï Gbok Gwet Gguon	10
 军事博物馆	Gjyun Gsï Gbok Gwut Gguon	10
 军事博物馆	Gjyun Gsï Gbok Gwut guan	10
 军事博物馆	Gjyun Gsï Gbok wu Gguon	10
@@ -126031,7 +125991,6 @@ use_preset_vocabulary: false
 农作	Glung zuo	132
 农作	nong Gzok	132
 农作	nong zuo	132
-农作物	Glung Gzok Gwet	1465
 农作物	Glung Gzok Gwut	1465
 农作物	Glung Gzok wu	1465
 农作物	Glung zuo Gwut	1465
@@ -126433,8 +126392,8 @@ use_preset_vocabulary: false
 农民起义	nong Gmin Gqi Gni	291
 农民起义	nong Gmin Gqi yi	291
 农民起义	nong min qi yi	291
-农活	Glung Gwet	70
 农活	Glung Gwot	70
+农活	Glung Gwut	70
 农活	Glung huo	70
 农活	nong Gwot	70
 农活	nong huo	70
@@ -127977,7 +127936,6 @@ use_preset_vocabulary: false
 冰碛	Gbin qi	102
 冰碛	bing Gqit	102
 冰碛	bing qi	102
-冰碛物	Gbin Gqit Gwet	20
 冰碛物	Gbin Gqit Gwut	20
 冰碛物	Gbin Gqit wu	20
 冰碛物	Gbin qi Gwut	20
@@ -129472,7 +129430,6 @@ use_preset_vocabulary: false
 冷血	Glang xue	28
 冷血	leng Gxyuot	28
 冷血	leng xue	28
-冷血动物	Glang Gxyuot Gtung Gwet	15
 冷血动物	Glang Gxyuot Gtung Gwut	15
 冷血动物	Glang Gxyuot Gtung wu	15
 冷血动物	Glang Gxyuot dong Gwut	15
@@ -133802,9 +133759,7 @@ use_preset_vocabulary: false
 出土	Gcuk Gtu	1785
 出土	chu Gtu	1785
 出土	chu tu	1785
-出土文物	Gcet Gtu Gwun Gwet	89
 出土文物	Gcet Gtu Gwun Gwut	89
-出土文物	Gcuk Gtu Gwun Gwet	89
 出土文物	Gcuk Gtu Gwun Gwut	89
 出土文物	Gcuk Gtu Gwun wu	89
 出土文物	Gcuk Gtu wen Gwut	89
@@ -134436,9 +134391,7 @@ use_preset_vocabulary: false
 出版局	chu Gban Gqiuk	11
 出版局	chu Gban ju	11
 出版局	chu ban ju	11
-出版物	Gcet Gban Gwet	320
 出版物	Gcet Gban Gwut	320
-出版物	Gcuk Gban Gwet	320
 出版物	Gcuk Gban Gwut	320
 出版物	Gcuk Gban wu	320
 出版物	chu Gban Gwut	320
@@ -135801,12 +135754,10 @@ use_preset_vocabulary: false
 分子热	Gfen zi Glêt	7
 分子热	Gfen zi re	7
 分子热	fen zi re	7
-分子生物学	Gfen Gzï Gsên Gwet Ghok	84
 分子生物学	Gfen Gzï Gsên Gwut Ghok	84
 分子生物学	Gfen Gzï Gsên Gwut xue	84
 分子生物学	Gfen Gzï Gsên wu Ghok	84
 分子生物学	Gfen Gzï Gsên wu xue	84
-分子生物学	Gfen Gzï Wsang Gwet Ghok	84
 分子生物学	Gfen Gzï Wsang Gwut Ghok	84
 分子生物学	Gfen Gzï sheng Gwut Ghok	84
 分子生物学	Gfen Gzï sheng Gwut xue	84
@@ -135821,7 +135772,6 @@ use_preset_vocabulary: false
 分子生物学	Gfen zi sheng wu Ghok	84
 分子生物学	Gfen zi sheng wu xue	84
 分子生物学	fen zi sheng wu xue	84
-分子生物学家	Gfen Gzï Gsên Gwet Ghok Gga	7
 分子生物学家	Gfen Gzï Gsên Gwut Ghok Gga	7
 分子生物学家	Gfen Gzï Gsên Gwut Ghok jia	7
 分子生物学家	Gfen Gzï Gsên Gwut xue Gga	7
@@ -135830,7 +135780,6 @@ use_preset_vocabulary: false
 分子生物学家	Gfen Gzï Gsên wu Ghok jia	7
 分子生物学家	Gfen Gzï Gsên wu xue Gga	7
 分子生物学家	Gfen Gzï Gsên wu xue jia	7
-分子生物学家	Gfen Gzï Wsang Gwet Ghok Gga	7
 分子生物学家	Gfen Gzï Wsang Gwut Ghok Gga	7
 分子生物学家	Gfen Gzï sheng Gwut Ghok Gga	7
 分子生物学家	Gfen Gzï sheng Gwut Ghok jia	7
@@ -136203,7 +136152,6 @@ use_preset_vocabulary: false
 分泌液	Gfen mi Gyit	9
 分泌液	Gfen mi ye	9
 分泌液	fen mi ye	9
-分泌物	Gfen Gbi Gwet	304
 分泌物	Gfen Gbi Gwut	304
 分泌物	Gfen Gbi wu	304
 分泌物	Gfen mi Gwut	304
@@ -136954,7 +136902,6 @@ use_preset_vocabulary: false
 刊文	Gkon wen	17
 刊文	kan Gwun	17
 刊文	kan wen	17
-刊物	Gkon Gwet	1141
 刊物	Gkon Gwut	1141
 刊物	Gkon wu	1141
 刊物	kan Gwut	1141
@@ -138775,7 +138722,6 @@ use_preset_vocabulary: false
 创造条件	chuang zao Gtiêu jian	23
 创造条件	chuang zao tiao Gqiên	23
 创造条件	chuang zao tiao jian	23
-创造物	Gcong Gcau Gwet	25
 创造物	Gcong Gcau Gwut	25
 创造物	Gcong Gcau wu	25
 创造物	Gcong zao Gwut	25
@@ -139837,7 +139783,6 @@ use_preset_vocabulary: false
 利爪	Gli Gzau	48
 利爪	Gli zhua	48
 利爪	li zhua	48
-利物浦	Gli Gwet Gpu	278
 利物浦	Gli Gwut Gpu	278
 利物浦	Gli wu Gpu	278
 利物浦	li wu pu	278
@@ -141223,7 +141168,6 @@ use_preset_vocabulary: false
 刺激性	ci Gjit xing	234
 刺激性	ci ji Gxin	234
 刺激性	ci ji xing	234
-刺激物	Gcï Gjit Gwet	31
 刺激物	Gcï Gjit Gwut	31
 刺激物	Gcï Gjit wu	31
 刺激物	Gcï ji Gwut	31
@@ -143633,8 +143577,8 @@ use_preset_vocabulary: false
 力气	Glit Gqi	1463
 力气	li Gqi	1463
 力气	li qi	1463
-力气活	Glit Gqi Gwet	12
 力气活	Glit Gqi Gwot	12
+力气活	Glit Gqi Gwut	12
 力气活	Glit Gqi huo	12
 力气活	li Gqi Gwot	12
 力气活	li Gqi huo	12
@@ -146024,10 +145968,8 @@ use_preset_vocabulary: false
 动机	Gtung Gji	982
 动机	dong Gji	982
 动机	dong ji	982
-动植物	Gtung Gcet Gwet	475
 动植物	Gtung Gcet Gwut	475
 动植物	Gtung Gcet wu	475
-动植物	Gtung Gzïk Gwet	475
 动植物	Gtung Gzïk Gwut	475
 动植物	Gtung zhi Gwut	475
 动植物	Gtung zhi wu	475
@@ -146035,12 +145977,10 @@ use_preset_vocabulary: false
 动植物	dong Gcet wu	475
 动植物	dong zhi Gwut	475
 动植物	dong zhi wu	475
-动植物园	Gtung Gcet Gwet Gyuon	266
 动植物园	Gtung Gcet Gwut Gyuon	266
 动植物园	Gtung Gcet Gwut yuan	266
 动植物园	Gtung Gcet wu Gyuon	266
 动植物园	Gtung Gcet wu yuan	266
-动植物园	Gtung Gzïk Gwet Gyuon	266
 动植物园	Gtung Gzïk Gwut Gyuon	266
 动植物园	Gtung zhi Gwut Gyuon	266
 动植物园	Gtung zhi Gwut yuan	266
@@ -146076,12 +146016,10 @@ use_preset_vocabulary: false
 动火	Gtung huo	9
 动火	dong Gfo	9
 动火	dong huo	9
-动物	Gtung Gwet	8230
 动物	Gtung Gwut	8230
 动物	Gtung wu	8230
 动物	dong Gwut	8230
 动物	dong wu	8230
-动物园	Gtung Gwet Gyuon	346
 动物园	Gtung Gwut Gyuon	346
 动物园	Gtung Gwut yuan	346
 动物园	Gtung wu Gyuon	346
@@ -146090,7 +146028,6 @@ use_preset_vocabulary: false
 动物园	dong Gwut yuan	346
 动物园	dong wu Gyuon	346
 动物园	dong wu yuan	346
-动物学	Gtung Gwet Ghok	78
 动物学	Gtung Gwut Ghok	78
 动物学	Gtung Gwut xue	78
 动物学	Gtung wu Ghok	78
@@ -146099,7 +146036,6 @@ use_preset_vocabulary: false
 动物学	dong Gwut xue	78
 动物学	dong wu Ghok	78
 动物学	dong wu xue	78
-动物学家	Gtung Gwet Ghok Gga	53
 动物学家	Gtung Gwut Ghok Gga	53
 动物学家	Gtung Gwut Ghok jia	53
 动物学家	Gtung Gwut xue Gga	53
@@ -146116,8 +146052,6 @@ use_preset_vocabulary: false
 动物学家	dong wu Ghok jia	53
 动物学家	dong wu xue Gga	53
 动物学家	dong wu xue jia	53
-动物性	Gtung Gwet Gxin	75
-动物性	Gtung Gwet Wxiang	75
 动物性	Gtung Gwut Gxin	75
 动物性	Gtung Gwut Wxiang	75
 动物性	Gtung Gwut xing	75
@@ -146127,8 +146061,6 @@ use_preset_vocabulary: false
 动物性	dong Gwut xing	75
 动物性	dong wu Gxin	75
 动物性	dong wu xing	75
-动物所	Gtung Gwet Gso	64
-动物所	Gtung Gwet Gsu	64
 动物所	Gtung Gwut Gso	64
 动物所	Gtung Gwut Gsu	64
 动物所	Gtung Gwut suo	64
@@ -146138,7 +146070,6 @@ use_preset_vocabulary: false
 动物所	dong Gwut suo	64
 动物所	dong wu Gso	64
 动物所	dong wu suo	64
-动物油	Gtung Gwet Gyiu	10
 动物油	Gtung Gwut Gyiu	10
 动物油	Gtung Gwut you	10
 动物油	Gtung wu Gyiu	10
@@ -146147,7 +146078,6 @@ use_preset_vocabulary: false
 动物油	dong Gwut you	10
 动物油	dong wu Gyiu	10
 动物油	dong wu you	10
-动物界	Gtung Gwet Ggai	150
 动物界	Gtung Gwut Ggai	150
 动物界	Gtung Gwut jie	150
 动物界	Gtung wu Ggai	150
@@ -146156,7 +146086,6 @@ use_preset_vocabulary: false
 动物界	dong Gwut jie	150
 动物界	dong wu Ggai	150
 动物界	dong wu jie	150
-动物群	Gtung Gwet Gqyun	160
 动物群	Gtung Gwut Gqyun	160
 动物群	Gtung Gwut qun	160
 动物群	Gtung wu Gqyun	160
@@ -149066,7 +148995,6 @@ use_preset_vocabulary: false
 包装	Gbau zhuang	910
 包装	bao Gzong	910
 包装	bao zhuang	910
-包装物	Gbau Gzong Gwet	9
 包装物	Gbau Gzong Gwut	9
 包装物	Gbau Gzong wu	9
 包装物	Gbau zhuang Gwut	9
@@ -149444,10 +149372,8 @@ use_preset_vocabulary: false
 化合价	hua Ghot jia	23
 化合价	hua he Gga	23
 化合价	hua he jia	23
-化合物	Gfa Ghot Gwet	1680
 化合物	Gfa Ghot Gwut	1680
 化合物	Gfa Ghot wu	1680
-化合物	Gfa Wgot Gwet	1680
 化合物	Gfa Wgot Gwut	1680
 化合物	Gfa he Gwut	1680
 化合物	Gfa he wu	1680
@@ -149684,8 +149610,6 @@ use_preset_vocabulary: false
 化学法	hua Ghok fa	7
 化学法	hua xue Gfat	7
 化学法	hua xue fa	7
-化学物质	Gfa Ghok Gwet Gzet	8
-化学物质	Gfa Ghok Gwet Gzïk	8
 化学物质	Gfa Ghok Gwut Gzet	8
 化学物质	Gfa Ghok Gwut Gzïk	8
 化学物质	Gfa Ghok Gwut zhi	8
@@ -150562,7 +150486,6 @@ use_preset_vocabulary: false
 北京分行	bei jing Gfen Gxin	8
 北京分行	bei jing Gfen hang	8
 北京分行	bei jing fen hang	8
-北京动物园	Gbêt Gjin Gtung Gwet Gyuon	8
 北京动物园	Gbêt Gjin Gtung Gwut Gyuon	8
 北京动物园	Gbêt Gjin Gtung Gwut yuan	8
 北京动物园	Gbêt Gjin Gtung wu Gyuon	8
@@ -152253,7 +152176,6 @@ use_preset_vocabulary: false
 北京故宫	bei jing Ggu Ggung	39
 北京故宫	bei jing Ggu gong	39
 北京故宫	bei jing gu gong	39
-北京故宫博物院	Gbêt Gjin Ggu Ggung Gbok Gwet Gyuon	16
 北京故宫博物院	Gbêt Gjin Ggu Ggung Gbok Gwut Gyuon	16
 北京故宫博物院	Gbêt Gjin Ggu Ggung Gbok Gwut yuan	16
 北京故宫博物院	Gbêt Gjin Ggu Ggung Gbok wu Gyuon	16
@@ -152405,12 +152327,10 @@ use_preset_vocabulary: false
 北京林业大学	bei jing Glin ye da Ghok	14
 北京林业大学	bei jing Glin ye da xue	14
 北京林业大学	bei jing lin ye da xue	14
-北京植物园	Gbêt Gjin Gcet Gwet Gyuon	7
 北京植物园	Gbêt Gjin Gcet Gwut Gyuon	7
 北京植物园	Gbêt Gjin Gcet Gwut yuan	7
 北京植物园	Gbêt Gjin Gcet wu Gyuon	7
 北京植物园	Gbêt Gjin Gcet wu yuan	7
-北京植物园	Gbêt Gjin Gzïk Gwet Gyuon	7
 北京植物园	Gbêt Gjin Gzïk Gwut Gyuon	7
 北京植物园	Gbêt Gjin zhi Gwut Gyuon	7
 北京植物园	Gbêt Gjin zhi Gwut yuan	7
@@ -161085,8 +161005,8 @@ use_preset_vocabulary: false
 半死	Gbon si	39
 半死	ban Gsï	39
 半死	ban si	39
-半死不活	Gbon Gsï Gbet Gwet	80
 半死不活	Gbon Gsï Gbet Gwot	80
+半死不活	Gbon Gsï Gbet Gwut	80
 半死不活	Gbon Gsï Gbet huo	80
 半死不活	Gbon Gsï bu Gwot	80
 半死不活	Gbon Gsï bu huo	80
@@ -164954,7 +164874,6 @@ use_preset_vocabulary: false
 南京农业大学	nan jing nong ye Gtai xue	8
 南京农业大学	nan jing nong ye da Ghok	8
 南京农业大学	nan jing nong ye da xue	8
-南京博物院	Glan Gjin Gbok Gwet Gyuon	8
 南京博物院	Glan Gjin Gbok Gwut Gyuon	8
 南京博物院	Glan Gjin Gbok Gwut yuan	8
 南京博物院	Glan Gjin Gbok wu Gyuon	8
@@ -167531,12 +167450,10 @@ use_preset_vocabulary: false
 博爱县	bo Gngai xian	8
 博爱县	bo ai Gxiên	8
 博爱县	bo ai xian	8
-博物	Gbok Gwet	68
 博物	Gbok Gwut	68
 博物	Gbok wu	68
 博物	bo Gwut	68
 博物	bo wu	68
-博物学家	Gbok Gwet Ghok Gga	23
 博物学家	Gbok Gwut Ghok Gga	23
 博物学家	Gbok Gwut Ghok jia	23
 博物学家	Gbok Gwut xue Gga	23
@@ -167553,7 +167470,6 @@ use_preset_vocabulary: false
 博物学家	bo wu Ghok jia	23
 博物学家	bo wu xue Gga	23
 博物学家	bo wu xue jia	23
-博物院	Gbok Gwet Gyuon	48
 博物院	Gbok Gwut Gyuon	48
 博物院	Gbok Gwut yuan	48
 博物院	Gbok wu Gyuon	48
@@ -167562,7 +167478,6 @@ use_preset_vocabulary: false
 博物院	bo Gwut yuan	48
 博物院	bo wu Gyuon	48
 博物院	bo wu yuan	48
-博物馆	Gbok Gwet Gguon	3272
 博物馆	Gbok Gwut Gguon	3272
 博物馆	Gbok Gwut guan	3272
 博物馆	Gbok wu Gguon	3272
@@ -167571,7 +167486,6 @@ use_preset_vocabulary: false
 博物馆	bo Gwut guan	3272
 博物馆	bo wu Gguon	3272
 博物馆	bo wu guan	3272
-博物馆学	Gbok Gwet Gguon Ghok	27
 博物馆学	Gbok Gwut Gguon Ghok	27
 博物馆学	Gbok Gwut Gguon xue	27
 博物馆学	Gbok Gwut guan Ghok	27
@@ -168910,7 +168824,6 @@ use_preset_vocabulary: false
 卤化	Glu Gfa	96
 卤化	Glu hua	96
 卤化	lu hua	96
-卤化物	Glu Gfa Gwet	40
 卤化物	Glu Gfa Gwut	40
 卤化物	Glu Gfa wu	40
 卤化物	Glu hua Gwut	40
@@ -170202,7 +170115,6 @@ use_preset_vocabulary: false
 危险期	wei Gxiên Gqi	22
 危险期	wei xian Gqi	22
 危险期	wei xian qi	22
-危险物	Gwi Gxiên Gwet	7
 危险物	Gwi Gxiên Gwut	7
 危险物	Gwi Gxiên wu	7
 危险物	Gwi xian Gwut	7
@@ -171066,7 +170978,6 @@ use_preset_vocabulary: false
 历史剧	li Gsï ju	145
 历史剧	li shi Gjyu	145
 历史剧	li shi ju	145
-历史博物馆	Glit Gsï Gbok Gwet Gguon	100
 历史博物馆	Glit Gsï Gbok Gwut Gguon	100
 历史博物馆	Glit Gsï Gbok Gwut guan	100
 历史博物馆	Glit Gsï Gbok wu Gguon	100
@@ -171099,10 +171010,6 @@ use_preset_vocabulary: false
 历史博物馆	li shi bo Gwut guan	100
 历史博物馆	li shi bo wu Gguon	100
 历史博物馆	li shi bo wu guan	100
-历史唯物主义	Glit Gsï Gwi Gwet Gjyu Gni	155
-历史唯物主义	Glit Gsï Gwi Gwet Gjyu Gyi	155
-历史唯物主义	Glit Gsï Gwi Gwet Gzu Gni	155
-历史唯物主义	Glit Gsï Gwi Gwet Gzu Gyi	155
 历史唯物主义	Glit Gsï Gwi Gwut Gjyu Gni	155
 历史唯物主义	Glit Gsï Gwi Gwut Gjyu Gyi	155
 历史唯物主义	Glit Gsï Gwi Gwut Gzu Gni	155
@@ -172892,10 +172799,8 @@ use_preset_vocabulary: false
 原版	Gyuon Gban	170055
 原版	yuan Gban	170055
 原版	yuan ban	170055
-原物	Gnyuon Gwet	88
 原物	Gnyuon Gwut	88
 原物	Gnyuon wu	88
-原物	Gyuon Gwet	88
 原物	Gyuon Gwut	88
 原物	yuan Gwut	88
 原物	yuan wu	88
@@ -172927,20 +172832,16 @@ use_preset_vocabulary: false
 原生	Gyuon Wsang	55181
 原生	yuan Gsên	55181
 原生	yuan sheng	55181
-原生动物	Gnyuon Gsên Gtung Gwet	108
 原生动物	Gnyuon Gsên Gtung Gwut	108
 原生动物	Gnyuon Gsên Gtung wu	108
 原生动物	Gnyuon Gsên dong Gwut	108
 原生动物	Gnyuon Gsên dong wu	108
-原生动物	Gnyuon Wsang Gtung Gwet	108
 原生动物	Gnyuon Wsang Gtung Gwut	108
 原生动物	Gnyuon sheng Gtung Gwut	108
 原生动物	Gnyuon sheng Gtung wu	108
 原生动物	Gnyuon sheng dong Gwut	108
 原生动物	Gnyuon sheng dong wu	108
-原生动物	Gyuon Gsên Gtung Gwet	108
 原生动物	Gyuon Gsên Gtung Gwut	108
-原生动物	Gyuon Wsang Gtung Gwet	108
 原生动物	Gyuon Wsang Gtung Gwut	108
 原生动物	yuan Gsên Gtung Gwut	108
 原生动物	yuan Gsên Gtung wu	108
@@ -173840,7 +173741,6 @@ use_preset_vocabulary: false
 参照	Gcan Gzêu	30553
 参照	Gcan zhao	30553
 参照	can zhao	30553
-参照物	Gcan Gzêu Gwet	22
 参照物	Gcan Gzêu Gwut	22
 参照物	Gcan Gzêu wu	22
 参照物	Gcan zhao Gwut	22
@@ -175356,9 +175256,7 @@ use_preset_vocabulary: false
 反刍	Gfan Gqyu	25049
 反刍	Gfan chu	25049
 反刍	fan chu	25049
-反刍动物	Gfan Gcu Gtung Gwet	14
 反刍动物	Gfan Gcu Gtung Gwut	14
-反刍动物	Gfan Gqyu Gtung Gwet	14
 反刍动物	Gfan Gqyu Gtung Gwut	14
 反刍动物	Gfan Gqyu Gtung wu	14
 反刍动物	Gfan Gqyu dong Gwut	14
@@ -175584,10 +175482,8 @@ use_preset_vocabulary: false
 反应式	Gfan ying Gset	18
 反应式	Gfan ying shi	18
 反应式	fan ying shi	18
-反应物	Gfan Gyin Gwet	173
 反应物	Gfan Gyin Gwut	173
 反应物	Gfan Gyin wu	173
-反应物	Gfan Wngiên Gwet	173
 反应物	Gfan Wngiên Gwut	173
 反应物	Gfan ying Gwut	173
 反应物	Gfan ying wu	173
@@ -175746,8 +175642,6 @@ use_preset_vocabulary: false
 反照	Gfan Gzêu	21
 反照	Gfan zhao	21
 反照	fan zhao	21
-反物质	Gfan Gwet Gzet	9
-反物质	Gfan Gwet Gzïk	9
 反物质	Gfan Gwut Gzet	9
 反物质	Gfan Gwut Gzïk	9
 反物质	Gfan Gwut zhi	9
@@ -175896,10 +175790,8 @@ use_preset_vocabulary: false
 反面	Gfan Gmiên	264
 反面	Gfan mian	264
 反面	fan mian	264
-反面人物	Gfan Gmiên Gnin Gwet	18
 反面人物	Gfan Gmiên Gnin Gwut	18
 反面人物	Gfan Gmiên Gnin wu	18
-反面人物	Gfan Gmiên Wlen Gwet	18
 反面人物	Gfan Gmiên Wlen Gwut	18
 反面人物	Gfan Gmiên ren Gwut	18
 反面人物	Gfan Gmiên ren wu	18
@@ -178781,7 +178673,6 @@ use_preset_vocabulary: false
 变温	Gbiên wen	11
 变温	bian Gwun	11
 变温	bian wen	11
-变温动物	Gbiên Gwun Gtung Gwet	15
 变温动物	Gbiên Gwun Gtung Gwut	15
 变温动物	Gbiên Gwun Gtung wu	15
 变温动物	Gbiên Gwun dong Gwut	15
@@ -180299,7 +180190,6 @@ use_preset_vocabulary: false
 古波斯	Ggu Gbo Gsï	34
 古波斯	Ggu Gbo si	34
 古波斯	gu bo si	34
-古物	Ggu Gwet	367
 古物	Ggu Gwut	367
 古物	Ggu wu	367
 古物	gu wu	367
@@ -180325,27 +180215,22 @@ use_preset_vocabulary: false
 古生代	Ggu sheng Gtai	182
 古生代	Ggu sheng dai	182
 古生代	gu sheng dai	182
-古生物	Ggu Gsên Gwet	116
 古生物	Ggu Gsên Gwut	116
 古生物	Ggu Gsên wu	116
-古生物	Ggu Wsang Gwet	116
 古生物	Ggu Wsang Gwut	116
 古生物	Ggu sheng Gwut	116
 古生物	Ggu sheng wu	116
 古生物	gu sheng wu	116
-古生物学	Ggu Gsên Gwet Ghok	74
 古生物学	Ggu Gsên Gwut Ghok	74
 古生物学	Ggu Gsên Gwut xue	74
 古生物学	Ggu Gsên wu Ghok	74
 古生物学	Ggu Gsên wu xue	74
-古生物学	Ggu Wsang Gwet Ghok	74
 古生物学	Ggu Wsang Gwut Ghok	74
 古生物学	Ggu sheng Gwut Ghok	74
 古生物学	Ggu sheng Gwut xue	74
 古生物学	Ggu sheng wu Ghok	74
 古生物学	Ggu sheng wu xue	74
 古生物学	gu sheng wu xue	74
-古生物学家	Ggu Gsên Gwet Ghok Gga	32
 古生物学家	Ggu Gsên Gwut Ghok Gga	32
 古生物学家	Ggu Gsên Gwut Ghok jia	32
 古生物学家	Ggu Gsên Gwut xue Gga	32
@@ -180354,7 +180239,6 @@ use_preset_vocabulary: false
 古生物学家	Ggu Gsên wu Ghok jia	32
 古生物学家	Ggu Gsên wu xue Gga	32
 古生物学家	Ggu Gsên wu xue jia	32
-古生物学家	Ggu Wsang Gwet Ghok Gga	32
 古生物学家	Ggu Wsang Gwut Ghok Gga	32
 古生物学家	Ggu sheng Gwut Ghok Gga	32
 古生物学家	Ggu sheng Gwut Ghok jia	32
@@ -181693,13 +181577,9 @@ use_preset_vocabulary: false
 可否	Gko fou	251
 可否	ke Gfêu	251
 可否	ke fou	251
-可吸入颗粒物	Gko Gxit Glet Gkuo Glit Gwet	7
 可吸入颗粒物	Gko Gxit Glet Gkuo Glit Gwut	7
-可吸入颗粒物	Gko Gxit Glet Gkuo Gtit Gwet	7
 可吸入颗粒物	Gko Gxit Glet Gkuo Gtit Gwut	7
-可吸入颗粒物	Gko Gxit Gluk Gkuo Glit Gwet	7
 可吸入颗粒物	Gko Gxit Gluk Gkuo Glit Gwut	7
-可吸入颗粒物	Gko Gxit Gluk Gkuo Gtit Gwet	7
 可吸入颗粒物	Gko Gxit Gluk Gkuo Gtit Gwut	7
 可吸入颗粒物	Gko Gxit Gluk Gkuo Gtit wu	7
 可吸入颗粒物	Gko Gxit Gluk Gkuo li Gwut	7
@@ -182304,7 +182184,6 @@ use_preset_vocabulary: false
 可燃性	ke Glên xing	23
 可燃性	ke ran Gxin	23
 可燃性	ke ran xing	23
-可燃物	Gko Glên Gwet	8
 可燃物	Gko Glên Gwut	8
 可燃物	Gko Glên wu	8
 可燃物	Gko ran Gwut	8
@@ -188450,7 +188329,6 @@ use_preset_vocabulary: false
 吉祥如意	ji xiang Glu Gyi	41
 吉祥如意	ji xiang ru Gyi	41
 吉祥如意	ji xiang ru yi	41
-吉祥物	Gjit Gxiong Gwet	45
 吉祥物	Gjit Gxiong Gwut	45
 吉祥物	Gjit Gxiong wu	45
 吉祥物	Gjit xiang Gwut	45
@@ -189826,7 +189704,6 @@ use_preset_vocabulary: false
 同类题材	tong Glui Gti Gcai	8
 同类题材	tong lei Gti Gcai	8
 同类题材	tong lei ti cai	8
-同系物	Gtung Gxi Gwet	27
 同系物	Gtung Gxi Gwut	27
 同系物	Gtung Gxi wu	27
 同系物	tong Gxi Gwut	27
@@ -190757,10 +190634,8 @@ use_preset_vocabulary: false
 名牌	Wmin Gpai	2001
 名牌	ming Gpai	2001
 名牌	ming pai	2001
-名物	Gmin Gwet	17
 名物	Gmin Gwut	17
 名物	Gmin wu	17
-名物	Wmiang Gwet	17
 名物	Wmiang Gwut	17
 名物	ming Gwut	17
 名物	ming wu	17
@@ -196277,9 +196152,7 @@ use_preset_vocabulary: false
 周口店	zhou Gkiêu dian	110
 周口店	zhou kou Gdiên	110
 周口店	zhou kou dian	110
-周口店遗址博物馆	Gjiu Gkiêu Gdiên Gyi Gzï Gbok Gwet Gguon	7
 周口店遗址博物馆	Gjiu Gkiêu Gdiên Gyi Gzï Gbok Gwut Gguon	7
-周口店遗址博物馆	Gzeu Gkiêu Gdiên Gyi Gzï Gbok Gwet Gguon	7
 周口店遗址博物馆	Gzeu Gkiêu Gdiên Gyi Gzï Gbok Gwut Gguon	7
 周口店遗址博物馆	zhou kou dian yi zhi bo wu guan	7
 周四	Gjiu Gsï	204
@@ -202054,12 +201927,10 @@ use_preset_vocabulary: false
 哺乳	Gpu ru	146
 哺乳	bu Geo	146
 哺乳	bu ru	146
-哺乳动物	Gpu Geo Gtung Gwet	369
 哺乳动物	Gpu Geo Gtung Gwut	369
 哺乳动物	Gpu Geo Gtung wu	369
 哺乳动物	Gpu Geo dong Gwut	369
 哺乳动物	Gpu Geo dong wu	369
-哺乳动物	Gpu Glu Gtung Gwet	369
 哺乳动物	Gpu Glu Gtung Gwut	369
 哺乳动物	Gpu ru Gtung Gwut	369
 哺乳动物	Gpu ru Gtung wu	369
@@ -203520,15 +203391,10 @@ use_preset_vocabulary: false
 唯有读书高	wei you du Gsu gao	8
 唯有读书高	wei you du shu Ggau	8
 唯有读书高	wei you du shu gao	8
-唯物	Gwi Gwet	20
 唯物	Gwi Gwut	20
 唯物	Gwi wu	20
 唯物	wei Gwut	20
 唯物	wei wu	20
-唯物主义	Gwi Gwet Gjyu Gni	409
-唯物主义	Gwi Gwet Gjyu Gyi	409
-唯物主义	Gwi Gwet Gzu Gni	409
-唯物主义	Gwi Gwet Gzu Gyi	409
 唯物主义	Gwi Gwut Gjyu Gni	409
 唯物主义	Gwi Gwut Gjyu Gyi	409
 唯物主义	Gwi Gwut Gzu Gni	409
@@ -203548,10 +203414,6 @@ use_preset_vocabulary: false
 唯物主义	wei wu Gzu yi	409
 唯物主义	wei wu zhu Gni	409
 唯物主义	wei wu zhu yi	409
-唯物主义者	Gwi Gwet Gjyu Gni Gza	58
-唯物主义者	Gwi Gwet Gjyu Gyi Gza	58
-唯物主义者	Gwi Gwet Gzu Gni Gza	58
-唯物主义者	Gwi Gwet Gzu Gyi Gza	58
 唯物主义者	Gwi Gwut Gjyu Gni Gza	58
 唯物主义者	Gwi Gwut Gjyu Gyi Gza	58
 唯物主义者	Gwi Gwut Gzu Gni Gza	58
@@ -203587,7 +203449,6 @@ use_preset_vocabulary: false
 唯物主义者	wei wu zhu Gni zhe	58
 唯物主义者	wei wu zhu yi Gza	58
 唯物主义者	wei wu zhu yi zhe	58
-唯物史观	Gwi Gwet Gsï Gguon	107
 唯物史观	Gwi Gwut Gsï Gguon	107
 唯物史观	Gwi Gwut Gsï guan	107
 唯物史观	Gwi Gwut shi Gguon	107
@@ -203604,8 +203465,6 @@ use_preset_vocabulary: false
 唯物史观	wei wu Gsï guan	107
 唯物史观	wei wu shi Gguon	107
 唯物史观	wei wu shi guan	107
-唯物论	Gwi Gwet Glen	49
-唯物论	Gwi Gwet Glun	49
 唯物论	Gwi Gwut Glen	49
 唯物论	Gwi Gwut Glun	49
 唯物论	Gwi Gwut lun	49
@@ -203615,8 +203474,6 @@ use_preset_vocabulary: false
 唯物论	wei Gwut lun	49
 唯物论	wei wu Glen	49
 唯物论	wei wu lun	49
-唯物论者	Gwi Gwet Glen Gza	8
-唯物论者	Gwi Gwet Glun Gza	8
 唯物论者	Gwi Gwut Glen Gza	8
 唯物论者	Gwi Gwut Glen zhe	8
 唯物论者	Gwi Gwut Glun Gza	8
@@ -203634,7 +203491,6 @@ use_preset_vocabulary: false
 唯物论者	wei wu Glen zhe	8
 唯物论者	wei wu lun Gza	8
 唯物论者	wei wu lun zhe	8
-唯物辩证法	Gwi Gwet Gpiên Gzen Gfat	60
 唯物辩证法	Gwi Gwut Gpiên Gzen Gfat	60
 唯物辩证法	Gwi Gwut Gpiên Gzen fa	60
 唯物辩证法	Gwi Gwut Gpiên zheng Gfat	60
@@ -204778,7 +204634,6 @@ use_preset_vocabulary: false
 啮齿	Gniêt chi	75035
 啮齿	nie Gcï	75035
 啮齿	nie chi	75035
-啮齿动物	Gniêt Gcï Gtung Gwet	13
 啮齿动物	Gniêt Gcï Gtung Gwut	13
 啮齿动物	Gniêt Gcï Gtung wu	13
 啮齿动物	Gniêt Gcï dong Gwut	13
@@ -206643,9 +206498,7 @@ use_preset_vocabulary: false
 喷发	Gpen Gfat	379
 喷发	Gpen fa	379
 喷发	pen fa	379
-喷发物	Gfen Gfat Gwet	7
 喷发物	Gfen Gfat Gwut	7
-喷发物	Gpen Gfat Gwet	7
 喷发物	Gpen Gfat Gwut	7
 喷发物	Gpen Gfat wu	7
 喷发物	Gpen fa Gwut	7
@@ -207711,7 +207564,6 @@ use_preset_vocabulary: false
 器械	Gqi Gkai	744
 器械	Gqi xie	744
 器械	qi xie	744
-器物	Gqi Gwet	657
 器物	Gqi Gwut	657
 器物	Gqi wu	657
 器物	qi wu	657
@@ -207919,7 +207771,6 @@ use_preset_vocabulary: false
 囊中	Glong zhong	196
 囊中	nang Gzung	196
 囊中	nang zhong	196
-囊中之物	Glong Gzung Gzï Gwet	23
 囊中之物	Glong Gzung Gzï Gwut	23
 囊中之物	Glong Gzung Gzï wu	23
 囊中之物	Glong Gzung zhi Gwut	23
@@ -210544,7 +210395,6 @@ use_preset_vocabulary: false
 四片	Gsï pian	28
 四片	si Gpiên	28
 四片	si pian	28
-四物汤	Gsï Gwet Gtong	9
 四物汤	Gsï Gwut Gtong	9
 四物汤	Gsï Gwut tang	9
 四物汤	Gsï wu Gtong	9
@@ -212761,7 +212611,6 @@ use_preset_vocabulary: false
 囹圄	ling yu	19
 固	Ggu	135620
 固体	Ggu Gti	1313
-固体废物	Ggu Gti Gfui Gwet	33
 固体废物	Ggu Gti Gfui Gwut	33
 固体废物	Ggu Gti Gfui wu	33
 固体废物	Ggu Gti fei Gwut	33
@@ -213991,7 +213840,6 @@ use_preset_vocabulary: false
 国家医药管理局	guo jia Gyi yao guan Gli Gqiuk	11
 国家医药管理局	guo jia Gyi yao guan Gli ju	11
 国家医药管理局	guo jia yi yao guan li ju	11
-国家博物馆	Gguêt Gga Gbok Gwet Gguon	564
 国家博物馆	Gguêt Gga Gbok Gwut Gguon	564
 国家博物馆	Gguêt Gga Gbok Gwut guan	564
 国家博物馆	Gguêt Gga Gbok wu Gguon	564
@@ -214428,8 +214276,6 @@ use_preset_vocabulary: false
 国家教育部	guo jia jiao Gniuk bu	62
 国家教育部	guo jia jiao yu Gpu	62
 国家教育部	guo jia jiao yu bu	62
-国家文物局	Gguêt Gga Gwun Gwet Gjyut	58
-国家文物局	Gguêt Gga Gwun Gwet Gqiuk	58
 国家文物局	Gguêt Gga Gwun Gwut Gjyut	58
 国家文物局	Gguêt Gga Gwun Gwut Gqiuk	58
 国家文物局	Gguêt Gga Gwun Gwut ju	58
@@ -218237,7 +218083,6 @@ use_preset_vocabulary: false
 土炮	Gtu Gpau	20
 土炮	Gtu pao	20
 土炮	tu pao	20
-土物	Gtu Gwet	26
 土物	Gtu Gwut	26
 土物	Gtu wu	26
 土物	tu wu	26
@@ -218985,7 +218830,6 @@ use_preset_vocabulary: false
 圣父	Gsen Gfu	17
 圣父	sheng Gfu	17
 圣父	sheng fu	17
-圣物	Gsen Gwet	61
 圣物	Gsen Gwut	61
 圣物	Gsen wu	61
 圣物	sheng Gwut	61
@@ -220104,7 +219948,6 @@ use_preset_vocabulary: false
 地处	Gti chu	2766
 地处	di Gcu	2766
 地处	di chu	2766
-地大物博	Gti Gtai Gwet Gbok	25
 地大物博	Gti Gtai Gwut Gbok	25
 地大物博	Gti Gtai Gwut bo	25
 地大物博	Gti Gtai wu Gbok	25
@@ -220501,7 +220344,6 @@ use_preset_vocabulary: false
 地牢	Gti lao	72
 地牢	di Glau	72
 地牢	di lao	72
-地物	Gti Gwet	40
 地物	Gti Gwut	40
 地物	Gti wu	40
 地物	di Gwut	40
@@ -220842,7 +220684,6 @@ use_preset_vocabulary: false
 地质	Gti zhi	3014
 地质	di Gzet	3014
 地质	di zhi	3014
-地质博物馆	Gti Gzet Gbok Gwet Gguon	9
 地质博物馆	Gti Gzet Gbok Gwut Gguon	9
 地质博物馆	Gti Gzet Gbok Gwut guan	9
 地质博物馆	Gti Gzet Gbok wu Gguon	9
@@ -220851,7 +220692,6 @@ use_preset_vocabulary: false
 地质博物馆	Gti Gzet bo Gwut guan	9
 地质博物馆	Gti Gzet bo wu Gguon	9
 地质博物馆	Gti Gzet bo wu guan	9
-地质博物馆	Gti Gzïk Gbok Gwet Gguon	9
 地质博物馆	Gti Gzïk Gbok Gwut Gguon	9
 地质博物馆	Gti zhi Gbok Gwut Gguon	9
 地质博物馆	Gti zhi Gbok Gwut guan	9
@@ -225283,7 +225123,6 @@ use_preset_vocabulary: false
 堆积层	Gdui ji Gcên	15
 堆积层	Gdui ji ceng	15
 堆积层	dui ji ceng	15
-堆积物	Gdui Gjit Gwet	61
 堆积物	Gdui Gjit Gwut	61
 堆积物	Gdui Gjit wu	61
 堆积物	Gdui ji Gwut	61
@@ -226963,7 +226802,6 @@ use_preset_vocabulary: false
 填充料	tian Gcung liao	8
 填充料	tian chong Gliêu	8
 填充料	tian chong liao	8
-填充物	Gtiên Gcung Gwet	37
 填充物	Gtiên Gcung Gwut	37
 填充物	Gtiên Gcung wu	37
 填充物	Gtiên chong Gwut	37
@@ -229800,10 +229638,8 @@ use_preset_vocabulary: false
 复合材料	fu he Gcai Gliêu	187
 复合材料	fu he Gcai liao	187
 复合材料	fu he cai liao	187
-复合物	Gfuk Ghot Gwet	53
 复合物	Gfuk Ghot Gwut	53
 复合物	Gfuk Ghot wu	53
-复合物	Gfuk Wgot Gwet	53
 复合物	Gfuk Wgot Gwut	53
 复合物	Gfuk he Gwut	53
 复合物	Gfuk he wu	53
@@ -230019,25 +229855,25 @@ use_preset_vocabulary: false
 复检	Gfuk jian	69
 复检	fu Gjiên	69
 复检	fu jian	69
-复活	Gfuk Gwet	270
 复活	Gfuk Gwot	270
+复活	Gfuk Gwut	270
 复活	Gfuk huo	270
 复活	fu Gwot	270
 复活	fu huo	270
-复活节	Gfuk Gwet Gjiêt	73
 复活节	Gfuk Gwot Gjiêt	73
 复活节	Gfuk Gwot jie	73
+复活节	Gfuk Gwut Gjiêt	73
 复活节	Gfuk huo Gjiêt	73
 复活节	Gfuk huo jie	73
 复活节	fu Gwot Gjiêt	73
 复活节	fu Gwot jie	73
 复活节	fu huo Gjiêt	73
 复活节	fu huo jie	73
-复活节岛	Gfuk Gwet Gjiêt Gdau	41
 复活节岛	Gfuk Gwot Gjiêt Gdau	41
 复活节岛	Gfuk Gwot Gjiêt dao	41
 复活节岛	Gfuk Gwot jie Gdau	41
 复活节岛	Gfuk Gwot jie dao	41
+复活节岛	Gfuk Gwut Gjiêt Gdau	41
 复活节岛	Gfuk huo Gjiêt Gdau	41
 复活节岛	Gfuk huo Gjiêt dao	41
 复活节岛	Gfuk huo jie Gdau	41
@@ -234347,11 +234183,11 @@ use_preset_vocabulary: false
 夜班	Gya Gban	95
 夜班	ye Gban	95
 夜班	ye ban	95
-夜生活	Gya Gsên Gwet	58
 夜生活	Gya Gsên Gwot	58
+夜生活	Gya Gsên Gwut	58
 夜生活	Gya Gsên huo	58
-夜生活	Gya Wsang Gwet	58
 夜生活	Gya Wsang Gwot	58
+夜生活	Gya Wsang Gwut	58
 夜生活	Gya sheng Gwot	58
 夜生活	Gya sheng huo	58
 夜生活	ye Gsên Gwot	58
@@ -235110,10 +234946,8 @@ use_preset_vocabulary: false
 大人先生	da ren Gxiên sheng	11
 大人先生	da ren xian Gsên	11
 大人先生	da ren xian sheng	11
-大人物	Gtai Gnin Gwet	57
 大人物	Gtai Gnin Gwut	57
 大人物	Gtai Gnin wu	57
-大人物	Gtai Wlen Gwet	57
 大人物	Gtai Wlen Gwut	57
 大人物	Gtai ren Gwut	57
 大人物	Gtai ren wu	57
@@ -238984,7 +238818,6 @@ use_preset_vocabulary: false
 大气层	da Gqi Gcên	248
 大气层	da Gqi ceng	248
 大气层	da qi ceng	248
-大气物理	Gtai Gqi Gwet Gli	37
 大气物理	Gtai Gqi Gwut Gli	37
 大气物理	Gtai Gqi wu Gli	37
 大气物理	da Gqi Gwut Gli	37
@@ -239726,7 +239559,6 @@ use_preset_vocabulary: false
 大田	Gtai tian	42
 大田	da Gtiên	42
 大田	da tian	42
-大田作物	Gtai Gtiên Gzok Gwet	10
 大田作物	Gtai Gtiên Gzok Gwut	10
 大田作物	Gtai Gtiên Gzok wu	10
 大田作物	Gtai Gtiên zuo Gwut	10
@@ -240530,7 +240362,6 @@ use_preset_vocabulary: false
 大英	Gtai ying	20
 大英	da Gyin	20
 大英	da ying	20
-大英博物馆	Gtai Gyin Gbok Gwet Gguon	18
 大英博物馆	Gtai Gyin Gbok Gwut Gguon	18
 大英博物馆	Gtai Gyin Gbok Gwut guan	18
 大英博物馆	Gtai Gyin Gbok wu Gguon	18
@@ -247373,10 +247204,8 @@ use_preset_vocabulary: false
 头面	Gtêu mian	91
 头面	tou Gmiên	91
 头面	tou mian	91
-头面人物	Gtêu Gmiên Gnin Gwet	43
 头面人物	Gtêu Gmiên Gnin Gwut	43
 头面人物	Gtêu Gmiên Gnin wu	43
-头面人物	Gtêu Gmiên Wlen Gwet	43
 头面人物	Gtêu Gmiên Wlen Gwut	43
 头面人物	Gtêu Gmiên ren Gwut	43
 头面人物	Gtêu Gmiên ren wu	43
@@ -253328,7 +253157,6 @@ use_preset_vocabulary: false
 妖法	Gyêu fa	131
 妖法	yao Gfat	131
 妖法	yao fa	131
-妖物	Gyêu Gwet	19
 妖物	Gyêu Gwut	19
 妖物	Gyêu wu	19
 妖物	yao Gwut	19
@@ -258383,10 +258211,8 @@ use_preset_vocabulary: false
 存在主义	Gcun zai zhu Gni	73
 存在主义	Gcun zai zhu yi	73
 存在主义	cun zai zhu yi	73
-存在物	Gcun Gcai Gwet	12
 存在物	Gcun Gcai Gwut	12
 存在物	Gcun Gcai wu	12
-存在物	Gcun Gcêi Gwet	12
 存在物	Gcun Gcêi Gwut	12
 存在物	Gcun zai Gwut	12
 存在物	Gcun zai wu	12
@@ -258430,13 +258256,13 @@ use_preset_vocabulary: false
 存款额	Gcun kuan Gngiêt	8
 存款额	Gcun kuan e	8
 存款额	cun kuan e	8
-存活	Gcun Gwet	30191
 存活	Gcun Gwot	30191
+存活	Gcun Gwut	30191
 存活	Gcun huo	30191
 存活	cun huo	30191
-存活率	Gcun Gwet Glyut	21
 存活率	Gcun Gwot Glyut	21
 存活率	Gcun Gwot lv	21
+存活率	Gcun Gwut Glyut	21
 存活率	Gcun huo Glyut	21
 存活率	Gcun huo lv	21
 存活率	cun huo lv	21
@@ -261541,11 +261367,11 @@ use_preset_vocabulary: false
 守法	Gxiu Gfat	189
 守法	shou Gfat	189
 守法	shou fa	189
-守活寡	Gseu Gwet Ggua	13
 守活寡	Gseu Gwot Ggua	13
+守活寡	Gseu Gwut Ggua	13
 守活寡	Gseu huo Ggua	13
-守活寡	Gxiu Gwet Ggua	13
 守活寡	Gxiu Gwot Ggua	13
+守活寡	Gxiu Gwut Ggua	13
 守活寡	shou Gwot Ggua	13
 守活寡	shou huo Ggua	13
 守活寡	shou huo gua	13
@@ -267700,7 +267526,6 @@ use_preset_vocabulary: false
 宝清	Gbau qing	8
 宝清	bao Gqin	8
 宝清	bao qing	8
-宝物	Gbau Gwet	342
 宝物	Gbau Gwut	342
 宝物	Gbau wu	342
 宝物	bao Gwut	342
@@ -268483,16 +268308,12 @@ use_preset_vocabulary: false
 实测值	shi Gcêt zhi	7
 实测值	shi ce Gzïk	7
 实测值	shi ce zhi	7
-实物	Gset Gwet	125821
 实物	Gset Gwut	125821
-实物	Gsïk Gwet	125821
 实物	Gsïk Gwut	125821
 实物	Gsïk wu	125821
 实物	shi Gwut	125821
 实物	shi wu	125821
-实物地租	Gset Gwet Gti Gzu	43
 实物地租	Gset Gwut Gti Gzu	43
-实物地租	Gsïk Gwet Gti Gzu	43
 实物地租	Gsïk Gwut Gti Gzu	43
 实物地租	Gsïk Gwut di Gzu	43
 实物地租	Gsïk wu Gti Gzu	43
@@ -268502,9 +268323,7 @@ use_preset_vocabulary: false
 实物地租	shi wu Gti Gzu	43
 实物地租	shi wu di Gzu	43
 实物地租	shi wu di zu	43
-实物税	Gset Gwet Gsui	12
 实物税	Gset Gwut Gsui	12
-实物税	Gsïk Gwet Gsui	12
 实物税	Gsïk Gwut Gsui	12
 实物税	Gsïk Gwut shui	12
 实物税	Gsïk wu Gsui	12
@@ -269019,7 +268838,6 @@ use_preset_vocabulary: false
 宠爱	Gcung ai	324
 宠爱	chong Gngai	324
 宠爱	chong ai	324
-宠物	Gcung Gwet	203
 宠物	Gcung Gwut	203
 宠物	Gcung wu	203
 宠物	chong Gwut	203
@@ -270938,8 +270756,8 @@ use_preset_vocabulary: false
 家务事	jia Gwu Gsï	50
 家务事	jia Gwu shi	50
 家务事	jia wu shi	50
-家务活	Gga Gwu Gwet	21
 家务活	Gga Gwu Gwot	21
+家务活	Gga Gwu Gwut	21
 家务活	Gga Gwu huo	21
 家务活	jia Gwu Gwot	21
 家务活	jia Gwu huo	21
@@ -272355,10 +272173,8 @@ use_preset_vocabulary: false
 寄生性	Gji sheng Gxin	43
 寄生性	Gji sheng xing	43
 寄生性	ji sheng xing	43
-寄生物	Gji Gsên Gwet	28
 寄生物	Gji Gsên Gwut	28
 寄生物	Gji Gsên wu	28
-寄生物	Gji Wsang Gwet	28
 寄生物	Gji Wsang Gwut	28
 寄生物	Gji sheng Gwut	28
 寄生物	Gji sheng wu	28
@@ -274194,10 +274010,8 @@ use_preset_vocabulary: false
 对应点	Gdui ying Gdiên	14
 对应点	Gdui ying dian	14
 对应点	dui ying dian	14
-对应物	Gdui Gyin Gwet	7
 对应物	Gdui Gyin Gwut	7
 对应物	Gdui Gyin wu	7
-对应物	Gdui Wngiên Gwet	7
 对应物	Gdui Wngiên Gwut	7
 对应物	Gdui ying Gwut	7
 对应物	Gdui ying wu	7
@@ -274353,7 +274167,6 @@ use_preset_vocabulary: false
 对立	Gdui Glit	1297
 对立	Gdui li	1297
 对立	dui li	1297
-对立物	Gdui Glit Gwet	11
 对立物	Gdui Glit Gwut	11
 对立物	Gdui Glit wu	11
 对立物	Gdui li Gwut	11
@@ -274687,8 +274500,8 @@ use_preset_vocabulary: false
 寻死	Wxyun Gsï	171
 寻死	xun Gsï	171
 寻死	xun si	171
-寻死觅活	Gqin Gsï Gmit Gwet	27
 寻死觅活	Gqin Gsï Gmit Gwot	27
+寻死觅活	Gqin Gsï Gmit Gwut	27
 寻死觅活	Gqin Gsï Gmit huo	27
 寻死觅活	Gqin Gsï mi Gwot	27
 寻死觅活	Gqin Gsï mi huo	27
@@ -274696,8 +274509,8 @@ use_preset_vocabulary: false
 寻死觅活	Gqin si Gmit huo	27
 寻死觅活	Gqin si mi Gwot	27
 寻死觅活	Gqin si mi huo	27
-寻死觅活	Wxyun Gsï Gmit Gwet	27
 寻死觅活	Wxyun Gsï Gmit Gwot	27
+寻死觅活	Wxyun Gsï Gmit Gwut	27
 寻死觅活	xun Gsï Gmit Gwot	27
 寻死觅活	xun Gsï Gmit huo	27
 寻死觅活	xun Gsï mi Gwot	27
@@ -276530,10 +276343,8 @@ use_preset_vocabulary: false
 小人得志	xiao ren Gdêt zhi	14
 小人得志	xiao ren de Gzï	14
 小人得志	xiao ren de zhi	14
-小人物	Gxiêu Gnin Gwet	63
 小人物	Gxiêu Gnin Gwut	63
 小人物	Gxiêu Gnin wu	63
-小人物	Gxiêu Wlen Gwet	63
 小人物	Gxiêu Wlen Gwut	63
 小人物	Gxiêu ren Gwut	63
 小人物	Gxiêu ren wu	63
@@ -280692,7 +280503,6 @@ use_preset_vocabulary: false
 尤溪县	you Gqi xian	8
 尤溪县	you xi Gxiên	8
 尤溪县	you xi xian	8
-尤物	Gyiu Gwet	41
 尤物	Gyiu Gwut	41
 尤物	Gyiu wu	41
 尤物	you Gwut	41
@@ -296347,14 +296157,14 @@ use_preset_vocabulary: false
 干洗店	gan Gxi Gdiên	10
 干洗店	gan Gxi dian	10
 干洗店	gan xi dian	10
-干活	Ggon Gwet	743
 干活	Ggon Gwot	743
+干活	Ggon Gwut	743
 干活	Ggon huo	743
 干活	gan Gwot	743
 干活	gan huo	743
-干活儿	Ggon Gwet Geo	53
 干活儿	Ggon Gwot Geo	53
 干活儿	Ggon Gwot er	53
+干活儿	Ggon Gwut Geo	53
 干活儿	Ggon huo Geo	53
 干活儿	Ggon huo er	53
 干活儿	gan Gwot Geo	53
@@ -300483,8 +300293,6 @@ use_preset_vocabulary: false
 广东省教育厅	guang dong sheng jiao Gniuk ting	24
 广东省教育厅	guang dong sheng jiao yu Gtiang	24
 广东省教育厅	guang dong sheng jiao yu ting	24
-广东省物价局	Gguong Gdung Gsên Gwet Gga Gjyut	13
-广东省物价局	Gguong Gdung Gsên Gwet Gga Gqiuk	13
 广东省物价局	Gguong Gdung Gsên Gwut Gga Gjyut	13
 广东省物价局	Gguong Gdung Gsên Gwut Gga Gqiuk	13
 广东省物价局	Gguong Gdung Gsên Gwut Gga ju	13
@@ -300494,8 +300302,6 @@ use_preset_vocabulary: false
 广东省物价局	Gguong Gdung Gsên wu Gga ju	13
 广东省物价局	Gguong Gdung Gsên wu jia Gqiuk	13
 广东省物价局	Gguong Gdung Gsên wu jia ju	13
-广东省物价局	Gguong Gdung Wsang Gwet Gga Gjyut	13
-广东省物价局	Gguong Gdung Wsang Gwet Gga Gqiuk	13
 广东省物价局	Gguong Gdung Wsang Gwut Gga Gjyut	13
 广东省物价局	Gguong Gdung Wsang Gwut Gga Gqiuk	13
 广东省物价局	Gguong Gdung sheng Gwut Gga Gqiuk	13
@@ -303065,10 +302871,8 @@ use_preset_vocabulary: false
 底数	di shu	73
 底本	Gdi Gben	60
 底板	Gdi Gban	67
-底栖生物	Gdi Gqi Gsên Gwet	18
 底栖生物	Gdi Gqi Gsên Gwut	18
 底栖生物	Gdi Gqi Gsên wu	18
-底栖生物	Gdi Gqi Wsang Gwet	18
 底栖生物	Gdi Gqi Wsang Gwut	18
 底栖生物	Gdi Gqi sheng Gwut	18
 底栖生物	Gdi Gqi sheng wu	18
@@ -303499,7 +303303,6 @@ use_preset_vocabulary: false
 庞然	Gpong ran	7
 庞然	pang Glên	7
 庞然	pang ran	7
-庞然大物	Gpong Glên Gtai Gwet	134
 庞然大物	Gpong Glên Gtai Gwut	134
 庞然大物	Gpong Glên Gtai wu	134
 庞然大物	Gpong Glên da Gwut	134
@@ -303568,7 +303371,6 @@ use_preset_vocabulary: false
 废弃	Gfui Gqi	25398
 废弃	fei Gqi	25398
 废弃	fei qi	25398
-废弃物	Gfui Gqi Gwet	86
 废弃物	Gfui Gqi Gwut	86
 废弃物	Gfui Gqi wu	86
 废弃物	fei Gqi Gwut	86
@@ -303610,7 +303412,6 @@ use_preset_vocabulary: false
 废渣	Gfui zha	47
 废渣	fei Gza	47
 废渣	fei zha	47
-废物	Gfui Gwet	25433
 废物	Gfui Gwut	25433
 废物	Gfui wu	25433
 废物	fei Gwut	25433
@@ -305630,7 +305431,6 @@ use_preset_vocabulary: false
 建筑材料	jian zhu Gcai Gliêu	14
 建筑材料	jian zhu Gcai liao	14
 建筑材料	jian zhu cai liao	14
-建筑物	Gjiên Gzuk Gwet	1147
 建筑物	Gjiên Gzuk Gwut	1147
 建筑物	Gjiên Gzuk wu	1147
 建筑物	Gjiên zhu Gwut	1147
@@ -307114,11 +306914,9 @@ use_preset_vocabulary: false
 异步	Gyi Gpu	49
 异步	Gyi bu	49
 异步	yi bu	49
-异物	Gyi Gwet	191
 异物	Gyi Gwut	191
 异物	Gyi wu	191
 异物	yi wu	191
-异物感	Gyi Gwet Ggon	25
 异物感	Gyi Gwut Ggon	25
 异物感	Gyi Gwut gan	25
 异物感	Gyi wu Ggon	25
@@ -307238,7 +307036,6 @@ use_preset_vocabulary: false
 弃权票	Gqi quan Gpiêu	122
 弃权票	Gqi quan piao	122
 弃权票	qi quan piao	122
-弃物	Gqi Gwet	21
 弃物	Gqi Gwut	21
 弃物	Gqi wu	21
 弃物	qi wu	21
@@ -315378,12 +315175,10 @@ use_preset_vocabulary: false
 待人	Gtai ren	218
 待人	dai Gnin	218
 待人	dai ren	218
-待人接物	Gtai Gnin Gjiêt Gwet	41
 待人接物	Gtai Gnin Gjiêt Gwut	41
 待人接物	Gtai Gnin Gjiêt wu	41
 待人接物	Gtai Gnin jie Gwut	41
 待人接物	Gtai Gnin jie wu	41
-待人接物	Gtai Wlen Gjiêt Gwet	41
 待人接物	Gtai Wlen Gjiêt Gwut	41
 待人接物	Gtai ren Gjiêt Gwut	41
 待人接物	Gtai ren Gjiêt wu	41
@@ -317645,35 +317440,27 @@ use_preset_vocabulary: false
 微火	Wmi Gfo	12
 微火	wei Gfo	12
 微火	wei huo	12
-微生物	Gwi Gsên Gwet	784
 微生物	Gwi Gsên Gwut	784
 微生物	Gwi Gsên wu	784
-微生物	Gwi Wsang Gwet	784
 微生物	Gwi Wsang Gwut	784
 微生物	Gwi sheng Gwut	784
 微生物	Gwi sheng wu	784
-微生物	Wmi Gsên Gwet	784
 微生物	Wmi Gsên Gwut	784
-微生物	Wmi Wsang Gwet	784
 微生物	Wmi Wsang Gwut	784
 微生物	wei Gsên Gwut	784
 微生物	wei Gsên wu	784
 微生物	wei sheng Gwut	784
 微生物	wei sheng wu	784
-微生物学	Gwi Gsên Gwet Ghok	49
 微生物学	Gwi Gsên Gwut Ghok	49
 微生物学	Gwi Gsên Gwut xue	49
 微生物学	Gwi Gsên wu Ghok	49
 微生物学	Gwi Gsên wu xue	49
-微生物学	Gwi Wsang Gwet Ghok	49
 微生物学	Gwi Wsang Gwut Ghok	49
 微生物学	Gwi sheng Gwut Ghok	49
 微生物学	Gwi sheng Gwut xue	49
 微生物学	Gwi sheng wu Ghok	49
 微生物学	Gwi sheng wu xue	49
-微生物学	Wmi Gsên Gwet Ghok	49
 微生物学	Wmi Gsên Gwut Ghok	49
-微生物学	Wmi Wsang Gwet Ghok	49
 微生物学	Wmi Wsang Gwut Ghok	49
 微生物学	wei Gsên Gwut Ghok	49
 微生物学	wei Gsên Gwut xue	49
@@ -317683,7 +317470,6 @@ use_preset_vocabulary: false
 微生物学	wei sheng Gwut xue	49
 微生物学	wei sheng wu Ghok	49
 微生物学	wei sheng wu xue	49
-微生物学家	Gwi Gsên Gwet Ghok Gga	22
 微生物学家	Gwi Gsên Gwut Ghok Gga	22
 微生物学家	Gwi Gsên Gwut Ghok jia	22
 微生物学家	Gwi Gsên Gwut xue Gga	22
@@ -317692,7 +317478,6 @@ use_preset_vocabulary: false
 微生物学家	Gwi Gsên wu Ghok jia	22
 微生物学家	Gwi Gsên wu xue Gga	22
 微生物学家	Gwi Gsên wu xue jia	22
-微生物学家	Gwi Wsang Gwet Ghok Gga	22
 微生物学家	Gwi Wsang Gwut Ghok Gga	22
 微生物学家	Gwi sheng Gwut Ghok Gga	22
 微生物学家	Gwi sheng Gwut Ghok jia	22
@@ -317702,9 +317487,7 @@ use_preset_vocabulary: false
 微生物学家	Gwi sheng wu Ghok jia	22
 微生物学家	Gwi sheng wu xue Gga	22
 微生物学家	Gwi sheng wu xue jia	22
-微生物学家	Wmi Gsên Gwet Ghok Gga	22
 微生物学家	Wmi Gsên Gwut Ghok Gga	22
-微生物学家	Wmi Wsang Gwet Ghok Gga	22
 微生物学家	Wmi Wsang Gwut Ghok Gga	22
 微生物学家	wei Gsên Gwut Ghok Gga	22
 微生物学家	wei Gsên Gwut Ghok jia	22
@@ -321442,8 +321225,8 @@ use_preset_vocabulary: false
 忙忙碌碌	mang mang Gluk lu	78
 忙忙碌碌	mang mang lu Gluk	78
 忙忙碌碌	mang mang lu lu	78
-忙活	Gmong Gwet	378
 忙活	Gmong Gwot	378
+忙活	Gmong Gwut	378
 忙活	Gmong huo	378
 忙活	mang Gwot	378
 忙活	mang huo	378
@@ -321922,8 +321705,8 @@ use_preset_vocabulary: false
 快步	Gkuai Gpu	847
 快步	Gkuai bu	847
 快步	kuai bu	847
-快活	Gkuai Gwet	475
 快活	Gkuai Gwot	475
+快活	Gkuai Gwut	475
 快活	Gkuai huo	475
 快活	kuai huo	475
 快点	Gkuai Gdiên	80254
@@ -324417,17 +324200,17 @@ use_preset_vocabulary: false
 性状	Wxiang Gcong	399
 性状	xing Gcong	399
 性状	xing zhuang	399
-性生活	Gxin Gsên Gwet	395
 性生活	Gxin Gsên Gwot	395
+性生活	Gxin Gsên Gwut	395
 性生活	Gxin Gsên huo	395
-性生活	Gxin Wsang Gwet	395
 性生活	Gxin Wsang Gwot	395
+性生活	Gxin Wsang Gwut	395
 性生活	Gxin sheng Gwot	395
 性生活	Gxin sheng huo	395
-性生活	Wxiang Gsên Gwet	395
 性生活	Wxiang Gsên Gwot	395
-性生活	Wxiang Wsang Gwet	395
+性生活	Wxiang Gsên Gwut	395
 性生活	Wxiang Wsang Gwot	395
+性生活	Wxiang Wsang Gwut	395
 性生活	xing Gsên Gwot	395
 性生活	xing Gsên huo	395
 性生活	xing sheng Gwot	395
@@ -324663,7 +324446,6 @@ use_preset_vocabulary: false
 怪模怪样	Gguai mo Gguai Gyong	48
 怪模怪样	Gguai mo Gguai yang	48
 怪模怪样	guai mo guai yang	48
-怪物	Gguai Gwet	200000
 怪物	Gguai Gwut	200000
 怪物	Gguai wu	200000
 怪物	guai wu	200000
@@ -325705,7 +325487,6 @@ use_preset_vocabulary: false
 恃强凌弱	shi qiang Glin ruo	16
 恃强凌弱	shi qiang ling Glok	16
 恃强凌弱	shi qiang ling ruo	16
-恃才傲物	Gsï Gcai Gngau Gwet	15
 恃才傲物	Gsï Gcai Gngau Gwut	15
 恃才傲物	Gsï Gcai Gngau wu	15
 恃才傲物	Gsï Gcai ao Gwut	15
@@ -326027,7 +325808,6 @@ use_preset_vocabulary: false
 恒温	Ghên wen	36
 恒温	heng Gwun	36
 恒温	heng wen	36
-恒温动物	Ghên Gwun Gtung Gwet	16
 恒温动物	Ghên Gwun Gtung Gwut	16
 恒温动物	Ghên Gwun Gtung wu	16
 恒温动物	Ghên Gwun dong Gwut	16
@@ -327991,10 +327771,8 @@ use_preset_vocabulary: false
 悬浮液	xuan Gfêu ye	11
 悬浮液	xuan fu Gyit	11
 悬浮液	xuan fu ye	11
-悬浮物	Gxyuon Gfêu Gwet	13
 悬浮物	Gxyuon Gfêu Gwut	13
 悬浮物	Gxyuon Gfêu wu	13
-悬浮物	Gxyuon Wpau Gwet	13
 悬浮物	Gxyuon Wpau Gwut	13
 悬浮物	Gxyuon fu Gwut	13
 悬浮物	Gxyuon fu wu	13
@@ -334389,20 +334167,20 @@ use_preset_vocabulary: false
 成法	Wsang Gfat	154
 成法	cheng Gfat	154
 成法	cheng fa	154
-成活	Gcen Gwet	33
 成活	Gcen Gwot	33
+成活	Gcen Gwut	33
 成活	Gcen huo	33
-成活	Wsang Gwet	33
 成活	Wsang Gwot	33
+成活	Wsang Gwut	33
 成活	cheng Gwot	33
 成活	cheng huo	33
-成活率	Gcen Gwet Glyut	30
 成活率	Gcen Gwot Glyut	30
 成活率	Gcen Gwot lv	30
+成活率	Gcen Gwut Glyut	30
 成活率	Gcen huo Glyut	30
 成活率	Gcen huo lv	30
-成活率	Wsang Gwet Glyut	30
 成活率	Wsang Gwot Glyut	30
+成活率	Wsang Gwut Glyut	30
 成活率	cheng Gwot Glyut	30
 成活率	cheng Gwot lv	30
 成活率	cheng huo Glyut	30
@@ -335293,12 +335071,10 @@ use_preset_vocabulary: false
 或	Gfok	115000
 或	Gwêt	135000
 或	huo	135000
-或事物	Gfet Gsï Gwet	9
 或事物	Gfet Gsï Gwut	9
 或事物	Gfet Gsï wu	9
 或事物	Gfet shi Gwut	9
 或事物	Gfet shi wu	9
-或事物	Gfok Gsï Gwet	9
 或事物	Gfok Gsï Gwut	9
 或事物	huo Gsï Gwut	9
 或事物	huo Gsï wu	9
@@ -335872,12 +335648,10 @@ use_preset_vocabulary: false
 战略情报	zhan lve Gqin bao	8
 战略情报	zhan lve qing Gbau	8
 战略情报	zhan lve qing bao	8
-战略物资	Gzên Gliok Gwet Gzï	42
 战略物资	Gzên Gliok Gwut Gzï	42
 战略物资	Gzên Gliok Gwut zi	42
 战略物资	Gzên Gliok wu Gzï	42
 战略物资	Gzên Gliok wu zi	42
-战略物资	Gzên Glyuot Gwet Gzï	42
 战略物资	Gzên Glyuot Gwut Gzï	42
 战略物资	Gzên lve Gwut Gzï	42
 战略物资	Gzên lve Gwut zi	42
@@ -337145,12 +336919,10 @@ use_preset_vocabulary: false
 所有权证	suo you Gqyuon zheng	13
 所有权证	suo you quan Gzen	13
 所有权证	suo you quan zheng	13
-所有物	Gso Gyiu Gwet	109
 所有物	Gso Gyiu Gwut	109
 所有物	Gso Gyiu wu	109
 所有物	Gso you Gwut	109
 所有物	Gso you wu	109
-所有物	Gsu Gyiu Gwet	109
 所有物	Gsu Gyiu Gwut	109
 所有物	suo Gyiu Gwut	109
 所有物	suo Gyiu wu	109
@@ -337313,7 +337085,6 @@ use_preset_vocabulary: false
 扁平足	bian Gpin zu	11
 扁平足	bian ping Gjiuk	11
 扁平足	bian ping zu	11
-扁形动物	Gbiên Gxin Gtung Gwet	23
 扁形动物	Gbiên Gxin Gtung Gwut	23
 扁形动物	Gbiên Gxin Gtung wu	23
 扁形动物	Gbiên Gxin dong Gwut	23
@@ -338899,6 +338670,10 @@ use_preset_vocabulary: false
 扒鸡	pa Gji	14
 扒鸡	pa ji	14
 打	Gda	200000
+打㲃	Gda Gjiu	100000
+打㲃㲃子	Gda Gjiu Gjiu Gzï	100000
+打㲃㲃子	Gda Gjiu Gjiu zi	100000
+打㲃㲃子	da jiu jiu zi	100000
 打下	Gda Gha	653
 打下	Gda Wga	653
 打下	Gda xia	653
@@ -339221,10 +338996,8 @@ use_preset_vocabulary: false
 打工	Gda Ggung	25850
 打工	Gda gong	25850
 打工	da gong	25850
-打工仔	Gda Ggung Gzï	39
-打工仔	Gda Ggung zai	39
-打工仔	Gda gong Gzï	39
-打工仔	Gda gong zai	39
+打工仔	Gda Ggung Gzai	39
+打工仔	Gda gong Gzai	39
 打工仔	da gong zai	39
 打工妹	Gda Ggung Gmi	16
 打工妹	Gda Ggung mei	16
@@ -342731,11 +342504,11 @@ use_preset_vocabulary: false
 技术水平	ji shu Gsui ping	51
 技术水平	ji shu shui Gpin	51
 技术水平	ji shu shui ping	51
-技术活	Gqi Gsuet Gwet	7
 技术活	Gqi Gsuet Gwot	7
+技术活	Gqi Gsuet Gwut	7
 技术活	Gqi Gsuet huo	7
-技术活	Gqi Gsuk Gwet	7
 技术活	Gqi Gsuk Gwot	7
+技术活	Gqi Gsuk Gwut	7
 技术活	Gqi shu Gwot	7
 技术活	Gqi shu huo	7
 技术活	ji Gsuet Gwot	7
@@ -345022,12 +344795,10 @@ use_preset_vocabulary: false
 抛洒	Gpau Gsa	30
 抛洒	pao Gsa	30
 抛洒	pao sa	30
-抛物	Gpau Gwet	9
 抛物	Gpau Gwut	9
 抛物	Gpau wu	9
 抛物	pao Gwut	9
 抛物	pao wu	9
-抛物线	Gpau Gwet Gxiên	73
 抛物线	Gpau Gwut Gxiên	73
 抛物线	Gpau Gwut xian	73
 抛物线	Gpau wu Gxiên	73
@@ -345036,7 +344807,6 @@ use_preset_vocabulary: false
 抛物线	pao Gwut xian	73
 抛物线	pao wu Gxiên	73
 抛物线	pao wu xian	73
-抛物面	Gpau Gwet Gmiên	35
 抛物面	Gpau Gwut Gmiên	35
 抛物面	Gpau Gwut mian	35
 抛物面	Gpau wu Gmiên	35
@@ -346499,7 +346269,6 @@ use_preset_vocabulary: false
 抵押权人	Gdi ya quan Gnin	18
 抵押权人	Gdi ya quan ren	18
 抵押权人	di ya quan ren	18
-抵押物	Gdi Gngat Gwet	23
 抵押物	Gdi Gngat Gwut	23
 抵押物	Gdi Gngat wu	23
 抵押物	Gdi ya Gwut	23
@@ -349615,7 +349384,6 @@ use_preset_vocabulary: false
 拜火教	Gbai huo Ggau	16
 拜火教	Gbai huo jiao	16
 拜火教	bai huo jiao	16
-拜物教	Gbai Gwet Ggau	46
 拜物教	Gbai Gwut Ggau	46
 拜物教	Gbai Gwut jiao	46
 拜物教	Gbai wu Ggau	46
@@ -350465,8 +350233,8 @@ use_preset_vocabulary: false
 拼死	Gpin Gsï	209
 拼死	Gpin si	209
 拼死	pin si	209
-拼死拼活	Gpin Gsï Gpin Gwet	20
 拼死拼活	Gpin Gsï Gpin Gwot	20
+拼死拼活	Gpin Gsï Gpin Gwut	20
 拼死拼活	Gpin Gsï Gpin huo	20
 拼死拼活	Gpin si Gpin Gwot	20
 拼死拼活	Gpin si Gpin huo	20
@@ -351629,10 +351397,8 @@ use_preset_vocabulary: false
 指示器	zhi Gsï Gqi	39
 指示器	zhi shi Gqi	39
 指示器	zhi shi qi	39
-指示植物	Gzï Gsï Gcet Gwet	35
 指示植物	Gzï Gsï Gcet Gwut	35
 指示植物	Gzï Gsï Gcet wu	35
-指示植物	Gzï Gsï Gzïk Gwet	35
 指示植物	Gzï Gsï Gzïk Gwut	35
 指示植物	Gzï Gsï zhi Gwut	35
 指示植物	Gzï Gsï zhi wu	35
@@ -352580,7 +352346,6 @@ use_preset_vocabulary: false
 挥发油	hui Gfat you	33
 挥发油	hui fa Gyiu	33
 挥发油	hui fa you	33
-挥发物	Gfui Gfat Gwet	19
 挥发物	Gfui Gfat Gwut	19
 挥发物	Gfui Gfat wu	19
 挥发物	Gfui fa Gwut	19
@@ -353370,7 +353135,6 @@ use_preset_vocabulary: false
 捐款	Gjyuon kuan	483
 捐款	juan Gkuon	483
 捐款	juan kuan	483
-捐物	Gjyuon Gwet	29
 捐物	Gjyuon Gwut	29
 捐物	Gjyuon wu	29
 捐物	juan Gwut	29
@@ -354965,7 +354729,6 @@ use_preset_vocabulary: false
 排放	Gpai Gfong	455
 排放	Gpai fang	455
 排放	pai fang	455
-排放物	Gpai Gfong Gwet	7
 排放物	Gpai Gfong Gwut	7
 排放物	Gpai Gfong wu	7
 排放物	Gpai fang Gwut	7
@@ -355032,7 +354795,6 @@ use_preset_vocabulary: false
 排泄	Gpai Gxiêt	244
 排泄	Gpai xie	244
 排泄	pai xie	244
-排泄物	Gpai Gxiêt Gwet	95
 排泄物	Gpai Gxiêt Gwut	95
 排泄物	Gpai Gxiêt wu	95
 排泄物	Gpai xie Gwut	95
@@ -355275,7 +355037,6 @@ use_preset_vocabulary: false
 探听	Gton ting	265
 探听	tan Gtiang	265
 探听	tan ting	265
-探囊取物	Gton Glong Gqyu Gwet	27
 探囊取物	Gton Glong Gqyu Gwut	27
 探囊取物	Gton Glong Gqyu wu	27
 探囊取物	Gton Glong qu Gwut	27
@@ -357289,7 +357050,6 @@ use_preset_vocabulary: false
 提取	Gti Gqyu	165851
 提取	Gti qu	165851
 提取	ti qu	165851
-提取物	Gti Gqyu Gwet	100050
 提取物	Gti Gqyu Gwut	100050
 提取物	Gti Gqyu wu	100050
 提取物	Gti qu Gwut	100050
@@ -358019,11 +357779,11 @@ use_preset_vocabulary: false
 揽工	Glan gong	75
 揽工	Wlon Ggung	75
 揽工	lan gong	75
-揽活	Glan Gwet	9
 揽活	Glan Gwot	9
+揽活	Glan Gwut	9
 揽活	Glan huo	9
-揽活	Wlon Gwet	9
 揽活	Wlon Gwot	9
+揽活	Wlon Gwut	9
 揽活	lan huo	9
 揽胜	Glan Gsen	12
 揽胜	Glan sheng	12
@@ -358379,8 +358139,8 @@ use_preset_vocabulary: false
 搞搞	Ggau gao	21
 搞搞	gao Ggau	21
 搞搞	gao gao	21
-搞活	Ggau Gwet	135
 搞活	Ggau Gwot	135
+搞活	Ggau Gwut	135
 搞活	Ggau huo	135
 搞活	gao Gwot	135
 搞活	gao huo	135
@@ -363261,8 +363021,8 @@ use_preset_vocabulary: false
 放水	Gfong shui	99
 放水	fang Gsui	99
 放水	fang shui	99
-放活	Gfong Gwet	8
 放活	Gfong Gwot	8
+放活	Gfong Gwut	8
 放活	Gfong huo	8
 放活	fang Gwot	8
 放活	fang huo	8
@@ -364337,7 +364097,6 @@ use_preset_vocabulary: false
 故宫	Ggu Ggung	1303
 故宫	Ggu gong	1303
 故宫	gu gong	1303
-故宫博物院	Ggu Ggung Gbok Gwet Gyuon	520
 故宫博物院	Ggu Ggung Gbok Gwut Gyuon	520
 故宫博物院	Ggu Ggung Gbok Gwut yuan	520
 故宫博物院	Ggu Ggung Gbok wu Gyuon	520
@@ -364931,8 +364690,8 @@ use_preset_vocabulary: false
 救治	Gjiu Gzïk	326
 救治	Gjiu zhi	326
 救治	jiu zhi	326
-救活	Gjiu Gwet	154
 救活	Gjiu Gwot	154
+救活	Gjiu Gwut	154
 救活	Gjiu huo	154
 救活	jiu huo	154
 救济	Gjiu Gji	571
@@ -365370,9 +365129,9 @@ use_preset_vocabulary: false
 教学法	jiao Ghok fa	41
 教学法	jiao xue Gfat	41
 教学法	jiao xue fa	41
-教学活动	Ggau Ghok Gwet Gtung	21
 教学活动	Ggau Ghok Gwot Gtung	21
 教学活动	Ggau Ghok Gwot dong	21
+教学活动	Ggau Ghok Gwut Gtung	21
 教学活动	Ggau Ghok huo Gtung	21
 教学活动	Ggau Ghok huo dong	21
 教学活动	Ggau xue Gwot Gtung	21
@@ -371457,12 +371216,10 @@ use_preset_vocabulary: false
 文牒	Gwun die	10
 文牒	wen Gtiêt	10
 文牒	wen die	10
-文物	Gwun Gwet	4746
 文物	Gwun Gwut	4746
 文物	Gwun wu	4746
 文物	wen Gwut	4746
 文物	wen wu	4746
-文物保护法	Gwun Gwet Gbau Gfu Gfat	14
 文物保护法	Gwun Gwut Gbau Gfu Gfat	14
 文物保护法	Gwun Gwut Gbau Gfu fa	14
 文物保护法	Gwun Gwut Gbau hu Gfat	14
@@ -371495,8 +371252,6 @@ use_preset_vocabulary: false
 文物保护法	wen wu bao Gfu fa	14
 文物保护法	wen wu bao hu Gfat	14
 文物保护法	wen wu bao hu fa	14
-文物出版社	Gwun Gwet Gcet Gban Gsa	18
-文物出版社	Gwun Gwet Gcuk Gban Gsa	18
 文物出版社	Gwun Gwut Gcet Gban Gsa	18
 文物出版社	Gwun Gwut Gcuk Gban Gsa	18
 文物出版社	Gwun Gwut Gcuk Gban she	18
@@ -371515,8 +371270,6 @@ use_preset_vocabulary: false
 文物出版社	wen wu chu Gban Gsa	18
 文物出版社	wen wu chu Gban she	18
 文物出版社	wen wu chu ban she	18
-文物局	Gwun Gwet Gjyut	48
-文物局	Gwun Gwet Gqiuk	48
 文物局	Gwun Gwut Gjyut	48
 文物局	Gwun Gwut Gqiuk	48
 文物局	Gwun Gwut ju	48
@@ -371526,7 +371279,6 @@ use_preset_vocabulary: false
 文物局	wen Gwut ju	48
 文物局	wen wu Gqiuk	48
 文物局	wen wu ju	48
-文物部门	Gwun Gwet Gpu Gmen	16
 文物部门	Gwun Gwut Gpu Gmen	16
 文物部门	Gwun Gwut bu Gmen	16
 文物部门	Gwun wu Gpu Gmen	16
@@ -372730,6 +372482,7 @@ use_preset_vocabulary: false
 斩首	zhan shou	725
 斪	Gqyu	4434
 斪	qu	4434
+斫	Gdok	73168
 斫	Gzok	73168
 斫	zhuo	73168
 断	Gdon	191320
@@ -375652,12 +375405,10 @@ use_preset_vocabulary: false
 新生	Gxin Wsên	1379
 新生	Gxin sheng	1379
 新生	xin sheng	1379
-新生事物	Gxin Gsên Gsï Gwet	71
 新生事物	Gxin Gsên Gsï Gwut	71
 新生事物	Gxin Gsên Gsï wu	71
 新生事物	Gxin Gsên shi Gwut	71
 新生事物	Gxin Gsên shi wu	71
-新生事物	Gxin Wsang Gsï Gwet	71
 新生事物	Gxin Wsang Gsï Gwut	71
 新生事物	Gxin sheng Gsï Gwut	71
 新生事物	Gxin sheng Gsï wu	71
@@ -379937,10 +379688,8 @@ use_preset_vocabulary: false
 无期徒刑	Gwu Gqi Gtu xing	101
 无期徒刑	wu qi tu xing	101
 无机	Gwu Gji	313
-无机化合物	Gwu Gji Gfa Ghot Gwet	26
 无机化合物	Gwu Gji Gfa Ghot Gwut	26
 无机化合物	Gwu Gji Gfa Ghot wu	26
-无机化合物	Gwu Gji Gfa Wgot Gwet	26
 无机化合物	Gwu Gji Gfa Wgot Gwut	26
 无机化合物	Gwu Gji Gfa he Gwut	26
 无机化合物	Gwu Gji Gfa he wu	26
@@ -379954,7 +379703,6 @@ use_preset_vocabulary: false
 无机化学	Gwu Gji hua Ghok	61
 无机化学	Gwu Gji hua xue	61
 无机化学	wu ji hua xue	61
-无机物	Gwu Gji Gwet	113
 无机物	Gwu Gji Gwut	113
 无机物	Gwu Gji wu	113
 无机物	wu ji wu	113
@@ -380122,7 +379870,6 @@ use_preset_vocabulary: false
 无父无君	Gwu Gfu Gwu Gjyun	9
 无父无君	Gwu Gfu Gwu jun	9
 无父无君	wu fu wu jun	9
-无物	Gwu Gwet	118
 无物	Gwu Gwut	118
 无物	Gwu wu	118
 无物	wu wu	118
@@ -382587,7 +382334,6 @@ use_preset_vocabulary: false
 旧游	Gqiu you	9
 旧游	jiu Gyiu	9
 旧游	jiu you	9
-旧物	Gqiu Gwet	14
 旧物	Gqiu Gwut	14
 旧物	Gqiu wu	14
 旧物	jiu Gwut	14
@@ -386417,7 +386163,6 @@ use_preset_vocabulary: false
 易燃易爆	Gyi ran Gyi Gbau	10
 易燃易爆	Gyi ran Gyi bao	10
 易燃易爆	yi ran yi bao	10
-易燃物	Gyi Glên Gwet	8
 易燃物	Gyi Glên Gwut	8
 易燃物	Gyi Glên wu	8
 易燃物	Gyi ran Gwut	8
@@ -387979,10 +387724,8 @@ use_preset_vocabulary: false
 显色	Gxiên se	23
 显色	xian Gsêt	23
 显色	xian se	23
-显花植物	Gxiên Gfa Gcet Gwet	13
 显花植物	Gxiên Gfa Gcet Gwut	13
 显花植物	Gxiên Gfa Gcet wu	13
-显花植物	Gxiên Gfa Gzïk Gwet	13
 显花植物	Gxiên Gfa Gzïk Gwut	13
 显花植物	Gxiên Gfa zhi Gwut	13
 显花植物	Gxiên Gfa zhi wu	13
@@ -389330,7 +389073,6 @@ use_preset_vocabulary: false
 景点	Gjin dian	2436
 景点	jing Gdiên	2436
 景点	jing dian	2436
-景物	Gjin Gwet	302
 景物	Gjin Gwut	302
 景物	Gjin wu	302
 景物	jing Gwut	302
@@ -390370,8 +390112,6 @@ use_preset_vocabulary: false
 暗灰	Gngon hui	12
 暗灰	an Gfui	12
 暗灰	an hui	12
-暗物质	Gngon Gwet Gzet	20
-暗物质	Gngon Gwet Gzïk	20
 暗物质	Gngon Gwut Gzet	20
 暗物质	Gngon Gwut Gzïk	20
 暗物质	Gngon Gwut zhi	20
@@ -390717,7 +390457,6 @@ use_preset_vocabulary: false
 暴晒	Gpau shai	53
 暴晒	pu Gsai	53
 暴晒	pu shai	53
-暴殄天物	Gpau Gtiên Gtiên Gwet	12
 暴殄天物	Gpau Gtiên Gtiên Gwut	12
 暴殄天物	Gpau Gtiên Gtiên wu	12
 暴殄天物	Gpau Gtiên tian Gwut	12
@@ -393958,7 +393697,6 @@ use_preset_vocabulary: false
 有害	Gyiu Ghai	1047
 有害	you Ghai	1047
 有害	you hai	1047
-有害物	Gyiu Ghai Gwet	8
 有害物	Gyiu Ghai Gwut	8
 有害物	Gyiu Ghai wu	8
 有害物	you Ghai Gwut	8
@@ -394660,7 +394398,6 @@ use_preset_vocabulary: false
 有机氯	you Gji Gliuk	19
 有机氯	you Gji lv	19
 有机氯	you ji lv	19
-有机物	Gyiu Gji Gwet	297
 有机物	Gyiu Gji Gwut	297
 有机物	Gyiu Gji wu	297
 有机物	you Gji Gwut	297
@@ -397357,8 +397094,8 @@ use_preset_vocabulary: false
 木匠	Gmuk jiang	415
 木匠	mu Gqiong	415
 木匠	mu jiang	415
-木匠活	Gmuk Gqiong Gwet	11
 木匠活	Gmuk Gqiong Gwot	11
+木匠活	Gmuk Gqiong Gwut	11
 木匠活	Gmuk Gqiong huo	11
 木匠活	Gmuk jiang Gwot	11
 木匠活	Gmuk jiang huo	11
@@ -397552,10 +397289,8 @@ use_preset_vocabulary: false
 木本	Gmuk Gben	89
 木本	mu Gben	89
 木本	mu ben	89
-木本植物	Gmuk Gben Gcet Gwet	42
 木本植物	Gmuk Gben Gcet Gwut	42
 木本植物	Gmuk Gben Gcet wu	42
-木本植物	Gmuk Gben Gzïk Gwet	42
 木本植物	Gmuk Gben Gzïk Gwut	42
 木本植物	Gmuk Gben zhi Gwut	42
 木本植物	Gmuk Gben zhi wu	42
@@ -400333,7 +400068,6 @@ use_preset_vocabulary: false
 机体	Gji Gti	998
 机修	Gji Gxiu	24
 机关	Gji Gguan	24504
-机关刊物	Gji Gguan Gkon Gwet	14
 机关刊物	Gji Gguan Gkon Gwut	14
 机关刊物	Gji Gguan Gkon wu	14
 机关刊物	Gji Gguan kan Gwut	14
@@ -400564,10 +400298,6 @@ use_preset_vocabulary: false
 机械厂	Gji xie Gcong	356
 机械厂	Gji xie chang	356
 机械厂	ji xie chang	356
-机械唯物主义	Gji Gkai Gwi Gwet Gjyu Gni	19
-机械唯物主义	Gji Gkai Gwi Gwet Gjyu Gyi	19
-机械唯物主义	Gji Gkai Gwi Gwet Gzu Gni	19
-机械唯物主义	Gji Gkai Gwi Gwet Gzu Gyi	19
 机械唯物主义	Gji Gkai Gwi Gwut Gjyu Gni	19
 机械唯物主义	Gji Gkai Gwi Gwut Gjyu Gyi	19
 机械唯物主义	Gji Gkai Gwi Gwut Gzu Gni	19
@@ -401476,8 +401206,8 @@ use_preset_vocabulary: false
 杂沓	Gcat ta	77
 杂沓	za Gdat	77
 杂沓	za ta	77
-杂活	Gcat Gwet	14
 杂活	Gcat Gwot	14
+杂活	Gcat Gwut	14
 杂活	Gcat huo	14
 杂活	za Gwot	14
 杂活	za huo	14
@@ -401489,7 +401219,6 @@ use_preset_vocabulary: false
 杂牌军	za Gpai Gjyun	21
 杂牌军	za Gpai jun	21
 杂牌军	za pai jun	21
-杂物	Gcat Gwet	139
 杂物	Gcat Gwut	139
 杂物	Gcat wu	139
 杂物	za Gwut	139
@@ -407380,7 +407109,6 @@ use_preset_vocabulary: false
 构筑	Ggiêu zhu	430
 构筑	gou Gzuk	430
 构筑	gou zhu	430
-构筑物	Ggiêu Gzuk Gwet	49
 构筑物	Ggiêu Gzuk Gwut	49
 构筑物	Ggiêu Gzuk wu	49
 构筑物	Ggiêu zhu Gwut	49
@@ -409254,7 +408982,6 @@ use_preset_vocabulary: false
 某次	Gmêu ci	50051
 某次	mou Gcï	50051
 某次	mou ci	50051
-某物	Gmêu Gwet	29
 某物	Gmêu Gwut	29
 某物	Gmêu wu	29
 某物	mou Gwut	29
@@ -411256,7 +410983,6 @@ use_preset_vocabulary: false
 标志牌	biao Gzï Gpai	21
 标志牌	biao zhi Gpai	21
 标志牌	biao zhi pai	21
-标志物	Gbiêu Gzï Gwet	21
 标志物	Gbiêu Gzï Gwut	21
 标志物	Gbiêu Gzï wu	21
 标志物	Gbiêu zhi Gwut	21
@@ -411340,7 +411066,6 @@ use_preset_vocabulary: false
 标的	Gbiêu di	35270
 标的	biao Gdit	35270
 标的	biao di	35270
-标的物	Gbiêu Gdit Gwet	20
 标的物	Gbiêu Gdit Gwut	20
 标的物	Gbiêu Gdit wu	20
 标的物	Gbiêu di Gwut	20
@@ -412703,10 +412428,8 @@ use_preset_vocabulary: false
 核爆炸	he Gbau zha	151
 核爆炸	he bao Gza	151
 核爆炸	he bao zha	151
-核物理	Ghêt Gwet Gli	134
 核物理	Ghêt Gwut Gli	134
 核物理	Ghêt wu Gli	134
-核物理	Wwut Gwet Gli	134
 核物理	Wwut Gwut Gli	134
 核物理	he Gwut Gli	134
 核物理	he wu Gli	134
@@ -413757,14 +413480,11 @@ use_preset_vocabulary: false
 格洛斯特	ge luo Gsï te	12
 格洛斯特	ge luo si Gtêt	12
 格洛斯特	ge luo si te	12
-格物	Ggiêt Gwet	40
 格物	Ggiêt Gwut	40
 格物	Ggiêt wu	40
-格物	Wgak Gwet	40
 格物	Wgak Gwut	40
 格物	ge Gwut	40
 格物	ge wu	40
-格物致知	Ggiêt Gwet Gzï Gzï	27
 格物致知	Ggiêt Gwut Gzï Gzï	27
 格物致知	Ggiêt Gwut Gzï zhi	27
 格物致知	Ggiêt Gwut zhi Gzï	27
@@ -413773,7 +413493,6 @@ use_preset_vocabulary: false
 格物致知	Ggiêt wu Gzï zhi	27
 格物致知	Ggiêt wu zhi Gzï	27
 格物致知	Ggiêt wu zhi zhi	27
-格物致知	Wgak Gwet Gzï Gzï	27
 格物致知	Wgak Gwut Gzï Gzï	27
 格物致知	ge Gwut Gzï Gzï	27
 格物致知	ge Gwut Gzï zhi	27
@@ -414119,10 +413838,8 @@ use_preset_vocabulary: false
 栽培	Gzai Gpi	1205
 栽培	Gzai pei	1205
 栽培	zai pei	1205
-栽培植物	Gzai Gpi Gcet Gwet	46
 栽培植物	Gzai Gpi Gcet Gwut	46
 栽培植物	Gzai Gpi Gcet wu	46
-栽培植物	Gzai Gpi Gzïk Gwet	46
 栽培植物	Gzai Gpi Gzïk Gwut	46
 栽培植物	Gzai Gpi zhi Gwut	46
 栽培植物	Gzai Gpi zhi wu	46
@@ -417467,10 +417184,8 @@ use_preset_vocabulary: false
 棉织品	mian Gzet Gpin	57
 棉织品	mian zhi Gpin	57
 棉织品	mian zhi pin	57
-棉织物	Gmiên Gzet Gwet	21
 棉织物	Gmiên Gzet Gwut	21
 棉织物	Gmiên Gzet wu	21
-棉织物	Gmiên Gzïk Gwet	21
 棉织物	Gmiên Gzïk Gwut	21
 棉织物	Gmiên zhi Gwut	21
 棉织物	Gmiên zhi wu	21
@@ -417756,7 +417471,6 @@ use_preset_vocabulary: false
 棘手	Gjit shou	291
 棘手	ji Gseu	291
 棘手	ji shou	291
-棘皮动物	Gjit Gpi Gtung Gwet	40
 棘皮动物	Gjit Gpi Gtung Gwut	40
 棘皮动物	Gjit Gpi Gtung wu	40
 棘皮动物	Gjit Gpi dong Gwut	40
@@ -418126,22 +417840,17 @@ use_preset_vocabulary: false
 植棉	Gzïk Gmiên	64
 植棉	zhi Gmiên	64
 植棉	zhi mian	64
-植物	Gcet Gwet	7735
 植物	Gcet Gwut	7735
 植物	Gcet wu	7735
-植物	Gzïk Gwet	7735
 植物	Gzïk Gwut	7735
 植物	zhi Gwut	7735
 植物	zhi wu	7735
-植物体	Gcet Gwet Gti	258
 植物体	Gcet Gwut Gti	258
 植物体	Gcet wu Gti	258
-植物体	Gzïk Gwet Gti	258
 植物体	Gzïk Gwut Gti	258
 植物体	zhi Gwut Gti	258
 植物体	zhi wu Gti	258
 植物体	zhi wu ti	258
-植物保护	Gcet Gwet Gbau Gfu	11
 植物保护	Gcet Gwut Gbau Gfu	11
 植物保护	Gcet Gwut Gbau hu	11
 植物保护	Gcet Gwut bao Gfu	11
@@ -418150,7 +417859,6 @@ use_preset_vocabulary: false
 植物保护	Gcet wu Gbau hu	11
 植物保护	Gcet wu bao Gfu	11
 植物保护	Gcet wu bao hu	11
-植物保护	Gzïk Gwet Gbau Gfu	11
 植物保护	Gzïk Gwut Gbau Gfu	11
 植物保护	zhi Gwut Gbau Gfu	11
 植物保护	zhi Gwut Gbau hu	11
@@ -418160,29 +417868,24 @@ use_preset_vocabulary: false
 植物保护	zhi wu Gbau hu	11
 植物保护	zhi wu bao Gfu	11
 植物保护	zhi wu bao hu	11
-植物园	Gcet Gwet Gyuon	174
 植物园	Gcet Gwut Gyuon	174
 植物园	Gcet Gwut yuan	174
 植物园	Gcet wu Gyuon	174
 植物园	Gcet wu yuan	174
-植物园	Gzïk Gwet Gyuon	174
 植物园	Gzïk Gwut Gyuon	174
 植物园	zhi Gwut Gyuon	174
 植物园	zhi Gwut yuan	174
 植物园	zhi wu Gyuon	174
 植物园	zhi wu yuan	174
-植物学	Gcet Gwet Ghok	129
 植物学	Gcet Gwut Ghok	129
 植物学	Gcet Gwut xue	129
 植物学	Gcet wu Ghok	129
 植物学	Gcet wu xue	129
-植物学	Gzïk Gwet Ghok	129
 植物学	Gzïk Gwut Ghok	129
 植物学	zhi Gwut Ghok	129
 植物学	zhi Gwut xue	129
 植物学	zhi wu Ghok	129
 植物学	zhi wu xue	129
-植物学家	Gcet Gwet Ghok Gga	70
 植物学家	Gcet Gwut Ghok Gga	70
 植物学家	Gcet Gwut Ghok jia	70
 植物学家	Gcet Gwut xue Gga	70
@@ -418191,7 +417894,6 @@ use_preset_vocabulary: false
 植物学家	Gcet wu Ghok jia	70
 植物学家	Gcet wu xue Gga	70
 植物学家	Gcet wu xue jia	70
-植物学家	Gzïk Gwet Ghok Gga	70
 植物学家	Gzïk Gwut Ghok Gga	70
 植物学家	zhi Gwut Ghok Gga	70
 植物学家	zhi Gwut Ghok jia	70
@@ -418201,14 +417903,6 @@ use_preset_vocabulary: false
 植物学家	zhi wu Ghok jia	70
 植物学家	zhi wu xue Gga	70
 植物学家	zhi wu xue jia	70
-植物性神经	Gcet Gwet Gxin Gsen Gjin	13
-植物性神经	Gcet Gwet Gxin Gsen Wjiang	13
-植物性神经	Gcet Gwet Gxin Gxin Gjin	13
-植物性神经	Gcet Gwet Gxin Gxin Wjiang	13
-植物性神经	Gcet Gwet Wxiang Gsen Gjin	13
-植物性神经	Gcet Gwet Wxiang Gsen Wjiang	13
-植物性神经	Gcet Gwet Wxiang Gxin Gjin	13
-植物性神经	Gcet Gwet Wxiang Gxin Wjiang	13
 植物性神经	Gcet Gwut Gxin Gsen Gjin	13
 植物性神经	Gcet Gwut Gxin Gsen Wjiang	13
 植物性神经	Gcet Gwut Gxin Gsen jing	13
@@ -418232,14 +417926,6 @@ use_preset_vocabulary: false
 植物性神经	Gcet wu xing Gsen jing	13
 植物性神经	Gcet wu xing shen Gjin	13
 植物性神经	Gcet wu xing shen jing	13
-植物性神经	Gzïk Gwet Gxin Gsen Gjin	13
-植物性神经	Gzïk Gwet Gxin Gsen Wjiang	13
-植物性神经	Gzïk Gwet Gxin Gxin Gjin	13
-植物性神经	Gzïk Gwet Gxin Gxin Wjiang	13
-植物性神经	Gzïk Gwet Wxiang Gsen Gjin	13
-植物性神经	Gzïk Gwet Wxiang Gsen Wjiang	13
-植物性神经	Gzïk Gwet Wxiang Gxin Gjin	13
-植物性神经	Gzïk Gwet Wxiang Gxin Wjiang	13
 植物性神经	Gzïk Gwut Gxin Gsen Gjin	13
 植物性神经	Gzïk Gwut Gxin Gsen Wjiang	13
 植物性神经	Gzïk Gwut Gxin Gxin Gjin	13
@@ -418264,44 +417950,35 @@ use_preset_vocabulary: false
 植物性神经	zhi wu xing Gsen jing	13
 植物性神经	zhi wu xing shen Gjin	13
 植物性神经	zhi wu xing shen jing	13
-植物所	Gcet Gwet Gso	24
-植物所	Gcet Gwet Gsu	24
 植物所	Gcet Gwut Gso	24
 植物所	Gcet Gwut Gsu	24
 植物所	Gcet Gwut suo	24
 植物所	Gcet wu Gso	24
 植物所	Gcet wu suo	24
-植物所	Gzïk Gwet Gso	24
-植物所	Gzïk Gwet Gsu	24
 植物所	Gzïk Gwut Gso	24
 植物所	Gzïk Gwut Gsu	24
 植物所	zhi Gwut Gso	24
 植物所	zhi Gwut suo	24
 植物所	zhi wu Gso	24
 植物所	zhi wu suo	24
-植物油	Gcet Gwet Gyiu	104
 植物油	Gcet Gwut Gyiu	104
 植物油	Gcet Gwut you	104
 植物油	Gcet wu Gyiu	104
 植物油	Gcet wu you	104
-植物油	Gzïk Gwet Gyiu	104
 植物油	Gzïk Gwut Gyiu	104
 植物油	zhi Gwut Gyiu	104
 植物油	zhi Gwut you	104
 植物油	zhi wu Gyiu	104
 植物油	zhi wu you	104
-植物种	Gcet Gwet Gzung	19
 植物种	Gcet Gwut Gzung	19
 植物种	Gcet Gwut zhong	19
 植物种	Gcet wu Gzung	19
 植物种	Gcet wu zhong	19
-植物种	Gzïk Gwet Gzung	19
 植物种	Gzïk Gwut Gzung	19
 植物种	zhi Gwut Gzung	19
 植物种	zhi Gwut zhong	19
 植物种	zhi wu Gzung	19
 植物种	zhi wu zhong	19
-植物纤维	Gcet Gwet Gqiên Gwi	34
 植物纤维	Gcet Gwut Gqiên Gwi	34
 植物纤维	Gcet Gwut Gqiên wei	34
 植物纤维	Gcet Gwut xian Gwi	34
@@ -418310,7 +417987,6 @@ use_preset_vocabulary: false
 植物纤维	Gcet wu Gqiên wei	34
 植物纤维	Gcet wu xian Gwi	34
 植物纤维	Gcet wu xian wei	34
-植物纤维	Gzïk Gwet Gqiên Gwi	34
 植物纤维	Gzïk Gwut Gqiên Gwi	34
 植物纤维	zhi Gwut Gqiên Gwi	34
 植物纤维	zhi Gwut Gqiên wei	34
@@ -418320,7 +417996,6 @@ use_preset_vocabulary: false
 植物纤维	zhi wu Gqiên wei	34
 植物纤维	zhi wu xian Gwi	34
 植物纤维	zhi wu xian wei	34
-植物群落	Gcet Gwet Gqyun Glok	39
 植物群落	Gcet Gwut Gqyun Glok	39
 植物群落	Gcet Gwut Gqyun luo	39
 植物群落	Gcet Gwut qun Glok	39
@@ -418329,7 +418004,6 @@ use_preset_vocabulary: false
 植物群落	Gcet wu Gqyun luo	39
 植物群落	Gcet wu qun Glok	39
 植物群落	Gcet wu qun luo	39
-植物群落	Gzïk Gwet Gqyun Glok	39
 植物群落	Gzïk Gwut Gqyun Glok	39
 植物群落	zhi Gwut Gqyun Glok	39
 植物群落	zhi Gwut Gqyun luo	39
@@ -418339,12 +418013,10 @@ use_preset_vocabulary: false
 植物群落	zhi wu Gqyun luo	39
 植物群落	zhi wu qun Glok	39
 植物群落	zhi wu qun luo	39
-植物药	Gcet Gwet Gyok	52
 植物药	Gcet Gwut Gyok	52
 植物药	Gcet Gwut yao	52
 植物药	Gcet wu Gyok	52
 植物药	Gcet wu yao	52
-植物药	Gzïk Gwet Gyok	52
 植物药	Gzïk Gwut Gyok	52
 植物药	zhi Gwut Gyok	52
 植物药	zhi Gwut yao	52
@@ -423041,7 +422713,6 @@ use_preset_vocabulary: false
 款款	Gkuon kuan	97
 款款	kuan Gkuon	97
 款款	kuan kuan	97
-款物	Gkuon Gwet	10
 款物	Gkuon Gwut	10
 款物	Gkuon wu	10
 款物	kuan Gwut	10
@@ -423188,13 +422859,12 @@ use_preset_vocabulary: false
 歌乐	Ggo le	7
 歌乐	ge Glok	7
 歌乐	ge le	7
-歌仔	Ggo Gzï	13
-歌仔	Ggo zai	13
-歌仔	ge Gzï	13
+歌仔	Ggo Gzai	13
+歌仔	ge Gzai	13
 歌仔	ge zai	13
-歌仔戏	Ggo Gzï Gxi	13
+歌仔戏	Ggo Gzai Gxi	13
 歌仔戏	Ggo zi Gxi	13
-歌仔戏	ge Gzï Gxi	13
+歌仔戏	ge Gzai Gxi	13
 歌仔戏	ge zi Gxi	13
 歌仔戏	ge zi xi	13
 歌伎	Ggo Gzï	11
@@ -425011,10 +424681,8 @@ use_preset_vocabulary: false
 正面	Wzang Gmiên	76678
 正面	zheng Gmiên	76678
 正面	zheng mian	76678
-正面人物	Gzen Gmiên Gnin Gwet	17
 正面人物	Gzen Gmiên Gnin Gwut	17
 正面人物	Gzen Gmiên Gnin wu	17
-正面人物	Gzen Gmiên Wlen Gwet	17
 正面人物	Gzen Gmiên Wlen Gwut	17
 正面人物	Gzen Gmiên ren Gwut	17
 正面人物	Gzen Gmiên ren wu	17
@@ -425022,9 +424690,7 @@ use_preset_vocabulary: false
 正面人物	Gzen mian Gnin wu	17
 正面人物	Gzen mian ren Gwut	17
 正面人物	Gzen mian ren wu	17
-正面人物	Wzang Gmiên Gnin Gwet	17
 正面人物	Wzang Gmiên Gnin Gwut	17
-正面人物	Wzang Gmiên Wlen Gwet	17
 正面人物	Wzang Gmiên Wlen Gwut	17
 正面人物	zheng Gmiên Gnin Gwut	17
 正面人物	zheng Gmiên Gnin wu	17
@@ -425294,7 +424960,6 @@ use_preset_vocabulary: false
 此片	Gcï pian	7
 此片	ci Gpiên	7
 此片	ci pian	7
-此物	Gcï Gwet	207
 此物	Gcï Gwut	207
 此物	Gcï wu	207
 此物	ci Gwut	207
@@ -426643,21 +426308,21 @@ use_preset_vocabulary: false
 歺	e	5471
 死	Gsï	200000
 死	si	200000
-死㰵活撑	Gsï Gzuk Gwet Gcang	135250
-死㰵活撑	Gsï Gzuk Gwet cheng	135250
 死㰵活撑	Gsï Gzuk Gwot Gcang	135250
+死㰵活撑	Gsï Gzuk Gwut Gcang	135250
+死㰵活撑	Gsï Gzuk Gwut cheng	135250
 死㰵活撑	Gsï Gzuk huo Gcang	135250
 死㰵活撑	Gsï Gzuk huo cheng	135250
-死㰵活撑	Gsï zu Gwet Gcang	135250
-死㰵活撑	Gsï zu Gwet cheng	135250
+死㰵活撑	Gsï zu Gwut Gcang	135250
+死㰵活撑	Gsï zu Gwut cheng	135250
 死㰵活撑	Gsï zu huo Gcang	135250
 死㰵活撑	Gsï zu huo cheng	135250
-死㰵活撑	si Gzuk Gwet Gcang	135250
-死㰵活撑	si Gzuk Gwet cheng	135250
+死㰵活撑	si Gzuk Gwut Gcang	135250
+死㰵活撑	si Gzuk Gwut cheng	135250
 死㰵活撑	si Gzuk huo Gcang	135250
 死㰵活撑	si Gzuk huo cheng	135250
-死㰵活撑	si zu Gwet Gcang	135250
-死㰵活撑	si zu Gwet cheng	135250
+死㰵活撑	si zu Gwut Gcang	135250
+死㰵活撑	si zu Gwut cheng	135250
 死㰵活撑	si zu huo Gcang	135250
 死㰵活撑	si zu huo cheng	135250
 死不了	Gsï Gbet Gle	107
@@ -426702,8 +426367,8 @@ use_preset_vocabulary: false
 死不足惜	si bu Gjiuk xi	23
 死不足惜	si bu zu Gxit	23
 死不足惜	si bu zu xi	23
-死中求活	Gsï Gzung Gqiu Gwet	14
 死中求活	Gsï Gzung Gqiu Gwot	14
+死中求活	Gsï Gzung Gqiu Gwut	14
 死中求活	Gsï Gzung Gqiu huo	14
 死中求活	Gsï zhong Gqiu Gwot	14
 死中求活	Gsï zhong Gqiu huo	14
@@ -426732,17 +426397,17 @@ use_preset_vocabulary: false
 死乞白赖	si qi Gpak Glai	12
 死乞白赖	si qi bai Glai	12
 死乞白赖	si qi bai lai	12
-死争活争	Gsï Gzang Gwet Gzang	100000
-死争活争	Gsï Gzang Gwet Wzên	100000
 死争活争	Gsï Gzang Gwot Gzang	100000
 死争活争	Gsï Gzang Gwot Wzên	100000
 死争活争	Gsï Gzang Gwot zheng	100000
+死争活争	Gsï Gzang Gwut Gzang	100000
+死争活争	Gsï Gzang Gwut Wzên	100000
 死争活争	Gsï Gzang huo Gzang	100000
 死争活争	Gsï Gzang huo zheng	100000
-死争活争	Gsï Wzên Gwet Gzang	100000
-死争活争	Gsï Wzên Gwet Wzên	100000
 死争活争	Gsï Wzên Gwot Gzang	100000
 死争活争	Gsï Wzên Gwot Wzên	100000
+死争活争	Gsï Wzên Gwut Gzang	100000
+死争活争	Gsï Wzên Gwut Wzên	100000
 死争活争	Gsï zheng Gwot Gzang	100000
 死争活争	Gsï zheng Gwot zheng	100000
 死争活争	Gsï zheng huo Gzang	100000
@@ -426848,13 +426513,13 @@ use_preset_vocabulary: false
 死去	Gsï qu	1154
 死去	si Gqiê	1154
 死去	si qu	1154
-死去活来	Gsï Gqiê Gwet Glêi	133
 死去活来	Gsï Gqiê Gwot Glêi	133
 死去活来	Gsï Gqiê Gwot lai	133
+死去活来	Gsï Gqiê Gwut Glêi	133
 死去活来	Gsï Gqiê huo Glêi	133
 死去活来	Gsï Gqiê huo lai	133
-死去活来	Gsï Wqyu Gwet Glêi	133
 死去活来	Gsï Wqyu Gwot Glêi	133
+死去活来	Gsï Wqyu Gwut Glêi	133
 死去活来	Gsï qu Gwot Glêi	133
 死去活来	Gsï qu Gwot lai	133
 死去活来	Gsï qu huo Glêi	133
@@ -427081,8 +426746,8 @@ use_preset_vocabulary: false
 死法	Gsï fa	78
 死法	si Gfat	78
 死法	si fa	78
-死活	Gsï Gwet	455
 死活	Gsï Gwot	455
+死活	Gsï Gwut	455
 死活	Gsï huo	455
 死活	si Gwot	455
 死活	si huo	455
@@ -427117,7 +426782,6 @@ use_preset_vocabulary: false
 死灰复燃	si hui Gfuk ran	39
 死灰复燃	si hui fu Glên	39
 死灰复燃	si hui fu ran	39
-死物	Gsï Gwet	19
 死物	Gsï Gwut	19
 死物	Gsï wu	19
 死物	si Gwut	19
@@ -427303,8 +426967,8 @@ use_preset_vocabulary: false
 死难者	si Glan zhe	27
 死难者	si nan Gza	27
 死难者	si nan zhe	27
-死马当活马医	Gsï Gma Gdong Gwet Gma Gyi	11
 死马当活马医	Gsï Gma Gdong Gwot Gma Gyi	11
+死马当活马医	Gsï Gma Gdong Gwut Gma Gyi	11
 死马当活马医	Gsï Gma Gdong huo Gma Gyi	11
 死马当活马医	Gsï Gma dang Gwot Gma Gyi	11
 死马当活马医	Gsï Gma dang huo Gma Gyi	11
@@ -427481,7 +427145,6 @@ use_preset_vocabulary: false
 殊途同归	shu tu tong gui	56
 残	Gcan	120000
 残余	Gcan Gyu	480
-残余物	Gcan Gyu Gwet	11
 残余物	Gcan Gyu Gwut	11
 残余物	Gcan Gyu wu	11
 残余物	can yu wu	11
@@ -427571,7 +427234,6 @@ use_preset_vocabulary: false
 残生	Gcan sheng	29
 残生	can sheng	29
 残留	Gcan Gliu	25394
-残留物	Gcan Gliu Gwet	35
 残留物	Gcan Gliu Gwut	35
 残留物	Gcan Gliu wu	35
 残留物	can liu wu	35
@@ -429035,7 +428697,6 @@ use_preset_vocabulary: false
 毒牙	Gtuk ya	16
 毒牙	du Gnga	16
 毒牙	du ya	16
-毒物	Gtuk Gwet	475
 毒物	Gtuk Gwut	475
 毒物	Gtuk wu	475
 毒物	du Gwut	475
@@ -429428,9 +429089,9 @@ use_preset_vocabulary: false
 比洛	Gbi Glok	9
 比洛	Gbi luo	9
 比洛	bi luo	9
-比活度	Gbi Gwet Gtu	12
 比活度	Gbi Gwot Gtu	12
 比活度	Gbi Gwot du	12
+比活度	Gbi Gwut Gtu	12
 比活度	Gbi huo Gtu	12
 比活度	Gbi huo du	12
 比活度	bi huo du	12
@@ -432480,7 +432141,6 @@ use_preset_vocabulary: false
 氢化	Gqin hua	99
 氢化	qing Gfa	99
 氢化	qing hua	99
-氢化物	Gqin Gfa Gwet	24
 氢化物	Gqin Gfa Gwut	24
 氢化物	Gqin Gfa wu	24
 氢化物	Gqin hua Gwut	24
@@ -432513,7 +432173,6 @@ use_preset_vocabulary: false
 氢氧化	qing Gyong hua	7
 氢氧化	qing yang Gfa	7
 氢氧化	qing yang hua	7
-氢氧化物	Gqin Gyong Gfa Gwet	46
 氢氧化物	Gqin Gyong Gfa Gwut	46
 氢氧化物	Gqin Gyong Gfa wu	46
 氢氧化物	Gqin Gyong hua Gwut	46
@@ -432663,7 +432322,6 @@ use_preset_vocabulary: false
 氧化汞	yang Gfa gong	19
 氧化汞	yang hua Ggung	19
 氧化汞	yang hua gong	19
-氧化物	Gyong Gfa Gwet	343
 氧化物	Gyong Gfa Gwut	343
 氧化物	Gyong Gfa wu	343
 氧化物	Gyong hua Gwut	343
@@ -432863,10 +432521,8 @@ use_preset_vocabulary: false
 氮化	Gtan hua	15
 氮化	dan Gfa	15
 氮化	dan hua	15
-氮化合物	Gtan Gfa Ghot Gwet	60
 氮化合物	Gtan Gfa Ghot Gwut	60
 氮化合物	Gtan Gfa Ghot wu	60
-氮化合物	Gtan Gfa Wgot Gwet	60
 氮化合物	Gtan Gfa Wgot Gwut	60
 氮化合物	Gtan Gfa he Gwut	60
 氮化合物	Gtan Gfa he wu	60
@@ -432882,7 +432538,6 @@ use_preset_vocabulary: false
 氮化合物	dan hua Ghot wu	60
 氮化合物	dan hua he Gwut	60
 氮化合物	dan hua he wu	60
-氮化物	Gtan Gfa Gwet	17
 氮化物	Gtan Gfa Gwut	17
 氮化物	Gtan Gfa wu	17
 氮化物	Gtan hua Gwut	17
@@ -432902,7 +432557,6 @@ use_preset_vocabulary: false
 氮气	Gtan Gqi	82
 氮气	dan Gqi	82
 氮气	dan qi	82
-氮氧化物	Gtan Gyong Gfa Gwet	34
 氮氧化物	Gtan Gyong Gfa Gwut	34
 氮氧化物	Gtan Gyong Gfa wu	34
 氮氧化物	Gtan Gyong hua Gwut	34
@@ -432981,7 +432635,6 @@ use_preset_vocabulary: false
 氯化汞	lv Gfa gong	11
 氯化汞	lv hua Ggung	11
 氯化汞	lv hua gong	11
-氯化物	Gliuk Gfa Gwet	54
 氯化物	Gliuk Gfa Gwut	54
 氯化物	Gliuk Gfa wu	54
 氯化物	Gliuk hua Gwut	54
@@ -433480,10 +433133,8 @@ use_preset_vocabulary: false
 水合	Gsui he	41
 水合	shui Ghot	41
 水合	shui he	41
-水合物	Gsui Ghot Gwet	24
 水合物	Gsui Ghot Gwut	24
 水合物	Gsui Ghot wu	24
-水合物	Gsui Wgot Gwet	24
 水合物	Gsui Wgot Gwut	24
 水合物	Gsui he Gwut	24
 水合物	Gsui he wu	24
@@ -434492,16 +434143,12 @@ use_preset_vocabulary: false
 水生成	shui Gsên cheng	8
 水生成	shui sheng Gcen	8
 水生成	shui sheng cheng	8
-水生植物	Gsui Gsên Gcet Gwet	89
 水生植物	Gsui Gsên Gcet Gwut	89
 水生植物	Gsui Gsên Gcet wu	89
-水生植物	Gsui Gsên Gzïk Gwet	89
 水生植物	Gsui Gsên Gzïk Gwut	89
 水生植物	Gsui Gsên zhi Gwut	89
 水生植物	Gsui Gsên zhi wu	89
-水生植物	Gsui Wsang Gcet Gwet	89
 水生植物	Gsui Wsang Gcet Gwut	89
-水生植物	Gsui Wsang Gzïk Gwet	89
 水生植物	Gsui Wsang Gzïk Gwut	89
 水生植物	Gsui sheng Gcet Gwut	89
 水生植物	Gsui sheng Gcet wu	89
@@ -434515,10 +434162,8 @@ use_preset_vocabulary: false
 水生植物	shui sheng Gcet wu	89
 水生植物	shui sheng zhi Gwut	89
 水生植物	shui sheng zhi wu	89
-水生物	Gsui Gsên Gwet	7
 水生物	Gsui Gsên Gwut	7
 水生物	Gsui Gsên wu	7
-水生物	Gsui Wsang Gwet	7
 水生物	Gsui Wsang Gwut	7
 水生物	Gsui sheng Gwut	7
 水生物	Gsui sheng wu	7
@@ -438089,9 +437734,7 @@ use_preset_vocabulary: false
 污染源	Gwu ran Gnyuon	107
 污染源	Gwu ran yuan	107
 污染源	wu ran yuan	107
-污染物	Gwu Glên Gwet	388
 污染物	Gwu Glên Gwut	388
-污染物	Gwu Gniên Gwet	388
 污染物	Gwu Gniên Gwut	388
 污染物	Gwu Gniên wu	388
 污染物	Gwu ran Gwut	388
@@ -438121,7 +437764,6 @@ use_preset_vocabulary: false
 污点	Gwu Gdiên	41
 污点	Gwu dian	41
 污点	wu dian	41
-污物	Gwu Gwet	35
 污物	Gwu Gwut	35
 污物	Gwu wu	35
 污物	wu wu	35
@@ -439968,10 +439610,8 @@ use_preset_vocabulary: false
 沉毅	Gcen yi	11
 沉毅	chen Gni	11
 沉毅	chen yi	11
-沉水植物	Gcen Gsui Gcet Gwet	7
 沉水植物	Gcen Gsui Gcet Gwut	7
 沉水植物	Gcen Gsui Gcet wu	7
-沉水植物	Gcen Gsui Gzïk Gwet	7
 沉水植物	Gcen Gsui Gzïk Gwut	7
 沉水植物	Gcen Gsui zhi Gwut	7
 沉水植物	Gcen Gsui zhi wu	7
@@ -440044,7 +439684,6 @@ use_preset_vocabulary: false
 沉淀剂	chen Gtiên ji	10
 沉淀剂	chen dian Gqi	10
 沉淀剂	chen dian ji	10
-沉淀物	Gcen Gtiên Gwet	37
 沉淀物	Gcen Gtiên Gwut	37
 沉淀物	Gcen Gtiên wu	37
 沉淀物	Gcen dian Gwut	37
@@ -440118,7 +439757,6 @@ use_preset_vocabulary: false
 沉积岩	chen Gjit yan	155
 沉积岩	chen ji Gngan	155
 沉积岩	chen ji yan	155
-沉积物	Gcen Gjit Gwet	304
 沉积物	Gcen Gjit Gwut	304
 沉积物	Gcen Gjit wu	304
 沉积物	Gcen ji Gwut	304
@@ -442837,7 +442475,6 @@ use_preset_vocabulary: false
 油料	Gyiu liao	1039
 油料	you Gliêu	1039
 油料	you liao	1039
-油料作物	Gyiu Gliêu Gzok Gwet	75
 油料作物	Gyiu Gliêu Gzok Gwut	75
 油料作物	Gyiu Gliêu Gzok wu	75
 油料作物	Gyiu Gliêu zuo Gwut	75
@@ -445002,7 +444639,6 @@ use_preset_vocabulary: false
 法海	Gfat Ghai	7
 法海	fa Ghai	7
 法海	fa hai	7
-法物	Gfat Gwet	14
 法物	Gfat Gwut	14
 法物	Gfat wu	14
 法物	fa Gwut	14
@@ -448686,222 +448322,220 @@ use_preset_vocabulary: false
 洹	huan	79742
 洺	Gmin	10768
 洺	ming	10768
-活	Gwet	200000
 活	Gwot	200000
+活	Gwut	200000
 活	huo	200000
-活人	Gwet Gnin	488
-活人	Gwet Wlen	488
 活人	Gwot Gnin	488
 活人	Gwot Wlen	488
 活人	Gwot ren	488
+活人	Gwut Gnin	488
+活人	Gwut Wlen	488
 活人	huo Gnin	488
 活人	huo ren	488
-活体	Gwet Gti	78
 活体	Gwot Gti	78
+活体	Gwut Gti	78
 活体	huo Gti	78
 活体	huo ti	78
-活佛	Gwet Gfet	307
-活佛	Gwet Gfok	307
 活佛	Gwot Gfet	307
 活佛	Gwot Gfok	307
 活佛	Gwot fo	307
+活佛	Gwut Gfet	307
+活佛	Gwut Gfok	307
 活佛	huo Gfet	307
 活佛	huo fo	307
-活像	Gwet Gqiong	105
 活像	Gwot Gqiong	105
 活像	Gwot xiang	105
+活像	Gwut Gqiong	105
 活像	huo Gqiong	105
 活像	huo xiang	105
-活儿	Gwet Geo	465
 活儿	Gwot Geo	465
 活儿	Gwot er	465
+活儿	Gwut Geo	465
 活儿	huo Geo	465
 活儿	huo er	465
-活到老	Gwet Gdau Glau	12
 活到老	Gwot Gdau Glau	12
 活到老	Gwot Gdau lao	12
 活到老	Gwot dao Glau	12
 活到老	Gwot dao lao	12
+活到老	Gwut Gdau Glau	12
 活到老	huo Gdau Glau	12
 活到老	huo Gdau lao	12
 活到老	huo dao Glau	12
 活到老	huo dao lao	12
-活剧	Gwet Gjyu	29
 活剧	Gwot Gjyu	29
 活剧	Gwot ju	29
+活剧	Gwut Gjyu	29
 活剧	huo Gjyu	29
 活剧	huo ju	29
-活力	Gwet Glit	1102
 活力	Gwot Glit	1102
 活力	Gwot li	1102
+活力	Gwut Glit	1102
 活力	huo Glit	1102
 活力	huo li	1102
-活动	Gwet Gtung	52526
 活动	Gwot Gtung	52526
 活动	Gwot dong	52526
+活动	Gwut Gtung	52526
 活动	huo Gtung	52526
 活动	huo dong	52526
-活动中心	Gwet Gtung Gzung Gxin	29
 活动中心	Gwot Gtung Gzung Gxin	29
 活动中心	Gwot Gtung zhong Gxin	29
 活动中心	Gwot dong Gzung Gxin	29
 活动中心	Gwot dong zhong Gxin	29
+活动中心	Gwut Gtung Gzung Gxin	29
 活动中心	huo Gtung Gzung Gxin	29
 活动中心	huo Gtung zhong Gxin	29
 活动中心	huo dong Gzung Gxin	29
 活动中心	huo dong zhong Gxin	29
 活动中心	huo dong zhong xin	29
-活动分子	Gwet Gtung Gfen Gzï	21
 活动分子	Gwot Gtung Gfen Gzï	21
 活动分子	Gwot Gtung Gfen zi	21
 活动分子	Gwot dong Gfen Gzï	21
 活动分子	Gwot dong Gfen zi	21
+活动分子	Gwut Gtung Gfen Gzï	21
 活动分子	huo Gtung Gfen Gzï	21
 活动分子	huo Gtung Gfen zi	21
 活动分子	huo dong Gfen Gzï	21
 活动分子	huo dong Gfen zi	21
 活动分子	huo dong fen zi	21
-活动区	Gwet Gtung Gqyu	26
 活动区	Gwot Gtung Gqyu	26
 活动区	Gwot Gtung qu	26
 活动区	Gwot dong Gqyu	26
 活动区	Gwot dong qu	26
+活动区	Gwut Gtung Gqyu	26
 活动区	huo Gtung Gqyu	26
 活动区	huo Gtung qu	26
 活动区	huo dong Gqyu	26
 活动区	huo dong qu	26
-活动室	Gwet Gtung Gset	27
-活动室	Gwet Gtung Gsïk	27
 活动室	Gwot Gtung Gset	27
 活动室	Gwot Gtung Gsïk	27
 活动室	Gwot Gtung shi	27
 活动室	Gwot dong Gset	27
 活动室	Gwot dong shi	27
+活动室	Gwut Gtung Gset	27
+活动室	Gwut Gtung Gsïk	27
 活动室	huo Gtung Gset	27
 活动室	huo Gtung shi	27
 活动室	huo dong Gset	27
 活动室	huo dong shi	27
-活动家	Gwet Gtung Gga	99
 活动家	Gwot Gtung Gga	99
 活动家	Gwot Gtung jia	99
 活动家	Gwot dong Gga	99
 活动家	Gwot dong jia	99
+活动家	Gwut Gtung Gga	99
 活动家	huo Gtung Gga	99
 活动家	huo Gtung jia	99
 活动家	huo dong Gga	99
 活动家	huo dong jia	99
-活动度	Gwet Gtung Gtu	16
 活动度	Gwot Gtung Gtu	16
 活动度	Gwot Gtung du	16
 活动度	Gwot dong Gtu	16
 活动度	Gwot dong du	16
+活动度	Gwut Gtung Gtu	16
 活动度	huo Gtung Gtu	16
 活动度	huo Gtung du	16
 活动度	huo dong Gtu	16
 活动度	huo dong du	16
-活动性	Gwet Gtung Gxin	46
-活动性	Gwet Gtung Wxiang	46
 活动性	Gwot Gtung Gxin	46
 活动性	Gwot Gtung Wxiang	46
 活动性	Gwot Gtung xing	46
 活动性	Gwot dong Gxin	46
 活动性	Gwot dong xing	46
+活动性	Gwut Gtung Gxin	46
+活动性	Gwut Gtung Wxiang	46
 活动性	huo Gtung Gxin	46
 活动性	huo Gtung xing	46
 活动性	huo dong Gxin	46
 活动性	huo dong xing	46
-活动期	Gwet Gtung Gqi	30
 活动期	Gwot Gtung Gqi	30
 活动期	Gwot dong Gqi	30
+活动期	Gwut Gtung Gqi	30
 活动期	huo Gtung Gqi	30
 活动期	huo dong Gqi	30
 活动期	huo dong qi	30
-活动桥	Gwet Gtung Gqiêu	8
 活动桥	Gwot Gtung Gqiêu	8
 活动桥	Gwot Gtung qiao	8
 活动桥	Gwot dong Gqiêu	8
 活动桥	Gwot dong qiao	8
+活动桥	Gwut Gtung Gqiêu	8
 活动桥	huo Gtung Gqiêu	8
 活动桥	huo Gtung qiao	8
 活动桥	huo dong Gqiêu	8
 活动桥	huo dong qiao	8
-活动课	Gwet Gtung Gkuo	12
 活动课	Gwot Gtung Gkuo	12
 活动课	Gwot Gtung ke	12
 活动课	Gwot dong Gkuo	12
 活动课	Gwot dong ke	12
+活动课	Gwut Gtung Gkuo	12
 活动课	huo Gtung Gkuo	12
 活动课	huo Gtung ke	12
 活动课	huo dong Gkuo	12
 活动课	huo dong ke	12
-活动量	Gwet Gtung Gliong	18
 活动量	Gwot Gtung Gliong	18
 活动量	Gwot Gtung liang	18
 活动量	Gwot dong Gliong	18
 活动量	Gwot dong liang	18
+活动量	Gwut Gtung Gliong	18
 活动量	huo Gtung Gliong	18
 活动量	huo Gtung liang	18
 活动量	huo dong Gliong	18
 活动量	huo dong liang	18
-活劳动	Gwet Glau Gtung	86
 活劳动	Gwot Glau Gtung	86
 活劳动	Gwot Glau dong	86
 活劳动	Gwot lao Gtung	86
 活劳动	Gwot lao dong	86
+活劳动	Gwut Glau Gtung	86
 活劳动	huo Glau Gtung	86
 活劳动	huo Glau dong	86
 活劳动	huo lao Gtung	86
 活劳动	huo lao dong	86
-活化	Gwet Gfa	166
 活化	Gwot Gfa	166
 活化	Gwot hua	166
+活化	Gwut Gfa	166
 活化	huo Gfa	166
 活化	huo hua	166
-活化剂	Gwet Gfa Gqi	9
 活化剂	Gwot Gfa Gqi	9
 活化剂	Gwot Gfa ji	9
 活化剂	Gwot hua Gqi	9
 活化剂	Gwot hua ji	9
+活化剂	Gwut Gfa Gqi	9
 活化剂	huo Gfa Gqi	9
 活化剂	huo Gfa ji	9
 活化剂	huo hua Gqi	9
 活化剂	huo hua ji	9
-活化石	Gwet Gfa Gset	56
-活化石	Gwet Gfa Gsïk	56
 活化石	Gwot Gfa Gset	56
 活化石	Gwot Gfa Gsïk	56
 活化石	Gwot Gfa shi	56
 活化石	Gwot hua Gset	56
 活化石	Gwot hua shi	56
+活化石	Gwut Gfa Gset	56
+活化石	Gwut Gfa Gsïk	56
 活化石	huo Gfa Gset	56
 活化石	huo Gfa shi	56
 活化石	huo hua Gset	56
 活化石	huo hua shi	56
-活受罪	Gwet Gseu Gcui	39
-活受罪	Gwet Gxiu Gcui	39
 活受罪	Gwot Gseu Gcui	39
 活受罪	Gwot Gseu zui	39
 活受罪	Gwot Gxiu Gcui	39
 活受罪	Gwot shou Gcui	39
 活受罪	Gwot shou zui	39
+活受罪	Gwut Gseu Gcui	39
+活受罪	Gwut Gxiu Gcui	39
 活受罪	huo Gseu Gcui	39
 活受罪	huo Gseu zui	39
 活受罪	huo shou Gcui	39
 活受罪	huo shou zui	39
-活口	Gwet Gkiêu	27
 活口	Gwot Gkiêu	27
 活口	Gwot kou	27
+活口	Gwut Gkiêu	27
 活口	huo Gkiêu	27
 活口	huo kou	27
-活命	Gwet Gmin	167
-活命	Gwet Wmiang	167
 活命	Gwot Gmin	167
 活命	Gwot Wmiang	167
 活命	Gwot ming	167
+活命	Gwut Gmin	167
+活命	Gwut Wmiang	167
 活命	huo Gmin	167
 活命	huo ming	167
-活命之恩	Gwet Gmin Gzï Gngiên	16
-活命之恩	Gwet Wmiang Gzï Gngiên	16
 活命之恩	Gwot Gmin Gzï Gngiên	16
 活命之恩	Gwot Gmin Gzï en	16
 活命之恩	Gwot Gmin zhi Gngiên	16
@@ -448911,6 +448545,8 @@ use_preset_vocabulary: false
 活命之恩	Gwot ming Gzï en	16
 活命之恩	Gwot ming zhi Gngiên	16
 活命之恩	Gwot ming zhi en	16
+活命之恩	Gwut Gmin Gzï Gngiên	16
+活命之恩	Gwut Wmiang Gzï Gngiên	16
 活命之恩	huo Gmin Gzï Gngiên	16
 活命之恩	huo Gmin Gzï en	16
 活命之恩	huo Gmin zhi Gngiên	16
@@ -448919,38 +448555,36 @@ use_preset_vocabulary: false
 活命之恩	huo ming Gzï en	16
 活命之恩	huo ming zhi Gngiên	16
 活命之恩	huo ming zhi en	16
-活地图	Gwet Gti Gtu	7
 活地图	Gwot Gti Gtu	7
 活地图	Gwot di Gtu	7
+活地图	Gwut Gti Gtu	7
 活地图	huo Gti Gtu	7
 活地图	huo di Gtu	7
 活地图	huo di tu	7
-活埋	Gwet Gmai	149
 活埋	Gwot Gmai	149
+活埋	Gwut Gmai	149
 活埋	huo Gmai	149
 活埋	huo mai	149
-活塞	Gwet Gsêt	651
 活塞	Gwot Gsêt	651
 活塞	Gwot sai	651
+活塞	Gwut Gsêt	651
 活塞	huo Gsêt	651
 活塞	huo sai	651
-活字	Gwet Gcï	56
 活字	Gwot Gcï	56
 活字	Gwot zi	56
+活字	Gwut Gcï	56
 活字	huo Gcï	56
 活字	huo zi	56
-活字印刷	Gwet Gcï Gyin Gsot	32
 活字印刷	Gwot Gcï Gyin Gsot	32
 活字印刷	Gwot Gcï Gyin shua	32
 活字印刷	Gwot zi Gyin Gsot	32
 活字印刷	Gwot zi Gyin shua	32
+活字印刷	Gwut Gcï Gyin Gsot	32
 活字印刷	huo Gcï Gyin Gsot	32
 活字印刷	huo Gcï Gyin shua	32
 活字印刷	huo zi Gyin Gsot	32
 活字印刷	huo zi Gyin shua	32
 活字印刷	huo zi yin shua	32
-活字印刷术	Gwet Gcï Gyin Gsot Gsuet	14
-活字印刷术	Gwet Gcï Gyin Gsot Gsuk	14
 活字印刷术	Gwot Gcï Gyin Gsot Gsuet	14
 活字印刷术	Gwot Gcï Gyin Gsot Gsuk	14
 活字印刷术	Gwot Gcï Gyin Gsot shu	14
@@ -448960,6 +448594,8 @@ use_preset_vocabulary: false
 活字印刷术	Gwot zi Gyin Gsot shu	14
 活字印刷术	Gwot zi Gyin shua Gsuet	14
 活字印刷术	Gwot zi Gyin shua shu	14
+活字印刷术	Gwut Gcï Gyin Gsot Gsuet	14
+活字印刷术	Gwut Gcï Gyin Gsot Gsuk	14
 活字印刷术	huo Gcï Gyin Gsot Gsuet	14
 活字印刷术	huo Gcï Gyin Gsot shu	14
 活字印刷术	huo Gcï Gyin shua Gsuet	14
@@ -448969,55 +448605,51 @@ use_preset_vocabulary: false
 活字印刷术	huo zi Gyin shua Gsuet	14
 活字印刷术	huo zi Gyin shua shu	14
 活字印刷术	huo zi yin shua shu	14
-活字版	Gwet Gcï Gban	15
 活字版	Gwot Gcï Gban	15
 活字版	Gwot zi Gban	15
+活字版	Gwut Gcï Gban	15
 活字版	huo Gcï Gban	15
 活字版	huo zi Gban	15
 活字版	huo zi ban	15
-活宝	Gwet Gbau	27
 活宝	Gwot Gbau	27
 活宝	Gwot bao	27
+活宝	Gwut Gbau	27
 活宝	huo Gbau	27
 活宝	huo bao	27
-活度	Gwet Gtu	45
 活度	Gwot Gtu	45
 活度	Gwot du	45
+活度	Gwut Gtu	45
 活度	huo Gtu	45
 活度	huo du	45
-活性	Gwet Gxin	559
-活性	Gwet Wxiang	559
 活性	Gwot Gxin	559
 活性	Gwot Wxiang	559
 活性	Gwot xing	559
+活性	Gwut Gxin	559
+活性	Gwut Wxiang	559
 活性	huo Gxin	559
 活性	huo xing	559
-活性剂	Gwet Gxin Gqi	58
-活性剂	Gwet Wxiang Gqi	58
 活性剂	Gwot Gxin Gqi	58
 活性剂	Gwot Gxin ji	58
 活性剂	Gwot Wxiang Gqi	58
 活性剂	Gwot xing Gqi	58
 活性剂	Gwot xing ji	58
+活性剂	Gwut Gxin Gqi	58
+活性剂	Gwut Wxiang Gqi	58
 活性剂	huo Gxin Gqi	58
 活性剂	huo Gxin ji	58
 活性剂	huo xing Gqi	58
 活性剂	huo xing ji	58
-活性区	Gwet Gxin Gqyu	7
-活性区	Gwet Wxiang Gqyu	7
 活性区	Gwot Gxin Gqyu	7
 活性区	Gwot Gxin qu	7
 活性区	Gwot Wxiang Gqyu	7
 活性区	Gwot xing Gqyu	7
 活性区	Gwot xing qu	7
+活性区	Gwut Gxin Gqyu	7
+活性区	Gwut Wxiang Gqyu	7
 活性区	huo Gxin Gqyu	7
 活性区	huo Gxin qu	7
 活性区	huo xing Gqyu	7
 活性区	huo xing qu	7
-活性染料	Gwet Gxin Glên Gliêu	258
-活性染料	Gwet Gxin Gniên Gliêu	258
-活性染料	Gwet Wxiang Glên Gliêu	258
-活性染料	Gwet Wxiang Gniên Gliêu	258
 活性染料	Gwot Gxin Glên Gliêu	258
 活性染料	Gwot Gxin Gniên Gliêu	258
 活性染料	Gwot Gxin Gniên liao	258
@@ -449029,6 +448661,10 @@ use_preset_vocabulary: false
 活性染料	Gwot xing Gniên liao	258
 活性染料	Gwot xing ran Gliêu	258
 活性染料	Gwot xing ran liao	258
+活性染料	Gwut Gxin Glên Gliêu	258
+活性染料	Gwut Gxin Gniên Gliêu	258
+活性染料	Gwut Wxiang Glên Gliêu	258
+活性染料	Gwut Wxiang Gniên Gliêu	258
 活性染料	huo Gxin Gniên Gliêu	258
 活性染料	huo Gxin Gniên liao	258
 活性染料	huo Gxin ran Gliêu	258
@@ -449037,111 +448673,111 @@ use_preset_vocabulary: false
 活性染料	huo xing Gniên liao	258
 活性染料	huo xing ran Gliêu	258
 活性染料	huo xing ran liao	258
-活性炭	Gwet Gxin Gtan	48
-活性炭	Gwet Wxiang Gtan	48
 活性炭	Gwot Gxin Gtan	48
 活性炭	Gwot Wxiang Gtan	48
 活性炭	Gwot xing Gtan	48
+活性炭	Gwut Gxin Gtan	48
+活性炭	Gwut Wxiang Gtan	48
 活性炭	huo Gxin Gtan	48
 活性炭	huo xing Gtan	48
 活性炭	huo xing tan	48
-活性碳	Gwet Gxin Gtan	12
-活性碳	Gwet Wxiang Gtan	12
 活性碳	Gwot Gxin Gtan	12
 活性碳	Gwot Wxiang Gtan	12
 活性碳	Gwot xing Gtan	12
+活性碳	Gwut Gxin Gtan	12
+活性碳	Gwut Wxiang Gtan	12
 活性碳	huo Gxin Gtan	12
 活性碳	huo xing Gtan	12
 活性碳	huo xing tan	12
-活报剧	Gwet Gbau Gjyu	8
 活报剧	Gwot Gbau Gjyu	8
 活报剧	Gwot Gbau ju	8
 活报剧	Gwot bao Gjyu	8
 活报剧	Gwot bao ju	8
+活报剧	Gwut Gbau Gjyu	8
 活报剧	huo Gbau Gjyu	8
 活报剧	huo Gbau ju	8
 活报剧	huo bao Gjyu	8
 活报剧	huo bao ju	8
-活捉	Gwet Gzok	358
 活捉	Gwot Gzok	358
 活捉	Gwot zhuo	358
+活捉	Gwut Gzok	358
 活捉	huo Gzok	358
 活捉	huo zhuo	358
-活期	Gwet Gqi	50
 活期	Gwot Gqi	50
+活期	Gwut Gqi	50
 活期	huo Gqi	50
 活期	huo qi	50
-活检	Gwet Gjiên	58
 活检	Gwot Gjiên	58
 活检	Gwot jian	58
+活检	Gwut Gjiên	58
 活检	huo Gjiên	58
 活检	huo jian	58
-活死人	Gwet Gsï Gnin	81
-活死人	Gwet Gsï Wlen	81
 活死人	Gwot Gsï Gnin	81
 活死人	Gwot Gsï Wlen	81
 活死人	Gwot Gsï ren	81
 活死人	Gwot si Gnin	81
 活死人	Gwot si ren	81
+活死人	Gwut Gsï Gnin	81
+活死人	Gwut Gsï Wlen	81
 活死人	huo Gsï Gnin	81
 活死人	huo Gsï ren	81
 活死人	huo si Gnin	81
 活死人	huo si ren	81
-活气	Gwet Gqi	24
 活气	Gwot Gqi	24
+活气	Gwut Gqi	24
 活气	huo Gqi	24
 活气	huo qi	24
-活水	Gwet Gsui	41
 活水	Gwot Gsui	41
 活水	Gwot shui	41
+活水	Gwut Gsui	41
 活水	huo Gsui	41
 活水	huo shui	41
-活法	Gwet Gfat	33
 活法	Gwot Gfat	33
 活法	Gwot fa	33
+活法	Gwut Gfat	33
 活法	huo Gfat	33
 活法	huo fa	33
-活泼	Gwet Gpot	740
 活泼	Gwot Gpot	740
 活泼	Gwot po	740
+活泼	Gwut Gpot	740
 活泼	huo Gpot	740
 活泼	huo po	740
-活泼泼	Gwet Gpot Gpot	15
 活泼泼	Gwot Gpot Gpot	15
 活泼泼	Gwot Gpot po	15
 活泼泼	Gwot po Gpot	15
 活泼泼	Gwot po po	15
+活泼泼	Gwut Gpot Gpot	15
 活泼泼	huo Gpot Gpot	15
 活泼泼	huo Gpot po	15
 活泼泼	huo po Gpot	15
 活泼泼	huo po po	15
-活活	Gwet Gwet	405
-活活	Gwet Gwot	405
-活活	Gwot Gwet	405
 活活	Gwot Gwot	405
+活活	Gwot Gwut	405
 活活	Gwot huo	405
+活活	Gwut Gwot	405
+活活	Gwut Gwut	405
 活活	huo Gwot	405
 活活	huo huo	405
-活火山	Gwet Gfo Gsan	101
 活火山	Gwot Gfo Gsan	101
 活火山	Gwot Gfo shan	101
 活火山	Gwot huo Gsan	101
 活火山	Gwot huo shan	101
+活火山	Gwut Gfo Gsan	101
 活火山	huo Gfo Gsan	101
 活火山	huo Gfo shan	101
 活火山	huo huo Gsan	101
 活火山	huo huo shan	101
-活灵活现	Gwet Glin Gwet Gxiên	39
-活灵活现	Gwet Glin Gwot Gxiên	39
-活灵活现	Gwot Glin Gwet Gxiên	39
 活灵活现	Gwot Glin Gwot Gxiên	39
 活灵活现	Gwot Glin Gwot xian	39
+活灵活现	Gwot Glin Gwut Gxiên	39
 活灵活现	Gwot Glin huo Gxiên	39
 活灵活现	Gwot Glin huo xian	39
 活灵活现	Gwot ling Gwot Gxiên	39
 活灵活现	Gwot ling Gwot xian	39
 活灵活现	Gwot ling huo Gxiên	39
 活灵活现	Gwot ling huo xian	39
+活灵活现	Gwut Glin Gwot Gxiên	39
+活灵活现	Gwut Glin Gwut Gxiên	39
 活灵活现	huo Glin Gwot Gxiên	39
 活灵活现	huo Glin Gwot xian	39
 活灵活现	huo Glin huo Gxiên	39
@@ -449150,24 +448786,18 @@ use_preset_vocabulary: false
 活灵活现	huo ling Gwot xian	39
 活灵活现	huo ling huo Gxiên	39
 活灵活现	huo ling huo xian	39
-活物	Gwet Gwet	44
-活物	Gwet Gwut	44
-活物	Gwot Gwet	44
 活物	Gwot Gwut	44
 活物	Gwot wu	44
+活物	Gwut Gwut	44
 活物	huo Gwut	44
 活物	huo wu	44
-活猪	Gwet Gjyu	8
-活猪	Gwet Gzu	8
 活猪	Gwot Gjyu	8
 活猪	Gwot Gzu	8
 活猪	Gwot zhu	8
+活猪	Gwut Gjyu	8
+活猪	Gwut Gzu	8
 活猪	huo Gzu	8
 活猪	huo zhu	8
-活生生	Gwet Gsên Gsên	287
-活生生	Gwet Gsên Wsang	287
-活生生	Gwet Wsang Gsên	287
-活生生	Gwet Wsang Wsang	287
 活生生	Gwot Gsên Gsên	287
 活生生	Gwot Gsên Wsang	287
 活生生	Gwot Gsên sheng	287
@@ -449175,103 +448805,106 @@ use_preset_vocabulary: false
 活生生	Gwot Wsang Wsang	287
 活生生	Gwot sheng Gsên	287
 活生生	Gwot sheng sheng	287
+活生生	Gwut Gsên Gsên	287
+活生生	Gwut Gsên Wsang	287
+活生生	Gwut Wsang Gsên	287
+活生生	Gwut Wsang Wsang	287
 活生生	huo Gsên Gsên	287
 活生生	huo Gsên sheng	287
 活生生	huo sheng Gsên	287
 活生生	huo sheng sheng	287
-活疫苗	Gwet Gyut Gmiêu	23
 活疫苗	Gwot Gyut Gmiêu	23
 活疫苗	Gwot Gyut miao	23
 活疫苗	Gwot yi Gmiêu	23
 活疫苗	Gwot yi miao	23
+活疫苗	Gwut Gyut Gmiêu	23
 活疫苗	huo Gyut Gmiêu	23
 活疫苗	huo Gyut miao	23
 活疫苗	huo yi Gmiêu	23
 活疫苗	huo yi miao	23
-活着	Gwet Gzok	1400
 活着	Gwot Gzok	1400
 活着	Gwot zhe	1400
+活着	Gwut Gzok	1400
 活着	huo Gzok	1400
 活着	huo zhe	1400
-活立木	Gwet Glit Gmuk	14
 活立木	Gwot Glit Gmuk	14
 活立木	Gwot Glit mu	14
 活立木	Gwot li Gmuk	14
 活立木	Gwot li mu	14
+活立木	Gwut Glit Gmuk	14
 活立木	huo Glit Gmuk	14
 活立木	huo Glit mu	14
 活立木	huo li Gmuk	14
 活立木	huo li mu	14
-活结	Gwet Gjiêt	11
 活结	Gwot Gjiêt	11
 活结	Gwot jie	11
+活结	Gwut Gjiêt	11
 活结	huo Gjiêt	11
 活结	huo jie	11
-活络	Gwet Glok	47
 活络	Gwot Glok	47
 活络	Gwot luo	47
+活络	Gwut Glok	47
 活络	huo Glok	47
 活络	huo luo	47
-活罪	Gwet Gcui	14
 活罪	Gwot Gcui	14
 活罪	Gwot zui	14
+活罪	Gwut Gcui	14
 活罪	huo Gcui	14
 活罪	huo zui	14
-活脱	Gwet Gtot	36
 活脱	Gwot Gtot	36
 活脱	Gwot tuo	36
+活脱	Gwut Gtot	36
 活脱	huo Gtot	36
 活脱	huo tuo	36
-活脱脱	Gwet Gtot Gtot	37
 活脱脱	Gwot Gtot Gtot	37
 活脱脱	Gwot Gtot tuo	37
 活脱脱	Gwot tuo Gtot	37
 活脱脱	Gwot tuo tuo	37
+活脱脱	Gwut Gtot Gtot	37
 活脱脱	huo Gtot Gtot	37
 活脱脱	huo Gtot tuo	37
 活脱脱	huo tuo Gtot	37
 活脱脱	huo tuo tuo	37
-活菩萨	Gwet Gpu Gsat	14
 活菩萨	Gwot Gpu Gsat	14
 活菩萨	Gwot Gpu sa	14
+活菩萨	Gwut Gpu Gsat	14
 活菩萨	huo Gpu Gsat	14
 活菩萨	huo Gpu sa	14
 活菩萨	huo pu sa	14
-活血	Gwet Gxyuot	105
 活血	Gwot Gxyuot	105
 活血	Gwot xue	105
+活血	Gwut Gxyuot	105
 活血	huo Gxyuot	105
 活血	huo xue	105
-活见鬼	Gwet Gjiên Ggui	21
 活见鬼	Gwot Gjiên Ggui	21
 活见鬼	Gwot jian Ggui	21
+活见鬼	Gwut Gjiên Ggui	21
 活见鬼	huo Gjiên Ggui	21
 活见鬼	huo jian Ggui	21
 活见鬼	huo jian gui	21
-活计	Gwet Gji	101
 活计	Gwot Gji	101
+活计	Gwut Gji	101
 活计	huo Gji	101
 活计	huo ji	101
-活该	Gwet Ggai	160
 活该	Gwot Ggai	160
+活该	Gwut Ggai	160
 活该	huo Ggai	160
 活该	huo gai	160
-活跃	Gwet Gyok	1628
 活跃	Gwot Gyok	1628
 活跃	Gwot yue	1628
+活跃	Gwut Gyok	1628
 活跃	huo Gyok	1628
 活跃	huo yue	1628
-活跃期	Gwet Gyok Gqi	7
 活跃期	Gwot Gyok Gqi	7
 活跃期	Gwot yue Gqi	7
+活跃期	Gwut Gyok Gqi	7
 活跃期	huo Gyok Gqi	7
 活跃期	huo yue Gqi	7
 活跃期	huo yue qi	7
-活路	Gwet Glu	91
 活路	Gwot Glu	91
+活路	Gwut Glu	91
 活路	huo Glu	91
 活路	huo lu	91
-活蹦乱跳	Gwet Gbung Glon Gtiêu	52
 活蹦乱跳	Gwot Gbung Glon Gtiêu	52
 活蹦乱跳	Gwot Gbung Glon tiao	52
 活蹦乱跳	Gwot Gbung luan Gtiêu	52
@@ -449280,6 +448913,7 @@ use_preset_vocabulary: false
 活蹦乱跳	Gwot beng Glon tiao	52
 活蹦乱跳	Gwot beng luan Gtiêu	52
 活蹦乱跳	Gwot beng luan tiao	52
+活蹦乱跳	Gwut Gbung Glon Gtiêu	52
 活蹦乱跳	huo Gbung Glon Gtiêu	52
 活蹦乱跳	huo Gbung Glon tiao	52
 活蹦乱跳	huo Gbung luan Gtiêu	52
@@ -449288,43 +448922,43 @@ use_preset_vocabulary: false
 活蹦乱跳	huo beng Glon tiao	52
 活蹦乱跳	huo beng luan Gtiêu	52
 活蹦乱跳	huo beng luan tiao	52
-活门	Gwet Gmen	16
 活门	Gwot Gmen	16
+活门	Gwut Gmen	16
 活门	huo Gmen	16
 活门	huo men	16
-活阎王	Gwet Gyên Gwong	11
 活阎王	Gwot Gyên Gwong	11
 活阎王	Gwot Gyên wang	11
 活阎王	Gwot yan Gwong	11
 活阎王	Gwot yan wang	11
+活阎王	Gwut Gyên Gwong	11
 活阎王	huo Gyên Gwong	11
 活阎王	huo Gyên wang	11
 活阎王	huo yan Gwong	11
 活阎王	huo yan wang	11
-活靶	Gwet Gba	9
 活靶	Gwot Gba	9
+活靶	Gwut Gba	9
 活靶	huo Gba	9
 活靶	huo ba	9
-活页	Gwet Gyêt	22
 活页	Gwot Gyêt	22
 活页	Gwot ye	22
+活页	Gwut Gyêt	22
 活页	huo Gyêt	22
 活页	huo ye	22
-活鸡	Gwet Gji	21
 活鸡	Gwot Gji	21
+活鸡	Gwut Gji	21
 活鸡	huo Gji	21
 活鸡	huo ji	21
-活龙活现	Gwet Glung Gwet Gxiên	9
-活龙活现	Gwet Glung Gwot Gxiên	9
-活龙活现	Gwot Glung Gwet Gxiên	9
 活龙活现	Gwot Glung Gwot Gxiên	9
 活龙活现	Gwot Glung Gwot xian	9
+活龙活现	Gwot Glung Gwut Gxiên	9
 活龙活现	Gwot Glung huo Gxiên	9
 活龙活现	Gwot Glung huo xian	9
 活龙活现	Gwot long Gwot Gxiên	9
 活龙活现	Gwot long Gwot xian	9
 活龙活现	Gwot long huo Gxiên	9
 活龙活现	Gwot long huo xian	9
+活龙活现	Gwut Glung Gwot Gxiên	9
+活龙活现	Gwut Glung Gwut Gxiên	9
 活龙活现	huo Glung Gwot Gxiên	9
 活龙活现	huo Glung Gwot xian	9
 活龙活现	huo Glung huo Gxiên	9
@@ -451939,10 +451573,8 @@ use_preset_vocabulary: false
 浮游	Wpau Gyiu	186
 浮游	fu Gyiu	186
 浮游	fu you	186
-浮游生物	Gfêu Gyiu Gsên Gwet	142
 浮游生物	Gfêu Gyiu Gsên Gwut	142
 浮游生物	Gfêu Gyiu Gsên wu	142
-浮游生物	Gfêu Gyiu Wsang Gwet	142
 浮游生物	Gfêu Gyiu Wsang Gwut	142
 浮游生物	Gfêu Gyiu sheng Gwut	142
 浮游生物	Gfêu Gyiu sheng wu	142
@@ -451950,9 +451582,7 @@ use_preset_vocabulary: false
 浮游生物	Gfêu you Gsên wu	142
 浮游生物	Gfêu you sheng Gwut	142
 浮游生物	Gfêu you sheng wu	142
-浮游生物	Wpau Gyiu Gsên Gwet	142
 浮游生物	Wpau Gyiu Gsên Gwut	142
-浮游生物	Wpau Gyiu Wsang Gwet	142
 浮游生物	Wpau Gyiu Wsang Gwut	142
 浮游生物	fu Gyiu Gsên Gwut	142
 浮游生物	fu Gyiu Gsên wu	142
@@ -452999,10 +452629,8 @@ use_preset_vocabulary: false
 海洋法	Ghai yang Gfat	71
 海洋法	Ghai yang fa	71
 海洋法	hai yang fa	71
-海洋生物	Ghai Gyong Gsên Gwet	157
 海洋生物	Ghai Gyong Gsên Gwut	157
 海洋生物	Ghai Gyong Gsên wu	157
-海洋生物	Ghai Gyong Wsang Gwet	157
 海洋生物	Ghai Gyong Wsang Gwut	157
 海洋生物	Ghai Gyong sheng Gwut	157
 海洋生物	Ghai Gyong sheng wu	157
@@ -453542,9 +453170,7 @@ use_preset_vocabulary: false
 浸出	Gjin Gcuk	41
 浸出	Gjin chu	41
 浸出	jin chu	41
-浸出物	Gjin Gcet Gwet	12
 浸出物	Gjin Gcet Gwut	12
-浸出物	Gjin Gcuk Gwet	12
 浸出物	Gjin Gcuk Gwut	12
 浸出物	Gjin Gcuk wu	12
 浸出物	Gjin chu Gwut	12
@@ -454659,15 +454285,11 @@ use_preset_vocabulary: false
 润燥	Glun Gzau	27
 润燥	run Gzau	27
 润燥	run zao	27
-润物细无声	Glen Gwet Gxi Gwu Gsen	8
-润物细无声	Glen Gwet Gxi Gwu Wsang	8
 润物细无声	Glen Gwut Gxi Gwu Gsen	8
 润物细无声	Glen Gwut Gxi Gwu Wsang	8
 润物细无声	Glen Gwut Gxi Gwu sheng	8
 润物细无声	Glen wu Gxi Gwu Gsen	8
 润物细无声	Glen wu Gxi Gwu sheng	8
-润物细无声	Glun Gwet Gxi Gwu Gsen	8
-润物细无声	Glun Gwet Gxi Gwu Wsang	8
 润物细无声	Glun Gwut Gxi Gwu Gsen	8
 润物细无声	Glun Gwut Gxi Gwu Wsang	8
 润物细无声	run Gwut Gxi Gwu Gsen	8
@@ -456762,10 +456384,8 @@ use_preset_vocabulary: false
 混合液	hun Ghot ye	53
 混合液	hun he Gyit	53
 混合液	hun he ye	53
-混合物	Gfen Ghot Gwet	320
 混合物	Gfen Ghot Gwut	320
 混合物	Gfen Ghot wu	320
-混合物	Gfen Wgot Gwet	320
 混合物	Gfen Wgot Gwut	320
 混合物	Gfen he Gwut	320
 混合物	Gfen he wu	320
@@ -457002,7 +456622,6 @@ use_preset_vocabulary: false
 添加剂	tian Gga ji	659
 添加剂	tian jia Gqi	659
 添加剂	tian jia ji	659
-添加物	Gtiên Gga Gwet	51
 添加物	Gtiên Gga Gwut	51
 添加物	Gtiên Gga wu	51
 添加物	Gtiên jia Gwut	51
@@ -459662,7 +459281,6 @@ use_preset_vocabulary: false
 温莱特	wen Glai Gtêt	7
 温莱特	wen Glai te	7
 温莱特	wen lai te	7
-温血动物	Gwun Gxyuot Gtung Gwet	10
 温血动物	Gwun Gxyuot Gtung Gwut	10
 温血动物	Gwun Gxyuot Gtung wu	10
 温血动物	Gwun Gxyuot dong Gwut	10
@@ -460786,8 +460404,6 @@ use_preset_vocabulary: false
 湖北省政府	hu bei sheng Gzen Gfu	522
 湖北省政府	hu bei sheng zheng Gfu	522
 湖北省政府	hu bei sheng zheng fu	522
-湖北省物价局	Gfu Gbêt Gsên Gwet Gga Gjyut	259
-湖北省物价局	Gfu Gbêt Gsên Gwet Gga Gqiuk	259
 湖北省物价局	Gfu Gbêt Gsên Gwut Gga Gjyut	259
 湖北省物价局	Gfu Gbêt Gsên Gwut Gga Gqiuk	259
 湖北省物价局	Gfu Gbêt Gsên Gwut Gga ju	259
@@ -460797,8 +460413,6 @@ use_preset_vocabulary: false
 湖北省物价局	Gfu Gbêt Gsên wu Gga ju	259
 湖北省物价局	Gfu Gbêt Gsên wu jia Gqiuk	259
 湖北省物价局	Gfu Gbêt Gsên wu jia ju	259
-湖北省物价局	Gfu Gbêt Wsang Gwet Gga Gjyut	259
-湖北省物价局	Gfu Gbêt Wsang Gwet Gga Gqiuk	259
 湖北省物价局	Gfu Gbêt Wsang Gwut Gga Gjyut	259
 湖北省物价局	Gfu Gbêt Wsang Gwut Gga Gqiuk	259
 湖北省物价局	Gfu Gbêt sheng Gwut Gga Gqiuk	259
@@ -460825,12 +460439,8 @@ use_preset_vocabulary: false
 湖北省物价局	Gfu bei sheng wu Gga ju	259
 湖北省物价局	Gfu bei sheng wu jia Gqiuk	259
 湖北省物价局	Gfu bei sheng wu jia ju	259
-湖北省物价局	Gwu Gbêt Gsên Gwet Gga Gjyut	259
-湖北省物价局	Gwu Gbêt Gsên Gwet Gga Gqiuk	259
 湖北省物价局	Gwu Gbêt Gsên Gwut Gga Gjyut	259
 湖北省物价局	Gwu Gbêt Gsên Gwut Gga Gqiuk	259
-湖北省物价局	Gwu Gbêt Wsang Gwet Gga Gjyut	259
-湖北省物价局	Gwu Gbêt Wsang Gwet Gga Gqiuk	259
 湖北省物价局	Gwu Gbêt Wsang Gwut Gga Gjyut	259
 湖北省物价局	Gwu Gbêt Wsang Gwut Gga Gqiuk	259
 湖北省物价局	hu Gbêt Gsên Gwut Gga Gqiuk	259
@@ -461534,9 +461144,7 @@ use_preset_vocabulary: false
 湽	Gzï	4136
 湽	zi	4136
 湾	Gwan	145000
-湾仔	Gwan Gzï	9
-湾仔	Gwan zai	9
-湾仔	wan zai	9
+湾仔	Gwan Gzai	9
 湾头	Gwan Gtêu	9
 湾头	Gwan tou	9
 湾头	wan tou	9
@@ -461746,17 +461354,17 @@ use_preset_vocabulary: false
 源头	Gyuon Gtêu	90413
 源头	yuan Gtêu	90413
 源头	yuan tou	90413
-源头活水	Gnyuon Gtêu Gwet Gsui	9
 源头活水	Gnyuon Gtêu Gwot Gsui	9
 源头活水	Gnyuon Gtêu Gwot shui	9
+源头活水	Gnyuon Gtêu Gwut Gsui	9
 源头活水	Gnyuon Gtêu huo Gsui	9
 源头活水	Gnyuon Gtêu huo shui	9
 源头活水	Gnyuon tou Gwot Gsui	9
 源头活水	Gnyuon tou Gwot shui	9
 源头活水	Gnyuon tou huo Gsui	9
 源头活水	Gnyuon tou huo shui	9
-源头活水	Gyuon Gtêu Gwet Gsui	9
 源头活水	Gyuon Gtêu Gwot Gsui	9
+源头活水	Gyuon Gtêu Gwut Gsui	9
 源头活水	yuan Gtêu Gwot Gsui	9
 源头活水	yuan Gtêu Gwot shui	9
 源头活水	yuan Gtêu huo Gsui	9
@@ -461781,8 +461389,6 @@ use_preset_vocabulary: false
 源氏	Gyuon Gsï	38
 源氏	yuan Gsï	38
 源氏	yuan shi	38
-源氏物语	Gnyuon Gsï Gwet Gnyu	28
-源氏物语	Gnyuon Gsï Gwet Gyu	28
 源氏物语	Gnyuon Gsï Gwut Gnyu	28
 源氏物语	Gnyuon Gsï Gwut Gyu	28
 源氏物语	Gnyuon Gsï Gwut yu	28
@@ -461792,8 +461398,6 @@ use_preset_vocabulary: false
 源氏物语	Gnyuon shi Gwut yu	28
 源氏物语	Gnyuon shi wu Gnyu	28
 源氏物语	Gnyuon shi wu yu	28
-源氏物语	Gyuon Gsï Gwet Gnyu	28
-源氏物语	Gyuon Gsï Gwet Gyu	28
 源氏物语	Gyuon Gsï Gwut Gnyu	28
 源氏物语	Gyuon Gsï Gwut Gyu	28
 源氏物语	yuan Gsï Gwut Gnyu	28
@@ -464079,10 +463683,8 @@ use_preset_vocabulary: false
 漂浮	Gpiêu fu	307
 漂浮	piao Gfêu	307
 漂浮	piao fu	307
-漂浮物	Gpiêu Gfêu Gwet	8
 漂浮物	Gpiêu Gfêu Gwut	8
 漂浮物	Gpiêu Gfêu wu	8
-漂浮物	Gpiêu Wpau Gwet	8
 漂浮物	Gpiêu Wpau Gwut	8
 漂浮物	Gpiêu fu Gwut	8
 漂浮物	Gpiêu fu wu	8
@@ -466370,14 +465972,14 @@ use_preset_vocabulary: false
 激昂慷慨	ji ang Gkong Gkai	10
 激昂慷慨	ji ang kang Gkai	10
 激昂慷慨	ji ang kang kai	10
-激活	Gjit Gwet	110246
 激活	Gjit Gwot	110246
+激活	Gjit Gwut	110246
 激活	Gjit huo	110246
 激活	ji Gwot	110246
 激活	ji huo	110246
-激活剂	Gjit Gwet Gqi	22
 激活剂	Gjit Gwot Gqi	22
 激活剂	Gjit Gwot ji	22
+激活剂	Gjit Gwut Gqi	22
 激活剂	Gjit huo Gqi	22
 激活剂	Gjit huo ji	22
 激活剂	ji Gwot Gqi	22
@@ -468451,16 +468053,16 @@ use_preset_vocabulary: false
 灵气	Glin Gqi	193
 灵气	ling Gqi	193
 灵气	ling qi	193
-灵活	Glin Gwet	1444
 灵活	Glin Gwot	1444
+灵活	Glin Gwut	1444
 灵活	Glin huo	1444
 灵活	ling Gwot	1444
 灵活	ling huo	1444
-灵活性	Glin Gwet Gxin	305
-灵活性	Glin Gwet Wxiang	305
 灵活性	Glin Gwot Gxin	305
 灵活性	Glin Gwot Wxiang	305
 灵活性	Glin Gwot xing	305
+灵活性	Glin Gwut Gxin	305
+灵活性	Glin Gwut Wxiang	305
 灵活性	Glin huo Gxin	305
 灵活性	Glin huo xing	305
 灵活性	ling Gwot Gxin	305
@@ -469835,9 +469437,7 @@ use_preset_vocabulary: false
 烁	Gsok	103902
 烁	shuo	103902
 烂	Glan	170000
-烂仔	Glan Gzï	7
-烂仔	Glan zai	7
-烂仔	lan zai	7
+烂仔	Glan Gzai	7
 烂尾楼	Glan Gwi Glêu	13
 烂尾楼	Glan Gwi lou	13
 烂尾楼	Glan Wmi Glêu	13
@@ -473597,7 +473197,6 @@ use_preset_vocabulary: false
 燃烧弹	ran Gsêu dan	70
 燃烧弹	ran shao Gtan	70
 燃烧弹	ran shao dan	70
-燃烧物	Glên Gsêu Gwet	8
 燃烧物	Glên Gsêu Gwut	8
 燃烧物	Glên Gsêu wu	8
 燃烧物	Glên shao Gwut	8
@@ -474043,7 +473642,6 @@ use_preset_vocabulary: false
 爆炸点	bao Gza dian	7
 爆炸点	bao zha Gdiên	7
 爆炸点	bao zha dian	7
-爆炸物	Gbau Gza Gwet	24
 爆炸物	Gbau Gza Gwut	24
 爆炸物	Gbau Gza wu	24
 爆炸物	Gbau zha Gwut	24
@@ -474216,12 +473814,10 @@ use_preset_vocabulary: false
 爬行	Gpa Whên	304
 爬行	Gpa xing	304
 爬行	pa xing	304
-爬行动物	Gpa Gxin Gtung Gwet	111
 爬行动物	Gpa Gxin Gtung Gwut	111
 爬行动物	Gpa Gxin Gtung wu	111
 爬行动物	Gpa Gxin dong Gwut	111
 爬行动物	Gpa Gxin dong wu	111
-爬行动物	Gpa Whên Gtung Gwet	111
 爬行动物	Gpa Whên Gtung Gwut	111
 爬行动物	Gpa xing Gtung Gwut	111
 爬行动物	Gpa xing Gtung wu	111
@@ -475327,13 +474923,10 @@ use_preset_vocabulary: false
 片中	Gpiên zhong	104
 片中	pian Gzung	104
 片中	pian zhong	104
-片仔癀	Gpiên Gzï Gfong	9
-片仔癀	Gpiên Gzï huang	9
-片仔癀	Gpiên zai Gfong	9
-片仔癀	Gpiên zai huang	9
-片仔癀	pian Gzï Gfong	9
-片仔癀	pian Gzï huang	9
-片仔癀	pian zai Gfong	9
+片仔癀	Gpiên Gzai Gfong	9
+片仔癀	Gpiên Gzai huang	9
+片仔癀	pian Gzai Gfong	9
+片仔癀	pian Gzai huang	9
 片仔癀	pian zai huang	9
 片假名	Gpiên Gga Gmin	25008
 片假名	Gpiên Gga Wmiang	25008
@@ -475850,18 +475443,12 @@ use_preset_vocabulary: false
 牛乳	Wngiêu Geo	42
 牛乳	Wngiêu Glu	42
 牛乳	niu ru	42
-牛仔	Gniu Gzï	94
-牛仔	Gniu zai	94
-牛仔	Wngiêu Gzï	94
-牛仔	niu zai	94
-牛仔布	Gniu Gzï Gbu	9
-牛仔布	Gniu zai Gbu	9
-牛仔布	Wngiêu Gzï Gbu	9
-牛仔布	niu zai bu	9
-牛仔裤	Gniu Gzï Gku	25095
-牛仔裤	Gniu zai Gku	25095
-牛仔裤	Wngiêu Gzï Gku	25095
-牛仔裤	niu zai ku	25095
+牛仔	Gniu Gzai	94
+牛仔	Wngiêu Gzai	94
+牛仔布	Gniu Gzai Gbu	9
+牛仔布	Wngiêu Gzai Gbu	9
+牛仔裤	Gniu Gzai Gku	25095
+牛仔裤	Wngiêu Gzai Gku	25095
 牛作马	Gniu Gzok Gma	12
 牛作马	Gniu zuo Gma	12
 牛作马	Wngiêu Gzok Gma	12
@@ -476574,18 +476161,13 @@ use_preset_vocabulary: false
 牧马人	mu ma ren	10
 牨	Ggong	5593
 牨	gang	5593
-物	Gwet	200000
-物	Gwut	195000
+物	Gwut	200000
 物	wu	200000
-物业	Gwet Gniêt	239
-物业	Gwet Gyêt	239
 物业	Gwut Gniêt	239
 物业	Gwut Gyêt	239
 物业	Gwut ye	239
 物业	wu Gniêt	239
 物业	wu ye	239
-物业费	Gwet Gniêt Gfui	11
-物业费	Gwet Gyêt Gfui	11
 物业费	Gwut Gniêt Gfui	11
 物业费	Gwut Gniêt fei	11
 物业费	Gwut Gyêt Gfui	11
@@ -476595,30 +476177,24 @@ use_preset_vocabulary: false
 物业费	wu Gniêt fei	11
 物业费	wu ye Gfui	11
 物业费	wu ye fei	11
-物主	Gwet Gjyu	26
-物主	Gwet Gzu	26
 物主	Gwut Gjyu	26
 物主	Gwut Gzu	26
 物主	Gwut zhu	26
 物主	wu Gzu	26
 物主	wu zhu	26
-物事	Gwet Gsï	338
 物事	Gwut Gsï	338
 物事	Gwut shi	338
 物事	wu Gsï	338
 物事	wu shi	338
-物产	Gwet Gcan	481
 物产	Gwut Gcan	481
 物产	Gwut chan	481
 物产	wu Gcan	481
 物产	wu chan	481
-物以稀为贵	Gwet Gyi Gxi Gwi Ggui	23
 物以稀为贵	Gwut Gyi Gxi Gwi Ggui	23
 物以稀为贵	Gwut Gyi Gxi wei Ggui	23
 物以稀为贵	wu Gyi Gxi Gwi Ggui	23
 物以稀为贵	wu Gyi Gxi wei Ggui	23
 物以稀为贵	wu yi xi wei gui	23
-物以类聚	Gwet Gyi Glui Gqyu	26
 物以类聚	Gwut Gyi Glui Gqyu	26
 物以类聚	Gwut Gyi Glui ju	26
 物以类聚	Gwut Gyi lei Gqyu	26
@@ -476628,20 +476204,15 @@ use_preset_vocabulary: false
 物以类聚	wu Gyi lei Gqyu	26
 物以类聚	wu Gyi lei ju	26
 物以类聚	wu yi lei ju	26
-物件	Gwet Gjiên	395
-物件	Gwet Gqiên	395
 物件	Gwut Gjiên	395
 物件	Gwut Gqiên	395
 物件	Gwut jian	395
 物件	wu Gqiên	395
 物件	wu jian	395
-物价	Gwet Gga	1064
 物价	Gwut Gga	1064
 物价	Gwut jia	1064
 物价	wu Gga	1064
 物价	wu jia	1064
-物价局	Gwet Gga Gjyut	99
-物价局	Gwet Gga Gqiuk	99
 物价局	Gwut Gga Gjyut	99
 物价局	Gwut Gga Gqiuk	99
 物价局	Gwut Gga ju	99
@@ -476651,7 +476222,6 @@ use_preset_vocabulary: false
 物价局	wu Gga ju	99
 物价局	wu jia Gqiuk	99
 物价局	wu jia ju	99
-物价指数	Gwet Gga Gzï Gsu	27
 物价指数	Gwut Gga Gzï Gsu	27
 物价指数	Gwut Gga Gzï shu	27
 物价指数	Gwut Gga zhi Gsu	27
@@ -476668,8 +476238,6 @@ use_preset_vocabulary: false
 物价指数	wu jia Gzï shu	27
 物价指数	wu jia zhi Gsu	27
 物价指数	wu jia zhi shu	27
-物伤其类	Gwet Gsong Gqi Glui	14
-物伤其类	Gwet Gsong Wqiê Glui	14
 物伤其类	Gwut Gsong Gqi Glui	14
 物伤其类	Gwut Gsong Gqi lei	14
 物伤其类	Gwut Gsong Wqiê Glui	14
@@ -476680,16 +476248,13 @@ use_preset_vocabulary: false
 物伤其类	wu shang Gqi Glui	14
 物伤其类	wu shang Gqi lei	14
 物伤其类	wu shang qi lei	14
-物体	Gwet Gti	1768
 物体	Gwut Gti	1768
 物体	wu Gti	1768
 物体	wu ti	1768
-物候	Gwet Ghêu	43
 物候	Gwut Ghêu	43
 物候	Gwut hou	43
 物候	wu Ghêu	43
 物候	wu hou	43
-物候学	Gwet Ghêu Ghok	9
 物候学	Gwut Ghêu Ghok	9
 物候学	Gwut Ghêu xue	9
 物候学	Gwut hou Ghok	9
@@ -476698,22 +476263,18 @@ use_preset_vocabulary: false
 物候学	wu Ghêu xue	9
 物候学	wu hou Ghok	9
 物候学	wu hou xue	9
-物像	Gwet Gxiong	9
 物像	Gwut Gxiong	9
 物像	Gwut xiang	9
 物像	wu Gxiong	9
 物像	wu xiang	9
-物力	Gwet Glit	403
 物力	Gwut Glit	403
 物力	Gwut li	403
 物力	wu Glit	403
 物力	wu li	403
-物化	Gwet Gfa	180
 物化	Gwut Gfa	180
 物化	Gwut hua	180
 物化	wu Gfa	180
 物化	wu hua	180
-物化劳动	Gwet Gfa Glau Gtung	41
 物化劳动	Gwut Gfa Glau Gtung	41
 物化劳动	Gwut Gfa Glau dong	41
 物化劳动	Gwut Gfa lao Gtung	41
@@ -476730,12 +476291,9 @@ use_preset_vocabulary: false
 物化劳动	wu hua Glau dong	41
 物化劳动	wu hua lao Gtung	41
 物化劳动	wu hua lao dong	41
-物品	Gwet Gpin	200000
 物品	Gwut Gpin	200000
 物品	wu Gpin	200000
 物品	wu pin	200000
-物尽其用	Gwet Gqin Gqi Gyung	16
-物尽其用	Gwet Gqin Wqiê Gyung	16
 物尽其用	Gwut Gqin Gqi Gyung	16
 物尽其用	Gwut Gqin Gqi yong	16
 物尽其用	Gwut Gqin Wqiê Gyung	16
@@ -476746,10 +476304,6 @@ use_preset_vocabulary: false
 物尽其用	wu jin Gqi Gyung	16
 物尽其用	wu jin Gqi yong	16
 物尽其用	wu jin qi yong	16
-物归原主	Gwet Ggui Gnyuon Gjyu	32
-物归原主	Gwet Ggui Gnyuon Gzu	32
-物归原主	Gwet Ggui Gyuon Gjyu	32
-物归原主	Gwet Ggui Gyuon Gzu	32
 物归原主	Gwut Ggui Gnyuon Gjyu	32
 物归原主	Gwut Ggui Gnyuon Gzu	32
 物归原主	Gwut Ggui Gnyuon zhu	32
@@ -476762,19 +476316,14 @@ use_preset_vocabulary: false
 物归原主	wu Ggui yuan Gzu	32
 物归原主	wu Ggui yuan zhu	32
 物归原主	wu gui yuan zhu	32
-物态	Gwet Gtai	36
 物态	Gwut Gtai	36
 物态	wu Gtai	36
 物态	wu tai	36
-物性	Gwet Gxin	64
-物性	Gwet Wxiang	64
 物性	Gwut Gxin	64
 物性	Gwut Wxiang	64
 物性	Gwut xing	64
 物性	wu Gxin	64
 物性	wu xing	64
-物换星移	Gwet Gwon Gxin Gyi	10
-物换星移	Gwet Gwon Wxiang Gyi	10
 物换星移	Gwut Gwon Gxin Gyi	10
 物换星移	Gwut Gwon Wxiang Gyi	10
 物换星移	Gwut Gwon xing Gyi	10
@@ -476785,20 +476334,14 @@ use_preset_vocabulary: false
 物换星移	wu huan Gxin Gyi	10
 物换星移	wu huan xing Gyi	10
 物换星移	wu huan xing yi	10
-物探	Gwet Gton	24
 物探	Gwut Gton	24
 物探	Gwut tan	24
 物探	wu Gton	24
 物探	wu tan	24
-物料	Gwet Gliêu	25171
 物料	Gwut Gliêu	25171
 物料	Gwut liao	25171
 物料	wu Gliêu	25171
 物料	wu liao	25171
-物是人非	Gwet Gsï Gnin Gfui	24
-物是人非	Gwet Gsï Wlen Gfui	24
-物是人非	Gwet Gxi Gnin Gfui	24
-物是人非	Gwet Gxi Wlen Gfui	24
 物是人非	Gwut Gsï Gnin Gfui	24
 物是人非	Gwut Gsï Gnin fei	24
 物是人非	Gwut Gsï Wlen Gfui	24
@@ -476818,10 +476361,6 @@ use_preset_vocabulary: false
 物是人非	wu shi Gnin fei	24
 物是人非	wu shi ren Gfui	24
 物是人非	wu shi ren fei	24
-物有所值	Gwet Gyiu Gso Gcet	20
-物有所值	Gwet Gyiu Gso Gzïk	20
-物有所值	Gwet Gyiu Gsu Gcet	20
-物有所值	Gwet Gyiu Gsu Gzïk	20
 物有所值	Gwut Gyiu Gso Gcet	20
 物有所值	Gwut Gyiu Gso Gzïk	20
 物有所值	Gwut Gyiu Gso zhi	20
@@ -476841,13 +476380,10 @@ use_preset_vocabulary: false
 物有所值	wu you Gso zhi	20
 物有所值	wu you suo Gzïk	20
 物有所值	wu you suo zhi	20
-物权	Gwet Gqyuon	119
 物权	Gwut Gqyuon	119
 物权	Gwut quan	119
 物权	wu Gqyuon	119
 物权	wu quan	119
-物极必反	Gwet Gjit Gbit Gfan	34
-物极必反	Gwet Gqit Gbit Gfan	34
 物极必反	Gwut Gjit Gbit Gfan	34
 物极必反	Gwut Gqit Gbit Gfan	34
 物极必反	Gwut Gqit bi Gfan	34
@@ -476858,13 +476394,10 @@ use_preset_vocabulary: false
 物极必反	wu ji Gbit Gfan	34
 物极必反	wu ji bi Gfan	34
 物极必反	wu ji bi fan	34
-物欲	Gwet Gyut	34
 物欲	Gwut Gyut	34
 物欲	Gwut yu	34
 物欲	wu Gyut	34
 物欲	wu yu	34
-物欲横流	Gwet Gyut Ghên Gliu	19
-物欲横流	Gwet Gyut Gwang Gliu	19
 物欲横流	Gwut Gyut Ghên Gliu	19
 物欲横流	Gwut Gyut Gwang Gliu	19
 物欲横流	Gwut Gyut heng Gliu	19
@@ -476875,23 +476408,18 @@ use_preset_vocabulary: false
 物欲横流	wu yu Gwang Gliu	19
 物欲横流	wu yu heng Gliu	19
 物欲横流	wu yu heng liu	19
-物流	Gwet Gliu	5610
 物流	Gwut Gliu	5610
 物流	wu Gliu	5610
 物流	wu liu	5610
-物流业	Gwet Gliu Gniêt	14
-物流业	Gwet Gliu Gyêt	14
 物流业	Gwut Gliu Gniêt	14
 物流业	Gwut Gliu Gyêt	14
 物流业	Gwut Gliu ye	14
 物流业	wu Gliu Gniêt	14
 物流业	wu Gliu ye	14
 物流业	wu liu ye	14
-物理	Gwet Gli	52709
 物理	Gwut Gli	52709
 物理	wu Gli	52709
 物理	wu li	52709
-物理化学	Gwet Gli Gfa Ghok	212
 物理化学	Gwut Gli Gfa Ghok	212
 物理化学	Gwut Gli Gfa xue	212
 物理化学	Gwut Gli hua Ghok	212
@@ -476901,7 +476429,6 @@ use_preset_vocabulary: false
 物理化学	wu Gli hua Ghok	212
 物理化学	wu Gli hua xue	212
 物理化学	wu li hua xue	212
-物理变化	Gwet Gli Gbiên Gfa	13
 物理变化	Gwut Gli Gbiên Gfa	13
 物理变化	Gwut Gli Gbiên hua	13
 物理变化	Gwut Gli bian Gfa	13
@@ -476911,7 +476438,6 @@ use_preset_vocabulary: false
 物理变化	wu Gli bian Gfa	13
 物理变化	wu Gli bian hua	13
 物理变化	wu li bian hua	13
-物理地址	Gwet Gli Gti Gzï	12
 物理地址	Gwut Gli Gti Gzï	12
 物理地址	Gwut Gli Gti zhi	12
 物理地址	Gwut Gli di Gzï	12
@@ -476921,19 +476447,16 @@ use_preset_vocabulary: false
 物理地址	wu Gli di Gzï	12
 物理地址	wu Gli di zhi	12
 物理地址	wu li di zhi	12
-物理奖	Gwet Gli Gjiong	16
 物理奖	Gwut Gli Gjiong	16
 物理奖	Gwut Gli jiang	16
 物理奖	wu Gli Gjiong	16
 物理奖	wu Gli jiang	16
 物理奖	wu li jiang	16
-物理学	Gwet Gli Ghok	1181
 物理学	Gwut Gli Ghok	1181
 物理学	Gwut Gli xue	1181
 物理学	wu Gli Ghok	1181
 物理学	wu Gli xue	1181
 物理学	wu li xue	1181
-物理学家	Gwet Gli Ghok Gga	648
 物理学家	Gwut Gli Ghok Gga	648
 物理学家	Gwut Gli Ghok jia	648
 物理学家	Gwut Gli xue Gga	648
@@ -476943,7 +476466,6 @@ use_preset_vocabulary: false
 物理学家	wu Gli xue Gga	648
 物理学家	wu Gli xue jia	648
 物理学家	wu li xue jia	648
-物理学界	Gwet Gli Ghok Ggai	17
 物理学界	Gwut Gli Ghok Ggai	17
 物理学界	Gwut Gli Ghok jie	17
 物理学界	Gwut Gli xue Ggai	17
@@ -476953,16 +476475,11 @@ use_preset_vocabulary: false
 物理学界	wu Gli xue Ggai	17
 物理学界	wu Gli xue jie	17
 物理学界	wu li xue jie	17
-物理层	Gwet Gli Gcên	19
 物理层	Gwut Gli Gcên	19
 物理层	Gwut Gli ceng	19
 物理层	wu Gli Gcên	19
 物理层	wu Gli ceng	19
 物理层	wu li ceng	19
-物理性质	Gwet Gli Gxin Gzet	142
-物理性质	Gwet Gli Gxin Gzïk	142
-物理性质	Gwet Gli Wxiang Gzet	142
-物理性质	Gwet Gli Wxiang Gzïk	142
 物理性质	Gwut Gli Gxin Gzet	142
 物理性质	Gwut Gli Gxin Gzïk	142
 物理性质	Gwut Gli Gxin zhi	142
@@ -476975,31 +476492,24 @@ use_preset_vocabulary: false
 物理性质	wu Gli xing Gzet	142
 物理性质	wu Gli xing zhi	142
 物理性质	wu li xing zhi	142
-物理所	Gwet Gli Gso	10
-物理所	Gwet Gli Gsu	10
 物理所	Gwut Gli Gso	10
 物理所	Gwut Gli Gsu	10
 物理所	Gwut Gli suo	10
 物理所	wu Gli Gso	10
 物理所	wu Gli suo	10
 物理所	wu li suo	10
-物理系	Gwet Gli Gxi	107
 物理系	Gwut Gli Gxi	107
 物理系	wu Gli Gxi	107
 物理系	wu li xi	107
-物理量	Gwet Gli Gliong	217
 物理量	Gwut Gli Gliong	217
 物理量	Gwut Gli liang	217
 物理量	wu Gli Gliong	217
 物理量	wu Gli liang	217
 物理量	wu li liang	217
-物种	Gwet Gzung	511
 物种	Gwut Gzung	511
 物种	Gwut zhong	511
 物种	wu Gzung	511
 物种	wu zhong	511
-物竞天择	Gwet Gqin Gtiên Gcêt	24
-物竞天择	Gwet Gqin Gtiên Gzet	24
 物竞天择	Gwut Gqin Gtiên Gcêt	24
 物竞天择	Gwut Gqin Gtiên Gzet	24
 物竞天择	Gwut Gqin Gtiên ze	24
@@ -477017,20 +476527,15 @@ use_preset_vocabulary: false
 物竞天择	wu jing Gtiên ze	24
 物竞天择	wu jing tian Gcêt	24
 物竞天择	wu jing tian ze	24
-物类	Gwet Glui	23
 物类	Gwut Glui	23
 物类	Gwut lei	23
 物类	wu Glui	23
 物类	wu lei	23
-物美	Gwet Gmi	75
-物美	Gwet Gmêi	75
 物美	Gwut Gmi	75
 物美	Gwut Gmêi	75
 物美	Gwut mei	75
 物美	wu Gmi	75
 物美	wu mei	75
-物美价廉	Gwet Gmi Gga Gliên	41
-物美价廉	Gwet Gmêi Gga Gliên	41
 物美价廉	Gwut Gmi Gga Gliên	41
 物美价廉	Gwut Gmi Gga lian	41
 物美价廉	Gwut Gmi jia Gliên	41
@@ -477048,49 +476553,37 @@ use_preset_vocabulary: false
 物美价廉	wu mei Gga lian	41
 物美价廉	wu mei jia Gliên	41
 物美价廉	wu mei jia lian	41
-物耗	Gwet Ghau	13
 物耗	Gwut Ghau	13
 物耗	Gwut hao	13
 物耗	wu Ghau	13
 物耗	wu hao	13
-物色	Gwet Gsêt	159
 物色	Gwut Gsêt	159
 物色	Gwut se	159
 物色	wu Gsêt	159
 物色	wu se	159
-物议	Gwet Gni	36
-物议	Gwet Gyi	36
 物议	Gwut Gni	36
 物议	Gwut Gyi	36
 物议	Gwut yi	36
 物议	wu Gni	36
 物议	wu yi	36
-物证	Gwet Gzen	78
 物证	Gwut Gzen	78
 物证	Gwut zheng	78
 物证	wu Gzen	78
 物证	wu zheng	78
-物语	Gwet Gnyu	68
-物语	Gwet Gyu	68
 物语	Gwut Gnyu	68
 物语	Gwut Gyu	68
 物语	Gwut yu	68
 物语	wu Gnyu	68
 物语	wu yu	68
-物象	Gwet Gxiong	99
 物象	Gwut Gxiong	99
 物象	Gwut xiang	99
 物象	wu Gxiong	99
 物象	wu xiang	99
-物质	Gwet Gzet	8354
-物质	Gwet Gzïk	8354
 物质	Gwut Gzet	8354
 物质	Gwut Gzïk	8354
 物质	Gwut zhi	8354
 物质	wu Gzet	8354
 物质	wu zhi	8354
-物质化	Gwet Gzet Gfa	9
-物质化	Gwet Gzïk Gfa	9
 物质化	Gwut Gzet Gfa	9
 物质化	Gwut Gzet hua	9
 物质化	Gwut Gzïk Gfa	9
@@ -477100,10 +476593,6 @@ use_preset_vocabulary: false
 物质化	wu Gzet hua	9
 物质化	wu zhi Gfa	9
 物质化	wu zhi hua	9
-物质性	Gwet Gzet Gxin	34
-物质性	Gwet Gzet Wxiang	34
-物质性	Gwet Gzïk Gxin	34
-物质性	Gwet Gzïk Wxiang	34
 物质性	Gwut Gzet Gxin	34
 物质性	Gwut Gzet Wxiang	34
 物质性	Gwut Gzet xing	34
@@ -477115,10 +476604,6 @@ use_preset_vocabulary: false
 物质性	wu Gzet xing	34
 物质性	wu zhi Gxin	34
 物质性	wu zhi xing	34
-物质文明	Gwet Gzet Gwun Gmin	192
-物质文明	Gwet Gzet Gwun Wmiang	192
-物质文明	Gwet Gzïk Gwun Gmin	192
-物质文明	Gwet Gzïk Gwun Wmiang	192
 物质文明	Gwut Gzet Gwun Gmin	192
 物质文明	Gwut Gzet Gwun Wmiang	192
 物质文明	Gwut Gzïk Gwun Gmin	192
@@ -477138,8 +476623,6 @@ use_preset_vocabulary: false
 物质文明	wu zhi Gwun ming	192
 物质文明	wu zhi wen Gmin	192
 物质文明	wu zhi wen ming	192
-物质量	Gwet Gzet Gliong	12
-物质量	Gwet Gzïk Gliong	12
 物质量	Gwut Gzet Gliong	12
 物质量	Gwut Gzet liang	12
 物质量	Gwut Gzïk Gliong	12
@@ -477149,13 +476632,10 @@ use_preset_vocabulary: false
 物质量	wu Gzet liang	12
 物质量	wu zhi Gliong	12
 物质量	wu zhi liang	12
-物资	Gwet Gzï	2183
 物资	Gwut Gzï	2183
 物资	Gwut zi	2183
 物资	wu Gzï	2183
 物资	wu zi	2183
-物资局	Gwet Gzï Gjyut	10
-物资局	Gwet Gzï Gqiuk	10
 物资局	Gwut Gzï Gjyut	10
 物资局	Gwut Gzï Gqiuk	10
 物资局	Gwut Gzï ju	10
@@ -477165,7 +476645,6 @@ use_preset_vocabulary: false
 物资局	wu Gzï ju	10
 物资局	wu zi Gqiuk	10
 物资局	wu zi ju	10
-物资部	Gwet Gzï Gpu	10
 物资部	Gwut Gzï Gpu	10
 物资部	Gwut Gzï bu	10
 物资部	Gwut zi Gpu	10
@@ -477174,7 +476653,6 @@ use_preset_vocabulary: false
 物资部	wu Gzï bu	10
 物资部	wu zi Gpu	10
 物资部	wu zi bu	10
-物镜	Gwet Gjiang	47
 物镜	Gwut Gjiang	47
 物镜	Gwut jing	47
 物镜	wu Gjiang	47
@@ -478925,7 +478403,6 @@ use_preset_vocabulary: false
 状态方程	zhuang Gtai fang Gcen	47
 状态方程	zhuang Gtai fang cheng	47
 状态方程	zhuang tai fang cheng	47
-状物	Gcong Gwet	97
 状物	Gcong Gwut	97
 状物	Gcong wu	97
 状物	zhuang Gwut	97
@@ -479596,10 +479073,8 @@ use_preset_vocabulary: false
 狗东西	gou Gdung Gxi	59
 狗东西	gou dong Gxi	59
 狗东西	gou dong xi	59
-狗仔队	Ggiêu Gzï Gdui	13
-狗仔队	Ggiêu zai Gdui	13
-狗仔队	gou Gzï Gdui	13
-狗仔队	gou zai Gdui	13
+狗仔队	Ggiêu Gzai Gdui	13
+狗仔队	gou Gzai Gdui	13
 狗仔队	gou zai dui	13
 狗仗人势	Ggiêu Gzong Gnin Gsï	8
 狗仗人势	Ggiêu Gzong Gnin shi	8
@@ -480457,8 +479932,8 @@ use_preset_vocabulary: false
 独步天下	du bu Gtiên xia	21
 独步天下	du bu tian Gha	21
 独步天下	du bu tian xia	21
-独活	Gtuk Gwet	38
 独活	Gtuk Gwot	38
+独活	Gtuk Gwut	38
 独活	Gtuk huo	38
 独活	du Gwot	38
 独活	du huo	38
@@ -481317,7 +480792,6 @@ use_preset_vocabulary: false
 猎潜艇	lie Gqiên ting	31
 猎潜艇	lie qian Gtin	31
 猎潜艇	lie qian ting	31
-猎物	Gliêt Gwet	50291
 猎物	Gliêt Gwut	50291
 猎物	Gliêt wu	50291
 猎物	lie Gwut	50291
@@ -481621,10 +481095,9 @@ use_preset_vocabulary: false
 猪	Gjyu	200000
 猪	Gzu	200000
 猪	zhu	200000
-猪仔	Gjyu Gzï	10
-猪仔	Gzu Gzï	10
-猪仔	Gzu zai	10
-猪仔	zhu Gzï	10
+猪仔	Gjyu Gzai	10
+猪仔	Gzu Gzai	10
+猪仔	zhu Gzai	10
 猪仔	zhu zai	10
 猪兜	Gjyu Gdêu	100000
 猪兜	Gzu Gdêu	100000
@@ -487510,13 +486983,10 @@ use_preset_vocabulary: false
 玩火	wan huo	18
 玩牌	Gwan Gpai	7
 玩牌	Wngon Gpai	7
-玩物	Gwan Gwet	79
 玩物	Gwan Gwut	79
 玩物	Gwan wu	79
-玩物	Wngon Gwet	79
 玩物	Wngon Gwut	79
 玩物	wan wu	79
-玩物丧志	Gwan Gwet Gsong Gzï	32
 玩物丧志	Gwan Gwut Gsong Gzï	32
 玩物丧志	Gwan Gwut Gsong zhi	32
 玩物丧志	Gwan Gwut sang Gzï	32
@@ -487525,7 +486995,6 @@ use_preset_vocabulary: false
 玩物丧志	Gwan wu Gsong zhi	32
 玩物丧志	Gwan wu sang Gzï	32
 玩物丧志	Gwan wu sang zhi	32
-玩物丧志	Wngon Gwet Gsong Gzï	32
 玩物丧志	Wngon Gwut Gsong Gzï	32
 玩物丧志	wan wu sang zhi	32
 玩玩	Gwan Gwan	192
@@ -488111,7 +487580,6 @@ use_preset_vocabulary: false
 环节	Gwan Gjiêt	1626
 环节	huan Gjiêt	1626
 环节	huan jie	1626
-环节动物	Gfan Gjiêt Gtung Gwet	34
 环节动物	Gfan Gjiêt Gtung Gwut	34
 环节动物	Gfan Gjiêt Gtung wu	34
 环节动物	Gfan Gjiêt dong Gwut	34
@@ -488120,7 +487588,6 @@ use_preset_vocabulary: false
 环节动物	Gfan jie Gtung wu	34
 环节动物	Gfan jie dong Gwut	34
 环节动物	Gfan jie dong wu	34
-环节动物	Gwan Gjiêt Gtung Gwet	34
 环节动物	Gwan Gjiêt Gtung Gwut	34
 环节动物	huan Gjiêt Gtung Gwut	34
 环节动物	huan Gjiêt Gtung wu	34
@@ -490007,30 +489474,22 @@ use_preset_vocabulary: false
 理论性	Gli lun Gxin	36
 理论性	Gli lun xing	36
 理论性	li lun xing	36
-理论物理	Gli Glen Gwet Gli	47
 理论物理	Gli Glen Gwut Gli	47
 理论物理	Gli Glen wu Gli	47
-理论物理	Gli Glun Gwet Gli	47
 理论物理	Gli Glun Gwut Gli	47
 理论物理	Gli lun Gwut Gli	47
 理论物理	Gli lun wu Gli	47
 理论物理	li lun wu li	47
-理论物理学	Gli Glen Gwet Gli Ghok	20
 理论物理学	Gli Glen Gwut Gli Ghok	20
 理论物理学	Gli Glen Gwut Gli xue	20
 理论物理学	Gli Glen wu Gli Ghok	20
 理论物理学	Gli Glen wu Gli xue	20
-理论物理学	Gli Glun Gwet Gli Ghok	20
 理论物理学	Gli Glun Gwut Gli Ghok	20
 理论物理学	Gli lun Gwut Gli Ghok	20
 理论物理学	Gli lun Gwut Gli xue	20
 理论物理学	Gli lun wu Gli Ghok	20
 理论物理学	Gli lun wu Gli xue	20
 理论物理学	li lun wu li xue	20
-理论物理研究所	Gli Glen Gwet Gli Gniên Gjiu Gso	12
-理论物理研究所	Gli Glen Gwet Gli Gniên Gjiu Gsu	12
-理论物理研究所	Gli Glen Gwet Gli Gyên Gjiu Gso	12
-理论物理研究所	Gli Glen Gwet Gli Gyên Gjiu Gsu	12
 理论物理研究所	Gli Glen Gwut Gli Gniên Gjiu Gso	12
 理论物理研究所	Gli Glen Gwut Gli Gniên Gjiu Gsu	12
 理论物理研究所	Gli Glen Gwut Gli Gniên Gjiu suo	12
@@ -490042,10 +489501,6 @@ use_preset_vocabulary: false
 理论物理研究所	Gli Glen wu Gli Gniên Gjiu suo	12
 理论物理研究所	Gli Glen wu Gli yan Gjiu Gso	12
 理论物理研究所	Gli Glen wu Gli yan Gjiu suo	12
-理论物理研究所	Gli Glun Gwet Gli Gniên Gjiu Gso	12
-理论物理研究所	Gli Glun Gwet Gli Gniên Gjiu Gsu	12
-理论物理研究所	Gli Glun Gwet Gli Gyên Gjiu Gso	12
-理论物理研究所	Gli Glun Gwet Gli Gyên Gjiu Gsu	12
 理论物理研究所	Gli Glun Gwut Gli Gniên Gjiu Gso	12
 理论物理研究所	Gli Glun Gwut Gli Gniên Gjiu Gsu	12
 理论物理研究所	Gli Glun Gwut Gli Gyên Gjiu Gso	12
@@ -492774,17 +492229,17 @@ use_preset_vocabulary: false
 生动性	sheng Gtung xing	12
 生动性	sheng dong Gxin	12
 生动性	sheng dong xing	12
-生动活泼	Gsên Gtung Gwet Gpot	94
 生动活泼	Gsên Gtung Gwot Gpot	94
 生动活泼	Gsên Gtung Gwot po	94
+生动活泼	Gsên Gtung Gwut Gpot	94
 生动活泼	Gsên Gtung huo Gpot	94
 生动活泼	Gsên Gtung huo po	94
 生动活泼	Gsên dong Gwot Gpot	94
 生动活泼	Gsên dong Gwot po	94
 生动活泼	Gsên dong huo Gpot	94
 生动活泼	Gsên dong huo po	94
-生动活泼	Wsang Gtung Gwet Gpot	94
 生动活泼	Wsang Gtung Gwot Gpot	94
+生动活泼	Wsang Gtung Gwut Gpot	94
 生动活泼	sheng Gtung Gwot Gpot	94
 生动活泼	sheng Gtung Gwot po	94
 生动活泼	sheng Gtung huo Gpot	94
@@ -492813,21 +492268,21 @@ use_preset_vocabulary: false
 生变	Wsang Gbiên	40
 生变	sheng Gbiên	40
 生变	sheng bian	40
-生吞活剥	Gsên Gtun Gwet Gbok	16
 生吞活剥	Gsên Gtun Gwot Gbok	16
-生吞活剥	Gsên Gtên Gwet Gbok	16
+生吞活剥	Gsên Gtun Gwut Gbok	16
 生吞活剥	Gsên Gtên Gwot Gbok	16
 生吞活剥	Gsên Gtên Gwot bo	16
+生吞活剥	Gsên Gtên Gwut Gbok	16
 生吞活剥	Gsên Gtên huo Gbok	16
 生吞活剥	Gsên Gtên huo bo	16
 生吞活剥	Gsên tun Gwot Gbok	16
 生吞活剥	Gsên tun Gwot bo	16
 生吞活剥	Gsên tun huo Gbok	16
 生吞活剥	Gsên tun huo bo	16
-生吞活剥	Wsang Gtun Gwet Gbok	16
 生吞活剥	Wsang Gtun Gwot Gbok	16
-生吞活剥	Wsang Gtên Gwet Gbok	16
+生吞活剥	Wsang Gtun Gwut Gbok	16
 生吞活剥	Wsang Gtên Gwot Gbok	16
+生吞活剥	Wsang Gtên Gwut Gbok	16
 生吞活剥	sheng Gtên Gwot Gbok	16
 生吞活剥	sheng Gtên Gwot bo	16
 生吞活剥	sheng Gtên huo Gbok	16
@@ -493205,16 +492660,12 @@ use_preset_vocabulary: false
 生成式	sheng Gcen shi	14
 生成式	sheng cheng Gset	14
 生成式	sheng cheng shi	14
-生成物	Gsên Gcen Gwet	43
 生成物	Gsên Gcen Gwut	43
 生成物	Gsên Gcen wu	43
-生成物	Gsên Wsang Gwet	43
 生成物	Gsên Wsang Gwut	43
 生成物	Gsên cheng Gwut	43
 生成物	Gsên cheng wu	43
-生成物	Wsang Gcen Gwet	43
 生成物	Wsang Gcen Gwut	43
-生成物	Wsang Wsang Gwet	43
 生成物	Wsang Wsang Gwut	43
 生成物	sheng Gcen Gwut	43
 生成物	sheng Gcen wu	43
@@ -493575,68 +493026,68 @@ use_preset_vocabulary: false
 生津止渴	sheng Gjin zhi Gkot	12
 生津止渴	sheng Gjin zhi ke	12
 生津止渴	sheng jin zhi ke	12
-生活	Gsên Gwet	200000
 生活	Gsên Gwot	200000
+生活	Gsên Gwut	200000
 生活	Gsên huo	200000
-生活	Wsang Gwet	200000
 生活	Wsang Gwot	200000
+生活	Wsang Gwut	200000
 生活	sheng Gwot	200000
 生活	sheng huo	200000
-生活化	Gsên Gwet Gfa	23
 生活化	Gsên Gwot Gfa	23
 生活化	Gsên Gwot hua	23
+生活化	Gsên Gwut Gfa	23
 生活化	Gsên huo Gfa	23
 生活化	Gsên huo hua	23
-生活化	Wsang Gwet Gfa	23
 生活化	Wsang Gwot Gfa	23
+生活化	Wsang Gwut Gfa	23
 生活化	sheng Gwot Gfa	23
 生活化	sheng Gwot hua	23
 生活化	sheng huo Gfa	23
 生活化	sheng huo hua	23
-生活区	Gsên Gwet Gqyu	45
 生活区	Gsên Gwot Gqyu	45
 生活区	Gsên Gwot qu	45
+生活区	Gsên Gwut Gqyu	45
 生活区	Gsên huo Gqyu	45
 生活区	Gsên huo qu	45
-生活区	Wsang Gwet Gqyu	45
 生活区	Wsang Gwot Gqyu	45
+生活区	Wsang Gwut Gqyu	45
 生活区	sheng Gwot Gqyu	45
 生活区	sheng Gwot qu	45
 生活区	sheng huo Gqyu	45
 生活区	sheng huo qu	45
-生活史	Gsên Gwet Gsï	112
 生活史	Gsên Gwot Gsï	112
 生活史	Gsên Gwot shi	112
+生活史	Gsên Gwut Gsï	112
 生活史	Gsên huo Gsï	112
 生活史	Gsên huo shi	112
-生活史	Wsang Gwet Gsï	112
 生活史	Wsang Gwot Gsï	112
+生活史	Wsang Gwut Gsï	112
 生活史	sheng Gwot Gsï	112
 生活史	sheng Gwot shi	112
 生活史	sheng huo Gsï	112
 生活史	sheng huo shi	112
-生活型	Gsên Gwet Gxin	17
 生活型	Gsên Gwot Gxin	17
 生活型	Gsên Gwot xing	17
+生活型	Gsên Gwut Gxin	17
 生活型	Gsên huo Gxin	17
 生活型	Gsên huo xing	17
-生活型	Wsang Gwet Gxin	17
 生活型	Wsang Gwot Gxin	17
+生活型	Wsang Gwut Gxin	17
 生活型	sheng Gwot Gxin	17
 生活型	sheng Gwot xing	17
 生活型	sheng huo Gxin	17
 生活型	sheng huo xing	17
-生活必需品	Gsên Gwet Gbit Gxyu Gpin	129
 生活必需品	Gsên Gwot Gbit Gxyu Gpin	129
 生活必需品	Gsên Gwot Gbit xu Gpin	129
 生活必需品	Gsên Gwot bi Gxyu Gpin	129
 生活必需品	Gsên Gwot bi xu Gpin	129
+生活必需品	Gsên Gwut Gbit Gxyu Gpin	129
 生活必需品	Gsên huo Gbit Gxyu Gpin	129
 生活必需品	Gsên huo Gbit xu Gpin	129
 生活必需品	Gsên huo bi Gxyu Gpin	129
 生活必需品	Gsên huo bi xu Gpin	129
-生活必需品	Wsang Gwet Gbit Gxyu Gpin	129
 生活必需品	Wsang Gwot Gbit Gxyu Gpin	129
+生活必需品	Wsang Gwut Gbit Gxyu Gpin	129
 生活必需品	sheng Gwot Gbit Gxyu Gpin	129
 生活必需品	sheng Gwot Gbit xu Gpin	129
 生活必需品	sheng Gwot bi Gxyu Gpin	129
@@ -493646,50 +493097,50 @@ use_preset_vocabulary: false
 生活必需品	sheng huo bi Gxyu Gpin	129
 生活必需品	sheng huo bi xu Gpin	129
 生活必需品	sheng huo bi xu pin	129
-生活报	Gsên Gwet Gbau	23
 生活报	Gsên Gwot Gbau	23
 生活报	Gsên Gwot bao	23
+生活报	Gsên Gwut Gbau	23
 生活报	Gsên huo Gbau	23
 生活报	Gsên huo bao	23
-生活报	Wsang Gwet Gbau	23
 生活报	Wsang Gwot Gbau	23
+生活报	Wsang Gwut Gbau	23
 生活报	sheng Gwot Gbau	23
 生活报	sheng Gwot bao	23
 生活报	sheng huo Gbau	23
 生活报	sheng huo bao	23
-生活观	Gsên Gwet Gguon	7
 生活观	Gsên Gwot Gguon	7
 生活观	Gsên Gwot guan	7
+生活观	Gsên Gwut Gguon	7
 生活观	Gsên huo Gguon	7
 生活观	Gsên huo guan	7
-生活观	Wsang Gwet Gguon	7
 生活观	Wsang Gwot Gguon	7
+生活观	Wsang Gwut Gguon	7
 生活观	sheng Gwot Gguon	7
 生活观	sheng Gwot guan	7
 生活观	sheng huo Gguon	7
 生活观	sheng huo guan	7
-生活费	Gsên Gwet Gfui	217
 生活费	Gsên Gwot Gfui	217
 生活费	Gsên Gwot fei	217
+生活费	Gsên Gwut Gfui	217
 生活费	Gsên huo Gfui	217
 生活费	Gsên huo fei	217
-生活费	Wsang Gwet Gfui	217
 生活费	Wsang Gwot Gfui	217
+生活费	Wsang Gwut Gfui	217
 生活费	sheng Gwot Gfui	217
 生活费	sheng Gwot fei	217
 生活费	sheng huo Gfui	217
 生活费	sheng huo fei	217
-生活资料	Gsên Gwet Gzï Gliêu	275
 生活资料	Gsên Gwot Gzï Gliêu	275
 生活资料	Gsên Gwot Gzï liao	275
 生活资料	Gsên Gwot zi Gliêu	275
 生活资料	Gsên Gwot zi liao	275
+生活资料	Gsên Gwut Gzï Gliêu	275
 生活资料	Gsên huo Gzï Gliêu	275
 生活资料	Gsên huo Gzï liao	275
 生活资料	Gsên huo zi Gliêu	275
 生活资料	Gsên huo zi liao	275
-生活资料	Wsang Gwet Gzï Gliêu	275
 生活资料	Wsang Gwot Gzï Gliêu	275
+生活资料	Wsang Gwut Gzï Gliêu	275
 生活资料	sheng Gwot Gzï Gliêu	275
 生活资料	sheng Gwot Gzï liao	275
 生活资料	sheng Gwot zi Gliêu	275
@@ -493755,56 +493206,45 @@ use_preset_vocabulary: false
 生父母	Wsang Gfu Gmu	8
 生父母	sheng Gfu Gmu	8
 生父母	sheng fu mu	8
-生物	Gsên Gwet	132238
 生物	Gsên Gwut	132238
 生物	Gsên wu	132238
-生物	Wsang Gwet	132238
 生物	Wsang Gwut	132238
 生物	sheng Gwut	132238
 生物	sheng wu	132238
-生物体	Gsên Gwet Gti	448
 生物体	Gsên Gwut Gti	448
 生物体	Gsên wu Gti	448
-生物体	Wsang Gwet Gti	448
 生物体	Wsang Gwut Gti	448
 生物体	sheng Gwut Gti	448
 生物体	sheng wu Gti	448
 生物体	sheng wu ti	448
-生物制品	Gsên Gwet Gzï Gpin	56
 生物制品	Gsên Gwut Gzï Gpin	56
 生物制品	Gsên Gwut zhi Gpin	56
 生物制品	Gsên wu Gzï Gpin	56
 生物制品	Gsên wu zhi Gpin	56
-生物制品	Wsang Gwet Gzï Gpin	56
 生物制品	Wsang Gwut Gzï Gpin	56
 生物制品	sheng Gwut Gzï Gpin	56
 生物制品	sheng Gwut zhi Gpin	56
 生物制品	sheng wu Gzï Gpin	56
 生物制品	sheng wu zhi Gpin	56
 生物制品	sheng wu zhi pin	56
-生物圈	Gsên Gwet Gqyuon	256
 生物圈	Gsên Gwut Gqyuon	256
 生物圈	Gsên Gwut quan	256
 生物圈	Gsên wu Gqyuon	256
 生物圈	Gsên wu quan	256
-生物圈	Wsang Gwet Gqyuon	256
 生物圈	Wsang Gwut Gqyuon	256
 生物圈	sheng Gwut Gqyuon	256
 生物圈	sheng Gwut quan	256
 生物圈	sheng wu Gqyuon	256
 生物圈	sheng wu quan	256
-生物学	Gsên Gwet Ghok	677
 生物学	Gsên Gwut Ghok	677
 生物学	Gsên Gwut xue	677
 生物学	Gsên wu Ghok	677
 生物学	Gsên wu xue	677
-生物学	Wsang Gwet Ghok	677
 生物学	Wsang Gwut Ghok	677
 生物学	sheng Gwut Ghok	677
 生物学	sheng Gwut xue	677
 生物学	sheng wu Ghok	677
 生物学	sheng wu xue	677
-生物学家	Gsên Gwet Ghok Gga	375
 生物学家	Gsên Gwut Ghok Gga	375
 生物学家	Gsên Gwut Ghok jia	375
 生物学家	Gsên Gwut xue Gga	375
@@ -493813,7 +493253,6 @@ use_preset_vocabulary: false
 生物学家	Gsên wu Ghok jia	375
 生物学家	Gsên wu xue Gga	375
 生物学家	Gsên wu xue jia	375
-生物学家	Wsang Gwet Ghok Gga	375
 生物学家	Wsang Gwut Ghok Gga	375
 生物学家	sheng Gwut Ghok Gga	375
 生物学家	sheng Gwut Ghok jia	375
@@ -493823,33 +493262,26 @@ use_preset_vocabulary: false
 生物学家	sheng wu Ghok jia	375
 生物学家	sheng wu xue Gga	375
 生物学家	sheng wu xue jia	375
-生物性	Gsên Gwet Gxin	19
-生物性	Gsên Gwet Wxiang	19
 生物性	Gsên Gwut Gxin	19
 生物性	Gsên Gwut Wxiang	19
 生物性	Gsên Gwut xing	19
 生物性	Gsên wu Gxin	19
 生物性	Gsên wu xing	19
-生物性	Wsang Gwet Gxin	19
-生物性	Wsang Gwet Wxiang	19
 生物性	Wsang Gwut Gxin	19
 生物性	Wsang Gwut Wxiang	19
 生物性	sheng Gwut Gxin	19
 生物性	sheng Gwut xing	19
 生物性	sheng wu Gxin	19
 生物性	sheng wu xing	19
-生物战	Gsên Gwet Gzên	14
 生物战	Gsên Gwut Gzên	14
 生物战	Gsên Gwut zhan	14
 生物战	Gsên wu Gzên	14
 生物战	Gsên wu zhan	14
-生物战	Wsang Gwet Gzên	14
 生物战	Wsang Gwut Gzên	14
 生物战	sheng Gwut Gzên	14
 生物战	sheng Gwut zhan	14
 生物战	sheng wu Gzên	14
 生物战	sheng wu zhan	14
-生物战剂	Gsên Gwet Gzên Gqi	36
 生物战剂	Gsên Gwut Gzên Gqi	36
 生物战剂	Gsên Gwut Gzên ji	36
 生物战剂	Gsên Gwut zhan Gqi	36
@@ -493858,7 +493290,6 @@ use_preset_vocabulary: false
 生物战剂	Gsên wu Gzên ji	36
 生物战剂	Gsên wu zhan Gqi	36
 生物战剂	Gsên wu zhan ji	36
-生物战剂	Wsang Gwet Gzên Gqi	36
 生物战剂	Wsang Gwut Gzên Gqi	36
 生物战剂	sheng Gwut Gzên Gqi	36
 生物战剂	sheng Gwut Gzên ji	36
@@ -493868,38 +493299,28 @@ use_preset_vocabulary: false
 生物战剂	sheng wu Gzên ji	36
 生物战剂	sheng wu zhan Gqi	36
 生物战剂	sheng wu zhan ji	36
-生物所	Gsên Gwet Gso	16
-生物所	Gsên Gwet Gsu	16
 生物所	Gsên Gwut Gso	16
 生物所	Gsên Gwut Gsu	16
 生物所	Gsên Gwut suo	16
 生物所	Gsên wu Gso	16
 生物所	Gsên wu suo	16
-生物所	Wsang Gwet Gso	16
-生物所	Wsang Gwet Gsu	16
 生物所	Wsang Gwut Gso	16
 生物所	Wsang Gwut Gsu	16
 生物所	sheng Gwut Gso	16
 生物所	sheng Gwut suo	16
 生物所	sheng wu Gso	16
 生物所	sheng wu suo	16
-生物武器	Gsên Gwet Gwu Gqi	78
 生物武器	Gsên Gwut Gwu Gqi	78
 生物武器	Gsên wu Gwu Gqi	78
-生物武器	Wsang Gwet Gwu Gqi	78
 生物武器	Wsang Gwut Gwu Gqi	78
 生物武器	sheng Gwut Gwu Gqi	78
 生物武器	sheng wu Gwu Gqi	78
 生物武器	sheng wu wu qi	78
-生物污染	Gsên Gwet Gwu Glên	7
-生物污染	Gsên Gwet Gwu Gniên	7
 生物污染	Gsên Gwut Gwu Glên	7
 生物污染	Gsên Gwut Gwu Gniên	7
 生物污染	Gsên Gwut Gwu ran	7
 生物污染	Gsên wu Gwu Gniên	7
 生物污染	Gsên wu Gwu ran	7
-生物污染	Wsang Gwet Gwu Glên	7
-生物污染	Wsang Gwet Gwu Gniên	7
 生物污染	Wsang Gwut Gwu Glên	7
 生物污染	Wsang Gwut Gwu Gniên	7
 生物污染	sheng Gwut Gwu Gniên	7
@@ -493907,8 +493328,6 @@ use_preset_vocabulary: false
 生物污染	sheng wu Gwu Gniên	7
 生物污染	sheng wu Gwu ran	7
 生物污染	sheng wu wu ran	7
-生物测定	Gsên Gwet Gcêt Gtin	7
-生物测定	Gsên Gwet Gcêt Wtiang	7
 生物测定	Gsên Gwut Gcêt Gtin	7
 生物测定	Gsên Gwut Gcêt Wtiang	7
 生物测定	Gsên Gwut Gcêt ding	7
@@ -493918,8 +493337,6 @@ use_preset_vocabulary: false
 生物测定	Gsên wu Gcêt ding	7
 生物测定	Gsên wu ce Gtin	7
 生物测定	Gsên wu ce ding	7
-生物测定	Wsang Gwet Gcêt Gtin	7
-生物测定	Wsang Gwet Gcêt Wtiang	7
 生物测定	Wsang Gwut Gcêt Gtin	7
 生物测定	Wsang Gwut Gcêt Wtiang	7
 生物测定	sheng Gwut Gcêt Gtin	7
@@ -493930,91 +493347,69 @@ use_preset_vocabulary: false
 生物测定	sheng wu Gcêt ding	7
 生物测定	sheng wu ce Gtin	7
 生物测定	sheng wu ce ding	7
-生物物理	Gsên Gwet Gwet Gli	8
-生物物理	Gsên Gwet Gwut Gli	8
-生物物理	Gsên Gwut Gwet Gli	8
 生物物理	Gsên Gwut Gwut Gli	8
 生物物理	Gsên Gwut wu Gli	8
 生物物理	Gsên wu Gwut Gli	8
 生物物理	Gsên wu wu Gli	8
-生物物理	Wsang Gwet Gwet Gli	8
-生物物理	Wsang Gwet Gwut Gli	8
-生物物理	Wsang Gwut Gwet Gli	8
 生物物理	Wsang Gwut Gwut Gli	8
 生物物理	sheng Gwut Gwut Gli	8
 生物物理	sheng Gwut wu Gli	8
 生物物理	sheng wu Gwut Gli	8
 生物物理	sheng wu wu Gli	8
 生物物理	sheng wu wu li	8
-生物界	Gsên Gwet Ggai	144
 生物界	Gsên Gwut Ggai	144
 生物界	Gsên Gwut jie	144
 生物界	Gsên wu Ggai	144
 生物界	Gsên wu jie	144
-生物界	Wsang Gwet Ggai	144
 生物界	Wsang Gwut Ggai	144
 生物界	sheng Gwut Ggai	144
 生物界	sheng Gwut jie	144
 生物界	sheng wu Ggai	144
 生物界	sheng wu jie	144
-生物碱	Gsên Gwet Ggan	130
 生物碱	Gsên Gwut Ggan	130
 生物碱	Gsên Gwut jian	130
 生物碱	Gsên wu Ggan	130
 生物碱	Gsên wu jian	130
-生物碱	Wsang Gwet Ggan	130
 生物碱	Wsang Gwut Ggan	130
 生物碱	sheng Gwut Ggan	130
 生物碱	sheng Gwut jian	130
 生物碱	sheng wu Ggan	130
 生物碱	sheng wu jian	130
-生物系	Gsên Gwet Gxi	40
 生物系	Gsên Gwut Gxi	40
 生物系	Gsên wu Gxi	40
-生物系	Wsang Gwet Gxi	40
 生物系	Wsang Gwut Gxi	40
 生物系	sheng Gwut Gxi	40
 生物系	sheng wu Gxi	40
 生物系	sheng wu xi	40
-生物能	Gsên Gwet Glên	16
 生物能	Gsên Gwut Glên	16
 生物能	Gsên Gwut neng	16
 生物能	Gsên wu Glên	16
 生物能	Gsên wu neng	16
-生物能	Wsang Gwet Glên	16
 生物能	Wsang Gwut Glên	16
 生物能	sheng Gwut Glên	16
 生物能	sheng Gwut neng	16
 生物能	sheng wu Glên	16
 生物能	sheng wu neng	16
-生物课	Gsên Gwet Gkuo	9
 生物课	Gsên Gwut Gkuo	9
 生物课	Gsên Gwut ke	9
 生物课	Gsên wu Gkuo	9
 生物课	Gsên wu ke	9
-生物课	Wsang Gwet Gkuo	9
 生物课	Wsang Gwut Gkuo	9
 生物课	sheng Gwut Gkuo	9
 生物课	sheng Gwut ke	9
 生物课	sheng wu Gkuo	9
 生物课	sheng wu ke	9
-生物质	Gsên Gwet Gzet	11
-生物质	Gsên Gwet Gzïk	11
 生物质	Gsên Gwut Gzet	11
 生物质	Gsên Gwut Gzïk	11
 生物质	Gsên Gwut zhi	11
 生物质	Gsên wu Gzet	11
 生物质	Gsên wu zhi	11
-生物质	Wsang Gwet Gzet	11
-生物质	Wsang Gwet Gzïk	11
 生物质	Wsang Gwut Gzet	11
 生物质	Wsang Gwut Gzïk	11
 生物质	sheng Gwut Gzet	11
 生物质	sheng Gwut zhi	11
 生物质	sheng wu Gzet	11
 生物质	sheng wu zhi	11
-生物质能	Gsên Gwet Gzet Glên	26
-生物质能	Gsên Gwet Gzïk Glên	26
 生物质能	Gsên Gwut Gzet Glên	26
 生物质能	Gsên Gwut Gzet neng	26
 生物质能	Gsên Gwut Gzïk Glên	26
@@ -494024,8 +493419,6 @@ use_preset_vocabulary: false
 生物质能	Gsên wu Gzet neng	26
 生物质能	Gsên wu zhi Glên	26
 生物质能	Gsên wu zhi neng	26
-生物质能	Wsang Gwet Gzet Glên	26
-生物质能	Wsang Gwet Gzïk Glên	26
 生物质能	Wsang Gwut Gzet Glên	26
 生物质能	Wsang Gwut Gzïk Glên	26
 生物质能	sheng Gwut Gzet Glên	26
@@ -494036,30 +493429,24 @@ use_preset_vocabulary: false
 生物质能	sheng wu Gzet neng	26
 生物质能	sheng wu zhi Glên	26
 生物质能	sheng wu zhi neng	26
-生物量	Gsên Gwet Gliong	22
 生物量	Gsên Gwut Gliong	22
 生物量	Gsên Gwut liang	22
 生物量	Gsên wu Gliong	22
 生物量	Gsên wu liang	22
-生物量	Wsang Gwet Gliong	22
 生物量	Wsang Gwut Gliong	22
 生物量	sheng Gwut Gliong	22
 生物量	sheng Gwut liang	22
 生物量	sheng wu Gliong	22
 生物量	sheng wu liang	22
-生物钟	Gsên Gwet Gzung	87
 生物钟	Gsên Gwut Gzung	87
 生物钟	Gsên Gwut zhong	87
 生物钟	Gsên wu Gzung	87
 生物钟	Gsên wu zhong	87
-生物钟	Wsang Gwet Gzung	87
 生物钟	Wsang Gwut Gzung	87
 生物钟	sheng Gwut Gzung	87
 生物钟	sheng Gwut zhong	87
 生物钟	sheng wu Gzung	87
 生物钟	sheng wu zhong	87
-生物防治	Gsên Gwet Gfong Gcï	31
-生物防治	Gsên Gwet Gfong Gzïk	31
 生物防治	Gsên Gwut Gfong Gcï	31
 生物防治	Gsên Gwut Gfong Gzïk	31
 生物防治	Gsên Gwut Gfong zhi	31
@@ -494069,8 +493456,6 @@ use_preset_vocabulary: false
 生物防治	Gsên wu Gfong zhi	31
 生物防治	Gsên wu fang Gcï	31
 生物防治	Gsên wu fang zhi	31
-生物防治	Wsang Gwet Gfong Gcï	31
-生物防治	Wsang Gwet Gfong Gzïk	31
 生物防治	Wsang Gwut Gfong Gcï	31
 生物防治	Wsang Gwut Gfong Gzïk	31
 生物防治	sheng Gwut Gfong Gcï	31
@@ -494610,17 +493995,17 @@ use_preset_vocabulary: false
 生鲜	Wsang Gxiên	7
 生鲜	sheng Gxiên	7
 生鲜	sheng xian	7
-生龙活虎	Gsên Glung Gwet Gfu	40
 生龙活虎	Gsên Glung Gwot Gfu	40
 生龙活虎	Gsên Glung Gwot hu	40
+生龙活虎	Gsên Glung Gwut Gfu	40
 生龙活虎	Gsên Glung huo Gfu	40
 生龙活虎	Gsên Glung huo hu	40
 生龙活虎	Gsên long Gwot Gfu	40
 生龙活虎	Gsên long Gwot hu	40
 生龙活虎	Gsên long huo Gfu	40
 生龙活虎	Gsên long huo hu	40
-生龙活虎	Wsang Glung Gwet Gfu	40
 生龙活虎	Wsang Glung Gwot Gfu	40
+生龙活虎	Wsang Glung Gwut Gfu	40
 生龙活虎	sheng Glung Gwot Gfu	40
 生龙活虎	sheng Glung Gwot hu	40
 生龙活虎	sheng Glung huo Gfu	40
@@ -495012,8 +494397,8 @@ use_preset_vocabulary: false
 用法	Gyung fa	50197
 用法	yong Gfat	50197
 用法	yong fa	50197
-用活	Gyung Gwet	20
 用活	Gyung Gwot	20
+用活	Gyung Gwut	20
 用活	Gyung huo	20
 用活	yong Gwot	20
 用活	yong huo	20
@@ -496131,7 +495516,6 @@ use_preset_vocabulary: false
 甲壳	Ggat qiao	127
 甲壳	jia Gkok	127
 甲壳	jia qiao	127
-甲壳动物	Ggat Gkok Gtung Gwet	77
 甲壳动物	Ggat Gkok Gtung Gwut	77
 甲壳动物	Ggat Gkok Gtung wu	77
 甲壳动物	Ggat Gkok dong Gwut	77
@@ -504629,11 +504013,11 @@ use_preset_vocabulary: false
 白洋淀	bai Gyong dian	87
 白洋淀	bai yang Gtiên	87
 白洋淀	bai yang dian	87
-白活	Gpak Gwet	21
 白活	Gpak Gwot	21
+白活	Gpak Gwut	21
 白活	Gpak huo	21
-白活	Wpêt Gwet	21
 白活	Wpêt Gwot	21
+白活	Wpêt Gwut	21
 白活	bai Gwot	21
 白活	bai huo	21
 白浆土	Gpak Gjiong Gtu	20
@@ -509652,7 +509036,6 @@ use_preset_vocabulary: false
 益气养血	yi Gqi yang Gxyuot	9
 益气养血	yi Gqi yang xue	9
 益气养血	yi qi yang xue	9
-益物权	Gyit Gwet Gqyuon	13
 益物权	Gyit Gwut Gqyuon	13
 益物权	Gyit Gwut quan	13
 益物权	Gyit wu Gqyuon	13
@@ -510756,8 +510139,8 @@ use_preset_vocabulary: false
 盘桓	Gpon huan	137
 盘桓	pan Gfon	137
 盘桓	pan huan	137
-盘活	Gpon Gwet	77
 盘活	Gpon Gwot	77
+盘活	Gpon Gwut	77
 盘活	Gpon huo	77
 盘活	pan Gwot	77
 盘活	pan huo	77
@@ -516752,8 +516135,6 @@ use_preset_vocabulary: false
 睵	Gzai	5560
 睵	zai	5413
 睹	Gdu	109621
-睹物思人	Gdu Gwet Gsï Gnin	15
-睹物思人	Gdu Gwet Gsï Wlen	15
 睹物思人	Gdu Gwut Gsï Gnin	15
 睹物思人	Gdu Gwut Gsï Wlen	15
 睹物思人	Gdu Gwut Gsï ren	15
@@ -518404,10 +517785,8 @@ use_preset_vocabulary: false
 短文	Gdon wen	156
 短文	duan Gwun	156
 短文	duan wen	156
-短日照植物	Gdon Glet Gzêu Gcet Gwet	7
 短日照植物	Gdon Glet Gzêu Gcet Gwut	7
 短日照植物	Gdon Glet Gzêu Gcet wu	7
-短日照植物	Gdon Glet Gzêu Gzïk Gwet	7
 短日照植物	Gdon Glet Gzêu Gzïk Gwut	7
 短日照植物	Gdon Glet Gzêu zhi Gwut	7
 短日照植物	Gdon Glet Gzêu zhi wu	7
@@ -518415,9 +517794,7 @@ use_preset_vocabulary: false
 短日照植物	Gdon Glet zhao Gcet wu	7
 短日照植物	Gdon Glet zhao zhi Gwut	7
 短日照植物	Gdon Glet zhao zhi wu	7
-短日照植物	Gdon Wnit Gzêu Gcet Gwet	7
 短日照植物	Gdon Wnit Gzêu Gcet Gwut	7
-短日照植物	Gdon Wnit Gzêu Gzïk Gwet	7
 短日照植物	Gdon Wnit Gzêu Gzïk Gwut	7
 短日照植物	Gdon ri Gzêu Gcet Gwut	7
 短日照植物	Gdon ri Gzêu Gcet wu	7
@@ -520716,12 +520093,10 @@ use_preset_vocabulary: false
 矿点	Gkuong dian	18
 矿点	kuang Gdiên	18
 矿点	kuang dian	18
-矿物	Gkuong Gwet	1368
 矿物	Gkuong Gwut	1368
 矿物	Gkuong wu	1368
 矿物	kuang Gwut	1368
 矿物	kuang wu	1368
-矿物学	Gkuong Gwet Ghok	63
 矿物学	Gkuong Gwut Ghok	63
 矿物学	Gkuong Gwut xue	63
 矿物学	Gkuong wu Ghok	63
@@ -520730,7 +520105,6 @@ use_preset_vocabulary: false
 矿物学	kuang Gwut xue	63
 矿物学	kuang wu Ghok	63
 矿物学	kuang wu xue	63
-矿物油	Gkuong Gwet Gyiu	7
 矿物油	Gkuong Gwut Gyiu	7
 矿物油	Gkuong Gwut you	7
 矿物油	Gkuong wu Gyiu	7
@@ -520739,8 +520113,6 @@ use_preset_vocabulary: false
 矿物油	kuang Gwut you	7
 矿物油	kuang wu Gyiu	7
 矿物油	kuang wu you	7
-矿物质	Gkuong Gwet Gzet	292
-矿物质	Gkuong Gwet Gzïk	292
 矿物质	Gkuong Gwut Gzet	292
 矿物质	Gkuong Gwut Gzïk	292
 矿物质	Gkuong Gwut zhi	292
@@ -522026,7 +521398,6 @@ use_preset_vocabulary: false
 硫化汞	Gliu hua Ggung	17
 硫化汞	Gliu hua gong	17
 硫化汞	liu hua gong	17
-硫化物	Gliu Gfa Gwet	137
 硫化物	Gliu Gfa Gwut	137
 硫化物	Gliu Gfa wu	137
 硫化物	Gliu hua Gwut	137
@@ -522311,7 +521682,6 @@ use_preset_vocabulary: false
 硬汉子	ying Ghon zi	25
 硬汉子	ying han Gzï	25
 硬汉子	ying han zi	25
-硬物	Gngang Gwet	36
 硬物	Gngang Gwut	36
 硬物	Gngang wu	36
 硬物	ying Gwut	36
@@ -523238,7 +522608,6 @@ use_preset_vocabulary: false
 碳化	Gtan Gfa	39
 碳化	Gtan hua	39
 碳化	tan hua	39
-碳化物	Gtan Gfa Gwet	51
 碳化物	Gtan Gfa Gwut	51
 碳化物	Gtan Gfa wu	51
 碳化物	Gtan hua Gwut	51
@@ -523258,10 +522627,8 @@ use_preset_vocabulary: false
 碳棒	Gtan Gpong	9
 碳棒	Gtan bang	9
 碳棒	tan bang	9
-碳氢化合物	Gtan Gqin Gfa Ghot Gwet	44
 碳氢化合物	Gtan Gqin Gfa Ghot Gwut	44
 碳氢化合物	Gtan Gqin Gfa Ghot wu	44
-碳氢化合物	Gtan Gqin Gfa Wgot Gwet	44
 碳氢化合物	Gtan Gqin Gfa Wgot Gwut	44
 碳氢化合物	Gtan Gqin Gfa he Gwut	44
 碳氢化合物	Gtan Gqin Gfa he wu	44
@@ -523281,10 +522648,8 @@ use_preset_vocabulary: false
 碳氮比	Gtan Gtan Gbi	7
 碳氮比	Gtan dan Gbi	7
 碳氮比	tan dan bi	7
-碳水化合物	Gtan Gsui Gfa Ghot Gwet	190
 碳水化合物	Gtan Gsui Gfa Ghot Gwut	190
 碳水化合物	Gtan Gsui Gfa Ghot wu	190
-碳水化合物	Gtan Gsui Gfa Wgot Gwet	190
 碳水化合物	Gtan Gsui Gfa Wgot Gwut	190
 碳水化合物	Gtan Gsui Gfa he Gwut	190
 碳水化合物	Gtan Gsui Gfa he wu	190
@@ -524073,10 +523438,8 @@ use_preset_vocabulary: false
 磷化	Glin Gfa	8
 磷化	Glin hua	8
 磷化	lin hua	8
-磷化合物	Glin Gfa Ghot Gwet	9
 磷化合物	Glin Gfa Ghot Gwut	9
 磷化合物	Glin Gfa Ghot wu	9
-磷化合物	Glin Gfa Wgot Gwet	9
 磷化合物	Glin Gfa Wgot Gwut	9
 磷化合物	Glin Gfa he Gwut	9
 磷化合物	Glin Gfa he wu	9
@@ -524466,7 +523829,6 @@ use_preset_vocabulary: false
 礼炮声	Gli pao Gsang	7
 礼炮声	Gli pao sheng	7
 礼炮声	li pao sheng	7
-礼物	Gli Gwet	1113
 礼物	Gli Gwut	1113
 礼物	Gli wu	1113
 礼物	li wu	1113
@@ -525030,9 +524392,9 @@ use_preset_vocabulary: false
 社会民主工党	she hui Gmin zhu gong Gdong	59
 社会民主工党	she hui Gmin zhu gong dang	59
 社会民主工党	she hui min zhu gong dang	59
-社会活动	Gsa Gfui Gwet Gtung	90
 社会活动	Gsa Gfui Gwot Gtung	90
 社会活动	Gsa Gfui Gwot dong	90
+社会活动	Gsa Gfui Gwut Gtung	90
 社会活动	Gsa Gfui huo Gtung	90
 社会活动	Gsa Gfui huo dong	90
 社会活动	Gsa hui Gwot Gtung	90
@@ -525047,11 +524409,11 @@ use_preset_vocabulary: false
 社会活动	she hui Gwot dong	90
 社会活动	she hui huo Gtung	90
 社会活动	she hui huo dong	90
-社会活动家	Gsa Gfui Gwet Gtung Gga	65
 社会活动家	Gsa Gfui Gwot Gtung Gga	65
 社会活动家	Gsa Gfui Gwot Gtung jia	65
 社会活动家	Gsa Gfui Gwot dong Gga	65
 社会活动家	Gsa Gfui Gwot dong jia	65
+社会活动家	Gsa Gfui Gwut Gtung Gga	65
 社会活动家	Gsa Gfui huo Gtung Gga	65
 社会活动家	Gsa Gfui huo Gtung jia	65
 社会活动家	Gsa Gfui huo dong Gga	65
@@ -526636,13 +525998,13 @@ use_preset_vocabulary: false
 神气十足	shen Gqi shi Gjiuk	10
 神气十足	shen Gqi shi zu	10
 神气十足	shen qi shi zu	10
-神气活现	Gsen Gqi Gwet Gxiên	35
 神气活现	Gsen Gqi Gwot Gxiên	35
 神气活现	Gsen Gqi Gwot xian	35
+神气活现	Gsen Gqi Gwut Gxiên	35
 神气活现	Gsen Gqi huo Gxiên	35
 神气活现	Gsen Gqi huo xian	35
-神气活现	Gxin Gqi Gwet Gxiên	35
 神气活现	Gxin Gqi Gwot Gxiên	35
+神气活现	Gxin Gqi Gwut Gxiên	35
 神气活现	shen Gqi Gwot Gxiên	35
 神气活现	shen Gqi Gwot xian	35
 神气活现	shen Gqi huo Gxiên	35
@@ -526725,10 +526087,8 @@ use_preset_vocabulary: false
 神父	Gxin Gfu	222
 神父	shen Gfu	222
 神父	shen fu	222
-神物	Gsen Gwet	46
 神物	Gsen Gwut	46
 神物	Gsen wu	46
-神物	Gxin Gwet	46
 神物	Gxin Gwut	46
 神物	shen Gwut	46
 神物	shen wu	46
@@ -528088,7 +527448,6 @@ use_preset_vocabulary: false
 禁烟	Gjin Gyên	73
 禁烟	Gjin yan	73
 禁烟	jin yan	73
-禁物	Gjin Gwet	7
 禁物	Gjin Gwut	7
 禁物	Gjin wu	7
 禁物	jin wu	7
@@ -529475,8 +528834,8 @@ use_preset_vocabulary: false
 私法	Gsï fa	21
 私法	si Gfat	21
 私法	si fa	21
-私活	Gsï Gwet	8
 私活	Gsï Gwot	8
+私活	Gsï Gwut	8
 私活	Gsï huo	8
 私活	si Gwot	8
 私活	si huo	8
@@ -529502,11 +528861,11 @@ use_preset_vocabulary: false
 私生子	si Gsên zi	149
 私生子	si sheng Gzï	149
 私生子	si sheng zi	149
-私生活	Gsï Gsên Gwet	79
 私生活	Gsï Gsên Gwot	79
+私生活	Gsï Gsên Gwut	79
 私生活	Gsï Gsên huo	79
-私生活	Gsï Wsang Gwet	79
 私生活	Gsï Wsang Gwot	79
+私生活	Gsï Wsang Gwut	79
 私生活	Gsï sheng Gwot	79
 私生活	Gsï sheng huo	79
 私生活	si Gsên Gwot	79
@@ -532841,10 +532200,8 @@ use_preset_vocabulary: false
 移植术	Gyi zhi Gsuet	12
 移植术	Gyi zhi shu	12
 移植术	yi zhi shu	12
-移植物	Gyi Gcet Gwet	10
 移植物	Gyi Gcet Gwut	10
 移植物	Gyi Gcet wu	10
-移植物	Gyi Gzïk Gwet	10
 移植物	Gyi Gzïk Gwut	10
 移植物	Gyi zhi Gwut	10
 移植物	Gyi zhi wu	10
@@ -533007,7 +532364,6 @@ use_preset_vocabulary: false
 稀罕	Gxi Ghon	225
 稀罕	Gxi han	225
 稀罕	xi han	225
-稀罕物	Gxi Ghon Gwet	8
 稀罕物	Gxi Ghon Gwut	8
 稀罕物	Gxi Ghon wu	8
 稀罕物	Gxi han Gwut	8
@@ -535477,7 +534833,6 @@ use_preset_vocabulary: false
 空洞	Gkung dong	25267
 空洞	kong Gtung	25267
 空洞	kong dong	25267
-空洞无物	Gkung Gtung Gwu Gwet	10
 空洞无物	Gkung Gtung Gwu Gwut	10
 空洞无物	Gkung Gtung Gwu wu	10
 空洞无物	Gkung dong Gwu Gwut	10
@@ -548990,7 +548345,6 @@ use_preset_vocabulary: false
 等价关系	deng Gga Gguan Gxi	15
 等价关系	deng jia Gguan Gxi	15
 等价关系	deng jia guan xi	15
-等价物	Gdên Gga Gwet	298
 等价物	Gdên Gga Gwut	298
 等价物	Gdên Gga wu	298
 等价物	Gdên jia Gwut	298
@@ -552514,7 +551868,6 @@ use_preset_vocabulary: false
 类群	Glui qun	164
 类群	lei Gqyun	164
 类群	lei qun	164
-类药物	Glui Gyok Gwet	16
 类药物	Glui Gyok Gwut	16
 类药物	Glui Gyok wu	16
 类药物	Glui yao Gwut	16
@@ -552859,8 +552212,8 @@ use_preset_vocabulary: false
 粗沙	Gcu Gsa	7
 粗沙	Gcu sha	7
 粗沙	cu sha	7
-粗活	Gcu Gwet	37
 粗活	Gcu Gwot	37
+粗活	Gcu Gwut	37
 粗活	Gcu huo	37
 粗活	cu huo	37
 粗浅	Gcu Gqiên	25105
@@ -553313,12 +552666,10 @@ use_preset_vocabulary: false
 粮食	Gliong shi	5923
 粮食	liang Gset	5923
 粮食	liang shi	5923
-粮食作物	Gliong Gset Gzok Gwet	584
 粮食作物	Gliong Gset Gzok Gwut	584
 粮食作物	Gliong Gset Gzok wu	584
 粮食作物	Gliong Gset zuo Gwut	584
 粮食作物	Gliong Gset zuo wu	584
-粮食作物	Gliong Gsïk Gzok Gwet	584
 粮食作物	Gliong Gsïk Gzok Gwut	584
 粮食作物	Gliong shi Gzok Gwut	584
 粮食作物	Gliong shi Gzok wu	584
@@ -554992,9 +554343,9 @@ use_preset_vocabulary: false
 系统控制	Gxi tong kong Gzï	35
 系统控制	Gxi tong kong zhi	35
 系统控制	xi tong kong zhi	35
-系统活动	Gxi Gtung Gwet Gtung	10
 系统活动	Gxi Gtung Gwot Gtung	10
 系统活动	Gxi Gtung Gwot dong	10
+系统活动	Gxi Gtung Gwut Gtung	10
 系统活动	Gxi Gtung huo Gtung	10
 系统活动	Gxi Gtung huo dong	10
 系统活动	Gxi tong Gwot Gtung	10
@@ -556270,8 +555621,8 @@ use_preset_vocabulary: false
 累死	Glui si	115
 累死	lei Gsï	115
 累死	lei si	115
-累死累活	Glui Gsï Glui Gwet	11
 累死累活	Glui Gsï Glui Gwot	11
+累死累活	Glui Gsï Glui Gwut	11
 累死累活	Glui Gsï Glui huo	11
 累死累活	Glui Gsï lei Gwot	11
 累死累活	Glui Gsï lei huo	11
@@ -556287,8 +555638,8 @@ use_preset_vocabulary: false
 累死累活	lei si Glui huo	11
 累死累活	lei si lei Gwot	11
 累死累活	lei si lei huo	11
-累活	Glui Gwet	22
 累活	Glui Gwot	22
+累活	Glui Gwut	22
 累活	Glui huo	22
 累活	lei Gwot	22
 累活	lei huo	22
@@ -558427,10 +557778,8 @@ use_preset_vocabulary: false
 纤维板	xian Gwi Gban	558
 纤维板	xian wei Gban	558
 纤维板	xian wei ban	558
-纤维植物	Gqiên Gwi Gcet Gwet	12
 纤维植物	Gqiên Gwi Gcet Gwut	12
 纤维植物	Gqiên Gwi Gcet wu	12
-纤维植物	Gqiên Gwi Gzïk Gwet	12
 纤维植物	Gqiên Gwi Gzïk Gwut	12
 纤维植物	Gqiên Gwi zhi Gwut	12
 纤维植物	Gqiên Gwi zhi wu	12
@@ -558976,7 +558325,6 @@ use_preset_vocabulary: false
 纪念照	Gji nian Gzêu	8
 纪念照	Gji nian zhao	8
 纪念照	ji nian zhao	8
-纪念物	Gji Gniên Gwet	15
 纪念物	Gji Gniên Gwut	15
 纪念物	Gji Gniên wu	15
 纪念物	Gji nian Gwut	15
@@ -560442,10 +559790,8 @@ use_preset_vocabulary: false
 纺织机	fang Gzet Gji	11
 纺织机	fang zhi Gji	11
 纺织机	fang zhi ji	11
-纺织物	Gfong Gzet Gwet	11
 纺织物	Gfong Gzet Gwut	11
 纺织物	Gfong Gzet wu	11
-纺织物	Gfong Gzïk Gwet	11
 纺织物	Gfong Gzïk Gwut	11
 纺织物	Gfong zhi Gwut	11
 纺织物	Gfong zhi wu	11
@@ -560713,7 +560059,6 @@ use_preset_vocabulary: false
 线形	Gxiên xing	64
 线形	xian Gxin	64
 线形	xian xing	64
-线形动物	Gxiên Gxin Gtung Gwet	8
 线形动物	Gxiên Gxin Gtung Gwut	8
 线形动物	Gxiên Gxin Gtung wu	8
 线形动物	Gxiên Gxin dong Gwut	8
@@ -561180,17 +560525,17 @@ use_preset_vocabulary: false
 组织液	Gzu zhi Gyit	17
 组织液	Gzu zhi ye	17
 组织液	zu zhi ye	17
-组织生活	Gzu Gzet Gsên Gwet	59
 组织生活	Gzu Gzet Gsên Gwot	59
+组织生活	Gzu Gzet Gsên Gwut	59
 组织生活	Gzu Gzet Gsên huo	59
-组织生活	Gzu Gzet Wsang Gwet	59
 组织生活	Gzu Gzet Wsang Gwot	59
+组织生活	Gzu Gzet Wsang Gwut	59
 组织生活	Gzu Gzet sheng Gwot	59
 组织生活	Gzu Gzet sheng huo	59
-组织生活	Gzu Gzïk Gsên Gwet	59
 组织生活	Gzu Gzïk Gsên Gwot	59
-组织生活	Gzu Gzïk Wsang Gwet	59
+组织生活	Gzu Gzïk Gsên Gwut	59
 组织生活	Gzu Gzïk Wsang Gwot	59
+组织生活	Gzu Gzïk Wsang Gwut	59
 组织生活	Gzu zhi Gsên Gwot	59
 组织生活	Gzu zhi Gsên huo	59
 组织生活	Gzu zhi sheng Gwot	59
@@ -561431,8 +560776,8 @@ use_preset_vocabulary: false
 细沙	Gxi Gsa	52
 细沙	Gxi sha	52
 细沙	xi sha	52
-细活	Gxi Gwet	7
 细活	Gxi Gwot	7
+细活	Gxi Gwut	7
 细活	Gxi huo	7
 细活	xi huo	7
 细流	Gxi Gliu	34
@@ -561714,10 +561059,8 @@ use_preset_vocabulary: false
 织机	Gzïk Gji	170
 织机	zhi Gji	170
 织机	zhi ji	170
-织物	Gzet Gwet	368
 织物	Gzet Gwut	368
 织物	Gzet wu	368
-织物	Gzïk Gwet	368
 织物	Gzïk Gwut	368
 织物	zhi Gwut	368
 织物	zhi wu	368
@@ -562544,12 +561887,10 @@ use_preset_vocabulary: false
 经济体制	jing Gji Gti Gzï	519
 经济体制	jing Gji Gti zhi	519
 经济体制	jing ji ti zhi	519
-经济作物	Gjin Gji Gzok Gwet	784
 经济作物	Gjin Gji Gzok Gwut	784
 经济作物	Gjin Gji Gzok wu	784
 经济作物	Gjin Gji zuo Gwut	784
 经济作物	Gjin Gji zuo wu	784
-经济作物	Wjiang Gji Gzok Gwet	784
 经济作物	Wjiang Gji Gzok Gwut	784
 经济作物	jing Gji Gzok Gwut	784
 经济作物	jing Gji Gzok wu	784
@@ -564436,10 +563777,8 @@ use_preset_vocabulary: false
 绛红色	jiang hong se	12
 络	Glok	120000
 络	luo	120000
-络合物	Glok Ghot Gwet	59
 络合物	Glok Ghot Gwut	59
 络合物	Glok Ghot wu	59
-络合物	Glok Wgot Gwet	59
 络合物	Glok Wgot Gwut	59
 络合物	Glok he Gwut	59
 络合物	Glok he wu	59
@@ -564835,14 +564174,14 @@ use_preset_vocabulary: false
 绝杀	Gqyuot sha	25046
 绝杀	jue Gsat	25046
 绝杀	jue sha	25046
-绝活	Gqyuot Gwet	56
 绝活	Gqyuot Gwot	56
+绝活	Gqyuot Gwut	56
 绝活	Gqyuot huo	56
 绝活	jue Gwot	56
 绝活	jue huo	56
-绝活儿	Gqyuot Gwet Geo	17
 绝活儿	Gqyuot Gwot Geo	17
 绝活儿	Gqyuot Gwot er	17
+绝活儿	Gqyuot Gwut Geo	17
 绝活儿	Gqyuot huo Geo	17
 绝活儿	Gqyuot huo er	17
 绝活儿	jue Gwot Geo	17
@@ -564873,7 +564212,6 @@ use_preset_vocabulary: false
 绝版	Gqyuot Gban	10
 绝版	jue Gban	10
 绝版	jue ban	10
-绝物	Gqyuot Gwet	100000
 绝物	Gqyuot Gwut	100000
 绝物	Gqyuot wu	100000
 绝物	jue Gwut	100000
@@ -567183,9 +566521,7 @@ use_preset_vocabulary: false
 绿肥	Glyut fei	76
 绿肥	lv Gfui	76
 绿肥	lv fei	76
-绿肥作物	Gliuk Gfui Gzok Gwet	29
 绿肥作物	Gliuk Gfui Gzok Gwut	29
-绿肥作物	Glyut Gfui Gzok Gwet	29
 绿肥作物	Glyut Gfui Gzok Gwut	29
 绿肥作物	Glyut Gfui Gzok wu	29
 绿肥作物	Glyut Gfui zuo Gwut	29
@@ -567207,14 +566543,10 @@ use_preset_vocabulary: false
 绿色	Glyut se	2851
 绿色	lv Gsêt	2851
 绿色	lv se	2851
-绿色植物	Gliuk Gsêt Gcet Gwet	86
 绿色植物	Gliuk Gsêt Gcet Gwut	86
-绿色植物	Gliuk Gsêt Gzïk Gwet	86
 绿色植物	Gliuk Gsêt Gzïk Gwut	86
-绿色植物	Glyut Gsêt Gcet Gwet	86
 绿色植物	Glyut Gsêt Gcet Gwut	86
 绿色植物	Glyut Gsêt Gcet wu	86
-绿色植物	Glyut Gsêt Gzïk Gwet	86
 绿色植物	Glyut Gsêt Gzïk Gwut	86
 绿色植物	Glyut Gsêt zhi Gwut	86
 绿色植物	Glyut Gsêt zhi wu	86
@@ -571879,8 +571211,8 @@ use_preset_vocabulary: false
 羌族	Gqiong zu	360
 羌族	qiang Gcuk	360
 羌族	qiang zu	360
-羌活	Gqiong Gwet	16
 羌活	Gqiong Gwot	16
+羌活	Gqiong Gwut	16
 羌活	Gqiong huo	16
 羌活	qiang Gwot	16
 羌活	qiang huo	16
@@ -582031,10 +581363,8 @@ use_preset_vocabulary: false
 聚合	Gqyu he	5573
 聚合	ju Ghot	5573
 聚合	ju he	5573
-聚合物	Gqyu Ghot Gwet	261
 聚合物	Gqyu Ghot Gwut	261
 聚合物	Gqyu Ghot wu	261
-聚合物	Gqyu Wgot Gwet	261
 聚合物	Gqyu Wgot Gwut	261
 聚合物	Gqyu he Gwut	261
 聚合物	Gqyu he wu	261
@@ -584104,9 +583434,9 @@ use_preset_vocabulary: false
 肺泡	Gfui pao	96
 肺泡	fei Gpau	96
 肺泡	fei pao	96
-肺活量	Gfui Gwet Gliong	27
 肺活量	Gfui Gwot Gliong	27
 肺活量	Gfui Gwot liang	27
+肺活量	Gfui Gwut Gliong	27
 肺活量	Gfui huo Gliong	27
 肺活量	Gfui huo liang	27
 肺活量	fei Gwot Gliong	27
@@ -584305,7 +583635,6 @@ use_preset_vocabulary: false
 肿大	Gzung da	192
 肿大	zhong Gtai	192
 肿大	zhong da	192
-肿物	Gzung Gwet	102
 肿物	Gzung Gwut	102
 肿物	Gzung wu	102
 肿物	zhong Gwut	102
@@ -587078,7 +586407,6 @@ use_preset_vocabulary: false
 胶状	Ggau zhuang	25
 胶状	jiao Gcong	25
 胶状	jiao zhuang	25
-胶状物	Ggau Gcong Gwet	11
 胶状物	Ggau Gcong Gwut	11
 胶状物	Ggau Gcong wu	11
 胶状物	Ggau zhuang Gwut	11
@@ -587953,7 +587281,6 @@ use_preset_vocabulary: false
 脊椎	Gjiak zhui	121
 脊椎	ji Gcui	121
 脊椎	ji zhui	121
-脊椎动物	Gjiak Gcui Gtung Gwet	491
 脊椎动物	Gjiak Gcui Gtung Gwut	491
 脊椎动物	Gjiak Gcui Gtung wu	491
 脊椎动物	Gjiak Gcui dong Gwut	491
@@ -587995,12 +587322,10 @@ use_preset_vocabulary: false
 脊索	Gjiak suo	57
 脊索	ji Gsok	57
 脊索	ji suo	57
-脊索动物	Gjiak Gsok Gtung Gwet	42
 脊索动物	Gjiak Gsok Gtung Gwut	42
 脊索动物	Gjiak Gsok Gtung wu	42
 脊索动物	Gjiak Gsok dong Gwut	42
 脊索动物	Gjiak Gsok dong wu	42
-脊索动物	Gjiak Gxyuot Gtung Gwet	42
 脊索动物	Gjiak Gxyuot Gtung Gwut	42
 脊索动物	Gjiak suo Gtung Gwut	42
 脊索动物	Gjiak suo Gtung wu	42
@@ -588114,12 +587439,11 @@ use_preset_vocabulary: false
 脏污	Gzong Gwu	10
 脏污	zang Gwu	10
 脏污	zang wu	10
-脏活	Gzong Gwet	8
 脏活	Gzong Gwot	8
+脏活	Gzong Gwut	8
 脏活	Gzong huo	8
 脏活	zang Gwot	8
 脏活	zang huo	8
-脏物	Gzong Gwet	27
 脏物	Gzong Gwut	27
 脏物	Gzong wu	27
 脏物	zang Gwut	27
@@ -589802,7 +589126,6 @@ use_preset_vocabulary: false
 腔肠	Gqiong chang	7
 腔肠	qiang Gcong	7
 腔肠	qiang chang	7
-腔肠动物	Gqiong Gcong Gtung Gwet	32
 腔肠动物	Gqiong Gcong Gtung Gwut	32
 腔肠动物	Gqiong Gcong Gtung wu	32
 腔肠动物	Gqiong Gcong dong Gwut	32
@@ -590905,10 +590228,8 @@ use_preset_vocabulary: false
 臧否	Gzong pi	8
 臧否	zang Gfêu	8
 臧否	zang pi	8
-臧否人物	Gzong Gfêu Gnin Gwet	9
 臧否人物	Gzong Gfêu Gnin Gwut	9
 臧否人物	Gzong Gfêu Gnin wu	9
-臧否人物	Gzong Gfêu Wlen Gwet	9
 臧否人物	Gzong Gfêu Wlen Gwut	9
 臧否人物	Gzong Gfêu ren Gwut	9
 臧否人物	Gzong Gfêu ren wu	9
@@ -592562,7 +591883,6 @@ use_preset_vocabulary: false
 自然灾害	zi Glên Gzai Ghai	306
 自然灾害	zi ran Gzai Ghai	306
 自然灾害	zi ran zai hai	306
-自然物	Gcï Glên Gwet	25
 自然物	Gcï Glên Gwut	25
 自然物	Gcï Glên wu	25
 自然物	Gcï ran Gwut	25
@@ -594508,9 +593828,7 @@ use_preset_vocabulary: false
 致癌性	zhi Gngan xing	26
 致癌性	zhi ai Gxin	26
 致癌性	zhi ai xing	26
-致癌物	Gzï Gngai Gwet	57
 致癌物	Gzï Gngai Gwut	57
-致癌物	Gzï Gngan Gwet	57
 致癌物	Gzï Gngan Gwut	57
 致癌物	Gzï Gngan wu	57
 致癌物	Gzï ai Gwut	57
@@ -595023,11 +594341,11 @@ use_preset_vocabulary: false
 舒畅	Gxyu chang	298
 舒畅	shu Gcong	298
 舒畅	shu chang	298
-舒筋活络	Gsu Gjin Gwet Glok	7
 舒筋活络	Gsu Gjin Gwot Glok	7
-舒筋活络	Gxyu Gjin Gwet Glok	7
+舒筋活络	Gsu Gjin Gwut Glok	7
 舒筋活络	Gxyu Gjin Gwot Glok	7
 舒筋活络	Gxyu Gjin Gwot luo	7
+舒筋活络	Gxyu Gjin Gwut Glok	7
 舒筋活络	Gxyu Gjin huo Glok	7
 舒筋活络	Gxyu Gjin huo luo	7
 舒筋活络	shu Gjin Gwot Glok	7
@@ -595035,11 +594353,11 @@ use_preset_vocabulary: false
 舒筋活络	shu Gjin huo Glok	7
 舒筋活络	shu Gjin huo luo	7
 舒筋活络	shu jin huo luo	7
-舒筋活血	Gsu Gjin Gwet Gxyuot	12
 舒筋活血	Gsu Gjin Gwot Gxyuot	12
-舒筋活血	Gxyu Gjin Gwet Gxyuot	12
+舒筋活血	Gsu Gjin Gwut Gxyuot	12
 舒筋活血	Gxyu Gjin Gwot Gxyuot	12
 舒筋活血	Gxyu Gjin Gwot xue	12
+舒筋活血	Gxyu Gjin Gwut Gxyuot	12
 舒筋活血	Gxyu Gjin huo Gxyuot	12
 舒筋活血	Gxyu Gjin huo xue	12
 舒筋活血	shu Gjin Gwot Gxyuot	12
@@ -597899,7 +597217,6 @@ use_preset_vocabulary: false
 节约型	jie Gyok xing	20
 节约型	jie yue Gxin	20
 节约型	jie yue xing	20
-节肢动物	Gjiêt Gzï Gtung Gwet	76
 节肢动物	Gjiêt Gzï Gtung Gwut	76
 节肢动物	Gjiêt Gzï Gtung wu	76
 节肢动物	Gjiêt Gzï dong Gwut	76
@@ -599881,10 +599198,8 @@ use_preset_vocabulary: false
 芳香族	fang Gxiong zu	35
 芳香族	fang xiang Gcuk	35
 芳香族	fang xiang zu	35
-芳香族化合物	Gfong Gxiong Gcuk Gfa Ghot Gwet	19
 芳香族化合物	Gfong Gxiong Gcuk Gfa Ghot Gwut	19
 芳香族化合物	Gfong Gxiong Gcuk Gfa Ghot wu	19
-芳香族化合物	Gfong Gxiong Gcuk Gfa Wgot Gwet	19
 芳香族化合物	Gfong Gxiong Gcuk Gfa Wgot Gwut	19
 芳香族化合物	Gfong Gxiong Gcuk Gfa he Gwut	19
 芳香族化合物	Gfong Gxiong Gcuk Gfa he wu	19
@@ -600895,10 +600210,8 @@ use_preset_vocabulary: false
 苔藓	Gtai Gxiên	173
 苔藓	Gtai xian	173
 苔藓	tai xian	173
-苔藓植物	Gtai Gxiên Gcet Gwet	45
 苔藓植物	Gtai Gxiên Gcet Gwut	45
 苔藓植物	Gtai Gxiên Gcet wu	45
-苔藓植物	Gtai Gxiên Gzïk Gwet	45
 苔藓植物	Gtai Gxiên Gzïk Gwut	45
 苔藓植物	Gtai Gxiên zhi Gwut	45
 苔藓植物	Gtai Gxiên zhi wu	45
@@ -601184,8 +600497,8 @@ use_preset_vocabulary: false
 苟延残喘	gou yan Gcan Gcon	54
 苟延残喘	gou yan Gcan chuan	54
 苟延残喘	gou yan can chuan	54
-苟活	Ggiêu Gwet	40
 苟活	Ggiêu Gwot	40
+苟活	Ggiêu Gwut	40
 苟活	Ggiêu huo	40
 苟活	gou Gwot	40
 苟活	gou huo	40
@@ -601724,8 +601037,8 @@ use_preset_vocabulary: false
 苦水	Gku shui	95
 苦水	ku shui	95
 苦求	Gku Gqiu	17
-苦活	Gku Gwet	7
 苦活	Gku Gwot	7
+苦活	Gku Gwut	7
 苦活	Gku huo	7
 苦活	ku huo	7
 苦海	Gku Ghai	66
@@ -603341,7 +602654,6 @@ use_preset_vocabulary: false
 茂密	Gmêu mi	409
 茂密	mao Gmêt	409
 茂密	mao mi	409
-茂物	Gmêu Gwet	16
 茂物	Gmêu Gwut	16
 茂物	Gmêu wu	16
 茂物	mao Gwut	16
@@ -604776,10 +604088,8 @@ use_preset_vocabulary: false
 草本	Gcau Gben	355
 草本	cao Gben	355
 草本	cao ben	355
-草本植物	Gcau Gben Gcet Gwet	139
 草本植物	Gcau Gben Gcet Gwut	139
 草本植物	Gcau Gben Gcet wu	139
-草本植物	Gcau Gben Gzïk Gwet	139
 草本植物	Gcau Gben Gzïk Gwut	139
 草本植物	Gcau Gben zhi Gwut	139
 草本植物	Gcau Gben zhi wu	139
@@ -605974,12 +605284,10 @@ use_preset_vocabulary: false
 药片	Gyok pian	95
 药片	yao Gpiên	95
 药片	yao pian	95
-药物	Gyok Gwet	3727
 药物	Gyok Gwut	3727
 药物	Gyok wu	3727
 药物	yao Gwut	3727
 药物	yao wu	3727
-药物学	Gyok Gwet Ghok	287
 药物学	Gyok Gwut Ghok	287
 药物学	Gyok Gwut xue	287
 药物学	Gyok wu Ghok	287
@@ -608710,7 +608018,6 @@ use_preset_vocabulary: false
 营养液	ying Gyong ye	98
 营养液	ying yang Gyit	98
 营养液	ying yang ye	98
-营养物	Gyin Gyong Gwet	21
 营养物	Gyin Gyong Gwut	21
 营养物	Gyin Gyong wu	21
 营养物	Gyin yang Gwut	21
@@ -613407,10 +612714,8 @@ use_preset_vocabulary: false
 蕨类	Gjyuot lei	56
 蕨类	jue Glui	56
 蕨类	jue lei	56
-蕨类植物	Gjyuot Glui Gcet Gwet	55
 蕨类植物	Gjyuot Glui Gcet Gwut	55
 蕨类植物	Gjyuot Glui Gcet wu	55
-蕨类植物	Gjyuot Glui Gzïk Gwet	55
 蕨类植物	Gjyuot Glui Gzïk Gwut	55
 蕨类植物	Gjyuot Glui zhi Gwut	55
 蕨类植物	Gjyuot Glui zhi wu	55
@@ -614383,10 +613688,8 @@ use_preset_vocabulary: false
 藤本	Gtên Gben	63
 藤本	teng Gben	63
 藤本	teng ben	63
-藤本植物	Gtên Gben Gcet Gwet	37
 藤本植物	Gtên Gben Gcet Gwut	37
 藤本植物	Gtên Gben Gcet wu	37
-藤本植物	Gtên Gben Gzïk Gwet	37
 藤本植物	Gtên Gben Gzïk Gwut	37
 藤本植物	Gtên Gben zhi Gwut	37
 藤本植物	Gtên Gben zhi wu	37
@@ -614478,10 +613781,8 @@ use_preset_vocabulary: false
 藻类	Gzau lei	271
 藻类	zao Glui	271
 藻类	zao lei	271
-藻类植物	Gzau Glui Gcet Gwet	32
 藻类植物	Gzau Glui Gcet Gwut	32
 藻类植物	Gzau Glui Gcet wu	32
-藻类植物	Gzau Glui Gzïk Gwet	32
 藻类植物	Gzau Glui Gzïk Gwut	32
 藻类植物	Gzau Glui zhi Gwut	32
 藻类植物	Gzau Glui zhi wu	32
@@ -614593,9 +613894,8 @@ use_preset_vocabulary: false
 虎丘	Gfu Gqiu	95
 虎丘	hu Gqiu	95
 虎丘	hu qiu	95
-虎仔	Gfu Gzï	13
-虎仔	Gfu zai	13
-虎仔	hu Gzï	13
+虎仔	Gfu Gzai	13
+虎仔	hu Gzai	13
 虎仔	hu zai	13
 虎克	Gfu Gkiêt	9
 虎克	Gfu ke	9
@@ -617756,7 +617056,6 @@ use_preset_vocabulary: false
 蠢汉	Gcun han	7
 蠢汉	chun Ghon	7
 蠢汉	chun han	7
-蠢物	Gcun Gwet	23
 蠢物	Gcun Gwut	23
 蠢物	Gcun wu	23
 蠢物	chun Gwut	23
@@ -619619,10 +618918,8 @@ use_preset_vocabulary: false
 衍生	Gyên sheng	25319
 衍生	yan Gsên	25319
 衍生	yan sheng	25319
-衍生物	Gyên Gsên Gwet	255
 衍生物	Gyên Gsên Gwut	255
 衍生物	Gyên Gsên wu	255
-衍生物	Gyên Wsang Gwet	255
 衍生物	Gyên Wsang Gwut	255
 衍生物	Gyên sheng Gwut	255
 衍生物	Gyên sheng wu	255
@@ -620010,7 +619307,6 @@ use_preset_vocabulary: false
 衣片	Gyi Gpiên	14
 衣片	Gyi pian	14
 衣片	yi pian	14
-衣物	Gyi Gwet	314
 衣物	Gyi Gwut	314
 衣物	Gyi wu	314
 衣物	yi wu	314
@@ -621773,10 +621069,8 @@ use_preset_vocabulary: false
 被子	Gpi zi	655
 被子	bei Gzï	655
 被子	bei zi	655
-被子植物	Gpi Gzï Gcet Gwet	164
 被子植物	Gpi Gzï Gcet Gwut	164
 被子植物	Gpi Gzï Gcet wu	164
-被子植物	Gpi Gzï Gzïk Gwet	164
 被子植物	Gpi Gzï Gzïk Gwut	164
 被子植物	Gpi Gzï zhi Gwut	164
 被子植物	Gpi Gzï zhi wu	164
@@ -622722,10 +622016,8 @@ use_preset_vocabulary: false
 装饰板	zhuang Gset Gban	12
 装饰板	zhuang shi Gban	12
 装饰板	zhuang shi ban	12
-装饰物	Gzong Gset Gwet	22
 装饰物	Gzong Gset Gwut	22
 装饰物	Gzong Gset wu	22
-装饰物	Gzong Gsïk Gwet	22
 装饰物	Gzong Gsïk Gwut	22
 装饰物	Gzong shi Gwut	22
 装饰物	Gzong shi wu	22
@@ -623022,10 +622314,8 @@ use_preset_vocabulary: false
 裸体	Glo Gti	25205
 裸体	luo Gti	25205
 裸体	luo ti	25205
-裸子植物	Glo Gzï Gcet Gwet	112
 裸子植物	Glo Gzï Gcet Gwut	112
 裸子植物	Glo Gzï Gcet wu	112
-裸子植物	Glo Gzï Gzïk Gwet	112
 裸子植物	Glo Gzï Gzïk Gwut	112
 裸子植物	Glo Gzï zhi Gwut	112
 裸子植物	Glo Gzï zhi wu	112
@@ -625774,8 +625064,8 @@ use_preset_vocabulary: false
 要死	Gyêu si	25533
 要死	yao Gsï	25533
 要死	yao si	25533
-要死要活	Gyêu Gsï Gyêu Gwet	19
 要死要活	Gyêu Gsï Gyêu Gwot	19
+要死要活	Gyêu Gsï Gyêu Gwut	19
 要死要活	Gyêu Gsï Gyêu huo	19
 要死要活	Gyêu Gsï yao Gwot	19
 要死要活	Gyêu Gsï yao huo	19
@@ -625939,7 +625229,6 @@ use_preset_vocabulary: false
 覆盖度	fu Ggai Gtu	36
 覆盖度	fu Ggai du	36
 覆盖度	fu gai du	36
-覆盖物	Gfuk Ggai Gwet	10
 覆盖物	Gfuk Ggai Gwut	10
 覆盖物	Gfuk Ggai wu	10
 覆盖物	fu Ggai Gwut	10
@@ -626772,10 +626061,8 @@ use_preset_vocabulary: false
 观赏树	guan Gsong shu	11
 观赏树	guan shang Gsu	11
 观赏树	guan shang shu	11
-观赏植物	Gguon Gsong Gcet Gwet	86
 观赏植物	Gguon Gsong Gcet Gwut	86
 观赏植物	Gguon Gsong Gcet wu	86
-观赏植物	Gguon Gsong Gzïk Gwet	86
 观赏植物	Gguon Gsong Gzïk Gwut	86
 观赏植物	Gguon Gsong zhi Gwut	86
 观赏植物	Gguon Gsong zhi wu	86
@@ -628891,7 +628178,6 @@ use_preset_vocabulary: false
 言之成理	yan zhi Gcen Gli	38
 言之成理	yan zhi cheng Gli	38
 言之成理	yan zhi cheng li	38
-言之有物	Gniên Gzï Gyiu Gwet	19
 言之有物	Gniên Gzï Gyiu Gwut	19
 言之有物	Gniên Gzï Gyiu wu	19
 言之有物	Gniên Gzï you Gwut	19
@@ -628900,7 +628186,6 @@ use_preset_vocabulary: false
 言之有物	Gniên zhi Gyiu wu	19
 言之有物	Gniên zhi you Gwut	19
 言之有物	Gniên zhi you wu	19
-言之有物	Gyên Gzï Gyiu Gwet	19
 言之有物	Gyên Gzï Gyiu Gwut	19
 言之有物	yan Gzï Gyiu Gwut	19
 言之有物	yan Gzï Gyiu wu	19
@@ -631125,11 +630410,11 @@ use_preset_vocabulary: false
 讨教	Gtau jiao	120
 讨教	tao Ggau	120
 讨教	tao jiao	120
-讨生活	Gtau Gsên Gwet	18
 讨生活	Gtau Gsên Gwot	18
+讨生活	Gtau Gsên Gwut	18
 讨生活	Gtau Gsên huo	18
-讨生活	Gtau Wsang Gwet	18
 讨生活	Gtau Wsang Gwot	18
+讨生活	Gtau Wsang Gwut	18
 讨生活	Gtau sheng Gwot	18
 讨生活	Gtau sheng huo	18
 讨生活	tao Gsên Gwot	18
@@ -633666,7 +632951,6 @@ use_preset_vocabulary: false
 证照	Gzen zhao	32
 证照	zheng Gzêu	32
 证照	zheng zhao	32
-证物	Gzen Gwet	12
 证物	Gzen Gwut	12
 证物	Gzen wu	12
 证物	zheng Gwut	12
@@ -638482,7 +637766,6 @@ use_preset_vocabulary: false
 诺贝尔文学奖	nuo bei er wen Ghok jiang	109
 诺贝尔文学奖	nuo bei er wen xue Gjiong	109
 诺贝尔文学奖	nuo bei er wen xue jiang	109
-诺贝尔物理学奖	Glok Gbi Geo Gwet Gli Ghok Gjiong	95
 诺贝尔物理学奖	Glok Gbi Geo Gwut Gli Ghok Gjiong	95
 诺贝尔物理学奖	Glok Gbi Geo Gwut Gli Ghok jiang	95
 诺贝尔物理学奖	Glok Gbi Geo Gwut Gli xue Gjiong	95
@@ -638744,7 +638027,6 @@ use_preset_vocabulary: false
 读法	Gtuk fa	100022
 读法	du Gfat	100022
 读法	du fa	100022
-读物	Gtuk Gwet	269
 读物	Gtuk Gwut	269
 读物	Gtuk wu	269
 读物	du Gwut	269
@@ -641481,7 +640763,6 @@ use_preset_vocabulary: false
 谷燕山	gu Gyên shan	90
 谷燕山	gu yan Gsan	90
 谷燕山	gu yan shan	90
-谷物	Gguk Gwet	696
 谷物	Gguk Gwut	696
 谷物	Gguk wu	696
 谷物	gu Gwut	696
@@ -641518,7 +640799,6 @@ use_preset_vocabulary: false
 谷类	Gguk lei	69
 谷类	gu Glui	69
 谷类	gu lei	69
-谷类作物	Gguk Glui Gzok Gwet	22
 谷类作物	Gguk Glui Gzok Gwut	22
 谷类作物	Gguk Glui Gzok wu	22
 谷类作物	Gguk Glui zuo Gwut	22
@@ -643568,7 +642848,6 @@ use_preset_vocabulary: false
 贡比涅	gong Gbi Gniêt	18
 贡比涅	gong Gbi nie	18
 贡比涅	gong bi nie	18
-贡物	Ggung Gwet	19
 贡物	Ggung Gwut	19
 贡物	Ggung wu	19
 贡物	gong Gwut	19
@@ -643799,7 +643078,6 @@ use_preset_vocabulary: false
 财源	Gcai Gyuon	112
 财源	Gcai yuan	112
 财源	cai yuan	112
-财物	Gcai Gwet	1261
 财物	Gcai Gwut	1261
 财物	Gcai wu	1261
 财物	cai wu	1261
@@ -644497,7 +643775,6 @@ use_preset_vocabulary: false
 货源	Gfo yuan	99
 货源	huo Gnyuon	99
 货源	huo yuan	99
-货物	Gfo Gwet	1482
 货物	Gfo Gwut	1482
 货物	Gfo wu	1482
 货物	huo Gwut	1482
@@ -645271,12 +644548,10 @@ use_preset_vocabulary: false
 购汇	Ggiêu hui	69
 购汇	gou Gfui	69
 购汇	gou hui	69
-购物	Ggiêu Gwet	994
 购物	Ggiêu Gwut	994
 购物	Ggiêu wu	994
 购物	gou Gwut	994
 购物	gou wu	994
-购物券	Ggiêu Gwet Gjyuon	20
 购物券	Ggiêu Gwut Gjyuon	20
 购物券	Ggiêu Gwut quan	20
 购物券	Ggiêu wu Gjyuon	20
@@ -645285,7 +644560,6 @@ use_preset_vocabulary: false
 购物券	gou Gwut quan	20
 购物券	gou wu Gjyuon	20
 购物券	gou wu quan	20
-购物点	Ggiêu Gwet Gdiên	38
 购物点	Ggiêu Gwut Gdiên	38
 购物点	Ggiêu Gwut dian	38
 购物点	Ggiêu wu Gdiên	38
@@ -647177,7 +646451,6 @@ use_preset_vocabulary: false
 赃款	Gzong kuan	33
 赃款	zang Gkuon	33
 赃款	zang kuan	33
-赃物	Gzong Gwet	60
 赃物	Gzong Gwut	60
 赃物	Gzong wu	60
 赃物	zang Gwut	60
@@ -651097,7 +650370,6 @@ use_preset_vocabulary: false
 超然	Gcêu ran	52
 超然	chao Glên	52
 超然	chao ran	52
-超然物外	Gcêu Glên Gwet Gwai	9
 超然物外	Gcêu Glên Gwut Gwai	9
 超然物外	Gcêu Glên wu Gwai	9
 超然物外	Gcêu ran Gwut Gwai	9
@@ -651450,7 +650722,6 @@ use_preset_vocabulary: false
 越冬	Gyuot dong	250
 越冬	yue Gdung	250
 越冬	yue dong	250
-越冬作物	Gyuot Gdung Gzok Gwet	11
 越冬作物	Gyuot Gdung Gzok Gwut	11
 越冬作物	Gyuot Gdung Gzok wu	11
 越冬作物	Gyuot Gdung zuo Gwut	11
@@ -654399,7 +653670,6 @@ use_preset_vocabulary: false
 身外	Gsen Gwai	75
 身外	shen Gwai	75
 身外	shen wai	75
-身外之物	Gsen Gwai Gzï Gwet	67
 身外之物	Gsen Gwai Gzï Gwut	67
 身外之物	Gsen Gwai Gzï wu	67
 身外之物	Gsen Gwai zhi Gwut	67
@@ -656869,9 +656139,7 @@ use_preset_vocabulary: false
 软体	Gnyuon Gti	30
 软体	ruan Gti	30
 软体	ruan ti	30
-软体动物	Glun Gti Gtung Gwet	169
 软体动物	Glun Gti Gtung Gwut	169
-软体动物	Gnyuon Gti Gtung Gwet	169
 软体动物	Gnyuon Gti Gtung Gwut	169
 软体动物	Gnyuon Gti Gtung wu	169
 软体动物	Gnyuon Gti dong Gwut	169
@@ -657806,11 +657074,11 @@ use_preset_vocabulary: false
 轻水	Wqiang Gsui	14
 轻水	qing Gsui	14
 轻水	qing shui	14
-轻活	Gqin Gwet	9
 轻活	Gqin Gwot	9
+轻活	Gqin Gwut	9
 轻活	Gqin huo	9
-轻活	Wqiang Gwet	9
 轻活	Wqiang Gwot	9
+轻活	Wqiang Gwut	9
 轻活	qing Gwot	9
 轻活	qing huo	9
 轻浮	Gqin Gfêu	93
@@ -659605,10 +658873,6 @@ use_preset_vocabulary: false
 辩证	Gpiên zheng	339
 辩证	bian Gzen	339
 辩证	bian zheng	339
-辩证唯物主义	Gpiên Gzen Gwi Gwet Gjyu Gni	184
-辩证唯物主义	Gpiên Gzen Gwi Gwet Gjyu Gyi	184
-辩证唯物主义	Gpiên Gzen Gwi Gwet Gzu Gni	184
-辩证唯物主义	Gpiên Gzen Gwi Gwet Gzu Gyi	184
 辩证唯物主义	Gpiên Gzen Gwi Gwut Gjyu Gni	184
 辩证唯物主义	Gpiên Gzen Gwi Gwut Gjyu Gyi	184
 辩证唯物主义	Gpiên Gzen Gwi Gwut Gzu Gni	184
@@ -661440,7 +660704,6 @@ use_preset_vocabulary: false
 过氧化氢	Gguo yang hua Gqin	58
 过氧化氢	Gguo yang hua qing	58
 过氧化氢	guo yang hua qing	58
-过氧化物	Gguo Gyong Gfa Gwet	62
 过氧化物	Gguo Gyong Gfa Gwut	62
 过氧化物	Gguo Gyong Gfa wu	62
 过氧化物	Gguo Gyong hua Gwut	62
@@ -661505,8 +660768,8 @@ use_preset_vocabulary: false
 过河拆桥	Gguo he chai Gqiêu	27
 过河拆桥	Gguo he chai qiao	27
 过河拆桥	guo he chai qiao	27
-过活	Gguo Gwet	123
 过活	Gguo Gwot	123
+过活	Gguo Gwut	123
 过活	Gguo huo	123
 过活	guo huo	123
 过渡	Gguo Gtu	53036
@@ -669801,13 +669064,10 @@ use_preset_vocabulary: false
 造次	Gcau ci	70
 造次	zao Gcï	70
 造次	zao ci	70
-造物	Gcau Gwet	45
 造物	Gcau Gwut	45
 造物	Gcau wu	45
 造物	zao Gwut	45
 造物	zao wu	45
-造物主	Gcau Gwet Gjyu	26
-造物主	Gcau Gwet Gzu	26
 造物主	Gcau Gwut Gjyu	26
 造物主	Gcau Gwut Gzu	26
 造物主	Gcau Gwut zhu	26
@@ -670854,8 +670114,6 @@ use_preset_vocabulary: false
 遗传性	Gyi chuan Gxin	119
 遗传性	Gyi chuan xing	119
 遗传性	yi chuan xing	119
-遗传物质	Gyi Gcon Gwet Gzet	124
-遗传物质	Gyi Gcon Gwet Gzïk	124
 遗传物质	Gyi Gcon Gwut Gzet	124
 遗传物质	Gyi Gcon Gwut Gzïk	124
 遗传物质	Gyi Gcon Gwut zhi	124
@@ -670951,7 +670209,6 @@ use_preset_vocabulary: false
 遗漏	Gyi Glêu	25437
 遗漏	Gyi lou	25437
 遗漏	yi lou	25437
-遗物	Gyi Gwet	353
 遗物	Gyi Gwut	353
 遗物	Gyi wu	353
 遗物	yi wu	353
@@ -679739,8 +678996,8 @@ use_preset_vocabulary: false
 重洋	Gcung yang	7
 重洋	chong Gyong	7
 重洋	chong yang	7
-重活	Gcung Gwet	34
 重活	Gcung Gwot	34
+重活	Gcung Gwut	34
 重活	Gcung huo	34
 重活	zhong Gwot	34
 重活	zhong huo	34
@@ -679793,7 +679050,6 @@ use_preset_vocabulary: false
 重版	Gcung Gban	9
 重版	chong Gban	9
 重版	chong ban	9
-重物	Gcung Gwet	99
 重物	Gcung Gwut	99
 重物	Gcung wu	99
 重物	zhong Gwut	99
@@ -680328,7 +679584,6 @@ use_preset_vocabulary: false
 野牛	Gya Wngiêu	103
 野牛	ye Gniu	103
 野牛	ye niu	103
-野物	Gya Gwet	58
 野物	Gya Gwut	58
 野物	Gya wu	58
 野物	ye Gwut	58
@@ -683110,8 +682365,8 @@ use_preset_vocabulary: false
 针线包	zhen Gxiên bao	10
 针线包	zhen xian Gbau	10
 针线包	zhen xian bao	10
-针线活	Gzen Gxiên Gwet	32
 针线活	Gzen Gxiên Gwot	32
+针线活	Gzen Gxiên Gwut	32
 针线活	Gzen Gxiên huo	32
 针线活	Gzen xian Gwot	32
 针线活	Gzen xian huo	32
@@ -683145,10 +682400,8 @@ use_preset_vocabulary: false
 针织机	zhen Gzet Gji	14
 针织机	zhen zhi Gji	14
 针织机	zhen zhi ji	14
-针织物	Gzen Gzet Gwet	20
 针织物	Gzen Gzet Gwut	20
 针织物	Gzen Gzet wu	20
-针织物	Gzen Gzïk Gwet	20
 针织物	Gzen Gzïk Gwut	20
 针织物	Gzen zhi Gwut	20
 针织物	Gzen zhi wu	20
@@ -684290,7 +683543,6 @@ use_preset_vocabulary: false
 钱牧斋	qian Gmuk zhai	54
 钱牧斋	qian mu Gzai	54
 钱牧斋	qian mu zhai	54
-钱物	Gqiên Gwet	65
 钱物	Gqiên Gwut	65
 钱物	Gqiên wu	65
 钱物	qian Gwut	65
@@ -685265,10 +684517,8 @@ use_preset_vocabulary: false
 铁腕	Gtiêt wan	25
 铁腕	tie Gwon	25
 铁腕	tie wan	25
-铁腕人物	Gtiêt Gwon Gnin Gwet	7
 铁腕人物	Gtiêt Gwon Gnin Gwut	7
 铁腕人物	Gtiêt Gwon Gnin wu	7
-铁腕人物	Gtiêt Gwon Wlen Gwet	7
 铁腕人物	Gtiêt Gwon Wlen Gwut	7
 铁腕人物	Gtiêt Gwon ren Gwut	7
 铁腕人物	Gtiêt Gwon ren wu	7
@@ -685881,9 +685131,9 @@ use_preset_vocabulary: false
 铜梁	Gtung liang	10
 铜梁	tong Gliong	10
 铜梁	tong liang	10
-铜活字	Gtung Gwet Gcï	7
 铜活字	Gtung Gwot Gcï	7
 铜活字	Gtung Gwot zi	7
+铜活字	Gtung Gwut Gcï	7
 铜活字	Gtung huo Gcï	7
 铜活字	Gtung huo zi	7
 铜活字	tong Gwot Gcï	7
@@ -689301,7 +688551,6 @@ use_preset_vocabulary: false
 长城公司	chang cheng Ggung si	7
 长城公司	chang cheng gong Gsï	7
 长城公司	chang cheng gong si	7
-长城博物馆	Gcong Gcen Gbok Gwet Gguon	7
 长城博物馆	Gcong Gcen Gbok Gwut Gguon	7
 长城博物馆	Gcong Gcen Gbok Gwut guan	7
 长城博物馆	Gcong Gcen Gbok wu Gguon	7
@@ -689310,7 +688559,6 @@ use_preset_vocabulary: false
 长城博物馆	Gcong Gcen bo Gwut guan	7
 长城博物馆	Gcong Gcen bo wu Gguon	7
 长城博物馆	Gcong Gcen bo wu guan	7
-长城博物馆	Gcong Wsang Gbok Gwet Gguon	7
 长城博物馆	Gcong Wsang Gbok Gwut Gguon	7
 长城博物馆	Gcong cheng Gbok Gwut Gguon	7
 长城博物馆	Gcong cheng Gbok Gwut guan	7
@@ -690342,8 +689590,8 @@ use_preset_vocabulary: false
 长津湖	zhang Gjin Gfu	9
 长津湖	zhang Gjin hu	9
 长津湖	zhang jin hu	9
-长活	Gcong Gwet	7
 长活	Gcong Gwot	7
+长活	Gcong Gwut	7
 长活	Gcong huo	7
 长活	chang Gwot	7
 长活	chang huo	7
@@ -699296,7 +698544,6 @@ use_preset_vocabulary: false
 附属国	Gfu shu Gguêt	40
 附属国	Gfu shu guo	40
 附属国	fu shu guo	40
-附属物	Gfu Gsuk Gwet	48
 附属物	Gfu Gsuk Gwut	48
 附属物	Gfu Gsuk wu	48
 附属物	Gfu shu Gwut	48
@@ -699341,7 +698588,6 @@ use_preset_vocabulary: false
 附着力	Gfu zhuo Glit	15
 附着力	Gfu zhuo li	15
 附着力	fu zhuo li	15
-附着物	Gfu Gzok Gwet	13
 附着物	Gfu Gzok Gwut	13
 附着物	Gfu Gzok wu	13
 附着物	Gfu zhuo Gwut	13
@@ -699840,7 +699086,6 @@ use_preset_vocabulary: false
 陆栖	Gluk Gqi	38
 陆栖	lu Gqi	38
 陆栖	lu qi	38
-陆栖动物	Gluk Gqi Gtung Gwet	7
 陆栖动物	Gluk Gqi Gtung Gwut	7
 陆栖动物	Gluk Gqi Gtung wu	7
 陆栖动物	Gluk Gqi dong Gwut	7
@@ -702638,8 +701883,6 @@ use_preset_vocabulary: false
 陕西省	shan Gxi Gsên	1099
 陕西省	shan Gxi sheng	1099
 陕西省	shan xi sheng	1099
-陕西省物价局	Gsên Gxi Gsên Gwet Gga Gjyut	7
-陕西省物价局	Gsên Gxi Gsên Gwet Gga Gqiuk	7
 陕西省物价局	Gsên Gxi Gsên Gwut Gga Gjyut	7
 陕西省物价局	Gsên Gxi Gsên Gwut Gga Gqiuk	7
 陕西省物价局	Gsên Gxi Gsên Gwut Gga ju	7
@@ -702649,8 +701892,6 @@ use_preset_vocabulary: false
 陕西省物价局	Gsên Gxi Gsên wu Gga ju	7
 陕西省物价局	Gsên Gxi Gsên wu jia Gqiuk	7
 陕西省物价局	Gsên Gxi Gsên wu jia ju	7
-陕西省物价局	Gsên Gxi Wsang Gwet Gga Gjyut	7
-陕西省物价局	Gsên Gxi Wsang Gwet Gga Gqiuk	7
 陕西省物价局	Gsên Gxi Wsang Gwut Gga Gjyut	7
 陕西省物价局	Gsên Gxi Wsang Gwut Gga Gqiuk	7
 陕西省物价局	Gsên Gxi sheng Gwut Gga Gqiuk	7
@@ -704934,7 +704175,6 @@ use_preset_vocabulary: false
 障碍性	zhang Gngai xing	27
 障碍性	zhang ai Gxin	27
 障碍性	zhang ai xing	27
-障碍物	Gzong Gngai Gwet	168
 障碍物	Gzong Gngai Gwut	168
 障碍物	Gzong Gngai wu	168
 障碍物	Gzong ai Gwut	168
@@ -707762,11 +707002,11 @@ use_preset_vocabulary: false
 零星	Wliang Wxiang	574
 零星	ling Gxin	574
 零星	ling xing	574
-零活	Glin Gwet	11
 零活	Glin Gwot	11
+零活	Glin Gwut	11
 零活	Glin huo	11
-零活	Wliang Gwet	11
 零活	Wliang Gwot	11
+零活	Wliang Gwut	11
 零活	ling Gwot	11
 零活	ling huo	11
 零点	Glin Gdiên	435
@@ -711488,12 +710728,10 @@ use_preset_vocabulary: false
 静海县	jing Ghai Gxiên	11
 静海县	jing Ghai xian	11
 静海县	jing hai xian	11
-静物	Gqin Gwet	27
 静物	Gqin Gwut	27
 静物	Gqin wu	27
 静物	jing Gwut	27
 静物	jing wu	27
-静物画	Gqin Gwet Gfa	27
 静物画	Gqin Gwut Gfa	27
 静物画	Gqin Gwut hua	27
 静物画	Gqin wu Gfa	27
@@ -714317,10 +713555,8 @@ use_preset_vocabulary: false
 韦尔纳	wei Geo na	22
 韦尔纳	wei er Glat	22
 韦尔纳	wei er na	22
-韦应物	Gwi Gyin Gwet	10
 韦应物	Gwi Gyin Gwut	10
 韦应物	Gwi Gyin wu	10
-韦应物	Gwi Wngiên Gwet	10
 韦应物	Gwi Wngiên Gwut	10
 韦应物	Gwi ying Gwut	10
 韦应物	Gwi ying wu	10
@@ -717446,10 +716682,8 @@ use_preset_vocabulary: false
 领军	Wliang Gjyun	188
 领军	ling Gjyun	188
 领军	ling jun	188
-领军人物	Glin Gjyun Gnin Gwet	63
 领军人物	Glin Gjyun Gnin Gwut	63
 领军人物	Glin Gjyun Gnin wu	63
-领军人物	Glin Gjyun Wlen Gwet	63
 领军人物	Glin Gjyun Wlen Gwut	63
 领军人物	Glin Gjyun ren Gwut	63
 领军人物	Glin Gjyun ren wu	63
@@ -717457,9 +716691,7 @@ use_preset_vocabulary: false
 领军人物	Glin jun Gnin wu	63
 领军人物	Glin jun ren Gwut	63
 领军人物	Glin jun ren wu	63
-领军人物	Wliang Gjyun Gnin Gwet	63
 领军人物	Wliang Gjyun Gnin Gwut	63
-领军人物	Wliang Gjyun Wlen Gwet	63
 领军人物	Wliang Gjyun Wlen Gwut	63
 领军人物	ling Gjyun Gnin Gwut	63
 领军人物	ling Gjyun Gnin wu	63
@@ -718105,9 +717337,7 @@ use_preset_vocabulary: false
 颗粒剂	ke Gtit ji	9
 颗粒剂	ke li Gqi	9
 颗粒剂	ke li ji	9
-颗粒物	Gkuo Glit Gwet	43
 颗粒物	Gkuo Glit Gwut	43
-颗粒物	Gkuo Gtit Gwet	43
 颗粒物	Gkuo Gtit Gwut	43
 颗粒物	Gkuo Gtit wu	43
 颗粒物	Gkuo li Gwut	43
@@ -718912,10 +718142,8 @@ use_preset_vocabulary: false
 风云二号	feng Gyun er Ghau	8
 风云二号	feng Gyun er hao	8
 风云二号	feng yun er hao	8
-风云人物	Gfung Gyun Gnin Gwet	74
 风云人物	Gfung Gyun Gnin Gwut	74
 风云人物	Gfung Gyun Gnin wu	74
-风云人物	Gfung Gyun Wlen Gwet	74
 风云人物	Gfung Gyun Wlen Gwut	74
 风云人物	Gfung Gyun ren Gwut	74
 风云人物	Gfung Gyun ren wu	74
@@ -719575,10 +718803,8 @@ use_preset_vocabulary: false
 风流云散	Gfung Gliu Gyun Gsan	11
 风流云散	feng Gliu Gyun Gsan	11
 风流云散	feng liu yun san	11
-风流人物	Gfung Gliu Gnin Gwet	25
 风流人物	Gfung Gliu Gnin Gwut	25
 风流人物	Gfung Gliu Gnin wu	25
-风流人物	Gfung Gliu Wlen Gwet	25
 风流人物	Gfung Gliu Wlen Gwut	25
 风流人物	Gfung Gliu ren Gwut	25
 风流人物	Gfung Gliu ren wu	25
@@ -719715,7 +718941,6 @@ use_preset_vocabulary: false
 风烟	Gfung yan	7
 风烟	feng Gyên	7
 风烟	feng yan	7
-风物	Gfung Gwet	66
 风物	Gfung Gwut	66
 风物	Gfung wu	66
 风物	feng Gwut	66
@@ -721232,14 +720457,11 @@ use_preset_vocabulary: false
 食油	Gsïk Gyiu	36
 食油	shi Gyiu	36
 食油	shi you	36
-食物	Gset Gwet	3368
 食物	Gset Gwut	3368
 食物	Gset wu	3368
-食物	Gsïk Gwet	3368
 食物	Gsïk Gwut	3368
 食物	shi Gwut	3368
 食物	shi wu	3368
-食物中毒	Gset Gwet Gzung Gtuk	161
 食物中毒	Gset Gwut Gzung Gtuk	161
 食物中毒	Gset Gwut Gzung du	161
 食物中毒	Gset Gwut zhong Gtuk	161
@@ -721248,7 +720470,6 @@ use_preset_vocabulary: false
 食物中毒	Gset wu Gzung du	161
 食物中毒	Gset wu zhong Gtuk	161
 食物中毒	Gset wu zhong du	161
-食物中毒	Gsïk Gwet Gzung Gtuk	161
 食物中毒	Gsïk Gwut Gzung Gtuk	161
 食物中毒	shi Gwut Gzung Gtuk	161
 食物中毒	shi Gwut Gzung du	161
@@ -721258,12 +720479,10 @@ use_preset_vocabulary: false
 食物中毒	shi wu Gzung du	161
 食物中毒	shi wu zhong Gtuk	161
 食物中毒	shi wu zhong du	161
-食物链	Gset Gwet Gliên	87
 食物链	Gset Gwut Gliên	87
 食物链	Gset Gwut lian	87
 食物链	Gset wu Gliên	87
 食物链	Gset wu lian	87
-食物链	Gsïk Gwet Gliên	87
 食物链	Gsïk Gwut Gliên	87
 食物链	shi Gwut Gliên	87
 食物链	shi Gwut lian	87
@@ -721380,7 +720599,6 @@ use_preset_vocabulary: false
 食草	Gsïk Gcau	13
 食草	shi Gcau	13
 食草	shi cao	13
-食草动物	Gset Gcau Gtung Gwet	11
 食草动物	Gset Gcau Gtung Gwut	11
 食草动物	Gset Gcau Gtung wu	11
 食草动物	Gset Gcau dong Gwut	11
@@ -721389,7 +720607,6 @@ use_preset_vocabulary: false
 食草动物	Gset cao Gtung wu	11
 食草动物	Gset cao dong Gwut	11
 食草动物	Gset cao dong wu	11
-食草动物	Gsïk Gcau Gtung Gwet	11
 食草动物	Gsïk Gcau Gtung Gwut	11
 食草动物	shi Gcau Gtung Gwut	11
 食草动物	shi Gcau Gtung wu	11
@@ -721930,10 +721147,8 @@ use_preset_vocabulary: false
 饰演者	shi Gyên zhe	7
 饰演者	shi yan Gza	7
 饰演者	shi yan zhe	7
-饰物	Gset Gwet	145
 饰物	Gset Gwut	145
 饰物	Gset wu	145
-饰物	Gsïk Gwet	145
 饰物	Gsïk Gwut	145
 饰物	shi Gwut	145
 饰物	shi wu	145
@@ -722539,9 +721754,7 @@ use_preset_vocabulary: false
 馎	Gbok	4566
 馎	bo	4566
 馏	Gliu	101847
-馏出物	Gliu Gcet Gwet	8
 馏出物	Gliu Gcet Gwut	8
-馏出物	Gliu Gcuk Gwet	8
 馏出物	Gliu Gcuk Gwut	8
 馏出物	Gliu Gcuk wu	8
 馏出物	Gliu chu Gwut	8
@@ -730201,11 +729414,11 @@ use_preset_vocabulary: false
 高洪波	gao Gfung Gbo	31
 高洪波	gao hong Gbo	31
 高洪波	gao hong bo	31
-高活性	Ggau Gwet Gxin	8
-高活性	Ggau Gwet Wxiang	8
 高活性	Ggau Gwot Gxin	8
 高活性	Ggau Gwot Wxiang	8
 高活性	Ggau Gwot xing	8
+高活性	Ggau Gwut Gxin	8
+高活性	Ggau Gwut Wxiang	8
 高活性	Ggau huo Gxin	8
 高活性	Ggau huo xing	8
 高活性	gao Gwot Gxin	8
@@ -730888,7 +730101,6 @@ use_preset_vocabulary: false
 高职生	gao Gzet sheng	12
 高职生	gao zhi Gsên	12
 高职生	gao zhi sheng	12
-高聚物	Ggau Gqyu Gwet	33
 高聚物	Ggau Gqyu Gwut	33
 高聚物	Ggau Gqyu wu	33
 高聚物	Ggau ju Gwut	33
@@ -730910,7 +730122,6 @@ use_preset_vocabulary: false
 高能	Ggau neng	269
 高能	gao Glên	269
 高能	gao neng	269
-高能物理	Ggau Glên Gwet Gli	69
 高能物理	Ggau Glên Gwut Gli	69
 高能物理	Ggau Glên wu Gli	69
 高能物理	Ggau neng Gwut Gli	69
@@ -733943,8 +733154,8 @@ use_preset_vocabulary: false
 鲜汤	Gxiên tang	14
 鲜汤	xian Gtong	14
 鲜汤	xian tang	14
-鲜活	Gxiên Gwet	178
 鲜活	Gxiên Gwot	178
+鲜活	Gxiên Gwut	178
 鲜活	Gxiên huo	178
 鲜活	xian Gwot	178
 鲜活	xian huo	178
@@ -734052,8 +733263,8 @@ use_preset_vocabulary: false
 鲜黄	Gxiên huang	7
 鲜黄	xian Gwong	7
 鲜黄	xian huang	7
-鲜龙活	Gxiên Glung Gwet	11
 鲜龙活	Gxiên Glung Gwot	11
+鲜龙活	Gxiên Glung Gwut	11
 鲜龙活	Gxiên Glung huo	11
 鲜龙活	Gxiên long Gwot	11
 鲜龙活	Gxiên long huo	11
@@ -735778,10 +734989,8 @@ use_preset_vocabulary: false
 鹰派	Gyin Gpai	46
 鹰派	ying Gpai	46
 鹰派	ying pai	46
-鹰派人物	Gyin Gpai Gnin Gwet	9
 鹰派人物	Gyin Gpai Gnin Gwut	9
 鹰派人物	Gyin Gpai Gnin wu	9
-鹰派人物	Gyin Gpai Wlen Gwet	9
 鹰派人物	Gyin Gpai Wlen Gwut	9
 鹰派人物	Gyin Gpai ren Gwut	9
 鹰派人物	Gyin Gpai ren wu	9

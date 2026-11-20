@@ -271,6 +271,7 @@ speller:
     - derive/^Gdêu$/Fdeeu/
     - derive/^Gdêu$/Fdeu/
     - derive/^Gdêu$/Fdou/
+    - derive/^Geo$/Fer/
     - derive/^Geo$/Fero/
     - derive/^Geo$/Firo/
     - derive/^Geo$/Fo/
@@ -753,6 +754,9 @@ speller:
     - derive/^Gmêu$/Fmeeu/
     - derive/^Gmêu$/Fmeu/
     - derive/^Gmêu$/Fmou/
+    - derive/^Gng$/Fen/
+    - derive/^Gng$/Fern/
+    - derive/^Gng$/Firn/
     - fuzz/^Gngat$/Fnga/
     - fuzz/^Gngat$/Fngak/
     - derive/^Gngau$/Fngao/
@@ -1151,25 +1155,6 @@ speller:
     - derive/^Gtêu$/Ftou/
     - fuzz/^Gwat$/Fwa/
     - fuzz/^Gwat$/Fwak/
-    - fuzz/^Gwet$/Fwe/
-    - fuzz/^Gwet$/Fweir/
-    - fuzz/^Gwet$/Fweirk/
-    - fuzz/^Gwet$/Fweirp/
-    - derive/^Gwet$/Fweirt/
-    - fuzz/^Gwet$/Fwek/
-    - fuzz/^Gwet$/Fwep/
-    - fuzz/^Gwet$/Fwer/
-    - fuzz/^Gwet$/Fwerk/
-    - fuzz/^Gwet$/Fwerp/
-    - derive/^Gwet$/Fwert/
-    - fuzz/^Gwet$/Fwir/
-    - fuzz/^Gwet$/Fwirk/
-    - fuzz/^Gwet$/Fwirp/
-    - derive/^Gwet$/Fwirt/
-    - fuzz/^Gwet$/Fwuir/
-    - fuzz/^Gwet$/Fwuirk/
-    - fuzz/^Gwet$/Fwuirp/
-    - derive/^Gwet$/Fwuirt/
     - derive/^Gwi$/Fwei/
     - derive/^Gwi$/Fweiri/
     - derive/^Gwi$/Fweri/
@@ -1401,6 +1386,9 @@ speller:
     - fuzz/^Gzïk$/Fzït/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
+    - derive/^Gê$/Fei/
+    - derive/^Gê$/Feri/
+    - derive/^Gê$/Firi/
     - xform/^G//
     - xform/^F//
     - abbrev/^([a-z]).+$/$1/
