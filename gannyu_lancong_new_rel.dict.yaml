@@ -110289,22 +110289,22 @@ use_preset_vocabulary: false
 八大处	ba Gtai chu	13
 八大处	ba da Gcu	13
 八大处	ba da chu	13
-八大山人	Gbat Gtai Gsan Gnin	100000
-八大山人	Gbat Gtai Gsan Wlen	100000
+八大山人	Gbat Gtai Gsan Glen	100000
+八大山人	Gbat Gtai Gsan Wnin	100000
 八大山人	Gbat Gtai Gsan ren	100000
-八大山人	Gbat Gtai shan Gnin	100000
+八大山人	Gbat Gtai shan Glen	100000
 八大山人	Gbat Gtai shan ren	100000
-八大山人	Gbat da Gsan Gnin	100000
+八大山人	Gbat da Gsan Glen	100000
 八大山人	Gbat da Gsan ren	100000
-八大山人	Gbat da shan Gnin	100000
+八大山人	Gbat da shan Glen	100000
 八大山人	Gbat da shan ren	100000
-八大山人	ba Gtai Gsan Gnin	100000
+八大山人	ba Gtai Gsan Glen	100000
 八大山人	ba Gtai Gsan ren	100000
-八大山人	ba Gtai shan Gnin	100000
+八大山人	ba Gtai shan Glen	100000
 八大山人	ba Gtai shan ren	100000
-八大山人	ba da Gsan Gnin	100000
+八大山人	ba da Gsan Glen	100000
 八大山人	ba da Gsan ren	100000
-八大山人	ba da shan Gnin	100000
+八大山人	ba da shan Glen	100000
 八大山人	ba da shan ren	100000
 八天	Gbat Gtiên	5072
 八天	Gbat tian	5072
@@ -213560,10 +213560,13 @@ use_preset_vocabulary: false
 坛子	Gtan Gzï	117
 坛子	Gtan zi	117
 坛子	tan zi	117
-坛子口	Gtan Gzï Gkiêu	100000
-坛子口	Gtan Gzï kou	100000
-坛子口	Gtan zi Gkiêu	100000
-坛子口	Gtan zi kou	100000
+坛子口	Gton Gzï Gkiêu	100000
+坛子口	Gton Gzï kou	100000
+坛子口	Gton zi Gkiêu	100000
+坛子口	Gton zi kou	100000
+坛子口	tan Gzï Gkiêu	100000
+坛子口	tan Gzï kou	100000
+坛子口	tan zi Gkiêu	100000
 坛子口	tan zi kou	100000
 坜	Glit	4264
 坜	li	4264
@@ -392212,6 +392215,11 @@ use_preset_vocabulary: false
 柏卫华	bai Gwi hua	28
 柏卫华	bai wei Gfa	28
 柏卫华	bai wei hua	28
+柏岗	Gbêt Ggong	100000
+柏岗	Gbêt gang	100000
+柏岗	Wbak Ggong	100000
+柏岗	bai Ggong	100000
+柏岗	bai gang	100000
 柏拉图	Gbak Gla Gtu	524
 柏拉图	Wbêt Gla Gtu	524
 柏拉图	bo Gla Gtu	524
@@ -423107,8 +423115,13 @@ use_preset_vocabulary: false
 沤肥	Gngiêu fei	13
 沤肥	ou Gfui	13
 沤肥	ou fei	13
+沥	Gliak	101334
 沥	Glit	101334
 沥	li	101334
+沥山	Gliak Gsan	100000
+沥山	Gliak shan	100000
+沥山	li Gsan	100000
+沥山	li shan	100000
 沥青	Glit Gqin	243
 沥青	Glit Wqiang	243
 沥青	Glit qing	243

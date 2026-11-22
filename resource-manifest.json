@@ -12,8 +12,8 @@
     },
     {
       "path": "gannyu_lancong.dict.yaml",
-      "sha256": "b4360e5ec7c0f126f9c71969b270e574f4684d0c6760adf592be2add60738786",
-      "size": 21234484
+      "sha256": "4091c8f3a77341002047c488fa6d898ccb37607636b495071a740d6d5cd65eef",
+      "size": 21240864
     },
     {
       "path": "gannyu_lancong.schema.yaml",
@@ -112,8 +112,8 @@
     },
     {
       "path": "gannyu_lancong_new_rel.dict.yaml",
-      "sha256": "3290673a02beca7771617491391debd845c3ceaa17337d7ebc6f01401c7ab0de",
-      "size": 20297173
+      "sha256": "922bf02194e4670b7c018f5f61305235934bf0258dd297455914d0e8e5a8314d",
+      "size": 20297501
     },
     {
       "path": "gannyu_lancong_new_rel.schema.yaml",
@@ -202,8 +202,8 @@
     },
     {
       "path": "gannyu_lancong_old_rel.dict.yaml",
-      "sha256": "948d13d6662e5cdce2cfe47554811bb34c03a3c6721f34c20f9833bdc8150b7f",
-      "size": 20552249
+      "sha256": "dd1ec8c21d855d9741ae350ea20597fbc64af043f08c067a19e8a4db66829098",
+      "size": 20552077
     },
     {
       "path": "gannyu_lancong_old_rel.schema.yaml",
@@ -287,13 +287,13 @@
     },
     {
       "path": "lua/gannyu_lancong_annotations.bin",
-      "sha256": "1d7b65236c45f81ff2be79b885f253140e10dd6447c8e33efb6827a0442193e4",
-      "size": 5166220
+      "sha256": "f344b6b362c445b2e490e1d260ae8bf5f866980f1f6b330687d1f3d54e882c6c",
+      "size": 5169013
     },
     {
       "path": "lua/gannyu_lancong_both_norel_annotations.bin",
-      "sha256": "558e1973399f1cbe504be5b944ad4e757da22c672c04d73843704002e7fc07b2",
-      "size": 4992533
+      "sha256": "f8e1ace9e6c59e208cc92506fb97b2a38369b492b37eb793f05ed2ef5ca7c07c",
+      "size": 4995326
     },
     {
       "path": "lua/gannyu_lancong_both_norel_data.lua",
@@ -307,8 +307,8 @@
     },
     {
       "path": "lua/gannyu_lancong_new_norel_annotations.bin",
-      "sha256": "60055c8d8404cbbba6fa9619942b7ef36de9f3631f94621ddfac92947031e966",
-      "size": 4667144
+      "sha256": "e63fe5e406f82ecec8dddd419e7b134fa0ac5a6171b73ce3a217944632918a07",
+      "size": 4667222
     },
     {
       "path": "lua/gannyu_lancong_new_norel_data.lua",
@@ -317,8 +317,8 @@
     },
     {
       "path": "lua/gannyu_lancong_new_rel_annotations.bin",
-      "sha256": "f4a1324de3c858505f804938d595a19e4c3ecbc70ef9dde61223e322482e3a25",
-      "size": 4835716
+      "sha256": "07d199cddab123faa3a4dd8fbf6c47138d8287034361dbf89087164e3e27990f",
+      "size": 4835794
     },
     {
       "path": "lua/gannyu_lancong_new_rel_data.lua",
@@ -327,23 +327,23 @@
     },
     {
       "path": "lua/gannyu_lancong_old_norel_annotations.bin",
-      "sha256": "9f93a1df5e80197c3f0b462afb4cad15412609eb8e1d3860b3baf5b2026b312a",
-      "size": 4667605
+      "sha256": "d4d323217c8cd94e20919d4b1e930c32b93953cfc570f188fd73f82691892b1b",
+      "size": 4667522
     },
     {
       "path": "lua/gannyu_lancong_old_norel_data.lua",
-      "sha256": "0b57b8eee160f4173116e20206b9f075346c3a6104023c4c94d0d03ae58052d0",
-      "size": 904177
+      "sha256": "84b0211ade0f0330987cb096286840b4c7b8c0cff209428d57f75e4ae9b38fe0",
+      "size": 904176
     },
     {
       "path": "lua/gannyu_lancong_old_rel_annotations.bin",
-      "sha256": "85bc9445f8efbe6084dbb8e709306a90ea55caccb9f1246288acf68af39b4849",
-      "size": 4836287
+      "sha256": "14288a95f6df1ee914d181a957ea5da13a8445fc2b0766324dd8af44f8066cce",
+      "size": 4836204
     },
     {
       "path": "lua/gannyu_lancong_old_rel_data.lua",
-      "sha256": "d2e7c0ee40572e3e8774df429d2824ad52ed452f02287e9269d4532e21d86238",
-      "size": 951550
+      "sha256": "f9d8bc610b4d760c35afb28c0b4a1a24cbc736ad0b780306a5df4d522ea6d182",
+      "size": 951549
     },
     {
       "path": "lua/gannyu_options_translator.lua",
