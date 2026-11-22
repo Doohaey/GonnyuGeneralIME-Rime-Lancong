@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong_new_rel
-version: "1.3.3"
+version: "1.3.5"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -258,7 +258,7 @@ use_preset_vocabulary: false
 㖘	zhen	5413
 㖞	Gkua	4929
 㖞	wai	4929
-㖟	Gsêu	5646
+㖟	Gseu	5646
 㖟	Gxiu	5223
 㖟	shou	5646
 㖥	Gqyun	5367
@@ -884,7 +884,7 @@ use_preset_vocabulary: false
 㤻	Glen	5745
 㤻	Glun	5709
 㤻	㤻	5745
-㤽	Gcêu	4073
+㤽	Gceu	4073
 㤽	chou	4073
 㤾	Gsan	5795
 㤿	Gyên	5094
@@ -2212,7 +2212,7 @@ use_preset_vocabulary: false
 㿎	fen	5334
 㿑	Gyok	5382
 㿑	yao	5382
-㿒	Gcêu	5158
+㿒	Gceu	5158
 㿒	dao	5158
 㿓	Ggat	5702
 㿓	jia	5702
@@ -2769,7 +2769,7 @@ use_preset_vocabulary: false
 䈖	ke	4610
 䈗	Gso	4570
 䈗	suo	4570
-䈙	Gcêu	4794
+䈙	Gceu	4794
 䈙	Gqiu	4458
 䈙	zhou	4794
 䈚	Gtai	5987
@@ -2984,7 +2984,7 @@ use_preset_vocabulary: false
 䌵	zhu	4652
 䌶	Gzï	5828
 䌶	䌶	5828
-䌷	Gcêu	4883
+䌷	Gceu	4883
 䌷	Gqiu	5606
 䌷	chou	5606
 䌹	Gjiong	5127
@@ -3419,7 +3419,7 @@ use_preset_vocabulary: false
 䓍	Ghon	5859
 䓍	han	5859
 䓏	Gfu	5430
-䓓	Gcêu	5591
+䓓	Gceu	5591
 䓓	Gqiu	4700
 䓓	chou	5591
 䓕	Gwi	4881
@@ -3823,7 +3823,7 @@ use_preset_vocabulary: false
 䚻	yao	4390
 䛅	Ghat	5185
 䛅	xia	5185
-䛆	Gcêu	4117
+䛆	Gceu	4117
 䛆	Gqiu	4242
 䛆	zhou	4242
 䛈	Gsï	5603
@@ -5036,7 +5036,7 @@ use_preset_vocabulary: false
 䯽	Gfu	5366
 䯽	Gpêu	5147
 䯽	pou	5366
-䯾	Gzêu	5677
+䯾	Gzeu	5677
 䯾	tiao	5677
 䰂	Gcai	4165
 䰃	Gbong	4489
@@ -19313,22 +19313,22 @@ use_preset_vocabulary: false
 一筐	Gyit Gkuang	29
 一筐	yi Gkuang	29
 一筐	yi kuang	29
-一筹	Gyit Gcêu	113
+一筹	Gyit Gceu	113
 一筹	Gyit chou	113
-一筹	yi Gcêu	113
+一筹	yi Gceu	113
 一筹	yi chou	113
-一筹莫展	Gyit Gcêu Gmot Gzên	117
-一筹莫展	Gyit Gcêu Gmot zhan	117
-一筹莫展	Gyit Gcêu mo Gzên	117
-一筹莫展	Gyit Gcêu mo zhan	117
+一筹莫展	Gyit Gceu Gmot Gzên	117
+一筹莫展	Gyit Gceu Gmot zhan	117
+一筹莫展	Gyit Gceu mo Gzên	117
+一筹莫展	Gyit Gceu mo zhan	117
 一筹莫展	Gyit chou Gmot Gzên	117
 一筹莫展	Gyit chou Gmot zhan	117
 一筹莫展	Gyit chou mo Gzên	117
 一筹莫展	Gyit chou mo zhan	117
-一筹莫展	yi Gcêu Gmot Gzên	117
-一筹莫展	yi Gcêu Gmot zhan	117
-一筹莫展	yi Gcêu mo Gzên	117
-一筹莫展	yi Gcêu mo zhan	117
+一筹莫展	yi Gceu Gmot Gzên	117
+一筹莫展	yi Gceu Gmot zhan	117
+一筹莫展	yi Gceu mo Gzên	117
+一筹莫展	yi Gceu mo zhan	117
 一筹莫展	yi chou Gmot Gzên	117
 一筹莫展	yi chou Gmot zhan	117
 一筹莫展	yi chou mo Gzên	117
@@ -24373,62 +24373,62 @@ use_preset_vocabulary: false
 万家生佛	wan jia sheng fo	7
 万对	Gwan Gdui	26
 万对	Wman Gdui	26
-万寿宫	Gwan Gsêu Ggung	7
-万寿宫	Gwan Gsêu gong	7
+万寿宫	Gwan Gseu Ggung	7
+万寿宫	Gwan Gseu gong	7
 万寿宫	Gwan Gxiu Ggung	7
 万寿宫	Gwan shou Ggung	7
 万寿宫	Gwan shou gong	7
-万寿宫	Wman Gsêu Ggung	7
+万寿宫	Wman Gseu Ggung	7
 万寿宫	Wman Gxiu Ggung	7
 万寿宫	wan shou gong	7
-万寿寺	Gwan Gsêu Gsï	8
-万寿寺	Gwan Gsêu si	8
+万寿寺	Gwan Gseu Gsï	8
+万寿寺	Gwan Gseu si	8
 万寿寺	Gwan Gxiu Gsï	8
 万寿寺	Gwan shou Gsï	8
 万寿寺	Gwan shou si	8
-万寿寺	Wman Gsêu Gsï	8
+万寿寺	Wman Gseu Gsï	8
 万寿寺	Wman Gxiu Gsï	8
 万寿寺	wan shou si	8
-万寿山	Gwan Gsêu Gsan	12
-万寿山	Gwan Gsêu shan	12
+万寿山	Gwan Gseu Gsan	12
+万寿山	Gwan Gseu shan	12
 万寿山	Gwan Gxiu Gsan	12
 万寿山	Gwan shou Gsan	12
 万寿山	Gwan shou shan	12
-万寿山	Wman Gsêu Gsan	12
+万寿山	Wman Gseu Gsan	12
 万寿山	Wman Gxiu Gsan	12
 万寿山	wan shou shan	12
-万寿无疆	Gwan Gsêu Gwu Gjiong	64
-万寿无疆	Gwan Gsêu Gwu jiang	64
+万寿无疆	Gwan Gseu Gwu Gjiong	64
+万寿无疆	Gwan Gseu Gwu jiang	64
 万寿无疆	Gwan Gxiu Gwu Gjiong	64
 万寿无疆	Gwan shou Gwu Gjiong	64
 万寿无疆	Gwan shou Gwu jiang	64
-万寿无疆	Wman Gsêu Gwu Gjiong	64
+万寿无疆	Wman Gseu Gwu Gjiong	64
 万寿无疆	Wman Gxiu Gwu Gjiong	64
 万寿无疆	wan shou wu jiang	64
-万寿羹	Gwan Gsêu Ggang	256
-万寿羹	Gwan Gsêu Wgiên	256
-万寿羹	Gwan Gsêu geng	256
+万寿羹	Gwan Gseu Ggang	256
+万寿羹	Gwan Gseu Wgiên	256
+万寿羹	Gwan Gseu geng	256
 万寿羹	Gwan Gxiu Ggang	256
 万寿羹	Gwan Gxiu Wgiên	256
 万寿羹	Gwan shou Ggang	256
 万寿羹	Gwan shou geng	256
-万寿羹	Wman Gsêu Ggang	256
-万寿羹	Wman Gsêu Wgiên	256
+万寿羹	Wman Gseu Ggang	256
+万寿羹	Wman Gseu Wgiên	256
 万寿羹	Wman Gxiu Ggang	256
 万寿羹	Wman Gxiu Wgiên	256
 万寿羹	wan shou geng	256
-万寿节	Gwan Gsêu Gjiêt	7
-万寿节	Gwan Gsêu jie	7
+万寿节	Gwan Gseu Gjiêt	7
+万寿节	Gwan Gseu jie	7
 万寿节	Gwan Gxiu Gjiêt	7
 万寿节	Gwan shou Gjiêt	7
 万寿节	Gwan shou jie	7
-万寿节	Wman Gsêu Gjiêt	7
+万寿节	Wman Gseu Gjiêt	7
 万寿节	Wman Gxiu Gjiêt	7
 万寿节	wan shou jie	7
-万寿路	Gwan Gsêu Glu	7
+万寿路	Gwan Gseu Glu	7
 万寿路	Gwan Gxiu Glu	7
 万寿路	Gwan shou Glu	7
-万寿路	Wman Gsêu Glu	7
+万寿路	Wman Gseu Glu	7
 万寿路	Wman Gxiu Glu	7
 万寿路	wan shou lu	7
 万尼亚	Gwan Gni Gnga	14
@@ -43563,18 +43563,18 @@ use_preset_vocabulary: false
 丝绵	Gsï mian	21
 丝绵	si Gmiên	21
 丝绵	si mian	21
-丝绸	Gsï Gcêu	25413
+丝绸	Gsï Gceu	25413
 丝绸	Gsï Gqiu	25413
 丝绸	Gsï chou	25413
-丝绸	si Gcêu	25413
+丝绸	si Gceu	25413
 丝绸	si chou	25413
-丝绸之路	Gsï Gcêu Gzï Glu	285
-丝绸之路	Gsï Gcêu zhi Glu	285
+丝绸之路	Gsï Gceu Gzï Glu	285
+丝绸之路	Gsï Gceu zhi Glu	285
 丝绸之路	Gsï Gqiu Gzï Glu	285
 丝绸之路	Gsï chou Gzï Glu	285
 丝绸之路	Gsï chou zhi Glu	285
-丝绸之路	si Gcêu Gzï Glu	285
-丝绸之路	si Gcêu zhi Glu	285
+丝绸之路	si Gceu Gzï Glu	285
+丝绸之路	si Gceu zhi Glu	285
 丝绸之路	si chou Gzï Glu	285
 丝绸之路	si chou zhi Glu	285
 丝绸之路	si chou zhi lu	285
@@ -54650,22 +54650,22 @@ use_preset_vocabulary: false
 中田	Gzung tian	24
 中田	zhong Gtiên	24
 中田	zhong tian	24
-中田英寿	Gzung Gtiên Gyin Gsêu	21
+中田英寿	Gzung Gtiên Gyin Gseu	21
 中田英寿	Gzung Gtiên Gyin Gxiu	21
 中田英寿	Gzung Gtiên Gyin shou	21
-中田英寿	Gzung Gtiên ying Gsêu	21
+中田英寿	Gzung Gtiên ying Gseu	21
 中田英寿	Gzung Gtiên ying shou	21
-中田英寿	Gzung tian Gyin Gsêu	21
+中田英寿	Gzung tian Gyin Gseu	21
 中田英寿	Gzung tian Gyin shou	21
-中田英寿	Gzung tian ying Gsêu	21
+中田英寿	Gzung tian ying Gseu	21
 中田英寿	Gzung tian ying shou	21
-中田英寿	zhong Gtiên Gyin Gsêu	21
+中田英寿	zhong Gtiên Gyin Gseu	21
 中田英寿	zhong Gtiên Gyin shou	21
-中田英寿	zhong Gtiên ying Gsêu	21
+中田英寿	zhong Gtiên ying Gseu	21
 中田英寿	zhong Gtiên ying shou	21
-中田英寿	zhong tian Gyin Gsêu	21
+中田英寿	zhong tian Gyin Gseu	21
 中田英寿	zhong tian Gyin shou	21
-中田英寿	zhong tian ying Gsêu	21
+中田英寿	zhong tian ying Gseu	21
 中田英寿	zhong tian ying shou	21
 中电	Gzung Gtiên	23
 中电	Gzung dian	23
@@ -60280,13 +60280,13 @@ use_preset_vocabulary: false
 乐安	Glok an	43
 乐安	le Gngon	43
 乐安	le an	43
-乐寿堂	Glok Gsêu Gtong	59
-乐寿堂	Glok Gsêu tang	59
+乐寿堂	Glok Gseu Gtong	59
+乐寿堂	Glok Gseu tang	59
 乐寿堂	Glok Gxiu Gtong	59
 乐寿堂	Glok shou Gtong	59
 乐寿堂	Glok shou tang	59
-乐寿堂	le Gsêu Gtong	59
-乐寿堂	le Gsêu tang	59
+乐寿堂	le Gseu Gtong	59
+乐寿堂	le Gseu tang	59
 乐寿堂	le shou Gtong	59
 乐寿堂	le shou tang	59
 乐山	Glok Gsan	106
@@ -73615,12 +73615,12 @@ use_preset_vocabulary: false
 亚太经社会	ya Gtai jing she hui	8
 亚太经社会	ya tai jing she hui	8
 亚宙斯	Gnga Gjiu Gsï	19
-亚宙斯	Gnga Gzêu Gsï	19
-亚宙斯	Gnga Gzêu si	19
+亚宙斯	Gnga Gzeu Gsï	19
+亚宙斯	Gnga Gzeu si	19
 亚宙斯	Gnga zhou Gsï	19
 亚宙斯	Gnga zhou si	19
-亚宙斯	ya Gzêu Gsï	19
-亚宙斯	ya Gzêu si	19
+亚宙斯	ya Gzeu Gsï	19
+亚宙斯	ya Gzeu si	19
 亚宙斯	ya zhou Gsï	19
 亚宙斯	ya zhou si	19
 亚寒带	Gnga Ghon Gdai	43
@@ -74886,10 +74886,10 @@ use_preset_vocabulary: false
 交响音乐会	jiao xiang Gyin yue Gfui	9
 交响音乐会	jiao xiang Gyin yue hui	9
 交响音乐会	jiao xiang yin yue hui	9
-交售	Ggau Gsêu	40
+交售	Ggau Gseu	40
 交售	Ggau Gxiu	40
 交售	Ggau shou	40
-交售	jiao Gsêu	40
+交售	jiao Gseu	40
 交售	jiao shou	40
 交城	Ggau Gcen	7
 交城	Ggau Wsang	7
@@ -76061,14 +76061,14 @@ use_preset_vocabulary: false
 产品部	chan Gpin Gpu	15
 产品部	chan Gpin bu	15
 产品部	chan pin bu	15
-产品销售	Gcan Gpin Gxiêu Gsêu	10
+产品销售	Gcan Gpin Gxiêu Gseu	10
 产品销售	Gcan Gpin Gxiêu Gxiu	10
 产品销售	Gcan Gpin Gxiêu shou	10
-产品销售	Gcan Gpin xiao Gsêu	10
+产品销售	Gcan Gpin xiao Gseu	10
 产品销售	Gcan Gpin xiao shou	10
-产品销售	chan Gpin Gxiêu Gsêu	10
+产品销售	chan Gpin Gxiêu Gseu	10
 产品销售	chan Gpin Gxiêu shou	10
-产品销售	chan Gpin xiao Gsêu	10
+产品销售	chan Gpin xiao Gseu	10
 产品销售	chan Gpin xiao shou	10
 产品销售	chan pin xiao shou	10
 产地	Gcan Gti	984
@@ -77959,28 +77959,28 @@ use_preset_vocabulary: false
 人家	Wlen Gga	8314
 人家	ren Gga	8314
 人家	ren jia	8314
-人寿	Gnin Gsêu	124
+人寿	Gnin Gseu	124
 人寿	Gnin Gxiu	124
 人寿	Gnin shou	124
-人寿	Wlen Gsêu	124
+人寿	Wlen Gseu	124
 人寿	Wlen Gxiu	124
-人寿	ren Gsêu	124
+人寿	ren Gseu	124
 人寿	ren shou	124
-人寿保险	Gnin Gsêu Gbau Gxiên	81
-人寿保险	Gnin Gsêu Gbau xian	81
-人寿保险	Gnin Gsêu bao Gxiên	81
-人寿保险	Gnin Gsêu bao xian	81
+人寿保险	Gnin Gseu Gbau Gxiên	81
+人寿保险	Gnin Gseu Gbau xian	81
+人寿保险	Gnin Gseu bao Gxiên	81
+人寿保险	Gnin Gseu bao xian	81
 人寿保险	Gnin Gxiu Gbau Gxiên	81
 人寿保险	Gnin shou Gbau Gxiên	81
 人寿保险	Gnin shou Gbau xian	81
 人寿保险	Gnin shou bao Gxiên	81
 人寿保险	Gnin shou bao xian	81
-人寿保险	Wlen Gsêu Gbau Gxiên	81
+人寿保险	Wlen Gseu Gbau Gxiên	81
 人寿保险	Wlen Gxiu Gbau Gxiên	81
-人寿保险	ren Gsêu Gbau Gxiên	81
-人寿保险	ren Gsêu Gbau xian	81
-人寿保险	ren Gsêu bao Gxiên	81
-人寿保险	ren Gsêu bao xian	81
+人寿保险	ren Gseu Gbau Gxiên	81
+人寿保险	ren Gseu Gbau xian	81
+人寿保险	ren Gseu bao Gxiên	81
+人寿保险	ren Gseu bao xian	81
 人寿保险	ren shou Gbau Gxiên	81
 人寿保险	ren shou Gbau xian	81
 人寿保险	ren shou bao Gxiên	81
@@ -78043,27 +78043,27 @@ use_preset_vocabulary: false
 人工呼吸	ren gong Gfu xi	69
 人工呼吸	ren gong hu Gxit	69
 人工呼吸	ren gong hu xi	69
-人工授精	Glen Ggung Gsêu Gjin	68
-人工授精	Glen Ggung Gsêu Wjiang	68
-人工授精	Glen Ggung Gsêu jing	68
+人工授精	Glen Ggung Gseu Gjin	68
+人工授精	Glen Ggung Gseu Wjiang	68
+人工授精	Glen Ggung Gseu jing	68
 人工授精	Glen Ggung Gxiu Gjin	68
 人工授精	Glen Ggung Gxiu Wjiang	68
 人工授精	Glen Ggung shou Gjin	68
 人工授精	Glen Ggung shou jing	68
-人工授精	Glen gong Gsêu Gjin	68
-人工授精	Glen gong Gsêu jing	68
+人工授精	Glen gong Gseu Gjin	68
+人工授精	Glen gong Gseu jing	68
 人工授精	Glen gong shou Gjin	68
 人工授精	Glen gong shou jing	68
-人工授精	Wnin Ggung Gsêu Gjin	68
-人工授精	Wnin Ggung Gsêu Wjiang	68
+人工授精	Wnin Ggung Gseu Gjin	68
+人工授精	Wnin Ggung Gseu Wjiang	68
 人工授精	Wnin Ggung Gxiu Gjin	68
 人工授精	Wnin Ggung Gxiu Wjiang	68
-人工授精	ren Ggung Gsêu Gjin	68
-人工授精	ren Ggung Gsêu jing	68
+人工授精	ren Ggung Gseu Gjin	68
+人工授精	ren Ggung Gseu jing	68
 人工授精	ren Ggung shou Gjin	68
 人工授精	ren Ggung shou jing	68
-人工授精	ren gong Gsêu Gjin	68
-人工授精	ren gong Gsêu jing	68
+人工授精	ren gong Gseu Gjin	68
+人工授精	ren gong Gseu jing	68
 人工授精	ren gong shou Gjin	68
 人工授精	ren gong shou jing	68
 人工控制	Glen Ggung Gkung Gzï	30
@@ -79447,21 +79447,21 @@ use_preset_vocabulary: false
 人烟稀少	ren yan Gxi Gsêu	74
 人烟稀少	ren yan Gxi shao	74
 人烟稀少	ren yan xi shao	74
-人烟稠密	Gnin Gyên Gcêu Gmit	27
-人烟稠密	Gnin Gyên Gcêu mi	27
+人烟稠密	Gnin Gyên Gceu Gmit	27
+人烟稠密	Gnin Gyên Gceu mi	27
 人烟稠密	Gnin Gyên chou Gmit	27
 人烟稠密	Gnin Gyên chou mi	27
-人烟稠密	Gnin yan Gcêu Gmit	27
-人烟稠密	Gnin yan Gcêu mi	27
+人烟稠密	Gnin yan Gceu Gmit	27
+人烟稠密	Gnin yan Gceu mi	27
 人烟稠密	Gnin yan chou Gmit	27
 人烟稠密	Gnin yan chou mi	27
-人烟稠密	Wlen Gyên Gcêu Gmit	27
-人烟稠密	ren Gyên Gcêu Gmit	27
-人烟稠密	ren Gyên Gcêu mi	27
+人烟稠密	Wlen Gyên Gceu Gmit	27
+人烟稠密	ren Gyên Gceu Gmit	27
+人烟稠密	ren Gyên Gceu mi	27
 人烟稠密	ren Gyên chou Gmit	27
 人烟稠密	ren Gyên chou mi	27
-人烟稠密	ren yan Gcêu Gmit	27
-人烟稠密	ren yan Gcêu mi	27
+人烟稠密	ren yan Gceu Gmit	27
+人烟稠密	ren yan Gceu mi	27
 人烟稠密	ren yan chou Gmit	27
 人烟稠密	ren yan chou mi	27
 人物	Gnin Gwut	10520
@@ -80237,16 +80237,16 @@ use_preset_vocabulary: false
 人面	Wlen Gmiên	148
 人面	ren Gmiên	148
 人面	ren mian	148
-人面兽心	Gnin Gmiên Gsêu Gxin	10
+人面兽心	Gnin Gmiên Gseu Gxin	10
 人面兽心	Gnin Gmiên Gxiu Gxin	10
 人面兽心	Gnin Gmiên shou Gxin	10
-人面兽心	Gnin mian Gsêu Gxin	10
+人面兽心	Gnin mian Gseu Gxin	10
 人面兽心	Gnin mian shou Gxin	10
-人面兽心	Wlen Gmiên Gsêu Gxin	10
+人面兽心	Wlen Gmiên Gseu Gxin	10
 人面兽心	Wlen Gmiên Gxiu Gxin	10
-人面兽心	ren Gmiên Gsêu Gxin	10
+人面兽心	ren Gmiên Gseu Gxin	10
 人面兽心	ren Gmiên shou Gxin	10
-人面兽心	ren mian Gsêu Gxin	10
+人面兽心	ren mian Gseu Gxin	10
 人面兽心	ren mian shou Gxin	10
 人面兽心	ren mian shou xin	10
 人面桃花	Gnin Gmiên Gtau Gfa	28
@@ -80785,12 +80785,12 @@ use_preset_vocabulary: false
 仁安羌	ren Gngon qiang	11
 仁安羌	ren an Gqiong	11
 仁安羌	ren an qiang	11
-仁寿	Glen Gsêu	70
+仁寿	Glen Gseu	70
 仁寿	Glen Gxiu	70
 仁寿	Glen shou	70
-仁寿	Wnin Gsêu	70
+仁寿	Wnin Gseu	70
 仁寿	Wnin Gxiu	70
-仁寿	ren Gsêu	70
+仁寿	ren Gseu	70
 仁寿	ren shou	70
 仁川	Glen Gcon	73
 仁川	Glen chuan	73
@@ -82559,18 +82559,18 @@ use_preset_vocabulary: false
 代名词	dai Gmin ci	86
 代名词	dai ming Gcï	86
 代名词	dai ming ci	86
-代售	Gtai Gsêu	28
+代售	Gtai Gseu	28
 代售	Gtai Gxiu	28
 代售	Gtai shou	28
-代售	dai Gsêu	28
+代售	dai Gseu	28
 代售	dai shou	28
-代售点	Gtai Gsêu Gdiên	8
-代售点	Gtai Gsêu dian	8
+代售点	Gtai Gseu Gdiên	8
+代售点	Gtai Gseu dian	8
 代售点	Gtai Gxiu Gdiên	8
 代售点	Gtai shou Gdiên	8
 代售点	Gtai shou dian	8
-代售点	dai Gsêu Gdiên	8
-代售点	dai Gsêu dian	8
+代售点	dai Gseu Gdiên	8
+代售点	dai Gseu dian	8
 代售点	dai shou Gdiên	8
 代售点	dai shou dian	8
 代善	Gtai Gsên	24
@@ -88304,10 +88304,10 @@ use_preset_vocabulary: false
 传抄	Gcon chao	87
 传抄	chuan Gcau	87
 传抄	chuan chao	87
-传授	Gcon Gsêu	859
+传授	Gcon Gseu	859
 传授	Gcon Gxiu	859
 传授	Gcon shou	859
-传授	chuan Gsêu	859
+传授	chuan Gseu	859
 传授	chuan shou	859
 传接	Gcon Gjiêt	11
 传接	Gcon jie	11
@@ -88658,21 +88658,21 @@ use_preset_vocabulary: false
 传道	Gcon dao	45
 传道	chuan Gtau	45
 传道	chuan dao	45
-传道授业	Gcon Gtau Gsêu Gyêt	11
-传道授业	Gcon Gtau Gsêu ye	11
+传道授业	Gcon Gtau Gseu Gyêt	11
+传道授业	Gcon Gtau Gseu ye	11
 传道授业	Gcon Gtau Gxiu Gyêt	11
 传道授业	Gcon Gtau shou Gyêt	11
 传道授业	Gcon Gtau shou ye	11
-传道授业	Gcon dao Gsêu Gyêt	11
-传道授业	Gcon dao Gsêu ye	11
+传道授业	Gcon dao Gseu Gyêt	11
+传道授业	Gcon dao Gseu ye	11
 传道授业	Gcon dao shou Gyêt	11
 传道授业	Gcon dao shou ye	11
-传道授业	chuan Gtau Gsêu Gyêt	11
-传道授业	chuan Gtau Gsêu ye	11
+传道授业	chuan Gtau Gseu Gyêt	11
+传道授业	chuan Gtau Gseu ye	11
 传道授业	chuan Gtau shou Gyêt	11
 传道授业	chuan Gtau shou ye	11
-传道授业	chuan dao Gsêu Gyêt	11
-传道授业	chuan dao Gsêu ye	11
+传道授业	chuan dao Gseu Gyêt	11
+传道授业	chuan dao Gseu ye	11
 传道授业	chuan dao shou Gyêt	11
 传道授业	chuan dao shou ye	11
 传销	Gcon Gxiêu	425
@@ -89629,7 +89629,7 @@ use_preset_vocabulary: false
 伶牙俐齿	ling ya Gli Gcï	27
 伶牙俐齿	ling ya Gli chi	27
 伶牙俐齿	ling ya li chi	27
-伷	Gcêu	4142
+伷	Gceu	4142
 伷	Gqiu	4155
 伷	zhou	4155
 伸	Gsen	120000
@@ -93179,14 +93179,14 @@ use_preset_vocabulary: false
 作鬼	Gzok Ggui	10
 作鬼	zuo Ggui	10
 作鬼	zuo gui	10
-作鸟兽散	Gzok Gniêu Gsêu Gsan	24
+作鸟兽散	Gzok Gniêu Gseu Gsan	24
 作鸟兽散	Gzok Gniêu Gxiu Gsan	24
 作鸟兽散	Gzok Gniêu shou Gsan	24
-作鸟兽散	Gzok niao Gsêu Gsan	24
+作鸟兽散	Gzok niao Gseu Gsan	24
 作鸟兽散	Gzok niao shou Gsan	24
-作鸟兽散	zuo Gniêu Gsêu Gsan	24
+作鸟兽散	zuo Gniêu Gseu Gsan	24
 作鸟兽散	zuo Gniêu shou Gsan	24
-作鸟兽散	zuo niao Gsêu Gsan	24
+作鸟兽散	zuo niao Gseu Gsan	24
 作鸟兽散	zuo niao shou Gsan	24
 作鸟兽散	zuo niao shou san	24
 佝	Ghêu	105267
@@ -94679,7 +94679,7 @@ use_preset_vocabulary: false
 供需	gong Gxyu	162
 供需	gong xu	162
 侜	Gjiu	5703
-侜	Gzêu	4672
+侜	Gzeu	4672
 侜	zhou	5703
 依	Gyi	145000
 依从	Gyi Gcung	193
@@ -101565,10 +101565,10 @@ use_preset_vocabulary: false
 做客	Gzu ke	243
 做客	zuo Gkak	243
 做客	zuo ke	243
-做寿	Gzu Gsêu	15
+做寿	Gzu Gseu	15
 做寿	Gzu Gxiu	15
 做寿	Gzu shou	15
-做寿	zuo Gsêu	15
+做寿	zuo Gseu	15
 做寿	zuo shou	15
 做工	Gzu Ggung	229
 做工	Gzu gong	229
@@ -103726,9 +103726,9 @@ use_preset_vocabulary: false
 元古代	yuan Ggu dai	56
 元古代	yuan gu dai	56
 元古宙	Gyuon Ggu Gjiu	9
-元古宙	Gyuon Ggu Gzêu	9
+元古宙	Gyuon Ggu Gzeu	9
 元古宙	Gyuon Ggu zhou	9
-元古宙	yuan Ggu Gzêu	9
+元古宙	yuan Ggu Gzeu	9
 元古宙	yuan Ggu zhou	9
 元古宙	yuan gu zhou	9
 元古界	Gyuon Ggu Ggai	29
@@ -104500,21 +104500,21 @@ use_preset_vocabulary: false
 先手	Gxiên shou	7
 先手	xian Gseu	7
 先手	xian shou	7
-先拔头筹	Gxiên Gpat Gtêu Gcêu	19
+先拔头筹	Gxiên Gpat Gtêu Gceu	19
 先拔头筹	Gxiên Gpat Gtêu chou	19
-先拔头筹	Gxiên Gpat tou Gcêu	19
+先拔头筹	Gxiên Gpat tou Gceu	19
 先拔头筹	Gxiên Gpat tou chou	19
-先拔头筹	Gxiên ba Gtêu Gcêu	19
+先拔头筹	Gxiên ba Gtêu Gceu	19
 先拔头筹	Gxiên ba Gtêu chou	19
-先拔头筹	Gxiên ba tou Gcêu	19
+先拔头筹	Gxiên ba tou Gceu	19
 先拔头筹	Gxiên ba tou chou	19
-先拔头筹	xian Gpat Gtêu Gcêu	19
+先拔头筹	xian Gpat Gtêu Gceu	19
 先拔头筹	xian Gpat Gtêu chou	19
-先拔头筹	xian Gpat tou Gcêu	19
+先拔头筹	xian Gpat tou Gceu	19
 先拔头筹	xian Gpat tou chou	19
-先拔头筹	xian ba Gtêu Gcêu	19
+先拔头筹	xian ba Gtêu Gceu	19
 先拔头筹	xian ba Gtêu chou	19
-先拔头筹	xian ba tou Gcêu	19
+先拔头筹	xian ba tou Gceu	19
 先拔头筹	xian ba tou chou	19
 先斩后奏	Gxiên Gzan Ghêu Gzêu	17
 先斩后奏	Gxiên Gzan Ghêu zou	17
@@ -107518,10 +107518,10 @@ use_preset_vocabulary: false
 兜兜	Gdêu dou	21
 兜兜	dou Gdêu	21
 兜兜	dou dou	21
-兜售	Gdêu Gsêu	60
+兜售	Gdêu Gseu	60
 兜售	Gdêu Gxiu	60
 兜售	Gdêu shou	60
-兜售	dou Gsêu	60
+兜售	dou Gseu	60
 兜售	dou shou	60
 兜圈	Gdêu Gqyuon	10
 兜圈	Gdêu quan	10
@@ -117714,65 +117714,65 @@ use_preset_vocabulary: false
 兼顾	Ggan Ggu	651
 兼顾	jian Ggu	651
 兼顾	jian gu	651
-兽	Gsêu	180000
+兽	Gseu	180000
 兽	Gxiu	120000
 兽	shou	180000
-兽医	Gsêu Gyi	136
+兽医	Gseu Gyi	136
 兽医	Gxiu Gyi	136
 兽医	shou Gyi	136
 兽医	shou yi	136
-兽医学	Gsêu Gyi Ghok	45
-兽医学	Gsêu Gyi xue	45
+兽医学	Gseu Gyi Ghok	45
+兽医学	Gseu Gyi xue	45
 兽医学	Gxiu Gyi Ghok	45
 兽医学	shou Gyi Ghok	45
 兽医学	shou Gyi xue	45
 兽医学	shou yi xue	45
-兽医站	Gsêu Gyi Gzan	14
-兽医站	Gsêu Gyi zhan	14
+兽医站	Gseu Gyi Gzan	14
+兽医站	Gseu Gyi zhan	14
 兽医站	Gxiu Gyi Gzan	14
 兽医站	shou Gyi Gzan	14
 兽医站	shou Gyi zhan	14
 兽医站	shou yi zhan	14
-兽性	Gsêu Gxin	47
-兽性	Gsêu Wxiang	47
-兽性	Gsêu xing	47
+兽性	Gseu Gxin	47
+兽性	Gseu Wxiang	47
+兽性	Gseu xing	47
 兽性	Gxiu Gxin	47
 兽性	Gxiu Wxiang	47
 兽性	shou Gxin	47
 兽性	shou xing	47
-兽欲	Gsêu Gyut	19
-兽欲	Gsêu yu	19
+兽欲	Gseu Gyut	19
+兽欲	Gseu yu	19
 兽欲	Gxiu Gyut	19
 兽欲	shou Gyut	19
 兽欲	shou yu	19
-兽皮	Gsêu Gpi	93
+兽皮	Gseu Gpi	93
 兽皮	Gxiu Gpi	93
 兽皮	shou Gpi	93
 兽皮	shou pi	93
-兽类	Gsêu Glui	160
-兽类	Gsêu lei	160
+兽类	Gseu Glui	160
+兽类	Gseu lei	160
 兽类	Gxiu Glui	160
 兽类	shou Glui	160
 兽类	shou lei	160
-兽药	Gsêu Gyok	14
-兽药	Gsêu yao	14
+兽药	Gseu Gyok	14
+兽药	Gseu yao	14
 兽药	Gxiu Gyok	14
 兽药	shou Gyok	14
 兽药	shou yao	14
-兽行	Gsêu Gxin	8
-兽行	Gsêu Whên	8
-兽行	Gsêu xing	8
+兽行	Gseu Gxin	8
+兽行	Gseu Whên	8
+兽行	Gseu xing	8
 兽行	Gxiu Gxin	8
 兽行	Gxiu Whên	8
 兽行	shou Gxin	8
 兽行	shou xing	8
-兽面	Gsêu Gmiên	45
-兽面	Gsêu mian	45
+兽面	Gseu Gmiên	45
+兽面	Gseu mian	45
 兽面	Gxiu Gmiên	45
 兽面	shou Gmiên	45
 兽面	shou mian	45
-兽骨	Gsêu Ggut	48
-兽骨	Gsêu gu	48
+兽骨	Gseu Ggut	48
+兽骨	Gseu gu	48
 兽骨	Gxiu Ggut	48
 兽骨	shou Ggut	48
 兽骨	shou gu	48
@@ -120312,10 +120312,10 @@ use_preset_vocabulary: false
 军品	Gjyun Gpin	46
 军品	jun Gpin	46
 军品	jun pin	46
-军售	Gjyun Gsêu	227
+军售	Gjyun Gseu	227
 军售	Gjyun Gxiu	227
 军售	Gjyun shou	227
-军售	jun Gsêu	227
+军售	jun Gseu	227
 军售	jun shou	227
 军器	Gjyun Gqi	179
 军器	jun Gqi	179
@@ -128504,18 +128504,18 @@ use_preset_vocabulary: false
 出品	Gcuk Gpin	291
 出品	chu Gpin	291
 出品	chu pin	291
-出售	Gcuk Gsêu	2413
+出售	Gcuk Gseu	2413
 出售	Gcuk Gxiu	2413
 出售	Gcuk shou	2413
-出售	chu Gsêu	2413
+出售	chu Gseu	2413
 出售	chu shou	2413
-出售者	Gcuk Gsêu Gza	20
-出售者	Gcuk Gsêu zhe	20
+出售者	Gcuk Gseu Gza	20
+出售者	Gcuk Gseu zhe	20
 出售者	Gcuk Gxiu Gza	20
 出售者	Gcuk shou Gza	20
 出售者	Gcuk shou zhe	20
-出售者	chu Gsêu Gza	20
-出售者	chu Gsêu zhe	20
+出售者	chu Gseu Gza	20
+出售者	chu Gseu zhe	20
 出售者	chu shou Gza	20
 出售者	chu shou zhe	20
 出国	Gcuk Gguêt	50915
@@ -129684,37 +129684,37 @@ use_preset_vocabulary: false
 函大	Ghon da	7
 函大	han Gtai	7
 函大	han da	7
-函授	Ghon Gsêu	90
+函授	Ghon Gseu	90
 函授	Ghon Gxiu	90
 函授	Ghon shou	90
-函授	han Gsêu	90
+函授	han Gseu	90
 函授	han shou	90
-函授大学	Ghon Gsêu Gtai Ghok	12
-函授大学	Ghon Gsêu Gtai xue	12
-函授大学	Ghon Gsêu da Ghok	12
-函授大学	Ghon Gsêu da xue	12
+函授大学	Ghon Gseu Gtai Ghok	12
+函授大学	Ghon Gseu Gtai xue	12
+函授大学	Ghon Gseu da Ghok	12
+函授大学	Ghon Gseu da xue	12
 函授大学	Ghon Gxiu Gtai Ghok	12
 函授大学	Ghon shou Gtai Ghok	12
 函授大学	Ghon shou Gtai xue	12
 函授大学	Ghon shou da Ghok	12
 函授大学	Ghon shou da xue	12
-函授大学	han Gsêu Gtai Ghok	12
-函授大学	han Gsêu Gtai xue	12
-函授大学	han Gsêu da Ghok	12
-函授大学	han Gsêu da xue	12
+函授大学	han Gseu Gtai Ghok	12
+函授大学	han Gseu Gtai xue	12
+函授大学	han Gseu da Ghok	12
+函授大学	han Gseu da xue	12
 函授大学	han shou Gtai Ghok	12
 函授大学	han shou Gtai xue	12
 函授大学	han shou da Ghok	12
 函授大学	han shou da xue	12
-函授生	Ghon Gsêu Gsên	7
-函授生	Ghon Gsêu Wsang	7
-函授生	Ghon Gsêu sheng	7
+函授生	Ghon Gseu Gsên	7
+函授生	Ghon Gseu Wsang	7
+函授生	Ghon Gseu sheng	7
 函授生	Ghon Gxiu Gsên	7
 函授生	Ghon Gxiu Wsang	7
 函授生	Ghon shou Gsên	7
 函授生	Ghon shou sheng	7
-函授生	han Gsêu Gsên	7
-函授生	han Gsêu sheng	7
+函授生	han Gseu Gsên	7
+函授生	han Gseu sheng	7
 函授生	han shou Gsên	7
 函授生	han shou sheng	7
 函数	Ghon Gsu	92648
@@ -134992,10 +134992,10 @@ use_preset_vocabulary: false
 制品	Gzï Gpin	1529
 制品	zhi Gpin	1529
 制品	zhi pin	1529
-制售	Gzï Gsêu	26
+制售	Gzï Gseu	26
 制售	Gzï Gxiu	26
 制售	Gzï shou	26
-制售	zhi Gsêu	26
+制售	zhi Gseu	26
 制售	zhi shou	26
 制图	Gzï Gtu	107
 制图	zhi Gtu	107
@@ -137372,10 +137372,10 @@ use_preset_vocabulary: false
 副手	Gfu Gxiu	68
 副手	Gfu shou	68
 副手	fu shou	68
-副教授	Gfu Ggau Gsêu	25263
+副教授	Gfu Ggau Gseu	25263
 副教授	Gfu Ggau Gxiu	25263
 副教授	Gfu Ggau shou	25263
-副教授	Gfu jiao Gsêu	25263
+副教授	Gfu jiao Gseu	25263
 副教授	Gfu jiao shou	25263
 副教授	fu jiao shou	25263
 副本	Gfu Gben	83
@@ -140622,18 +140622,18 @@ use_preset_vocabulary: false
 助理员	zhu Gli Gyuon	30
 助理员	zhu Gli yuan	30
 助理员	zhu li yuan	30
-助纣为虐	Gcu Gcêu Gwi Gniok	35
-助纣为虐	Gcu Gcêu Gwi nve	35
-助纣为虐	Gcu Gcêu wei Gniok	35
-助纣为虐	Gcu Gcêu wei nve	35
+助纣为虐	Gcu Gceu Gwi Gniok	35
+助纣为虐	Gcu Gceu Gwi nve	35
+助纣为虐	Gcu Gceu wei Gniok	35
+助纣为虐	Gcu Gceu wei nve	35
 助纣为虐	Gcu zhou Gwi Gniok	35
 助纣为虐	Gcu zhou Gwi nve	35
 助纣为虐	Gcu zhou wei Gniok	35
 助纣为虐	Gcu zhou wei nve	35
-助纣为虐	zhu Gcêu Gwi Gniok	35
-助纣为虐	zhu Gcêu Gwi nve	35
-助纣为虐	zhu Gcêu wei Gniok	35
-助纣为虐	zhu Gcêu wei nve	35
+助纣为虐	zhu Gceu Gwi Gniok	35
+助纣为虐	zhu Gceu Gwi nve	35
+助纣为虐	zhu Gceu wei Gniok	35
+助纣为虐	zhu Gceu wei nve	35
 助纣为虐	zhu zhou Gwi Gniok	35
 助纣为虐	zhu zhou Gwi nve	35
 助纣为虐	zhu zhou wei Gniok	35
@@ -163395,7 +163395,7 @@ use_preset_vocabulary: false
 印纹	Gyin Gwun	11
 印纹	Gyin wen	11
 印纹	yin wen	11
-印绶	Gyin Gsêu	51
+印绶	Gyin Gseu	51
 印绶	Gyin shou	51
 印绶	yin shou	51
 印花	Gyin Gfa	87
@@ -169117,10 +169117,10 @@ use_preset_vocabulary: false
 发呆	Gfat dai	97
 发呆	fa Gngai	97
 发呆	fa dai	97
-发售	Gfat Gsêu	79
+发售	Gfat Gseu	79
 发售	Gfat Gxiu	79
 发售	Gfat shou	79
-发售	fa Gsêu	79
+发售	fa Gseu	79
 发售	fa shou	79
 发善心	Gfat Gsên Gxin	28
 发善心	Gfat shan Gxin	28
@@ -172374,10 +172374,10 @@ use_preset_vocabulary: false
 口技	Gkiêu ji	31
 口技	kou Gqi	31
 口技	kou ji	31
-口授	Gkiêu Gsêu	68
+口授	Gkiêu Gseu	68
 口授	Gkiêu Gxiu	68
 口授	Gkiêu shou	68
-口授	kou Gsêu	68
+口授	kou Gseu	68
 口授	kou shou	68
 口是心非	Gkiêu Gsï Gxin Gfui	38
 口是心非	Gkiêu Gsï Gxin fei	38
@@ -172882,7 +172882,7 @@ use_preset_vocabulary: false
 古宗列	Ggu zong lie	7
 古宗列	gu zong lie	7
 古宙	Ggu Gjiu	9
-古宙	Ggu Gzêu	9
+古宙	Ggu Gzeu	9
 古宙	Ggu zhou	9
 古宙	gu zhou	9
 古寺	Ggu Gsï	42
@@ -176496,9 +176496,9 @@ use_preset_vocabulary: false
 右耳	Gyiu er	52
 右耳	you Geo	52
 右耳	you er	52
-右肘	Gyiu Gzêu	32
+右肘	Gyiu Gzeu	32
 右肘	Gyiu zhou	32
-右肘	you Gzêu	32
+右肘	you Gzeu	32
 右肘	you zhou	32
 右肺	Gyiu Gfui	8
 右肺	Gyiu fei	8
@@ -184489,7 +184489,7 @@ use_preset_vocabulary: false
 吐纳	Gtu Glat	56
 吐纳	Gtu na	56
 吐纳	tu na	56
-吐绶鸡	Gtu Gsêu Gji	10
+吐绶鸡	Gtu Gseu Gji	10
 吐绶鸡	Gtu shou Gji	10
 吐绶鸡	tu shou ji	10
 吐艳	Gtu Gyên	9
@@ -189273,7 +189273,7 @@ use_preset_vocabulary: false
 周静帝	zhou jing Gdi	7
 周静帝	zhou jing di	7
 呪	Gjiu	4964
-呪	Gzêu	4180
+呪	Gzeu	4180
 呪	zhou	4964
 呫	Gtiêt	5938
 呫	tie	5938
@@ -191372,19 +191372,19 @@ use_preset_vocabulary: false
 咐	Gfu	120000
 咑	Gdak	125000
 咑	da	125000
-咒	Gzêu	145000
+咒	Gzeu	145000
 咒	zhou	145000
-咒文	Gzêu Gwun	12
-咒文	Gzêu wen	12
+咒文	Gzeu Gwun	12
+咒文	Gzeu wen	12
 咒文	zhou Gwun	12
 咒文	zhou wen	12
-咒诅	Gzêu Gzu	15
+咒诅	Gzeu Gzu	15
 咒诅	zhou Gzu	15
 咒诅	zhou zu	15
-咒语	Gzêu Gyu	165
+咒语	Gzeu Gyu	165
 咒语	zhou Gyu	165
 咒语	zhou yu	165
-咒骂	Gzêu Gma	231
+咒骂	Gzeu Gma	231
 咒骂	zhou Gma	231
 咒骂	zhou ma	231
 咕	Ggu	104335
@@ -195070,125 +195070,125 @@ use_preset_vocabulary: false
 唬人	hu ren	45
 唭	Gqi	4846
 售	Gqiu	100000
-售	Gsêu	100139
+售	Gseu	100139
 售	Gxiu	100000
 售	shou	100139
-售书	Gsêu Gsu	11
-售书	Gsêu shu	11
+售书	Gseu Gsu	11
+售书	Gseu shu	11
 售书	Gxiu Gsu	11
 售书	shou Gsu	11
 售书	shou shu	11
-售予	Gsêu Gyu	7
+售予	Gseu Gyu	7
 售予	Gxiu Gyu	7
 售予	shou Gyu	7
 售予	shou yu	7
-售价	Gsêu Gga	311
-售价	Gsêu jia	311
+售价	Gseu Gga	311
+售价	Gseu jia	311
 售价	Gxiu Gga	311
 售价	shou Gga	311
 售价	shou jia	311
-售假	Gsêu Gga	14
-售假	Gsêu jia	14
+售假	Gseu Gga	14
+售假	Gseu jia	14
 售假	Gxiu Gga	14
 售假	shou Gga	14
 售假	shou jia	14
-售出	Gsêu Gcuk	97
-售出	Gsêu chu	97
+售出	Gseu Gcuk	97
+售出	Gseu chu	97
 售出	Gxiu Gcuk	97
 售出	shou Gcuk	97
 售出	shou chu	97
-售卖	Gsêu Gmai	25058
+售卖	Gseu Gmai	25058
 售卖	Gxiu Gmai	25058
 售卖	shou Gmai	25058
 售卖	shou mai	25058
-售后	Gsêu Ghêu	27
-售后	Gsêu hou	27
+售后	Gseu Ghêu	27
+售后	Gseu hou	27
 售后	Gxiu Ghêu	27
 售后	shou Ghêu	27
 售后	shou hou	27
-售后服务	Gsêu Ghêu Gfuk Gwu	151
-售后服务	Gsêu Ghêu fu Gwu	151
-售后服务	Gsêu hou Gfuk Gwu	151
-售后服务	Gsêu hou fu Gwu	151
+售后服务	Gseu Ghêu Gfuk Gwu	151
+售后服务	Gseu Ghêu fu Gwu	151
+售后服务	Gseu hou Gfuk Gwu	151
+售后服务	Gseu hou fu Gwu	151
 售后服务	Gxiu Ghêu Gfuk Gwu	151
 售后服务	shou Ghêu Gfuk Gwu	151
 售后服务	shou Ghêu fu Gwu	151
 售后服务	shou hou Gfuk Gwu	151
 售后服务	shou hou fu Gwu	151
 售后服务	shou hou fu wu	151
-售完	Gsêu Gwon	28
-售完	Gsêu Wyuon	28
-售完	Gsêu wan	28
+售完	Gseu Gwon	28
+售完	Gseu Wyuon	28
+售完	Gseu wan	28
 售完	Gxiu Gwon	28
 售完	Gxiu Wyuon	28
 售完	shou Gwon	28
 售完	shou wan	28
-售房	Gsêu Gfong	22
-售房	Gsêu fang	22
+售房	Gseu Gfong	22
+售房	Gseu fang	22
 售房	Gxiu Gfong	22
 售房	shou Gfong	22
 售房	shou fang	22
-售楼	Gsêu Glêu	76
-售楼	Gsêu lou	76
+售楼	Gseu Glêu	76
+售楼	Gseu lou	76
 售楼	Gxiu Glêu	76
 售楼	shou Glêu	76
 售楼	shou lou	76
-售票	Gsêu Gpiêu	183
-售票	Gsêu piao	183
+售票	Gseu Gpiêu	183
+售票	Gseu piao	183
 售票	Gxiu Gpiêu	183
 售票	shou Gpiêu	183
 售票	shou piao	183
-售票口	Gsêu Gpiêu Gkiêu	11
-售票口	Gsêu Gpiêu kou	11
-售票口	Gsêu piao Gkiêu	11
-售票口	Gsêu piao kou	11
+售票口	Gseu Gpiêu Gkiêu	11
+售票口	Gseu Gpiêu kou	11
+售票口	Gseu piao Gkiêu	11
+售票口	Gseu piao kou	11
 售票口	Gxiu Gpiêu Gkiêu	11
 售票口	shou Gpiêu Gkiêu	11
 售票口	shou Gpiêu kou	11
 售票口	shou piao Gkiêu	11
 售票口	shou piao kou	11
-售票员	Gsêu Gpiêu Gyuon	66
-售票员	Gsêu Gpiêu yuan	66
-售票员	Gsêu piao Gyuon	66
-售票员	Gsêu piao yuan	66
+售票员	Gseu Gpiêu Gyuon	66
+售票员	Gseu Gpiêu yuan	66
+售票员	Gseu piao Gyuon	66
+售票员	Gseu piao yuan	66
 售票员	Gxiu Gpiêu Gyuon	66
 售票员	shou Gpiêu Gyuon	66
 售票员	shou Gpiêu yuan	66
 售票员	shou piao Gyuon	66
 售票员	shou piao yuan	66
-售票处	Gsêu Gpiêu Gcu	45
-售票处	Gsêu Gpiêu chu	45
-售票处	Gsêu piao Gcu	45
-售票处	Gsêu piao chu	45
+售票处	Gseu Gpiêu Gcu	45
+售票处	Gseu Gpiêu chu	45
+售票处	Gseu piao Gcu	45
+售票处	Gseu piao chu	45
 售票处	Gxiu Gpiêu Gcu	45
 售票处	shou Gpiêu Gcu	45
 售票处	shou Gpiêu chu	45
 售票处	shou piao Gcu	45
 售票处	shou piao chu	45
-售票机	Gsêu Gpiêu Gji	7
-售票机	Gsêu piao Gji	7
+售票机	Gseu Gpiêu Gji	7
+售票机	Gseu piao Gji	7
 售票机	Gxiu Gpiêu Gji	7
 售票机	shou Gpiêu Gji	7
 售票机	shou piao Gji	7
 售票机	shou piao ji	7
-售票点	Gsêu Gpiêu Gdiên	9
-售票点	Gsêu Gpiêu dian	9
-售票点	Gsêu piao Gdiên	9
-售票点	Gsêu piao dian	9
+售票点	Gseu Gpiêu Gdiên	9
+售票点	Gseu Gpiêu dian	9
+售票点	Gseu piao Gdiên	9
+售票点	Gseu piao dian	9
 售票点	Gxiu Gpiêu Gdiên	9
 售票点	shou Gpiêu Gdiên	9
 售票点	shou Gpiêu dian	9
 售票点	shou piao Gdiên	9
 售票点	shou piao dian	9
-售货	Gsêu Gfo	36
-售货	Gsêu huo	36
+售货	Gseu Gfo	36
+售货	Gseu huo	36
 售货	Gxiu Gfo	36
 售货	shou Gfo	36
 售货	shou huo	36
-售货员	Gsêu Gfo Gyuon	74
-售货员	Gsêu Gfo yuan	74
-售货员	Gsêu huo Gyuon	74
-售货员	Gsêu huo yuan	74
+售货员	Gseu Gfo Gyuon	74
+售货员	Gseu Gfo yuan	74
+售货员	Gseu huo Gyuon	74
+售货员	Gseu huo yuan	74
 售货员	Gxiu Gfo Gyuon	74
 售货员	shou Gfo Gyuon	74
 售货员	shou Gfo yuan	74
@@ -204004,10 +204004,10 @@ use_preset_vocabulary: false
 困倦	Gkun Gqyuon	118
 困倦	Gkun juan	118
 困倦	kun juan	118
-困兽犹斗	Gkun Gsêu Gyiu Gdêu	15
-困兽犹斗	Gkun Gsêu Gyiu dou	15
-困兽犹斗	Gkun Gsêu you Gdêu	15
-困兽犹斗	Gkun Gsêu you dou	15
+困兽犹斗	Gkun Gseu Gyiu Gdêu	15
+困兽犹斗	Gkun Gseu Gyiu dou	15
+困兽犹斗	Gkun Gseu you Gdêu	15
+困兽犹斗	Gkun Gseu you dou	15
 困兽犹斗	Gkun Gxiu Gyiu Gdêu	15
 困兽犹斗	Gkun shou Gyiu Gdêu	15
 困兽犹斗	Gkun shou Gyiu dou	15
@@ -218573,12 +218573,12 @@ use_preset_vocabulary: false
 增益	Gzên yi	90
 增益	zeng Gyit	90
 增益	zeng yi	90
-增稠剂	Gzên Gcêu Gqi	73
-增稠剂	Gzên Gcêu ji	73
+增稠剂	Gzên Gceu Gqi	73
+增稠剂	Gzên Gceu ji	73
 增稠剂	Gzên chou Gqi	73
 增稠剂	Gzên chou ji	73
-增稠剂	zeng Gcêu Gqi	73
-增稠剂	zeng Gcêu ji	73
+增稠剂	zeng Gceu Gqi	73
+增稠剂	zeng Gceu ji	73
 增稠剂	zeng chou Gqi	73
 增稠剂	zeng chou ji	73
 增编	Gzên Gbiên	19
@@ -228087,10 +228087,10 @@ use_preset_vocabulary: false
 大寺	Gtai si	58
 大寺	da Gsï	58
 大寺	da si	58
-大寿	Gtai Gsêu	257
+大寿	Gtai Gseu	257
 大寿	Gtai Gxiu	257
 大寿	Gtai shou	257
-大寿	da Gsêu	257
+大寿	da Gseu	257
 大寿	da shou	257
 大将	Gtai Gjiong	1739
 大将	Gtai jiang	1739
@@ -234197,14 +234197,14 @@ use_preset_vocabulary: false
 天打雷劈	tian Gda lei Gpit	10
 天打雷劈	tian Gda lei pi	10
 天打雷劈	tian da lei pi	10
-天授礼法延祚	Gtiên Gsêu Gli Gfat Gyên Gcu	20
-天授礼法延祚	Gtiên Gsêu Gli Gfat Gyên zuo	20
-天授礼法延祚	Gtiên Gsêu Gli Gfat yan Gcu	20
-天授礼法延祚	Gtiên Gsêu Gli Gfat yan zuo	20
-天授礼法延祚	Gtiên Gsêu Gli fa Gyên Gcu	20
-天授礼法延祚	Gtiên Gsêu Gli fa Gyên zuo	20
-天授礼法延祚	Gtiên Gsêu Gli fa yan Gcu	20
-天授礼法延祚	Gtiên Gsêu Gli fa yan zuo	20
+天授礼法延祚	Gtiên Gseu Gli Gfat Gyên Gcu	20
+天授礼法延祚	Gtiên Gseu Gli Gfat Gyên zuo	20
+天授礼法延祚	Gtiên Gseu Gli Gfat yan Gcu	20
+天授礼法延祚	Gtiên Gseu Gli Gfat yan zuo	20
+天授礼法延祚	Gtiên Gseu Gli fa Gyên Gcu	20
+天授礼法延祚	Gtiên Gseu Gli fa Gyên zuo	20
+天授礼法延祚	Gtiên Gseu Gli fa yan Gcu	20
+天授礼法延祚	Gtiên Gseu Gli fa yan zuo	20
 天授礼法延祚	Gtiên Gxiu Gli Gfat Gyên Gcu	20
 天授礼法延祚	Gtiên shou Gli Gfat Gyên Gcu	20
 天授礼法延祚	Gtiên shou Gli Gfat Gyên zuo	20
@@ -234214,14 +234214,14 @@ use_preset_vocabulary: false
 天授礼法延祚	Gtiên shou Gli fa Gyên zuo	20
 天授礼法延祚	Gtiên shou Gli fa yan Gcu	20
 天授礼法延祚	Gtiên shou Gli fa yan zuo	20
-天授礼法延祚	tian Gsêu Gli Gfat Gyên Gcu	20
-天授礼法延祚	tian Gsêu Gli Gfat Gyên zuo	20
-天授礼法延祚	tian Gsêu Gli Gfat yan Gcu	20
-天授礼法延祚	tian Gsêu Gli Gfat yan zuo	20
-天授礼法延祚	tian Gsêu Gli fa Gyên Gcu	20
-天授礼法延祚	tian Gsêu Gli fa Gyên zuo	20
-天授礼法延祚	tian Gsêu Gli fa yan Gcu	20
-天授礼法延祚	tian Gsêu Gli fa yan zuo	20
+天授礼法延祚	tian Gseu Gli Gfat Gyên Gcu	20
+天授礼法延祚	tian Gseu Gli Gfat Gyên zuo	20
+天授礼法延祚	tian Gseu Gli Gfat yan Gcu	20
+天授礼法延祚	tian Gseu Gli Gfat yan zuo	20
+天授礼法延祚	tian Gseu Gli fa Gyên Gcu	20
+天授礼法延祚	tian Gseu Gli fa Gyên zuo	20
+天授礼法延祚	tian Gseu Gli fa yan Gcu	20
+天授礼法延祚	tian Gseu Gli fa yan zuo	20
 天授礼法延祚	tian shou Gli Gfat Gyên Gcu	20
 天授礼法延祚	tian shou Gli Gfat Gyên zuo	20
 天授礼法延祚	tian shou Gli Gfat yan Gcu	20
@@ -235962,7 +235962,7 @@ use_preset_vocabulary: false
 太原市	tai yuan shi	87
 太古	Gtai Ggu	81
 太古宙	Gtai Ggu Gjiu	15
-太古宙	Gtai Ggu Gzêu	15
+太古宙	Gtai Ggu Gzeu	15
 太古宙	Gtai Ggu zhou	15
 太古宙	tai gu zhou	15
 太古界	Gtai Ggu Ggai	11
@@ -237549,9 +237549,9 @@ use_preset_vocabulary: false
 头等舱	tou Gdên cang	29
 头等舱	tou deng Gcong	29
 头等舱	tou deng cang	29
-头筹	Gtêu Gcêu	55
+头筹	Gtêu Gceu	55
 头筹	Gtêu chou	55
-头筹	tou Gcêu	55
+头筹	tou Gceu	55
 头筹	tou chou	55
 头绪	Gtêu Gxyu	226
 头绪	Gtêu xu	226
@@ -248377,10 +248377,10 @@ use_preset_vocabulary: false
 孙仲君	Gsun zhong Gjyun	154
 孙仲君	Gsun zhong jun	154
 孙仲君	sun zhong jun	154
-孙仲寿	Gsun Gcung Gsêu	100
+孙仲寿	Gsun Gcung Gseu	100
 孙仲寿	Gsun Gcung Gxiu	100
 孙仲寿	Gsun Gcung shou	100
-孙仲寿	Gsun zhong Gsêu	100
+孙仲寿	Gsun zhong Gseu	100
 孙仲寿	Gsun zhong shou	100
 孙仲寿	sun zhong shou	100
 孙伏虎	Gsun Gfuk Gfu	21
@@ -250628,13 +250628,13 @@ use_preset_vocabulary: false
 宁寺敬	ning Gsï jing	7
 宁寺敬	ning si Gjin	7
 宁寺敬	ning si jing	7
-宁寿宫	Glin Gsêu Ggung	16
-宁寿宫	Glin Gsêu gong	16
+宁寿宫	Glin Gseu Ggung	16
+宁寿宫	Glin Gseu gong	16
 宁寿宫	Glin Gxiu Ggung	16
 宁寿宫	Glin shou Ggung	16
 宁寿宫	Glin shou gong	16
-宁寿宫	ning Gsêu Ggung	16
-宁寿宫	ning Gsêu gong	16
+宁寿宫	ning Gseu Ggung	16
+宁寿宫	ning Gseu gong	16
 宁寿宫	ning shou Ggung	16
 宁寿宫	ning shou gong	16
 宁州	Glin Gjiu	16
@@ -250910,78 +250910,78 @@ use_preset_vocabulary: false
 宇内	Gyu nei	10
 宇内	yu nei	10
 宇宙	Gyu Gjiu	2312
-宇宙	Gyu Gzêu	2312
+宇宙	Gyu Gzeu	2312
 宇宙	Gyu zhou	2312
 宇宙	yu zhou	2312
 宇宙学	Gyu Gjiu Ghok	59
-宇宙学	Gyu Gzêu Ghok	59
-宇宙学	Gyu Gzêu xue	59
+宇宙学	Gyu Gzeu Ghok	59
+宇宙学	Gyu Gzeu xue	59
 宇宙学	Gyu zhou Ghok	59
 宇宙学	Gyu zhou xue	59
 宇宙学	yu zhou xue	59
 宇宙射线	Gyu Gjiu Gsa Gxiên	41
-宇宙射线	Gyu Gzêu Gsa Gxiên	41
-宇宙射线	Gyu Gzêu Gsa xian	41
-宇宙射线	Gyu Gzêu she Gxiên	41
-宇宙射线	Gyu Gzêu she xian	41
+宇宙射线	Gyu Gzeu Gsa Gxiên	41
+宇宙射线	Gyu Gzeu Gsa xian	41
+宇宙射线	Gyu Gzeu she Gxiên	41
+宇宙射线	Gyu Gzeu she xian	41
 宇宙射线	Gyu zhou Gsa Gxiên	41
 宇宙射线	Gyu zhou Gsa xian	41
 宇宙射线	Gyu zhou she Gxiên	41
 宇宙射线	Gyu zhou she xian	41
 宇宙射线	yu zhou she xian	41
 宇宙尘	Gyu Gjiu Gcen	17
-宇宙尘	Gyu Gzêu Gcen	17
-宇宙尘	Gyu Gzêu chen	17
+宇宙尘	Gyu Gzeu Gcen	17
+宇宙尘	Gyu Gzeu chen	17
 宇宙尘	Gyu zhou Gcen	17
 宇宙尘	Gyu zhou chen	17
 宇宙尘	yu zhou chen	17
 宇宙火箭	Gyu Gjiu Gfo Gjiên	7
-宇宙火箭	Gyu Gzêu Gfo Gjiên	7
-宇宙火箭	Gyu Gzêu Gfo jian	7
-宇宙火箭	Gyu Gzêu huo Gjiên	7
-宇宙火箭	Gyu Gzêu huo jian	7
+宇宙火箭	Gyu Gzeu Gfo Gjiên	7
+宇宙火箭	Gyu Gzeu Gfo jian	7
+宇宙火箭	Gyu Gzeu huo Gjiên	7
+宇宙火箭	Gyu Gzeu huo jian	7
 宇宙火箭	Gyu zhou Gfo Gjiên	7
 宇宙火箭	Gyu zhou Gfo jian	7
 宇宙火箭	Gyu zhou huo Gjiên	7
 宇宙火箭	Gyu zhou huo jian	7
 宇宙火箭	yu zhou huo jian	7
 宇宙空间	Gyu Gjiu Gkung Ggan	110
-宇宙空间	Gyu Gzêu Gkung Ggan	110
-宇宙空间	Gyu Gzêu Gkung jian	110
-宇宙空间	Gyu Gzêu kong Ggan	110
-宇宙空间	Gyu Gzêu kong jian	110
+宇宙空间	Gyu Gzeu Gkung Ggan	110
+宇宙空间	Gyu Gzeu Gkung jian	110
+宇宙空间	Gyu Gzeu kong Ggan	110
+宇宙空间	Gyu Gzeu kong jian	110
 宇宙空间	Gyu zhou Gkung Ggan	110
 宇宙空间	Gyu zhou Gkung jian	110
 宇宙空间	Gyu zhou kong Ggan	110
 宇宙空间	Gyu zhou kong jian	110
 宇宙空间	yu zhou kong jian	110
 宇宙线	Gyu Gjiu Gxiên	110
-宇宙线	Gyu Gzêu Gxiên	110
-宇宙线	Gyu Gzêu xian	110
+宇宙线	Gyu Gzeu Gxiên	110
+宇宙线	Gyu Gzeu xian	110
 宇宙线	Gyu zhou Gxiên	110
 宇宙线	Gyu zhou xian	110
 宇宙线	yu zhou xian	110
 宇宙观	Gyu Gjiu Gguon	40
-宇宙观	Gyu Gzêu Gguon	40
-宇宙观	Gyu Gzêu guan	40
+宇宙观	Gyu Gzeu Gguon	40
+宇宙观	Gyu Gzeu guan	40
 宇宙观	Gyu zhou Gguon	40
 宇宙观	Gyu zhou guan	40
 宇宙观	yu zhou guan	40
 宇宙速度	Gyu Gjiu Gsuk Gtu	12
-宇宙速度	Gyu Gzêu Gsuk Gtu	12
-宇宙速度	Gyu Gzêu Gsuk du	12
-宇宙速度	Gyu Gzêu su Gtu	12
-宇宙速度	Gyu Gzêu su du	12
+宇宙速度	Gyu Gzeu Gsuk Gtu	12
+宇宙速度	Gyu Gzeu Gsuk du	12
+宇宙速度	Gyu Gzeu su Gtu	12
+宇宙速度	Gyu Gzeu su du	12
 宇宙速度	Gyu zhou Gsuk Gtu	12
 宇宙速度	Gyu zhou Gsuk du	12
 宇宙速度	Gyu zhou su Gtu	12
 宇宙速度	Gyu zhou su du	12
 宇宙速度	yu zhou su du	12
 宇宙飞船	Gyu Gjiu Gfui Gcon	111
-宇宙飞船	Gyu Gzêu Gfui Gcon	111
-宇宙飞船	Gyu Gzêu Gfui chuan	111
-宇宙飞船	Gyu Gzêu fei Gcon	111
-宇宙飞船	Gyu Gzêu fei chuan	111
+宇宙飞船	Gyu Gzeu Gfui Gcon	111
+宇宙飞船	Gyu Gzeu Gfui chuan	111
+宇宙飞船	Gyu Gzeu fei Gcon	111
+宇宙飞船	Gyu Gzeu fei chuan	111
 宇宙飞船	Gyu zhou Gfui Gcon	111
 宇宙飞船	Gyu zhou Gfui chuan	111
 宇宙飞船	Gyu zhou fei Gcon	111
@@ -256004,11 +256004,11 @@ use_preset_vocabulary: false
 官面	guan Gmiên	24
 官面	guan mian	24
 宙	Gjiu	100000
-宙	Gzêu	104086
+宙	Gzeu	104086
 宙	zhou	104086
 宙斯	Gjiu Gsï	305
-宙斯	Gzêu Gsï	305
-宙斯	Gzêu si	305
+宙斯	Gzeu Gsï	305
+宙斯	Gzeu si	305
 宙斯	zhou Gsï	305
 宙斯	zhou si	305
 定	Gtiang	62500
@@ -258531,24 +258531,24 @@ use_preset_vocabulary: false
 客座	Wkiêt Gco	33
 客座	ke Gco	33
 客座	ke zuo	33
-客座教授	Gkak Gco Ggau Gsêu	39
+客座教授	Gkak Gco Ggau Gseu	39
 客座教授	Gkak Gco Ggau Gxiu	39
 客座教授	Gkak Gco Ggau shou	39
-客座教授	Gkak Gco jiao Gsêu	39
+客座教授	Gkak Gco jiao Gseu	39
 客座教授	Gkak Gco jiao shou	39
-客座教授	Gkak zuo Ggau Gsêu	39
+客座教授	Gkak zuo Ggau Gseu	39
 客座教授	Gkak zuo Ggau shou	39
-客座教授	Gkak zuo jiao Gsêu	39
+客座教授	Gkak zuo jiao Gseu	39
 客座教授	Gkak zuo jiao shou	39
-客座教授	Wkiêt Gco Ggau Gsêu	39
+客座教授	Wkiêt Gco Ggau Gseu	39
 客座教授	Wkiêt Gco Ggau Gxiu	39
-客座教授	ke Gco Ggau Gsêu	39
+客座教授	ke Gco Ggau Gseu	39
 客座教授	ke Gco Ggau shou	39
-客座教授	ke Gco jiao Gsêu	39
+客座教授	ke Gco jiao Gseu	39
 客座教授	ke Gco jiao shou	39
-客座教授	ke zuo Ggau Gsêu	39
+客座教授	ke zuo Ggau Gseu	39
 客座教授	ke zuo Ggau shou	39
-客座教授	ke zuo jiao Gsêu	39
+客座教授	ke zuo jiao Gseu	39
 客座教授	ke zuo jiao shou	39
 客座率	Gkak Gco Glyut	13
 客座率	Gkak Gco lv	13
@@ -259727,7 +259727,7 @@ use_preset_vocabulary: false
 害人虫	Ghai ren Gcung	7
 害人虫	Ghai ren chong	7
 害人虫	hai ren chong	7
-害兽	Ghai Gsêu	9
+害兽	Ghai Gseu	9
 害兽	Ghai Gxiu	9
 害兽	Ghai shou	9
 害兽	hai shou	9
@@ -263767,149 +263767,149 @@ use_preset_vocabulary: false
 导轨	dao gui	66
 寽	Glet	5846
 寽	lv	5846
-寿	Gsêu	145000
+寿	Gseu	145000
 寿	Gxiu	105000
 寿	shou	145000
-寿光	Gsêu Gguong	15
-寿光	Gsêu guang	15
+寿光	Gseu Gguong	15
+寿光	Gseu guang	15
 寿光	Gxiu Gguong	15
 寿光	shou Gguong	15
 寿光	shou guang	15
-寿兴国	Gsêu Gxin Gguêt	128
-寿兴国	Gsêu Gxin guo	128
-寿兴国	Gsêu xing Gguêt	128
-寿兴国	Gsêu xing guo	128
+寿兴国	Gseu Gxin Gguêt	128
+寿兴国	Gseu Gxin guo	128
+寿兴国	Gseu xing Gguêt	128
+寿兴国	Gseu xing guo	128
 寿兴国	Gxiu Gxin Gguêt	128
 寿兴国	shou Gxin Gguêt	128
 寿兴国	shou Gxin guo	128
 寿兴国	shou xing Gguêt	128
 寿兴国	shou xing guo	128
-寿南山	Gsêu Glan Gsan	12
-寿南山	Gsêu Glan shan	12
-寿南山	Gsêu nan Gsan	12
-寿南山	Gsêu nan shan	12
+寿南山	Gseu Glan Gsan	12
+寿南山	Gseu Glan shan	12
+寿南山	Gseu nan Gsan	12
+寿南山	Gseu nan shan	12
 寿南山	Gxiu Glan Gsan	12
 寿南山	shou Glan Gsan	12
 寿南山	shou Glan shan	12
 寿南山	shou nan Gsan	12
 寿南山	shou nan shan	12
-寿县	Gsêu Gxiên	76
-寿县	Gsêu xian	76
+寿县	Gseu Gxiên	76
+寿县	Gseu xian	76
 寿县	Gxiu Gxiên	76
 寿县	shou Gxiên	76
 寿县	shou xian	76
-寿司	Gsêu Gsï	10
-寿司	Gsêu si	10
+寿司	Gseu Gsï	10
+寿司	Gseu si	10
 寿司	Gxiu Gsï	10
 寿司	shou Gsï	10
 寿司	shou si	10
-寿命	Gsêu Gmin	11155
-寿命	Gsêu Wmiang	11155
-寿命	Gsêu ming	11155
+寿命	Gseu Gmin	11155
+寿命	Gseu Wmiang	11155
+寿命	Gseu ming	11155
 寿命	Gxiu Gmin	11155
 寿命	Gxiu Wmiang	11155
 寿命	shou Gmin	11155
 寿命	shou ming	11155
-寿太郎	Gsêu Gtai Glong	42
-寿太郎	Gsêu Gtai lang	42
+寿太郎	Gseu Gtai Glong	42
+寿太郎	Gseu Gtai lang	42
 寿太郎	Gxiu Gtai Glong	42
 寿太郎	shou Gtai Glong	42
 寿太郎	shou Gtai lang	42
 寿太郎	shou tai lang	42
-寿宁	Gsêu Glin	12
-寿宁	Gsêu ning	12
+寿宁	Gseu Glin	12
+寿宁	Gseu ning	12
 寿宁	Gxiu Glin	12
 寿宁	shou Glin	12
 寿宁	shou ning	12
-寿宁宫	Gsêu Glin Ggung	61
-寿宁宫	Gsêu Glin gong	61
-寿宁宫	Gsêu ning Ggung	61
-寿宁宫	Gsêu ning gong	61
+寿宁宫	Gseu Glin Ggung	61
+寿宁宫	Gseu Glin gong	61
+寿宁宫	Gseu ning Ggung	61
+寿宁宫	Gseu ning gong	61
 寿宁宫	Gxiu Glin Ggung	61
 寿宁宫	shou Glin Ggung	61
 寿宁宫	shou Glin gong	61
 寿宁宫	shou ning Ggung	61
 寿宁宫	shou ning gong	61
-寿宴	Gsêu Gyên	22
-寿宴	Gsêu yan	22
+寿宴	Gseu Gyên	22
+寿宴	Gseu yan	22
 寿宴	Gxiu Gyên	22
 寿宴	shou Gyên	22
 寿宴	shou yan	22
-寿山	Gsêu Gsan	101
-寿山	Gsêu shan	101
+寿山	Gseu Gsan	101
+寿山	Gseu shan	101
 寿山	Gxiu Gsan	101
 寿山	shou Gsan	101
 寿山	shou shan	101
-寿山石	Gsêu Gsan Gsïk	8
-寿山石	Gsêu Gsan shi	8
-寿山石	Gsêu shan Gsïk	8
-寿山石	Gsêu shan shi	8
+寿山石	Gseu Gsan Gsïk	8
+寿山石	Gseu Gsan shi	8
+寿山石	Gseu shan Gsïk	8
+寿山石	Gseu shan shi	8
 寿山石	Gxiu Gsan Gsïk	8
 寿山石	shou Gsan Gsïk	8
 寿山石	shou Gsan shi	8
 寿山石	shou shan Gsïk	8
 寿山石	shou shan shi	8
-寿数	Gsêu Gsu	16
-寿数	Gsêu shu	16
+寿数	Gseu Gsu	16
+寿数	Gseu shu	16
 寿数	Gxiu Gsu	16
 寿数	shou Gsu	16
 寿数	shou shu	16
-寿星	Gsêu Gxin	81
-寿星	Gsêu Wxiang	81
-寿星	Gsêu xing	81
+寿星	Gseu Gxin	81
+寿星	Gseu Wxiang	81
+寿星	Gseu xing	81
 寿星	Gxiu Gxin	81
 寿星	Gxiu Wxiang	81
 寿星	shou Gxin	81
 寿星	shou xing	81
-寿木	Gsêu Gmuk	16
-寿木	Gsêu mu	16
+寿木	Gseu Gmuk	16
+寿木	Gseu mu	16
 寿木	Gxiu Gmuk	16
 寿木	shou Gmuk	16
 寿木	shou mu	16
-寿材	Gsêu Gcai	11
+寿材	Gseu Gcai	11
 寿材	Gxiu Gcai	11
 寿材	shou Gcai	11
 寿材	shou cai	11
-寿桃	Gsêu Gtau	25
-寿桃	Gsêu tao	25
+寿桃	Gseu Gtau	25
+寿桃	Gseu tao	25
 寿桃	Gxiu Gtau	25
 寿桃	shou Gtau	25
 寿桃	shou tao	25
-寿比南山	Gsêu Gbi Glan Gsan	16
-寿比南山	Gsêu Gbi Glan shan	16
-寿比南山	Gsêu Gbi nan Gsan	16
-寿比南山	Gsêu Gbi nan shan	16
+寿比南山	Gseu Gbi Glan Gsan	16
+寿比南山	Gseu Gbi Glan shan	16
+寿比南山	Gseu Gbi nan Gsan	16
+寿比南山	Gseu Gbi nan shan	16
 寿比南山	Gxiu Gbi Glan Gsan	16
 寿比南山	shou Gbi Glan Gsan	16
 寿比南山	shou Gbi Glan shan	16
 寿比南山	shou Gbi nan Gsan	16
 寿比南山	shou Gbi nan shan	16
 寿比南山	shou bi nan shan	16
-寿皇殿	Gsêu Gfong Gtiên	26
-寿皇殿	Gsêu Gfong dian	26
-寿皇殿	Gsêu Wwong Gtiên	26
-寿皇殿	Gsêu huang Gtiên	26
-寿皇殿	Gsêu huang dian	26
+寿皇殿	Gseu Gfong Gtiên	26
+寿皇殿	Gseu Gfong dian	26
+寿皇殿	Gseu Wwong Gtiên	26
+寿皇殿	Gseu huang Gtiên	26
+寿皇殿	Gseu huang dian	26
 寿皇殿	Gxiu Gfong Gtiên	26
 寿皇殿	Gxiu Wwong Gtiên	26
 寿皇殿	shou Gfong Gtiên	26
 寿皇殿	shou Gfong dian	26
 寿皇殿	shou huang Gtiên	26
 寿皇殿	shou huang dian	26
-寿礼	Gsêu Gli	61
+寿礼	Gseu Gli	61
 寿礼	Gxiu Gli	61
 寿礼	shou Gli	61
 寿礼	shou li	61
-寿筵	Gsêu Gyên	7
-寿筵	Gsêu yan	7
+寿筵	Gseu Gyên	7
+寿筵	Gseu yan	7
 寿筵	Gxiu Gyên	7
 寿筵	shou Gyên	7
 寿筵	shou yan	7
-寿终正寝	Gsêu Gzung Gzen Gqin	26
-寿终正寝	Gsêu Gzung Wzang Gqin	26
-寿终正寝	Gsêu Gzung zheng Gqin	26
-寿终正寝	Gsêu zhong Gzen Gqin	26
-寿终正寝	Gsêu zhong zheng Gqin	26
+寿终正寝	Gseu Gzung Gzen Gqin	26
+寿终正寝	Gseu Gzung Wzang Gqin	26
+寿终正寝	Gseu Gzung zheng Gqin	26
+寿终正寝	Gseu zhong Gzen Gqin	26
+寿终正寝	Gseu zhong zheng Gqin	26
 寿终正寝	Gxiu Gzung Gzen Gqin	26
 寿终正寝	Gxiu Gzung Wzang Gqin	26
 寿终正寝	shou Gzung Gzen Gqin	26
@@ -263917,42 +263917,42 @@ use_preset_vocabulary: false
 寿终正寝	shou zhong Gzen Gqin	26
 寿终正寝	shou zhong zheng Gqin	26
 寿终正寝	shou zhong zheng qin	26
-寿考	Gsêu Gkau	8
-寿考	Gsêu kao	8
+寿考	Gseu Gkau	8
+寿考	Gseu kao	8
 寿考	Gxiu Gkau	8
 寿考	shou Gkau	8
 寿考	shou kao	8
-寿衣	Gsêu Gyi	49
+寿衣	Gseu Gyi	49
 寿衣	Gxiu Gyi	49
 寿衣	shou Gyi	49
 寿衣	shou yi	49
-寿诞	Gsêu Gtan	20
-寿诞	Gsêu dan	20
+寿诞	Gseu Gtan	20
+寿诞	Gseu dan	20
 寿诞	Gxiu Gtan	20
 寿诞	shou Gtan	20
 寿诞	shou dan	20
-寿辰	Gsêu Gcen	42
-寿辰	Gsêu chen	42
+寿辰	Gseu Gcen	42
+寿辰	Gseu chen	42
 寿辰	Gxiu Gcen	42
 寿辰	shou Gcen	42
 寿辰	shou chen	42
-寿阳	Gsêu Gyong	12
-寿阳	Gsêu yang	12
+寿阳	Gseu Gyong	12
+寿阳	Gseu yang	12
 寿阳	Gxiu Gyong	12
 寿阳	shou Gyong	12
 寿阳	shou yang	12
-寿限	Gsêu Gxiên	21
-寿限	Gsêu xian	21
+寿限	Gseu Gxiên	21
+寿限	Gseu xian	21
 寿限	Gxiu Gxiên	21
 寿限	shou Gxiên	21
 寿限	shou xian	21
-寿险	Gsêu Gxiên	54
-寿险	Gsêu xian	54
+寿险	Gseu Gxiên	54
+寿险	Gseu xian	54
 寿险	Gxiu Gxiên	54
 寿险	shou Gxiên	54
 寿险	shou xian	54
-寿面	Gsêu Gmiên	9
-寿面	Gsêu mian	9
+寿面	Gseu Gmiên	9
+寿面	Gseu mian	9
 寿面	Gxiu Gmiên	9
 寿面	shou Gmiên	9
 寿面	shou mian	9
@@ -265309,10 +265309,10 @@ use_preset_vocabulary: false
 小兵	Gxiêu bing	87
 小兵	xiao Gbin	87
 小兵	xiao bing	87
-小兽	Gxiêu Gsêu	12
+小兽	Gxiêu Gseu	12
 小兽	Gxiêu Gxiu	12
 小兽	Gxiêu shou	12
-小兽	xiao Gsêu	12
+小兽	xiao Gseu	12
 小兽	xiao shou	12
 小册子	Gxiêu Gcêt Gzï	158
 小册子	Gxiêu Gcêt zi	158
@@ -278623,10 +278623,10 @@ use_preset_vocabulary: false
 巨作	Gjyu zuo	17
 巨作	ju Gzok	17
 巨作	ju zuo	17
-巨兽	Gjyu Gsêu	14
+巨兽	Gjyu Gseu	14
 巨兽	Gjyu Gxiu	14
 巨兽	Gjyu shou	14
-巨兽	ju Gsêu	14
+巨兽	ju Gseu	14
 巨兽	ju shou	14
 巨制	Gjyu Gzï	17
 巨制	Gjyu zhi	17
@@ -282387,7 +282387,7 @@ use_preset_vocabulary: false
 帙	Gcïk	73273
 帙	zhi	73273
 帚	Gjiu	110000
-帚	Gzêu	170000
+帚	Gzeu	170000
 帚	zhou	170000
 帛	Gpêt	90000
 帛	bo	90000
@@ -287376,10 +287376,10 @@ use_preset_vocabulary: false
 幼儿期	you Geo Gqi	15
 幼儿期	you er Gqi	15
 幼儿期	you er qi	15
-幼兽	Gyiu Gsêu	7
+幼兽	Gyiu Gseu	7
 幼兽	Gyiu Gxiu	7
 幼兽	Gyiu shou	7
-幼兽	you Gsêu	7
+幼兽	you Gseu	7
 幼兽	you shou	7
 幼发拉底河	Gyiu Gfat Gla Gdi Gho	78
 幼发拉底河	Gyiu Gfat Gla Gdi he	78
@@ -290803,7 +290803,7 @@ use_preset_vocabulary: false
 府第	Gfu Gti	80
 府第	Gfu di	80
 府第	fu di	80
-府绸	Gfu Gcêu	40
+府绸	Gfu Gceu	40
 府绸	Gfu Gqiu	40
 府绸	Gfu chou	40
 府绸	fu chou	40
@@ -292409,10 +292409,10 @@ use_preset_vocabulary: false
 延宕	Gyên dang	18
 延宕	yan Gtong	18
 延宕	yan dang	18
-延寿	Gyên Gsêu	70
+延寿	Gyên Gseu	70
 延寿	Gyên Gxiu	70
 延寿	Gyên shou	70
-延寿	yan Gsêu	70
+延寿	yan Gseu	70
 延寿	yan shou	70
 延展	Gyên Gzên	36
 延展	Gyên zhan	36
@@ -292464,22 +292464,22 @@ use_preset_vocabulary: false
 延平郡王	yan ping Gjyun wang	22
 延平郡王	yan ping jun Gwong	22
 延平郡王	yan ping jun wang	22
-延年益寿	Gyên Gniên Gyit Gsêu	44
+延年益寿	Gyên Gniên Gyit Gseu	44
 延年益寿	Gyên Gniên Gyit Gxiu	44
 延年益寿	Gyên Gniên Gyit shou	44
-延年益寿	Gyên Gniên yi Gsêu	44
+延年益寿	Gyên Gniên yi Gseu	44
 延年益寿	Gyên Gniên yi shou	44
-延年益寿	Gyên nian Gyit Gsêu	44
+延年益寿	Gyên nian Gyit Gseu	44
 延年益寿	Gyên nian Gyit shou	44
-延年益寿	Gyên nian yi Gsêu	44
+延年益寿	Gyên nian yi Gseu	44
 延年益寿	Gyên nian yi shou	44
-延年益寿	yan Gniên Gyit Gsêu	44
+延年益寿	yan Gniên Gyit Gseu	44
 延年益寿	yan Gniên Gyit shou	44
-延年益寿	yan Gniên yi Gsêu	44
+延年益寿	yan Gniên yi Gseu	44
 延年益寿	yan Gniên yi shou	44
-延年益寿	yan nian Gyit Gsêu	44
+延年益寿	yan nian Gyit Gseu	44
 延年益寿	yan nian Gyit shou	44
-延年益寿	yan nian yi Gsêu	44
+延年益寿	yan nian yi Gseu	44
 延年益寿	yan nian yi shou	44
 延庆	Gyên Gqin	279
 延庆	Gyên qing	279
@@ -294267,7 +294267,7 @@ use_preset_vocabulary: false
 异体字	Gyi Gti Gcï	18
 异体字	Gyi Gti zi	18
 异体字	yi ti zi	18
-异兽	Gyi Gsêu	19
+异兽	Gyi Gseu	19
 异兽	Gyi Gxiu	19
 异兽	Gyi shou	19
 异兽	yi shou	19
@@ -296847,13 +296847,13 @@ use_preset_vocabulary: false
 张宿堂	zhang Gsuk tang	11
 张宿堂	zhang su Gtong	11
 张宿堂	zhang su tang	11
-张寿臣	Gzong Gsêu Gcen	10
-张寿臣	Gzong Gsêu chen	10
+张寿臣	Gzong Gseu Gcen	10
+张寿臣	Gzong Gseu chen	10
 张寿臣	Gzong Gxiu Gcen	10
 张寿臣	Gzong shou Gcen	10
 张寿臣	Gzong shou chen	10
-张寿臣	zhang Gsêu Gcen	10
-张寿臣	zhang Gsêu chen	10
+张寿臣	zhang Gseu Gcen	10
+张寿臣	zhang Gseu chen	10
 张寿臣	zhang shou Gcen	10
 张寿臣	zhang shou chen	10
 张小宝	Gzong Gxiêu Gbau	9
@@ -301144,7 +301144,7 @@ use_preset_vocabulary: false
 彩绘	Gcai hui	1255
 彩绘	cai hui	1255
 彩绣	Gcai Gxiu	10
-彩绸	Gcai Gcêu	147
+彩绸	Gcai Gceu	147
 彩绸	Gcai Gqiu	147
 彩绸	Gcai chou	147
 彩绸	cai chou	147
@@ -302449,10 +302449,10 @@ use_preset_vocabulary: false
 待命	Gtai ming	120
 待命	dai Gmin	120
 待命	dai ming	120
-待售	Gtai Gsêu	10
+待售	Gtai Gseu	10
 待售	Gtai Gxiu	10
 待售	Gtai shou	10
-待售	dai Gsêu	10
+待售	dai Gseu	10
 待售	dai shou	10
 待嫁	Gtai Gga	12
 待嫁	Gtai jia	12
@@ -303029,13 +303029,13 @@ use_preset_vocabulary: false
 徐寅生	xu Gyin Gsên	11
 徐寅生	xu Gyin sheng	11
 徐寅生	xu yin sheng	11
-徐寿辉	Gqyu Gsêu Gfui	371
-徐寿辉	Gqyu Gsêu hui	371
+徐寿辉	Gqyu Gseu Gfui	371
+徐寿辉	Gqyu Gseu hui	371
 徐寿辉	Gqyu Gxiu Gfui	371
 徐寿辉	Gqyu shou Gfui	371
 徐寿辉	Gqyu shou hui	371
-徐寿辉	xu Gsêu Gfui	371
-徐寿辉	xu Gsêu hui	371
+徐寿辉	xu Gseu Gfui	371
+徐寿辉	xu Gseu hui	371
 徐寿辉	xu shou Gfui	371
 徐寿辉	xu shou hui	371
 徐小农	Gqyu Gxiêu Glung	13
@@ -305534,10 +305534,10 @@ use_preset_vocabulary: false
 德宗	Gdêt zong	55
 德宗	de Gzung	55
 德宗	de zong	55
-德寿	Gdêt Gsêu	11
+德寿	Gdêt Gseu	11
 德寿	Gdêt Gxiu	11
 德寿	Gdêt shou	11
-德寿	de Gsêu	11
+德寿	de Gseu	11
 德寿	de shou	11
 德尔	Gdêt Geo	71
 德尔	Gdêt er	71
@@ -308833,9 +308833,9 @@ use_preset_vocabulary: false
 念叨	Gniên dao	143
 念叨	nian Gtau	143
 念叨	nian dao	143
-念咒	Gniên Gzêu	90
+念咒	Gniên Gzeu	90
 念咒	Gniên zhou	90
-念咒	nian Gzêu	90
+念咒	nian Gzeu	90
 念咒	nian zhou	90
 念头	Gniên Gtêu	1329
 念头	Gniên tou	1329
@@ -310265,7 +310265,7 @@ use_preset_vocabulary: false
 思量	Gsï liang	270
 思量	si Gliong	270
 思量	si liang	270
-怞	Gcêu	5783
+怞	Gceu	5783
 怞	Gqiu	5771
 怞	chou	5783
 怠	Gtai	120000
@@ -311284,7 +311284,7 @@ use_preset_vocabulary: false
 怪僻	Gguai Gpit	45
 怪僻	Gguai pi	45
 怪僻	guai pi	45
-怪兽	Gguai Gsêu	141
+怪兽	Gguai Gseu	141
 怪兽	Gguai Gxiu	141
 怪兽	Gguai shou	141
 怪兽	guai shou	141
@@ -316071,10 +316071,10 @@ use_preset_vocabulary: false
 惜别	Gxit bie	32
 惜别	xi Gpiêt	32
 惜别	xi bie	32
-惜售	Gxit Gsêu	23
+惜售	Gxit Gseu	23
 惜售	Gxit Gxiu	23
 惜售	Gxit shou	23
-惜售	xi Gsêu	23
+惜售	xi Gseu	23
 惜售	xi shou	23
 惜败	Gxit Gpai	9
 惜败	Gxit bai	9
@@ -324341,10 +324341,10 @@ use_preset_vocabulary: false
 手续费	shou Gxyut fei	5232
 手续费	shou xu Gfui	5232
 手续费	shou xu fei	5232
-手肘	Gseu Gzêu	129
+手肘	Gseu Gzeu	129
 手肘	Gseu zhou	129
-手肘	Gxiu Gzêu	129
-手肘	shou Gzêu	129
+手肘	Gxiu Gzeu	129
+手肘	shou Gzeu	129
 手肘	shou zhou	129
 手背	Gseu Gbi	139
 手背	Gseu bei	139
@@ -327060,19 +327060,19 @@ use_preset_vocabulary: false
 扫尾	sao Gwi	19
 扫尾	sao wei	19
 扫帚	Gsau Gjiu	215
-扫帚	Gsau Gzêu	215
+扫帚	Gsau Gzeu	215
 扫帚	Gsau zhou	215
-扫帚	sao Gzêu	215
+扫帚	sao Gzeu	215
 扫帚	sao zhou	215
 扫帚星	Gsau Gjiu Gxin	11
 扫帚星	Gsau Gjiu Wxiang	11
-扫帚星	Gsau Gzêu Gxin	11
-扫帚星	Gsau Gzêu Wxiang	11
-扫帚星	Gsau Gzêu xing	11
+扫帚星	Gsau Gzeu Gxin	11
+扫帚星	Gsau Gzeu Wxiang	11
+扫帚星	Gsau Gzeu xing	11
 扫帚星	Gsau zhou Gxin	11
 扫帚星	Gsau zhou xing	11
-扫帚星	sao Gzêu Gxin	11
-扫帚星	sao Gzêu xing	11
+扫帚星	sao Gzeu Gxin	11
+扫帚星	sao Gzeu xing	11
 扫帚星	sao zhou Gxin	11
 扫帚星	sao zhou xing	11
 扫平	Gsau Gpin	32
@@ -328708,21 +328708,21 @@ use_preset_vocabulary: false
 技艺	Gqi Gyi	1799
 技艺	ji Gyi	1799
 技艺	ji yi	1799
-技高一筹	Gqi Ggau Gyit Gcêu	13
+技高一筹	Gqi Ggau Gyit Gceu	13
 技高一筹	Gqi Ggau Gyit chou	13
-技高一筹	Gqi Ggau yi Gcêu	13
+技高一筹	Gqi Ggau yi Gceu	13
 技高一筹	Gqi Ggau yi chou	13
-技高一筹	Gqi gao Gyit Gcêu	13
+技高一筹	Gqi gao Gyit Gceu	13
 技高一筹	Gqi gao Gyit chou	13
-技高一筹	Gqi gao yi Gcêu	13
+技高一筹	Gqi gao yi Gceu	13
 技高一筹	Gqi gao yi chou	13
-技高一筹	ji Ggau Gyit Gcêu	13
+技高一筹	ji Ggau Gyit Gceu	13
 技高一筹	ji Ggau Gyit chou	13
-技高一筹	ji Ggau yi Gcêu	13
+技高一筹	ji Ggau yi Gceu	13
 技高一筹	ji Ggau yi chou	13
-技高一筹	ji gao Gyit Gcêu	13
+技高一筹	ji gao Gyit Gceu	13
 技高一筹	ji gao Gyit chou	13
-技高一筹	ji gao yi Gcêu	13
+技高一筹	ji gao yi Gceu	13
 技高一筹	ji gao yi chou	13
 抁	Gyuon	5200
 抁	yan	5200
@@ -330513,10 +330513,10 @@ use_preset_vocabulary: false
 折子戏	zhe Gzï Gxi	35
 折子戏	zhe zi Gxi	35
 折子戏	zhe zi xi	35
-折寿	Gzêt Gsêu	8
+折寿	Gzêt Gseu	8
 折寿	Gzêt Gxiu	8
 折寿	Gzêt shou	8
-折寿	zhe Gsêu	8
+折寿	zhe Gseu	8
 折寿	zhe shou	8
 折射	Gzêt Gsa	404
 折射	Gzêt she	404
@@ -330780,10 +330780,10 @@ use_preset_vocabulary: false
 抛却	Gpau que	15
 抛却	pao Gqiok	15
 抛却	pao que	15
-抛售	Gpau Gsêu	105
+抛售	Gpau Gseu	105
 抛售	Gpau Gxiu	105
 抛售	Gpau shou	105
-抛售	pao Gsêu	105
+抛售	pao Gseu	105
 抛售	pao shou	105
 抛头露面	Gpau Gtêu Glu Gmiên	48
 抛头露面	Gpau Gtêu Glu mian	48
@@ -335206,7 +335206,7 @@ use_preset_vocabulary: false
 拜客	Gbai Wkiêt	22
 拜客	Gbai ke	22
 拜客	bai ke	22
-拜寿	Gbai Gsêu	85
+拜寿	Gbai Gseu	85
 拜寿	Gbai Gxiu	85
 拜寿	Gbai shou	85
 拜寿	bai shou	85
@@ -338744,13 +338744,13 @@ use_preset_vocabulary: false
 捉摸不定	zhuo Gmo bu Gtin	49
 捉摸不定	zhuo Gmo bu ding	49
 捉摸不定	zhuo mo bu ding	49
-捉襟见肘	Gzok Gjin Gjiên Gzêu	62
+捉襟见肘	Gzok Gjin Gjiên Gzeu	62
 捉襟见肘	Gzok Gjin Gjiên zhou	62
-捉襟见肘	Gzok Gjin jian Gzêu	62
+捉襟见肘	Gzok Gjin jian Gzeu	62
 捉襟见肘	Gzok Gjin jian zhou	62
-捉襟见肘	zhuo Gjin Gjiên Gzêu	62
+捉襟见肘	zhuo Gjin Gjiên Gzeu	62
 捉襟见肘	zhuo Gjin Gjiên zhou	62
-捉襟见肘	zhuo Gjin jian Gzêu	62
+捉襟见肘	zhuo Gjin jian Gzeu	62
 捉襟见肘	zhuo Gjin jian zhou	62
 捉襟见肘	zhuo jin jian zhou	62
 捉贼捉赃	Gzok Gcêt Gzok Gzong	7
@@ -339752,33 +339752,33 @@ use_preset_vocabulary: false
 掇盘子	duo Gpon zi	100000
 掇盘子	duo pan Gzï	100000
 掇盘子	duo pan zi	100000
-授	Gsêu	145000
+授	Gseu	145000
 授	Gxiu	105000
 授	shou	145000
-授与	Gsêu Gyu	85
+授与	Gseu Gyu	85
 授与	Gxiu Gyu	85
 授与	shou Gyu	85
 授与	shou yu	85
-授业	Gsêu Gyêt	22
-授业	Gsêu ye	22
+授业	Gseu Gyêt	22
+授业	Gseu ye	22
 授业	Gxiu Gyêt	22
 授业	shou Gyêt	22
 授业	shou ye	22
-授予	Gsêu Gyu	3254
+授予	Gseu Gyu	3254
 授予	Gxiu Gyu	3254
 授予	shou Gyu	3254
 授予	shou yu	3254
-授予权	Gsêu Gyu Gqyuon	27
-授予权	Gsêu Gyu quan	27
+授予权	Gseu Gyu Gqyuon	27
+授予权	Gseu Gyu quan	27
 授予权	Gxiu Gyu Gqyuon	27
 授予权	shou Gyu Gqyuon	27
 授予权	shou Gyu quan	27
 授予权	shou yu quan	27
-授人以柄	Gsêu Gnin Gyi Gbin	17
-授人以柄	Gsêu Gnin Gyi bing	17
-授人以柄	Gsêu Wlen Gyi Gbin	17
-授人以柄	Gsêu ren Gyi Gbin	17
-授人以柄	Gsêu ren Gyi bing	17
+授人以柄	Gseu Gnin Gyi Gbin	17
+授人以柄	Gseu Gnin Gyi bing	17
+授人以柄	Gseu Wlen Gyi Gbin	17
+授人以柄	Gseu ren Gyi Gbin	17
+授人以柄	Gseu ren Gyi bing	17
 授人以柄	Gxiu Gnin Gyi Gbin	17
 授人以柄	Gxiu Wlen Gyi Gbin	17
 授人以柄	shou Gnin Gyi Gbin	17
@@ -339786,110 +339786,110 @@ use_preset_vocabulary: false
 授人以柄	shou ren Gyi Gbin	17
 授人以柄	shou ren Gyi bing	17
 授人以柄	shou ren yi bing	17
-授信	Gsêu Gxin	15
+授信	Gseu Gxin	15
 授信	Gxiu Gxin	15
 授信	shou Gxin	15
 授信	shou xin	15
-授受	Gsêu Gseu	5050
-授受	Gsêu Gxiu	5050
-授受	Gsêu shou	5050
+授受	Gseu Gseu	5050
+授受	Gseu Gxiu	5050
+授受	Gseu shou	5050
 授受	Gxiu Gseu	5050
 授受	Gxiu Gxiu	5050
 授受	shou Gseu	5050
 授受	shou shou	5050
-授命	Gsêu Gmin	15
-授命	Gsêu Wmiang	15
-授命	Gsêu ming	15
+授命	Gseu Gmin	15
+授命	Gseu Wmiang	15
+授命	Gseu ming	15
 授命	Gxiu Gmin	15
 授命	Gxiu Wmiang	15
 授命	shou Gmin	15
 授命	shou ming	15
-授奖	Gsêu Gjiong	36
-授奖	Gsêu jiang	36
+授奖	Gseu Gjiong	36
+授奖	Gseu jiang	36
 授奖	Gxiu Gjiong	36
 授奖	shou Gjiong	36
 授奖	shou jiang	36
-授徒	Gsêu Gtu	37
+授徒	Gseu Gtu	37
 授徒	Gxiu Gtu	37
 授徒	shou Gtu	37
 授徒	shou tu	37
-授意	Gsêu Gyi	136
+授意	Gseu Gyi	136
 授意	Gxiu Gyi	136
 授意	shou Gyi	136
 授意	shou yi	136
-授时	Gsêu Gsï	29
-授时	Gsêu Gxi	29
-授时	Gsêu shi	29
+授时	Gseu Gsï	29
+授时	Gseu Gxi	29
+授时	Gseu shi	29
 授时	Gxiu Gsï	29
 授时	Gxiu Gxi	29
 授时	shou Gsï	29
 授时	shou shi	29
-授权	Gsêu Gqyuon	77785
-授权	Gsêu quan	77785
+授权	Gseu Gqyuon	77785
+授权	Gseu quan	77785
 授权	Gxiu Gqyuon	77785
 授权	shou Gqyuon	77785
 授权	shou quan	77785
-授权书	Gsêu Gqyuon Gsu	16
-授权书	Gsêu Gqyuon shu	16
-授权书	Gsêu quan Gsu	16
-授权书	Gsêu quan shu	16
+授权书	Gseu Gqyuon Gsu	16
+授权书	Gseu Gqyuon shu	16
+授权书	Gseu quan Gsu	16
+授权书	Gseu quan shu	16
 授权书	Gxiu Gqyuon Gsu	16
 授权书	shou Gqyuon Gsu	16
 授权书	shou Gqyuon shu	16
 授权书	shou quan Gsu	16
 授权书	shou quan shu	16
-授权人	Gsêu Gqyuon Gnin	22
-授权人	Gsêu Gqyuon Wlen	22
-授权人	Gsêu Gqyuon ren	22
-授权人	Gsêu quan Gnin	22
-授权人	Gsêu quan ren	22
+授权人	Gseu Gqyuon Gnin	22
+授权人	Gseu Gqyuon Wlen	22
+授权人	Gseu Gqyuon ren	22
+授权人	Gseu quan Gnin	22
+授权人	Gseu quan ren	22
 授权人	Gxiu Gqyuon Gnin	22
 授权人	Gxiu Gqyuon Wlen	22
 授权人	shou Gqyuon Gnin	22
 授权人	shou Gqyuon ren	22
 授权人	shou quan Gnin	22
 授权人	shou quan ren	22
-授权点	Gsêu Gqyuon Gdiên	20
-授权点	Gsêu Gqyuon dian	20
-授权点	Gsêu quan Gdiên	20
-授权点	Gsêu quan dian	20
+授权点	Gseu Gqyuon Gdiên	20
+授权点	Gseu Gqyuon dian	20
+授权点	Gseu quan Gdiên	20
+授权点	Gseu quan dian	20
 授权点	Gxiu Gqyuon Gdiên	20
 授权点	shou Gqyuon Gdiên	20
 授权点	shou Gqyuon dian	20
 授权点	shou quan Gdiên	20
 授权点	shou quan dian	20
-授牌	Gsêu Gpai	12
+授牌	Gseu Gpai	12
 授牌	Gxiu Gpai	12
 授牌	shou Gpai	12
 授牌	shou pai	12
-授粉	Gsêu Gfen	77
+授粉	Gseu Gfen	77
 授粉	Gxiu Gfen	77
 授粉	shou Gfen	77
 授粉	shou fen	77
-授精	Gsêu Gjin	16
-授精	Gsêu Wjiang	16
-授精	Gsêu jing	16
+授精	Gseu Gjin	16
+授精	Gseu Wjiang	16
+授精	Gseu jing	16
 授精	Gxiu Gjin	16
 授精	Gxiu Wjiang	16
 授精	shou Gjin	16
 授精	shou jing	16
-授职	Gsêu Gzïk	56
-授职	Gsêu zhi	56
+授职	Gseu Gzïk	56
+授职	Gseu zhi	56
 授职	Gxiu Gzïk	56
 授职	shou Gzïk	56
 授职	shou zhi	56
-授艺	Gsêu Gyi	13
+授艺	Gseu Gyi	13
 授艺	Gxiu Gyi	13
 授艺	shou Gyi	13
 授艺	shou yi	13
-授课	Gsêu Gkuo	230
-授课	Gsêu ke	230
+授课	Gseu Gkuo	230
+授课	Gseu ke	230
 授课	Gxiu Gkuo	230
 授课	shou Gkuo	230
 授课	shou ke	230
-授首	Gsêu Gseu	11
-授首	Gsêu Gxiu	11
-授首	Gsêu shou	11
+授首	Gseu Gseu	11
+授首	Gseu Gxiu	11
+授首	Gseu shou	11
 授首	Gxiu Gseu	11
 授首	Gxiu Gxiu	11
 授首	shou Gseu	11
@@ -340938,9 +340938,9 @@ use_preset_vocabulary: false
 探马	tan ma	98
 掣	Gcï	73531
 掣	che	73531
-掣肘	Gcï Gzêu	110
+掣肘	Gcï Gzeu	110
 掣肘	Gcï zhou	110
-掣肘	che Gzêu	110
+掣肘	che Gzeu	110
 掣肘	che zhou	110
 掤	Gbin	5584
 掤	bing	5584
@@ -345966,12 +345966,12 @@ use_preset_vocabulary: false
 操盘	Gcau pan	13
 操盘	cao Gpon	13
 操盘	cao pan	13
-操筹益	Gcau Gcêu Gyit	16
-操筹益	Gcau Gcêu yi	16
+操筹益	Gcau Gceu Gyit	16
+操筹益	Gcau Gceu yi	16
 操筹益	Gcau chou Gyit	16
 操筹益	Gcau chou yi	16
-操筹益	cao Gcêu Gyit	16
-操筹益	cao Gcêu yi	16
+操筹益	cao Gceu Gyit	16
+操筹益	cao Gceu yi	16
 操筹益	cao chou Gyit	16
 操筹益	cao chou yi	16
 操纵	Gcau Gzung	1201
@@ -350620,10 +350620,10 @@ use_preset_vocabulary: false
 教得	Ggau de	131
 教得	jiao Gdêt	131
 教得	jiao de	131
-教授	Ggau Gsêu	57419
+教授	Ggau Gseu	57419
 教授	Ggau Gxiu	57419
 教授	Ggau shou	57419
-教授	jiao Gsêu	57419
+教授	jiao Gseu	57419
 教授	jiao shou	57419
 教改	Ggau Ggai	77
 教改	jiao Ggai	77
@@ -356891,13 +356891,13 @@ use_preset_vocabulary: false
 斗六	Gdêu liu	7
 斗六	dou Gliuk	7
 斗六	dou liu	7
-斗兽场	Gdêu Gsêu Gcong	7
-斗兽场	Gdêu Gsêu chang	7
+斗兽场	Gdêu Gseu Gcong	7
+斗兽场	Gdêu Gseu chang	7
 斗兽场	Gdêu Gxiu Gcong	7
 斗兽场	Gdêu shou Gcong	7
 斗兽场	Gdêu shou chang	7
-斗兽场	dou Gsêu Gcong	7
-斗兽场	dou Gsêu chang	7
+斗兽场	dou Gseu Gcong	7
+斗兽场	dou Gseu chang	7
 斗兽场	dou shou Gcong	7
 斗兽场	dou shou chang	7
 斗勇	Gdêu Gyung	10
@@ -369056,16 +369056,16 @@ use_preset_vocabulary: false
 明太鱼	ming Gtai Gniê	7
 明太鱼	ming Gtai yu	7
 明太鱼	ming tai yu	7
-明如昼	Gmin Geo Gzêu	7
-明如昼	Gmin Glu Gzêu	7
+明如昼	Gmin Geo Gzeu	7
+明如昼	Gmin Glu Gzeu	7
 明如昼	Gmin Glu zhou	7
-明如昼	Gmin ru Gzêu	7
+明如昼	Gmin ru Gzeu	7
 明如昼	Gmin ru zhou	7
-明如昼	Wmiang Geo Gzêu	7
-明如昼	Wmiang Glu Gzêu	7
-明如昼	ming Glu Gzêu	7
+明如昼	Wmiang Geo Gzeu	7
+明如昼	Wmiang Glu Gzeu	7
+明如昼	ming Glu Gzeu	7
 明如昼	ming Glu zhou	7
-明如昼	ming ru Gzêu	7
+明如昼	ming ru Gzeu	7
 明如昼	ming ru zhou	7
 明媒正娶	Gmin Gmi Gzen Gqyu	32
 明媒正娶	Gmin Gmi Gzen qu	32
@@ -371823,17 +371823,17 @@ use_preset_vocabulary: false
 昷	Gwun	5136
 昷	wen	5136
 昼	Gjiu	155000
-昼	Gzêu	175000
+昼	Gzeu	175000
 昼	zhou	175000
-昼伏夜出	Gzêu Gfuk Gya Gcuk	28
-昼伏夜出	Gzêu Gfuk Gya chu	28
-昼伏夜出	Gzêu Gfuk ye Gcuk	28
-昼伏夜出	Gzêu Gfuk ye chu	28
-昼伏夜出	Gzêu Wpuk Gya Gcuk	28
-昼伏夜出	Gzêu fu Gya Gcuk	28
-昼伏夜出	Gzêu fu Gya chu	28
-昼伏夜出	Gzêu fu ye Gcuk	28
-昼伏夜出	Gzêu fu ye chu	28
+昼伏夜出	Gzeu Gfuk Gya Gcuk	28
+昼伏夜出	Gzeu Gfuk Gya chu	28
+昼伏夜出	Gzeu Gfuk ye Gcuk	28
+昼伏夜出	Gzeu Gfuk ye chu	28
+昼伏夜出	Gzeu Wpuk Gya Gcuk	28
+昼伏夜出	Gzeu fu Gya Gcuk	28
+昼伏夜出	Gzeu fu Gya chu	28
+昼伏夜出	Gzeu fu ye Gcuk	28
+昼伏夜出	Gzeu fu ye chu	28
 昼伏夜出	zhou Gfuk Gya Gcuk	28
 昼伏夜出	zhou Gfuk Gya chu	28
 昼伏夜出	zhou Gfuk ye Gcuk	28
@@ -371842,18 +371842,18 @@ use_preset_vocabulary: false
 昼伏夜出	zhou fu Gya chu	28
 昼伏夜出	zhou fu ye Gcuk	28
 昼伏夜出	zhou fu ye chu	28
-昼夜	Gzêu Gya	25887
-昼夜	Gzêu ye	25887
+昼夜	Gzeu Gya	25887
+昼夜	Gzeu ye	25887
 昼夜	zhou Gya	25887
 昼夜	zhou ye	25887
-昼夜兼程	Gzêu Gya Ggan Gcen	8
-昼夜兼程	Gzêu Gya Ggan cheng	8
-昼夜兼程	Gzêu Gya jian Gcen	8
-昼夜兼程	Gzêu Gya jian cheng	8
-昼夜兼程	Gzêu ye Ggan Gcen	8
-昼夜兼程	Gzêu ye Ggan cheng	8
-昼夜兼程	Gzêu ye jian Gcen	8
-昼夜兼程	Gzêu ye jian cheng	8
+昼夜兼程	Gzeu Gya Ggan Gcen	8
+昼夜兼程	Gzeu Gya Ggan cheng	8
+昼夜兼程	Gzeu Gya jian Gcen	8
+昼夜兼程	Gzeu Gya jian cheng	8
+昼夜兼程	Gzeu ye Ggan Gcen	8
+昼夜兼程	Gzeu ye Ggan cheng	8
+昼夜兼程	Gzeu ye jian Gcen	8
+昼夜兼程	Gzeu ye jian cheng	8
 昼夜兼程	zhou Gya Ggan Gcen	8
 昼夜兼程	zhou Gya Ggan cheng	8
 昼夜兼程	zhou Gya jian Gcen	8
@@ -371862,8 +371862,8 @@ use_preset_vocabulary: false
 昼夜兼程	zhou ye Ggan cheng	8
 昼夜兼程	zhou ye jian Gcen	8
 昼夜兼程	zhou ye jian cheng	8
-昼间	Gzêu Ggan	28
-昼间	Gzêu jian	28
+昼间	Gzeu Ggan	28
+昼间	Gzeu jian	28
 昼间	zhou Ggan	28
 昼间	zhou jian	28
 昼饭	Gjiu Gfan	125000
@@ -371990,15 +371990,15 @@ use_preset_vocabulary: false
 显现	xian Gxiên	500
 显现	xian xian	500
 显生宙	Gxiên Gsên Gjiu	14
-显生宙	Gxiên Gsên Gzêu	14
+显生宙	Gxiên Gsên Gzeu	14
 显生宙	Gxiên Gsên zhou	14
 显生宙	Gxiên Wsang Gjiu	14
-显生宙	Gxiên Wsang Gzêu	14
-显生宙	Gxiên sheng Gzêu	14
+显生宙	Gxiên Wsang Gzeu	14
+显生宙	Gxiên sheng Gzeu	14
 显生宙	Gxiên sheng zhou	14
-显生宙	xian Gsên Gzêu	14
+显生宙	xian Gsên Gzeu	14
 显生宙	xian Gsên zhou	14
-显生宙	xian sheng Gzêu	14
+显生宙	xian sheng Gzeu	14
 显生宙	xian sheng zhou	14
 显眼	Gxiên Gngan	152
 显眼	Gxiên yan	152
@@ -372722,7 +372722,7 @@ use_preset_vocabulary: false
 晫	zhuo	5987
 晬	Gzui	5319
 晭	Gjiu	4672
-晭	Gzêu	4539
+晭	Gzeu	4539
 晭	zhou	4672
 普	Gpu	145000
 普京	Gpu Gjin	171
@@ -375533,22 +375533,22 @@ use_preset_vocabulary: false
 更生	Wgang Wsang	30
 更生	geng Gsên	30
 更生	geng sheng	30
-更胜一筹	Ggiên Gsen Gyit Gcêu	36
+更胜一筹	Ggiên Gsen Gyit Gceu	36
 更胜一筹	Ggiên Gsen Gyit chou	36
-更胜一筹	Ggiên Gsen yi Gcêu	36
+更胜一筹	Ggiên Gsen yi Gceu	36
 更胜一筹	Ggiên Gsen yi chou	36
-更胜一筹	Ggiên sheng Gyit Gcêu	36
+更胜一筹	Ggiên sheng Gyit Gceu	36
 更胜一筹	Ggiên sheng Gyit chou	36
-更胜一筹	Ggiên sheng yi Gcêu	36
+更胜一筹	Ggiên sheng yi Gceu	36
 更胜一筹	Ggiên sheng yi chou	36
-更胜一筹	Wgang Gsen Gyit Gcêu	36
-更胜一筹	geng Gsen Gyit Gcêu	36
+更胜一筹	Wgang Gsen Gyit Gceu	36
+更胜一筹	geng Gsen Gyit Gceu	36
 更胜一筹	geng Gsen Gyit chou	36
-更胜一筹	geng Gsen yi Gcêu	36
+更胜一筹	geng Gsen yi Gceu	36
 更胜一筹	geng Gsen yi chou	36
-更胜一筹	geng sheng Gyit Gcêu	36
+更胜一筹	geng sheng Gyit Gceu	36
 更胜一筹	geng sheng Gyit chou	36
-更胜一筹	geng sheng yi Gcêu	36
+更胜一筹	geng sheng yi Gceu	36
 更胜一筹	geng sheng yi chou	36
 更衣	Ggiên Gyi	81
 更衣	Wgang Gyi	81
@@ -377578,10 +377578,10 @@ use_preset_vocabulary: false
 有哪些	you Gla xie	32161
 有哪些	you na Gxiêt	32161
 有哪些	you na xie	32161
-有售	Gyiu Gsêu	7
+有售	Gyiu Gseu	7
 有售	Gyiu Gxiu	7
 有售	Gyiu shou	7
-有售	you Gsêu	7
+有售	you Gseu	7
 有售	you shou	7
 有善德	Gyiu Gsên Gdêt	48
 有善德	Gyiu Gsên de	48
@@ -382027,13 +382027,13 @@ use_preset_vocabulary: false
 未遭	Gwi zao	30
 未遭	wei Gzau	30
 未遭	wei zao	30
-未雨绸缪	Gwi Gyu Gcêu Gmêu	91
-未雨绸缪	Gwi Gyu Gcêu mou	91
+未雨绸缪	Gwi Gyu Gceu Gmêu	91
+未雨绸缪	Gwi Gyu Gceu mou	91
 未雨绸缪	Gwi Gyu Gqiu Gmêu	91
 未雨绸缪	Gwi Gyu chou Gmêu	91
 未雨绸缪	Gwi Gyu chou mou	91
-未雨绸缪	wei Gyu Gcêu Gmêu	91
-未雨绸缪	wei Gyu Gcêu mou	91
+未雨绸缪	wei Gyu Gceu Gmêu	91
+未雨绸缪	wei Gyu Gceu mou	91
 未雨绸缪	wei Gyu chou Gmêu	91
 未雨绸缪	wei Gyu chou mou	91
 未雨绸缪	wei yu chou mou	91
@@ -383193,14 +383193,14 @@ use_preset_vocabulary: false
 朱庆道	zhu Gqin dao	10
 朱庆道	zhu qing Gtau	10
 朱庆道	zhu qing dao	10
-朱延寿	Gzu Gyên Gsêu	8
+朱延寿	Gzu Gyên Gseu	8
 朱延寿	Gzu Gyên Gxiu	8
 朱延寿	Gzu Gyên shou	8
-朱延寿	Gzu yan Gsêu	8
+朱延寿	Gzu yan Gseu	8
 朱延寿	Gzu yan shou	8
-朱延寿	zhu Gyên Gsêu	8
+朱延寿	zhu Gyên Gseu	8
 朱延寿	zhu Gyên shou	8
-朱延寿	zhu yan Gsêu	8
+朱延寿	zhu yan Gseu	8
 朱延寿	zhu yan shou	8
 朱延清	Gzu Gyên Gqin	37
 朱延清	Gzu Gyên Wqiang	37
@@ -385544,10 +385544,10 @@ use_preset_vocabulary: false
 李应发	Gli ying Gfat	11
 李应发	Gli ying fa	11
 李应发	li ying fa	11
-李延寿	Gli Gyên Gsêu	8
+李延寿	Gli Gyên Gseu	8
 李延寿	Gli Gyên Gxiu	8
 李延寿	Gli Gyên shou	8
-李延寿	Gli yan Gsêu	8
+李延寿	Gli yan Gseu	8
 李延寿	Gli yan shou	8
 李延寿	li yan shou	8
 李延年	Gli Gyên Gniên	8
@@ -390396,9 +390396,9 @@ use_preset_vocabulary: false
 极意	Gjit Gyi	9
 极意	ji Gyi	9
 极意	ji yi	9
-极昼	Gjit Gzêu	22
+极昼	Gjit Gzeu	22
 极昼	Gjit zhou	22
-极昼	ji Gzêu	22
+极昼	ji Gzeu	22
 极昼	ji zhou	22
 极权	Gjit Gqyuon	18
 极权	Gjit quan	18
@@ -392774,14 +392774,14 @@ use_preset_vocabulary: false
 柝	tuo	4518
 柞	Gzok	5003
 柞	zha	5003
-柞丝绸	Gzok Gsï Gcêu	8
+柞丝绸	Gzok Gsï Gceu	8
 柞丝绸	Gzok Gsï Gqiu	8
 柞丝绸	Gzok Gsï chou	8
-柞丝绸	Gzok si Gcêu	8
+柞丝绸	Gzok si Gceu	8
 柞丝绸	Gzok si chou	8
-柞丝绸	zuo Gsï Gcêu	8
+柞丝绸	zuo Gsï Gceu	8
 柞丝绸	zuo Gsï chou	8
-柞丝绸	zuo si Gcêu	8
+柞丝绸	zuo si Gceu	8
 柞丝绸	zuo si chou	8
 柞树	Gzok Gsu	19
 柞树	Gzok shu	19
@@ -397057,9 +397057,9 @@ use_preset_vocabulary: false
 桀傲不驯	jie ao Gbet xun	9
 桀傲不驯	jie ao bu Gxyun	9
 桀傲不驯	jie ao bu xun	9
-桀纣	Gqiêt Gcêu	10
+桀纣	Gqiêt Gceu	10
 桀纣	Gqiêt zhou	10
-桀纣	jie Gcêu	10
+桀纣	jie Gceu	10
 桀纣	jie zhou	10
 桀骜	Gqiêt Gngau	5013
 桀骜	Gqiêt ao	5013
@@ -399657,7 +399657,7 @@ use_preset_vocabulary: false
 梵高	Gfan Ggau	36
 梵高	Gfan gao	36
 梵高	fan gao	36
-梼	Gcêu	4962
+梼	Gceu	4962
 梼	tao	4962
 梾	Glai	16386
 梿	Gliên	5689
@@ -400674,7 +400674,7 @@ use_preset_vocabulary: false
 棵子	ke zi	15
 棷	Gzêu	5179
 棷	zou	5179
-棸	Gcêu	4596
+棸	Gceu	4596
 棸	zou	4596
 棹	Gcau	71595
 棹	zhao	71595
@@ -400714,7 +400714,7 @@ use_preset_vocabulary: false
 椅背	Gyi Gbi	137
 椅背	Gyi bei	137
 椅背	yi bei	137
-椆	Gzêu	4454
+椆	Gzeu	4454
 椆	chou	4454
 椇	Gjyu	4720
 椇	ju	4720
@@ -410195,7 +410195,7 @@ use_preset_vocabulary: false
 殷忧	Gyin Gyiu	8
 殷忧	Gyin you	8
 殷忧	yin you	8
-殷无寿	Gyin Gwu Gsêu	12
+殷无寿	Gyin Gwu Gseu	12
 殷无寿	Gyin Gwu Gxiu	12
 殷无寿	Gyin Gwu shou	12
 殷无寿	yin wu shou	12
@@ -410458,7 +410458,7 @@ use_preset_vocabulary: false
 母公司	Gmu gong Gsï	91
 母公司	Gmu gong si	91
 母公司	mu gong si	91
-母兽	Gmu Gsêu	10
+母兽	Gmu Gseu	10
 母兽	Gmu Gxiu	10
 母兽	Gmu shou	10
 母兽	mu shou	10
@@ -410992,24 +410992,24 @@ use_preset_vocabulary: false
 毒蛇	Gtuk she	570
 毒蛇	du Gsa	570
 毒蛇	du she	570
-毒蛇猛兽	Gtuk Gsa Gmang Gsêu	7
+毒蛇猛兽	Gtuk Gsa Gmang Gseu	7
 毒蛇猛兽	Gtuk Gsa Gmang Gxiu	7
 毒蛇猛兽	Gtuk Gsa Gmang shou	7
-毒蛇猛兽	Gtuk Gsa Wmung Gsêu	7
+毒蛇猛兽	Gtuk Gsa Wmung Gseu	7
 毒蛇猛兽	Gtuk Gsa Wmung Gxiu	7
-毒蛇猛兽	Gtuk Gsa meng Gsêu	7
+毒蛇猛兽	Gtuk Gsa meng Gseu	7
 毒蛇猛兽	Gtuk Gsa meng shou	7
-毒蛇猛兽	Gtuk she Gmang Gsêu	7
+毒蛇猛兽	Gtuk she Gmang Gseu	7
 毒蛇猛兽	Gtuk she Gmang shou	7
-毒蛇猛兽	Gtuk she meng Gsêu	7
+毒蛇猛兽	Gtuk she meng Gseu	7
 毒蛇猛兽	Gtuk she meng shou	7
-毒蛇猛兽	du Gsa Gmang Gsêu	7
+毒蛇猛兽	du Gsa Gmang Gseu	7
 毒蛇猛兽	du Gsa Gmang shou	7
-毒蛇猛兽	du Gsa meng Gsêu	7
+毒蛇猛兽	du Gsa meng Gseu	7
 毒蛇猛兽	du Gsa meng shou	7
-毒蛇猛兽	du she Gmang Gsêu	7
+毒蛇猛兽	du she Gmang Gseu	7
 毒蛇猛兽	du she Gmang shou	7
-毒蛇猛兽	du she meng Gsêu	7
+毒蛇猛兽	du she meng Gseu	7
 毒蛇猛兽	du she meng shou	7
 毒蛾	Gtuk Gngo	29
 毒蛾	Gtuk e	29
@@ -416895,10 +416895,10 @@ use_preset_vocabulary: false
 永定门	yong Gtin Gmen	22
 永定门	yong ding Gmen	22
 永定门	yong ding men	22
-永寿	Gyung Gsêu	19
+永寿	Gyung Gseu	19
 永寿	Gyung Gxiu	19
 永寿	Gyung shou	19
-永寿	yong Gsêu	19
+永寿	yong Gseu	19
 永寿	yong shou	19
 永川	Gyung Gcon	13
 永川	Gyung chuan	13
@@ -417850,10 +417850,10 @@ use_preset_vocabulary: false
 汉密尔	han Gmit er	87
 汉密尔	han mi Geo	87
 汉密尔	han mi er	87
-汉寿	Ghon Gsêu	30
+汉寿	Ghon Gseu	30
 汉寿	Ghon Gxiu	30
 汉寿	Ghon shou	30
-汉寿	han Gsêu	30
+汉寿	han Gseu	30
 汉寿	han shou	30
 汉尼拔	Ghon Gni Gpat	35
 汉尼拔	Ghon Gni ba	35
@@ -419790,13 +419790,13 @@ use_preset_vocabulary: false
 汤家军	tang Gga jun	10
 汤家军	tang jia Gjyun	10
 汤家军	tang jia jun	10
-汤寿潜	Gtong Gsêu Gqiên	33
-汤寿潜	Gtong Gsêu qian	33
+汤寿潜	Gtong Gseu Gqiên	33
+汤寿潜	Gtong Gseu qian	33
 汤寿潜	Gtong Gxiu Gqiên	33
 汤寿潜	Gtong shou Gqiên	33
 汤寿潜	Gtong shou qian	33
-汤寿潜	tang Gsêu Gqiên	33
-汤寿潜	tang Gsêu qian	33
+汤寿潜	tang Gseu Gqiên	33
+汤寿潜	tang Gseu qian	33
 汤寿潜	tang shou Gqiên	33
 汤寿潜	tang shou qian	33
 汤尤杯	Gtong Gyiu Gbi	69
@@ -420149,13 +420149,13 @@ use_preset_vocabulary: false
 汪大渊	wang Gtai yuan	18
 汪大渊	wang da Gyuon	18
 汪大渊	wang da yuan	18
-汪寿华	Gwong Gsêu Gfa	19
-汪寿华	Gwong Gsêu hua	19
+汪寿华	Gwong Gseu Gfa	19
+汪寿华	Gwong Gseu hua	19
 汪寿华	Gwong Gxiu Gfa	19
 汪寿华	Gwong shou Gfa	19
 汪寿华	Gwong shou hua	19
-汪寿华	wang Gsêu Gfa	19
-汪寿华	wang Gsêu hua	19
+汪寿华	wang Gseu Gfa	19
+汪寿华	wang Gseu hua	19
 汪寿华	wang shou Gfa	19
 汪寿华	wang shou hua	19
 汪帮主	Gwong Gbong Gzu	76
@@ -429408,13 +429408,13 @@ use_preset_vocabulary: false
 洪恩	Gfung en	34
 洪恩	hong Gngiên	34
 洪恩	hong en	34
-洪承畴	Gfung Gcen Gcêu	1405
+洪承畴	Gfung Gcen Gceu	1405
 洪承畴	Gfung Gcen chou	1405
-洪承畴	Gfung cheng Gcêu	1405
+洪承畴	Gfung cheng Gceu	1405
 洪承畴	Gfung cheng chou	1405
-洪承畴	hong Gcen Gcêu	1405
+洪承畴	hong Gcen Gceu	1405
 洪承畴	hong Gcen chou	1405
-洪承畴	hong cheng Gcêu	1405
+洪承畴	hong cheng Gceu	1405
 洪承畴	hong cheng chou	1405
 洪朝	Gfung Gcêu	28
 洪朝	Gfung chao	28
@@ -429449,24 +429449,24 @@ use_preset_vocabulary: false
 洪水泛滥	hong Gsui Gfan Glan	43
 洪水泛滥	hong shui Gfan Glan	43
 洪水泛滥	hong shui fan lan	43
-洪水猛兽	Gfung Gsui Gmang Gsêu	35
+洪水猛兽	Gfung Gsui Gmang Gseu	35
 洪水猛兽	Gfung Gsui Gmang Gxiu	35
 洪水猛兽	Gfung Gsui Gmang shou	35
-洪水猛兽	Gfung Gsui Wmung Gsêu	35
+洪水猛兽	Gfung Gsui Wmung Gseu	35
 洪水猛兽	Gfung Gsui Wmung Gxiu	35
-洪水猛兽	Gfung Gsui meng Gsêu	35
+洪水猛兽	Gfung Gsui meng Gseu	35
 洪水猛兽	Gfung Gsui meng shou	35
-洪水猛兽	Gfung shui Gmang Gsêu	35
+洪水猛兽	Gfung shui Gmang Gseu	35
 洪水猛兽	Gfung shui Gmang shou	35
-洪水猛兽	Gfung shui meng Gsêu	35
+洪水猛兽	Gfung shui meng Gseu	35
 洪水猛兽	Gfung shui meng shou	35
-洪水猛兽	hong Gsui Gmang Gsêu	35
+洪水猛兽	hong Gsui Gmang Gseu	35
 洪水猛兽	hong Gsui Gmang shou	35
-洪水猛兽	hong Gsui meng Gsêu	35
+洪水猛兽	hong Gsui meng Gseu	35
 洪水猛兽	hong Gsui meng shou	35
-洪水猛兽	hong shui Gmang Gsêu	35
+洪水猛兽	hong shui Gmang Gseu	35
 洪水猛兽	hong shui Gmang shou	35
-洪水猛兽	hong shui meng Gsêu	35
+洪水猛兽	hong shui meng Gseu	35
 洪水猛兽	hong shui meng shou	35
 洪江	Gfung Ggong	16
 洪江	Gfung jiang	16
@@ -433098,7 +433098,7 @@ use_preset_vocabulary: false
 海关税	Ghai Gguan Gsui	11
 海关税	Ghai Gguan shui	11
 海关税	hai guan shui	11
-海兽	Ghai Gsêu	64
+海兽	Ghai Gseu	64
 海兽	Ghai Gxiu	64
 海兽	Ghai shou	64
 海兽	hai shou	64
@@ -445361,14 +445361,14 @@ use_preset_vocabulary: false
 潘多拉	pan Gdo Gla	43
 潘多拉	pan duo Gla	43
 潘多拉	pan duo la	43
-潘天寿	Gpon Gtiên Gsêu	33
+潘天寿	Gpon Gtiên Gseu	33
 潘天寿	Gpon Gtiên Gxiu	33
 潘天寿	Gpon Gtiên shou	33
-潘天寿	Gpon tian Gsêu	33
+潘天寿	Gpon tian Gseu	33
 潘天寿	Gpon tian shou	33
-潘天寿	pan Gtiên Gsêu	33
+潘天寿	pan Gtiên Gseu	33
 潘天寿	pan Gtiên shou	33
-潘天寿	pan tian Gsêu	33
+潘天寿	pan tian Gseu	33
 潘天寿	pan tian shou	33
 潘天耕	Gpon Gtiên Ggang	27
 潘天耕	Gpon Gtiên Wgiên	27
@@ -445565,13 +445565,13 @@ use_preset_vocabulary: false
 潘金莲	pan Gjin lian	123
 潘金莲	pan jin lian	123
 潘震宙	Gpon Gzen Gjiu	9
-潘震宙	Gpon Gzen Gzêu	9
+潘震宙	Gpon Gzen Gzeu	9
 潘震宙	Gpon Gzen zhou	9
-潘震宙	Gpon zhen Gzêu	9
+潘震宙	Gpon zhen Gzeu	9
 潘震宙	Gpon zhen zhou	9
-潘震宙	pan Gzen Gzêu	9
+潘震宙	pan Gzen Gzeu	9
 潘震宙	pan Gzen zhou	9
-潘震宙	pan zhen Gzêu	9
+潘震宙	pan zhen Gzeu	9
 潘震宙	pan zhen zhou	9
 潘鹏凯	Gpon Gpung Gkai	22
 潘鹏凯	Gpon Wpên Gkai	22
@@ -448618,10 +448618,10 @@ use_preset_vocabulary: false
 灵光	Glin guang	86
 灵光	ling Gguong	86
 灵光	ling guang	86
-灵兽	Glin Gsêu	7
+灵兽	Glin Gseu	7
 灵兽	Glin Gxiu	7
 灵兽	Glin shou	7
-灵兽	ling Gsêu	7
+灵兽	ling Gseu	7
 灵兽	ling shou	7
 灵动	Glin Gtung	185
 灵动	Glin dong	185
@@ -448666,18 +448666,18 @@ use_preset_vocabulary: false
 灵宝	Glin bao	97
 灵宝	ling Gbau	97
 灵宝	ling bao	97
-灵寿	Glin Gsêu	33
+灵寿	Glin Gseu	33
 灵寿	Glin Gxiu	33
 灵寿	Glin shou	33
-灵寿	ling Gsêu	33
+灵寿	ling Gseu	33
 灵寿	ling shou	33
-灵寿县	Glin Gsêu Gxiên	10
-灵寿县	Glin Gsêu xian	10
+灵寿县	Glin Gseu Gxiên	10
+灵寿县	Glin Gseu xian	10
 灵寿县	Glin Gxiu Gxiên	10
 灵寿县	Glin shou Gxiên	10
 灵寿县	Glin shou xian	10
-灵寿县	ling Gsêu Gxiên	10
-灵寿县	ling Gsêu xian	10
+灵寿县	ling Gseu Gxiên	10
+灵寿县	ling Gseu xian	10
 灵寿县	ling shou Gxiên	10
 灵寿县	ling shou xian	10
 灵山	Glin Gsan	121
@@ -454129,7 +454129,7 @@ use_preset_vocabulary: false
 燹	xian	79077
 燺	Gkau	4890
 燺	he	4890
-燽	Gcêu	4625
+燽	Gceu	4625
 燽	Gqiu	4236
 燽	chou	4625
 燿	Gyêu	5256
@@ -458613,12 +458613,12 @@ use_preset_vocabulary: false
 犥	piao	5193
 犦	Gpok	5915
 犦	bo	5915
-犨	Gcêu	15633
+犨	Gceu	15633
 犨	chou	15633
 犩	Gwi	4435
 犩	wei	4435
 犪	Gkui	4219
-犫	Gcêu	100000
+犫	Gceu	100000
 犫	chou	100000
 犬	Gqyuon	120000
 犬	quan	120000
@@ -461252,12 +461252,12 @@ use_preset_vocabulary: false
 猛不防	meng Gbet fang	11
 猛不防	meng bu Gfong	11
 猛不防	meng bu fang	11
-猛兽	Gmang Gsêu	177
+猛兽	Gmang Gseu	177
 猛兽	Gmang Gxiu	177
 猛兽	Gmang shou	177
-猛兽	Wmung Gsêu	177
+猛兽	Wmung Gseu	177
 猛兽	Wmung Gxiu	177
-猛兽	meng Gsêu	177
+猛兽	meng Gseu	177
 猛兽	meng shou	177
 猛冲	Gmang Gcung	96
 猛冲	Gmang chong	96
@@ -468508,10 +468508,10 @@ use_preset_vocabulary: false
 珍禽	Gzen Gqin	49
 珍禽	zhen Gqin	49
 珍禽	zhen qin	49
-珍禽异兽	Gzen Gqin Gyi Gsêu	34
+珍禽异兽	Gzen Gqin Gyi Gseu	34
 珍禽异兽	Gzen Gqin Gyi Gxiu	34
 珍禽异兽	Gzen Gqin Gyi shou	34
-珍禽异兽	zhen Gqin Gyi Gsêu	34
+珍禽异兽	zhen Gqin Gyi Gseu	34
 珍禽异兽	zhen Gqin Gyi shou	34
 珍禽异兽	zhen qin yi shou	34
 珍稀	Gzen Gxi	1282
@@ -474710,9 +474710,9 @@ use_preset_vocabulary: false
 田玉科	tian Gniuk ke	256
 田玉科	tian yu Gkuo	256
 田玉科	tian yu ke	256
-田畴	Gtiên Gcêu	91
+田畴	Gtiên Gceu	91
 田畴	Gtiên chou	91
-田畴	tian Gcêu	91
+田畴	tian Gceu	91
 田畴	tian chou	91
 田皇亲	Gtiên Gfong Gqin	29
 田皇亲	Gtiên Wwong Gqin	29
@@ -475438,9 +475438,9 @@ use_preset_vocabulary: false
 甲肝	Ggat gan	23
 甲肝	jia Ggon	23
 甲肝	jia gan	23
-甲胄	Ggat Gcêu	70
+甲胄	Ggat Gceu	70
 甲胄	Ggat zhou	70
-甲胄	jia Gcêu	70
+甲胄	jia Gceu	70
 甲胄	jia zhou	70
 甲胺	Ggat Gngon	15
 甲胺	Ggat an	15
@@ -478061,37 +478061,37 @@ use_preset_vocabulary: false
 男女性	nan Gnyu xing	16
 男女性	nan nv Gxin	16
 男女性	nan nv xing	16
-男女授受不亲	Glan Gnyu Gsêu Gseu Gbet Gqin	15
-男女授受不亲	Glan Gnyu Gsêu Gseu bu Gqin	15
-男女授受不亲	Glan Gnyu Gsêu Gxiu Gbet Gqin	15
-男女授受不亲	Glan Gnyu Gsêu shou Gbet Gqin	15
-男女授受不亲	Glan Gnyu Gsêu shou bu Gqin	15
+男女授受不亲	Glan Gnyu Gseu Gseu Gbet Gqin	15
+男女授受不亲	Glan Gnyu Gseu Gseu bu Gqin	15
+男女授受不亲	Glan Gnyu Gseu Gxiu Gbet Gqin	15
+男女授受不亲	Glan Gnyu Gseu shou Gbet Gqin	15
+男女授受不亲	Glan Gnyu Gseu shou bu Gqin	15
 男女授受不亲	Glan Gnyu Gxiu Gseu Gbet Gqin	15
 男女授受不亲	Glan Gnyu Gxiu Gxiu Gbet Gqin	15
 男女授受不亲	Glan Gnyu shou Gseu Gbet Gqin	15
 男女授受不亲	Glan Gnyu shou Gseu bu Gqin	15
 男女授受不亲	Glan Gnyu shou shou Gbet Gqin	15
 男女授受不亲	Glan Gnyu shou shou bu Gqin	15
-男女授受不亲	Glan nv Gsêu Gseu Gbet Gqin	15
-男女授受不亲	Glan nv Gsêu Gseu bu Gqin	15
-男女授受不亲	Glan nv Gsêu shou Gbet Gqin	15
-男女授受不亲	Glan nv Gsêu shou bu Gqin	15
+男女授受不亲	Glan nv Gseu Gseu Gbet Gqin	15
+男女授受不亲	Glan nv Gseu Gseu bu Gqin	15
+男女授受不亲	Glan nv Gseu shou Gbet Gqin	15
+男女授受不亲	Glan nv Gseu shou bu Gqin	15
 男女授受不亲	Glan nv shou Gseu Gbet Gqin	15
 男女授受不亲	Glan nv shou Gseu bu Gqin	15
 男女授受不亲	Glan nv shou shou Gbet Gqin	15
 男女授受不亲	Glan nv shou shou bu Gqin	15
-男女授受不亲	nan Gnyu Gsêu Gseu Gbet Gqin	15
-男女授受不亲	nan Gnyu Gsêu Gseu bu Gqin	15
-男女授受不亲	nan Gnyu Gsêu shou Gbet Gqin	15
-男女授受不亲	nan Gnyu Gsêu shou bu Gqin	15
+男女授受不亲	nan Gnyu Gseu Gseu Gbet Gqin	15
+男女授受不亲	nan Gnyu Gseu Gseu bu Gqin	15
+男女授受不亲	nan Gnyu Gseu shou Gbet Gqin	15
+男女授受不亲	nan Gnyu Gseu shou bu Gqin	15
 男女授受不亲	nan Gnyu shou Gseu Gbet Gqin	15
 男女授受不亲	nan Gnyu shou Gseu bu Gqin	15
 男女授受不亲	nan Gnyu shou shou Gbet Gqin	15
 男女授受不亲	nan Gnyu shou shou bu Gqin	15
-男女授受不亲	nan nv Gsêu Gseu Gbet Gqin	15
-男女授受不亲	nan nv Gsêu Gseu bu Gqin	15
-男女授受不亲	nan nv Gsêu shou Gbet Gqin	15
-男女授受不亲	nan nv Gsêu shou bu Gqin	15
+男女授受不亲	nan nv Gseu Gseu Gbet Gqin	15
+男女授受不亲	nan nv Gseu Gseu bu Gqin	15
+男女授受不亲	nan nv Gseu shou Gbet Gqin	15
+男女授受不亲	nan nv Gseu shou bu Gqin	15
 男女授受不亲	nan nv shou Gseu Gbet Gqin	15
 男女授受不亲	nan nv shou Gseu bu Gqin	15
 男女授受不亲	nan nv shou shou Gbet Gqin	15
@@ -479299,21 +479299,21 @@ use_preset_vocabulary: false
 略称	Glyuot cheng	9
 略称	lve Gcen	9
 略称	lve cheng	9
-略胜一筹	Glyuot Gsen Gyit Gcêu	15
+略胜一筹	Glyuot Gsen Gyit Gceu	15
 略胜一筹	Glyuot Gsen Gyit chou	15
-略胜一筹	Glyuot Gsen yi Gcêu	15
+略胜一筹	Glyuot Gsen yi Gceu	15
 略胜一筹	Glyuot Gsen yi chou	15
-略胜一筹	Glyuot sheng Gyit Gcêu	15
+略胜一筹	Glyuot sheng Gyit Gceu	15
 略胜一筹	Glyuot sheng Gyit chou	15
-略胜一筹	Glyuot sheng yi Gcêu	15
+略胜一筹	Glyuot sheng yi Gceu	15
 略胜一筹	Glyuot sheng yi chou	15
-略胜一筹	lve Gsen Gyit Gcêu	15
+略胜一筹	lve Gsen Gyit Gceu	15
 略胜一筹	lve Gsen Gyit chou	15
-略胜一筹	lve Gsen yi Gcêu	15
+略胜一筹	lve Gsen yi Gceu	15
 略胜一筹	lve Gsen yi chou	15
-略胜一筹	lve sheng Gyit Gcêu	15
+略胜一筹	lve sheng Gyit Gceu	15
 略胜一筹	lve sheng Gyit chou	15
-略胜一筹	lve sheng yi Gcêu	15
+略胜一筹	lve sheng yi Gceu	15
 略胜一筹	lve sheng yi chou	15
 略表	Glyuot Gbiêu	10
 略表	Glyuot biao	10
@@ -479404,7 +479404,7 @@ use_preset_vocabulary: false
 畯	jun	11547
 畲	Gsa	4554
 畲	she	4554
-畴	Gcêu	103088
+畴	Gceu	103088
 畴	chou	103088
 畷	Gzot	4000
 畷	Gzui	4468
@@ -479809,7 +479809,7 @@ use_preset_vocabulary: false
 疙里疙瘩	ge Gli ge da	8
 疙里疙瘩	ge li ge da	8
 疚	Gjiu	100925
-疛	Gzêu	5539
+疛	Gzeu	5539
 疛	zhou	5539
 疝	Gsan	70712
 疝	shan	70712
@@ -482863,12 +482863,12 @@ use_preset_vocabulary: false
 白寒枫	bai Ghon feng	127
 白寒枫	bai han Gfung	127
 白寒枫	bai han feng	127
-白寿彝	Gpak Gsêu Gyi	14
+白寿彝	Gpak Gseu Gyi	14
 白寿彝	Gpak Gxiu Gyi	14
 白寿彝	Gpak shou Gyi	14
-白寿彝	Wpêt Gsêu Gyi	14
+白寿彝	Wpêt Gseu Gyi	14
 白寿彝	Wpêt Gxiu Gyi	14
-白寿彝	bai Gsêu Gyi	14
+白寿彝	bai Gseu Gyi	14
 白寿彝	bai shou Gyi	14
 白寿彝	bai shou yi	14
 白尼罗河	Gpak Gni Glo Gho	25
@@ -483165,10 +483165,10 @@ use_preset_vocabulary: false
 白春礼	bai Gcun Gli	7
 白春礼	bai chun Gli	7
 白春礼	bai chun li	7
-白昼	Gpak Gzêu	257
+白昼	Gpak Gzeu	257
 白昼	Gpak zhou	257
-白昼	Wpêt Gzêu	257
-白昼	bai Gzêu	257
+白昼	Wpêt Gzeu	257
+白昼	bai Gzeu	257
 白昼	bai zhou	257
 白晃晃	Gpak Gfong Gfong	17
 白晃晃	Gpak Gfong huang	17
@@ -483937,12 +483937,12 @@ use_preset_vocabulary: false
 白细胞	bai Gxi Gbau	248
 白细胞	bai Gxi bao	248
 白细胞	bai xi bao	248
-白绸	Gpak Gcêu	36
+白绸	Gpak Gceu	36
 白绸	Gpak Gqiu	36
 白绸	Gpak chou	36
-白绸	Wpêt Gcêu	36
+白绸	Wpêt Gceu	36
 白绸	Wpêt Gqiu	36
-白绸	bai Gcêu	36
+白绸	bai Gceu	36
 白绸	bai chou	36
 白羊	Gpak Gyong	165
 白羊	Gpak yang	165
@@ -485243,12 +485243,12 @@ use_preset_vocabulary: false
 百公里	bai Ggung Gli	20
 百公里	bai gong Gli	20
 百公里	bai gong li	20
-百兽	Gbak Gsêu	28
+百兽	Gbak Gseu	28
 百兽	Gbak Gxiu	28
 百兽	Gbak shou	28
-百兽	Wbêt Gsêu	28
+百兽	Wbêt Gseu	28
 百兽	Wbêt Gxiu	28
-百兽	bai Gsêu	28
+百兽	bai Gseu	28
 百兽	bai shou	28
 百出	Gbak Gcuk	107
 百出	Gbak chu	107
@@ -489849,7 +489849,7 @@ use_preset_vocabulary: false
 盦	Gngon	17336
 盦	an	17336
 盩	Gjiu	5834
-盩	Gzêu	5002
+盩	Gzeu	5002
 盩	zhou	5834
 盬	Ggu	2000
 盭	Gliêt	5808
@@ -496338,7 +496338,7 @@ use_preset_vocabulary: false
 矩阵	ju Gzen	257
 矩阵	ju zhen	257
 矪	Gjiu	4638
-矪	Gzêu	5714
+矪	Gzeu	5714
 矪	zhou	5714
 矫	Gjiêu	100956
 矫	jiao	100956
@@ -496940,10 +496940,10 @@ use_preset_vocabulary: false
 石像	Gsïk xiang	179
 石像	shi Gxiong	179
 石像	shi xiang	179
-石兽	Gsïk Gsêu	402
+石兽	Gsïk Gseu	402
 石兽	Gsïk Gxiu	402
 石兽	Gsïk shou	402
-石兽	shi Gsêu	402
+石兽	shi Gseu	402
 石兽	shi shou	402
 石凳	Gsïk Gdên	73
 石凳	Gsïk deng	73
@@ -497259,13 +497259,13 @@ use_preset_vocabulary: false
 石家河	shi Gga he	9
 石家河	shi jia Gho	9
 石家河	shi jia he	9
-石寿永	Gsïk Gsêu Gyung	256
-石寿永	Gsïk Gsêu yong	256
+石寿永	Gsïk Gseu Gyung	256
+石寿永	Gsïk Gseu yong	256
 石寿永	Gsïk Gxiu Gyung	256
 石寿永	Gsïk shou Gyung	256
 石寿永	Gsïk shou yong	256
-石寿永	shi Gsêu Gyung	256
-石寿永	shi Gsêu yong	256
+石寿永	shi Gseu Gyung	256
+石寿永	shi Gseu yong	256
 石寿永	shi shou Gyung	256
 石寿永	shi shou yong	256
 石屋	Gsïk Gwuk	170
@@ -503096,10 +503096,10 @@ use_preset_vocabulary: false
 祖大乐	Gzu da Glok	10
 祖大乐	Gzu da le	10
 祖大乐	zu da le	10
-祖大寿	Gzu Gtai Gsêu	212
+祖大寿	Gzu Gtai Gseu	212
 祖大寿	Gzu Gtai Gxiu	212
 祖大寿	Gzu Gtai shou	212
-祖大寿	Gzu da Gsêu	212
+祖大寿	Gzu da Gseu	212
 祖大寿	Gzu da shou	212
 祖大寿	zu da shou	212
 祖大弼	Gzu Gtai Gpêt	21
@@ -503226,10 +503226,10 @@ use_preset_vocabulary: false
 祝家庄	zhu Gga zhuang	78
 祝家庄	zhu jia Gzong	78
 祝家庄	zhu jia zhuang	78
-祝寿	Gzuk Gsêu	123
+祝寿	Gzuk Gseu	123
 祝寿	Gzuk Gxiu	123
 祝寿	Gzuk shou	123
-祝寿	zhu Gsêu	123
+祝寿	zhu Gseu	123
 祝寿	zhu shou	123
 祝志军	Gzuk Gzï Gjyun	7
 祝志军	Gzuk Gzï jun	7
@@ -503888,14 +503888,14 @@ use_preset_vocabulary: false
 神宗皇帝	shen zong huang Gdi	14
 神宗皇帝	shen zong huang di	14
 神宙斯	Gsen Gjiu Gsï	8
-神宙斯	Gsen Gzêu Gsï	8
-神宙斯	Gsen Gzêu si	8
+神宙斯	Gsen Gzeu Gsï	8
+神宙斯	Gsen Gzeu si	8
 神宙斯	Gsen zhou Gsï	8
 神宙斯	Gsen zhou si	8
 神宙斯	Gxin Gjiu Gsï	8
-神宙斯	Gxin Gzêu Gsï	8
-神宙斯	shen Gzêu Gsï	8
-神宙斯	shen Gzêu si	8
+神宙斯	Gxin Gzeu Gsï	8
+神宙斯	shen Gzeu Gsï	8
+神宙斯	shen Gzeu si	8
 神宙斯	shen zhou Gsï	8
 神宙斯	shen zhou si	8
 神宫	Gsen Ggung	30
@@ -505454,7 +505454,7 @@ use_preset_vocabulary: false
 禁卫	Gjin Gwi	40
 禁卫	Gjin wei	40
 禁卫	jin wei	40
-禁售	Gjin Gsêu	19
+禁售	Gjin Gseu	19
 禁售	Gjin Gxiu	19
 禁售	Gjin shou	19
 禁售	jin shou	19
@@ -505827,33 +505827,33 @@ use_preset_vocabulary: false
 福安	Gfuk an	7
 福安	fu Gngon	7
 福安	fu an	7
-福寿	Gfuk Gsêu	27
+福寿	Gfuk Gseu	27
 福寿	Gfuk Gxiu	27
 福寿	Gfuk shou	27
-福寿	fu Gsêu	27
+福寿	fu Gseu	27
 福寿	fu shou	27
-福寿仙	Gfuk Gsêu Gxiên	15
-福寿仙	Gfuk Gsêu xian	15
+福寿仙	Gfuk Gseu Gxiên	15
+福寿仙	Gfuk Gseu xian	15
 福寿仙	Gfuk Gxiu Gxiên	15
 福寿仙	Gfuk shou Gxiên	15
 福寿仙	Gfuk shou xian	15
-福寿仙	fu Gsêu Gxiên	15
-福寿仙	fu Gsêu xian	15
+福寿仙	fu Gseu Gxiên	15
+福寿仙	fu Gseu xian	15
 福寿仙	fu shou Gxiên	15
 福寿仙	fu shou xian	15
-福寿双全	Gfuk Gsêu Gsong Gqyuon	7
-福寿双全	Gfuk Gsêu Gsong quan	7
-福寿双全	Gfuk Gsêu shuang Gqyuon	7
-福寿双全	Gfuk Gsêu shuang quan	7
+福寿双全	Gfuk Gseu Gsong Gqyuon	7
+福寿双全	Gfuk Gseu Gsong quan	7
+福寿双全	Gfuk Gseu shuang Gqyuon	7
+福寿双全	Gfuk Gseu shuang quan	7
 福寿双全	Gfuk Gxiu Gsong Gqyuon	7
 福寿双全	Gfuk shou Gsong Gqyuon	7
 福寿双全	Gfuk shou Gsong quan	7
 福寿双全	Gfuk shou shuang Gqyuon	7
 福寿双全	Gfuk shou shuang quan	7
-福寿双全	fu Gsêu Gsong Gqyuon	7
-福寿双全	fu Gsêu Gsong quan	7
-福寿双全	fu Gsêu shuang Gqyuon	7
-福寿双全	fu Gsêu shuang quan	7
+福寿双全	fu Gseu Gsong Gqyuon	7
+福寿双全	fu Gseu Gsong quan	7
+福寿双全	fu Gseu shuang Gqyuon	7
+福寿双全	fu Gseu shuang quan	7
 福寿双全	fu shou Gsong Gqyuon	7
 福寿双全	fu shou Gsong quan	7
 福寿双全	fu shou shuang Gqyuon	7
@@ -506248,14 +506248,14 @@ use_preset_vocabulary: false
 福祸	Gfuk huo	8
 福祸	fu Gfo	8
 福祸	fu huo	8
-福禄寿	Gfuk Gluk Gsêu	15
+福禄寿	Gfuk Gluk Gseu	15
 福禄寿	Gfuk Gluk Gxiu	15
 福禄寿	Gfuk Gluk shou	15
-福禄寿	Gfuk lu Gsêu	15
+福禄寿	Gfuk lu Gseu	15
 福禄寿	Gfuk lu shou	15
-福禄寿	fu Gluk Gsêu	15
+福禄寿	fu Gluk Gseu	15
 福禄寿	fu Gluk shou	15
-福禄寿	fu lu Gsêu	15
+福禄寿	fu lu Gseu	15
 福禄寿	fu lu shou	15
 福至心灵	Gfuk Gzï Gxin Glin	7
 福至心灵	Gfuk Gzï Gxin ling	7
@@ -506575,7 +506575,7 @@ use_preset_vocabulary: false
 禼	Gxiêt	4638
 禼	xie	4638
 禽	Gqin	120000
-禽兽	Gqin Gsêu	225
+禽兽	Gqin Gseu	225
 禽兽	Gqin Gxiu	225
 禽兽	Gqin shou	225
 禽兽	qin shou	225
@@ -506944,23 +506944,23 @@ use_preset_vocabulary: false
 私盐	Gsï yan	57
 私盐	si Gyên	57
 私盐	si yan	57
-私相授受	Gsï Gxiong Gsêu Gseu	9
-私相授受	Gsï Gxiong Gsêu Gxiu	9
-私相授受	Gsï Gxiong Gsêu shou	9
+私相授受	Gsï Gxiong Gseu Gseu	9
+私相授受	Gsï Gxiong Gseu Gxiu	9
+私相授受	Gsï Gxiong Gseu shou	9
 私相授受	Gsï Gxiong Gxiu Gseu	9
 私相授受	Gsï Gxiong Gxiu Gxiu	9
 私相授受	Gsï Gxiong shou Gseu	9
 私相授受	Gsï Gxiong shou shou	9
-私相授受	Gsï xiang Gsêu Gseu	9
-私相授受	Gsï xiang Gsêu shou	9
+私相授受	Gsï xiang Gseu Gseu	9
+私相授受	Gsï xiang Gseu shou	9
 私相授受	Gsï xiang shou Gseu	9
 私相授受	Gsï xiang shou shou	9
-私相授受	si Gxiong Gsêu Gseu	9
-私相授受	si Gxiong Gsêu shou	9
+私相授受	si Gxiong Gseu Gseu	9
+私相授受	si Gxiong Gseu shou	9
 私相授受	si Gxiong shou Gseu	9
 私相授受	si Gxiong shou shou	9
-私相授受	si xiang Gsêu Gseu	9
-私相授受	si xiang Gsêu shou	9
+私相授受	si xiang Gseu Gseu	9
+私相授受	si xiang Gseu shou	9
 私相授受	si xiang shou Gseu	9
 私相授受	si xiang shou shou	9
 私立	Gsï Glit	193
@@ -510030,9 +510030,9 @@ use_preset_vocabulary: false
 秺	Gca	100000
 秺	du	100000
 秺帚	Gca Gjiu	100000
-秺帚	Gca Gzêu	100000
+秺帚	Gca Gzeu	100000
 秺帚	Gca zhou	100000
-秺帚	du Gzêu	100000
+秺帚	du Gzeu	100000
 秺帚	du zhou	100000
 移	Gyi	145000
 移交	Gyi Ggau	411
@@ -510713,21 +510713,21 @@ use_preset_vocabulary: false
 稍许	Gsau xu	36
 稍许	shao Gxyu	36
 稍许	shao xu	36
-稍逊一筹	Gsau Gsun Gyit Gcêu	23
+稍逊一筹	Gsau Gsun Gyit Gceu	23
 稍逊一筹	Gsau Gsun Gyit chou	23
-稍逊一筹	Gsau Gsun yi Gcêu	23
+稍逊一筹	Gsau Gsun yi Gceu	23
 稍逊一筹	Gsau Gsun yi chou	23
-稍逊一筹	Gsau xun Gyit Gcêu	23
+稍逊一筹	Gsau xun Gyit Gceu	23
 稍逊一筹	Gsau xun Gyit chou	23
-稍逊一筹	Gsau xun yi Gcêu	23
+稍逊一筹	Gsau xun yi Gceu	23
 稍逊一筹	Gsau xun yi chou	23
-稍逊一筹	shao Gsun Gyit Gcêu	23
+稍逊一筹	shao Gsun Gyit Gceu	23
 稍逊一筹	shao Gsun Gyit chou	23
-稍逊一筹	shao Gsun yi Gcêu	23
+稍逊一筹	shao Gsun yi Gceu	23
 稍逊一筹	shao Gsun yi chou	23
-稍逊一筹	shao xun Gyit Gcêu	23
+稍逊一筹	shao xun Gyit Gceu	23
 稍逊一筹	shao xun Gyit chou	23
-稍逊一筹	shao xun yi Gcêu	23
+稍逊一筹	shao xun yi Gceu	23
 稍逊一筹	shao xun yi chou	23
 稍顷	Gsau Gqyun	10
 稍顷	Gsau Wkiên	10
@@ -510916,17 +510916,17 @@ use_preset_vocabulary: false
 稛	Gkun	5048
 稞	Gfa	72236
 稞	ke	72236
-稠	Gcêu	103696
+稠	Gceu	103696
 稠	chou	103696
-稠人广众	Gcêu Gnin Gguong Gzung	8
-稠人广众	Gcêu Gnin Gguong zhong	8
-稠人广众	Gcêu Gnin guang Gzung	8
-稠人广众	Gcêu Gnin guang zhong	8
-稠人广众	Gcêu Wlen Gguong Gzung	8
-稠人广众	Gcêu ren Gguong Gzung	8
-稠人广众	Gcêu ren Gguong zhong	8
-稠人广众	Gcêu ren guang Gzung	8
-稠人广众	Gcêu ren guang zhong	8
+稠人广众	Gceu Gnin Gguong Gzung	8
+稠人广众	Gceu Gnin Gguong zhong	8
+稠人广众	Gceu Gnin guang Gzung	8
+稠人广众	Gceu Gnin guang zhong	8
+稠人广众	Gceu Wlen Gguong Gzung	8
+稠人广众	Gceu ren Gguong Gzung	8
+稠人广众	Gceu ren Gguong zhong	8
+稠人广众	Gceu ren guang Gzung	8
+稠人广众	Gceu ren guang zhong	8
 稠人广众	chou Gnin Gguong Gzung	8
 稠人广众	chou Gnin Gguong zhong	8
 稠人广众	chou Gnin guang Gzung	8
@@ -510935,8 +510935,8 @@ use_preset_vocabulary: false
 稠人广众	chou ren Gguong zhong	8
 稠人广众	chou ren guang Gzung	8
 稠人广众	chou ren guang zhong	8
-稠密	Gcêu Gmit	365
-稠密	Gcêu mi	365
+稠密	Gceu Gmit	365
+稠密	Gceu mi	365
 稠密	chou Gmit	365
 稠密	chou mi	365
 稡	Gzuk	4121
@@ -516734,9 +516734,9 @@ use_preset_vocabulary: false
 笤	Gtiêu	90000
 笤	tiao	90000
 笤帚	Gtiêu Gjiu	156200
-笤帚	Gtiêu Gzêu	156200
+笤帚	Gtiêu Gzeu	156200
 笤帚	Gtiêu zhou	156200
-笤帚	tiao Gzêu	156200
+笤帚	tiao Gzeu	156200
 笤帚	tiao zhou	156200
 笥	Gsï	73350
 笥	si	73350
@@ -516791,7 +516791,7 @@ use_preset_vocabulary: false
 符合规范	Gfu Wgot Ggui Gfan	8
 符合规范	Gfu he Ggui Gfan	8
 符合规范	fu he gui fan	8
-符咒	Gfu Gzêu	53
+符咒	Gfu Gzeu	53
 符咒	Gfu zhou	53
 符咒	fu zhou	53
 符圣使	Gfu Gsen Gsï	7
@@ -526647,90 +526647,90 @@ use_preset_vocabulary: false
 筷子	Gkuai Gzï	814
 筷子	Gkuai zi	814
 筷子	kuai zi	814
-筹	Gcêu	120000
+筹	Gceu	120000
 筹	chou	120000
-筹借	Gcêu Gjia	9
-筹借	Gcêu Wqia	9
-筹借	Gcêu jie	9
+筹借	Gceu Gjia	9
+筹借	Gceu Wqia	9
+筹借	Gceu jie	9
 筹借	chou Gjia	9
 筹借	chou jie	9
-筹划	Gcêu Gfa	408
-筹划	Gcêu hua	408
+筹划	Gceu Gfa	408
+筹划	Gceu hua	408
 筹划	chou Gfa	408
 筹划	chou hua	408
-筹办	Gcêu Gban	139
-筹办	Gcêu Gpan	139
-筹办	Gcêu ban	139
+筹办	Gceu Gban	139
+筹办	Gceu Gpan	139
+筹办	Gceu ban	139
 筹办	chou Gpan	139
 筹办	chou ban	139
-筹募	Gcêu Gmu	7
+筹募	Gceu Gmu	7
 筹募	chou Gmu	7
 筹募	chou mu	7
-筹备	Gcêu Gpêi	837
-筹备	Gcêu bei	837
+筹备	Gceu Gpêi	837
+筹备	Gceu bei	837
 筹备	chou Gpêi	837
 筹备	chou bei	837
-筹备会	Gcêu Gpêi Gfui	186
-筹备会	Gcêu Gpêi hui	186
-筹备会	Gcêu bei Gfui	186
-筹备会	Gcêu bei hui	186
+筹备会	Gceu Gpêi Gfui	186
+筹备会	Gceu Gpêi hui	186
+筹备会	Gceu bei Gfui	186
+筹备会	Gceu bei hui	186
 筹备会	chou Gpêi Gfui	186
 筹备会	chou Gpêi hui	186
 筹备会	chou bei Gfui	186
 筹备会	chou bei hui	186
-筹备处	Gcêu Gpêi Gcu	24
-筹备处	Gcêu Gpêi chu	24
-筹备处	Gcêu bei Gcu	24
-筹备处	Gcêu bei chu	24
+筹备处	Gceu Gpêi Gcu	24
+筹备处	Gceu Gpêi chu	24
+筹备处	Gceu bei Gcu	24
+筹备处	Gceu bei chu	24
 筹备处	chou Gpêi Gcu	24
 筹备处	chou Gpêi chu	24
 筹备处	chou bei Gcu	24
 筹备处	chou bei chu	24
-筹备组	Gcêu Gpêi Gzu	10
-筹备组	Gcêu bei Gzu	10
+筹备组	Gceu Gpêi Gzu	10
+筹备组	Gceu bei Gzu	10
 筹备组	chou Gpêi Gzu	10
 筹备组	chou bei Gzu	10
 筹备组	chou bei zu	10
-筹委会	Gcêu Gwi Gfui	169
-筹委会	Gcêu Gwi hui	169
-筹委会	Gcêu wei Gfui	169
-筹委会	Gcêu wei hui	169
+筹委会	Gceu Gwi Gfui	169
+筹委会	Gceu Gwi hui	169
+筹委会	Gceu wei Gfui	169
+筹委会	Gceu wei hui	169
 筹委会	chou Gwi Gfui	169
 筹委会	chou Gwi hui	169
 筹委会	chou wei Gfui	169
 筹委会	chou wei hui	169
-筹建	Gcêu Gjiên	414
-筹建	Gcêu jian	414
+筹建	Gceu Gjiên	414
+筹建	Gceu jian	414
 筹建	chou Gjiên	414
 筹建	chou jian	414
-筹措	Gcêu Gcu	282
-筹措	Gcêu cuo	282
+筹措	Gceu Gcu	282
+筹措	Gceu cuo	282
 筹措	chou Gcu	282
 筹措	chou cuo	282
-筹款	Gcêu Gkuon	75
-筹款	Gcêu kuan	75
+筹款	Gceu Gkuon	75
+筹款	Gceu kuan	75
 筹款	chou Gkuon	75
 筹款	chou kuan	75
-筹码	Gcêu Gma	176
+筹码	Gceu Gma	176
 筹码	chou Gma	176
 筹码	chou ma	176
-筹算	Gcêu Gson	40
-筹算	Gcêu suan	40
+筹算	Gceu Gson	40
+筹算	Gceu suan	40
 筹算	chou Gson	40
 筹算	chou suan	40
-筹组	Gcêu Gzu	37
+筹组	Gceu Gzu	37
 筹组	chou Gzu	37
 筹组	chou zu	37
-筹谋	Gcêu Gmêu	23
-筹谋	Gcêu mou	23
+筹谋	Gceu Gmêu	23
+筹谋	Gceu mou	23
 筹谋	chou Gmêu	23
 筹谋	chou mou	23
-筹资	Gcêu Gzï	110
-筹资	Gcêu zi	110
+筹资	Gceu Gzï	110
+筹资	Gceu zi	110
 筹资	chou Gzï	110
 筹资	chou zi	110
-筹集	Gcêu Gjit	302
-筹集	Gcêu ji	302
+筹集	Gceu Gjit	302
+筹集	Gceu ji	302
 筹集	chou Gjit	302
 筹集	chou ji	302
 筻	Ggiên	5621
@@ -527500,7 +527500,7 @@ use_preset_vocabulary: false
 箑	Gsat	5255
 箑	sha	5255
 箒	Gjiu	5656
-箒	Gzêu	5139
+箒	Gzeu	5139
 箒	zhou	5656
 箓	Gluk	71501
 箓	lu	71501
@@ -528780,7 +528780,7 @@ use_preset_vocabulary: false
 簿记	Gpu Gji	50
 簿记	bu Gji	50
 簿记	bu ji	50
-籀	Gcêu	74701
+籀	Gceu	74701
 籀	zhou	74701
 籁	Glai	73701
 籈	Gzen	4775
@@ -528790,10 +528790,10 @@ use_preset_vocabulary: false
 籊	ti	5811
 籍	Gjit	120000
 籍	ji	120000
-籍授	Gjit Gsêu	16
+籍授	Gjit Gseu	16
 籍授	Gjit Gxiu	16
 籍授	Gjit shou	16
-籍授	ji Gsêu	16
+籍授	ji Gseu	16
 籍授	ji shou	16
 籍没	Gjit Gmêt	52
 籍没	Gjit mo	52
@@ -529858,16 +529858,16 @@ use_preset_vocabulary: false
 粘着	Gzên zhe	74
 粘着	zhan Gzok	74
 粘着	zhan zhe	74
-粘稠	Gzên Gcêu	104
+粘稠	Gzên Gceu	104
 粘稠	Gzên chou	104
-粘稠	nian Gcêu	104
+粘稠	nian Gceu	104
 粘稠	nian chou	104
-粘稠度	Gzên Gcêu Gtu	7
-粘稠度	Gzên Gcêu du	7
+粘稠度	Gzên Gceu Gtu	7
+粘稠度	Gzên Gceu du	7
 粘稠度	Gzên chou Gtu	7
 粘稠度	Gzên chou du	7
-粘稠度	nian Gcêu Gtu	7
-粘稠度	nian Gcêu du	7
+粘稠度	nian Gceu Gtu	7
+粘稠度	nian Gceu du	7
 粘稠度	nian chou Gtu	7
 粘稠度	nian chou du	7
 粘结	Gzên Gjiêt	62
@@ -532507,7 +532507,7 @@ use_preset_vocabulary: false
 紧握	Gjin Gwot	104
 紧握	Gjin wo	104
 紧握	jin wo	104
-紧箍咒	Gjin Ggu Gzêu	38
+紧箍咒	Gjin Ggu Gzeu	38
 紧箍咒	Gjin Ggu zhou	38
 紧箍咒	jin gu zhou	38
 紧紧	Gjin Gjin	2190
@@ -534514,9 +534514,9 @@ use_preset_vocabulary: false
 红磷	Gfung Glin	16
 红磷	hong Glin	16
 红磷	hong lin	16
-红筹	Gfung Gcêu	7
+红筹	Gfung Gceu	7
 红筹	Gfung chou	7
-红筹	hong Gcêu	7
+红筹	hong Gceu	7
 红筹	hong chou	7
 红粉	Gfung Gfen	45
 红粉	hong Gfen	45
@@ -534663,10 +534663,10 @@ use_preset_vocabulary: false
 红细胞	hong Gxi Gbau	384
 红细胞	hong Gxi bao	384
 红细胞	hong xi bao	384
-红绸	Gfung Gcêu	243
+红绸	Gfung Gceu	243
 红绸	Gfung Gqiu	243
 红绸	Gfung chou	243
-红绸	hong Gcêu	243
+红绸	hong Gceu	243
 红绸	hong chou	243
 红绿	Gfung Glyut	5023
 红绿	Gfung lv	5023
@@ -535030,10 +535030,10 @@ use_preset_vocabulary: false
 红黄蓝	hong Gwong Glan	8
 红黄蓝	hong huang Glan	8
 红黄蓝	hong huang lan	8
-纣	Gcêu	90000
+纣	Gceu	90000
 纣	zhou	90000
-纣王	Gcêu Gwong	73
-纣王	Gcêu wang	73
+纣王	Gceu Gwong	73
+纣王	Gceu wang	73
 纣王	zhou Gwong	73
 纣王	zhou wang	73
 纤	Gqiên	120000
@@ -537027,10 +537027,10 @@ use_preset_vocabulary: false
 纺织物	fang Gzïk wu	11
 纺织物	fang zhi Gwut	11
 纺织物	fang zhi wu	11
-纺绸	Gfong Gcêu	19
+纺绸	Gfong Gceu	19
 纺绸	Gfong Gqiu	19
 纺绸	Gfong chou	19
-纺绸	fang Gcêu	19
+纺绸	fang Gceu	19
 纺绸	fang chou	19
 纺车	Gfong Gca	84
 纺车	Gfong che	84
@@ -541546,16 +541546,16 @@ use_preset_vocabulary: false
 统称	Gtung cheng	921
 统称	tong Gcen	921
 统称	tong cheng	921
-统筹	Gtung Gcêu	470
+统筹	Gtung Gceu	470
 统筹	Gtung chou	470
-统筹	tong Gcêu	470
+统筹	tong Gceu	470
 统筹	tong chou	470
-统筹兼顾	Gtung Gcêu Ggan Ggu	63
-统筹兼顾	Gtung Gcêu jian Ggu	63
+统筹兼顾	Gtung Gceu Ggan Ggu	63
+统筹兼顾	Gtung Gceu jian Ggu	63
 统筹兼顾	Gtung chou Ggan Ggu	63
 统筹兼顾	Gtung chou jian Ggu	63
-统筹兼顾	tong Gcêu Ggan Ggu	63
-统筹兼顾	tong Gcêu jian Ggu	63
+统筹兼顾	tong Gceu Ggan Ggu	63
+统筹兼顾	tong Gceu jian Ggu	63
 统筹兼顾	tong chou Ggan Ggu	63
 统筹兼顾	tong chou jian Ggu	63
 统筹兼顾	tong chou jian gu	63
@@ -542866,9 +542866,9 @@ use_preset_vocabulary: false
 绵阳市	mian Gyong shi	28
 绵阳市	mian yang Gsï	28
 绵阳市	mian yang shi	28
-绶	Gsêu	100000
+绶	Gseu	100000
 绶	shou	100000
-绶带	Gsêu Gdai	19
+绶带	Gseu Gdai	19
 绶带	shou Gdai	19
 绶带	shou dai	19
 绷	Gbung	145000
@@ -542879,37 +542879,37 @@ use_preset_vocabulary: false
 绷紧	Gbung Gjin	86
 绷紧	beng Gjin	86
 绷紧	beng jin	86
-绸	Gcêu	125000
+绸	Gceu	125000
 绸	Gqiu	105000
 绸	chou	125000
-绸伞	Gcêu Gsan	17
+绸伞	Gceu Gsan	17
 绸伞	Gqiu Gsan	17
 绸伞	chou Gsan	17
 绸伞	chou san	17
-绸子	Gcêu Gzï	52
-绸子	Gcêu zi	52
+绸子	Gceu Gzï	52
+绸子	Gceu zi	52
 绸子	Gqiu Gzï	52
 绸子	chou Gzï	52
 绸子	chou zi	52
-绸巾	Gcêu Gjin	26
+绸巾	Gceu Gjin	26
 绸巾	Gqiu Gjin	26
 绸巾	chou Gjin	26
 绸巾	chou jin	26
-绸布	Gcêu Gbu	25
+绸布	Gceu Gbu	25
 绸布	Gqiu Gbu	25
 绸布	chou Gbu	25
 绸布	chou bu	25
-绸带	Gcêu Gdai	116
+绸带	Gceu Gdai	116
 绸带	Gqiu Gdai	116
 绸带	chou Gdai	116
 绸带	chou dai	116
-绸缎	Gcêu Gton	5203
-绸缎	Gcêu duan	5203
+绸缎	Gceu Gton	5203
+绸缎	Gceu duan	5203
 绸缎	Gqiu Gton	5203
 绸缎	chou Gton	5203
 绸缎	chou duan	5203
-绸缪	Gcêu Gmêu	14
-绸缪	Gcêu mou	14
+绸缪	Gceu Gmêu	14
+绸缪	Gceu mou	14
 绸缪	Gqiu Gmêu	14
 绸缪	chou Gmêu	14
 绸缪	chou mou	14
@@ -552443,15 +552443,15 @@ use_preset_vocabulary: false
 老家伙	lao Gga huo	165
 老家伙	lao jia Gfo	165
 老家伙	lao jia huo	165
-老寿星	Glau Gsêu Gxin	27
-老寿星	Glau Gsêu Wxiang	27
-老寿星	Glau Gsêu xing	27
+老寿星	Glau Gseu Gxin	27
+老寿星	Glau Gseu Wxiang	27
+老寿星	Glau Gseu xing	27
 老寿星	Glau Gxiu Gxin	27
 老寿星	Glau Gxiu Wxiang	27
 老寿星	Glau shou Gxin	27
 老寿星	Glau shou xing	27
-老寿星	lao Gsêu Gxin	27
-老寿星	lao Gsêu xing	27
+老寿星	lao Gseu Gxin	27
+老寿星	lao Gseu xing	27
 老寿星	lao shou Gxin	27
 老寿星	lao shou xing	27
 老将	Glau Gjiong	347
@@ -555458,13 +555458,13 @@ use_preset_vocabulary: false
 耿天霸	geng Gtiên Gba	19
 耿天霸	geng tian Gba	19
 耿天霸	geng tian ba	19
-耿寿昌	Ggiên Gsêu Gcong	18
-耿寿昌	Ggiên Gsêu chang	18
+耿寿昌	Ggiên Gseu Gcong	18
+耿寿昌	Ggiên Gseu chang	18
 耿寿昌	Ggiên Gxiu Gcong	18
 耿寿昌	Ggiên shou Gcong	18
 耿寿昌	Ggiên shou chang	18
-耿寿昌	geng Gsêu Gcong	18
-耿寿昌	geng Gsêu chang	18
+耿寿昌	geng Gseu Gcong	18
+耿寿昌	geng Gseu chang	18
 耿寿昌	geng shou Gcong	18
 耿寿昌	geng shou chang	18
 耿炳文	Ggiên Gbin Gwun	53
@@ -558260,32 +558260,32 @@ use_preset_vocabulary: false
 肖鸿林	xiao hong lin	378
 肗	Geo	4189
 肗	ru	4189
-肘	Gzêu	108902
+肘	Gzeu	108902
 肘	zhou	108902
-肘关节	Gzêu Gguan Gjiêt	30
-肘关节	Gzêu Gguan jie	30
+肘关节	Gzeu Gguan Gjiêt	30
+肘关节	Gzeu Gguan jie	30
 肘关节	zhou Gguan Gjiêt	30
 肘关节	zhou Gguan jie	30
 肘关节	zhou guan jie	30
-肘子	Gzêu Gzï	30
-肘子	Gzêu zi	30
+肘子	Gzeu Gzï	30
+肘子	Gzeu zi	30
 肘子	zhou Gzï	30
 肘子	zhou zi	30
-肘弯	Gzêu Gwan	46
+肘弯	Gzeu Gwan	46
 肘弯	zhou Gwan	46
 肘弯	zhou wan	46
-肘腋	Gzêu Gyit	15
-肘腋	Gzêu ye	15
+肘腋	Gzeu Gyit	15
+肘腋	Gzeu ye	15
 肘腋	zhou Gyit	15
 肘腋	zhou ye	15
-肘腋之患	Gzêu Gyit Gzï Gfon	12
-肘腋之患	Gzêu Gyit Gzï huan	12
-肘腋之患	Gzêu Gyit zhi Gfon	12
-肘腋之患	Gzêu Gyit zhi huan	12
-肘腋之患	Gzêu ye Gzï Gfon	12
-肘腋之患	Gzêu ye Gzï huan	12
-肘腋之患	Gzêu ye zhi Gfon	12
-肘腋之患	Gzêu ye zhi huan	12
+肘腋之患	Gzeu Gyit Gzï Gfon	12
+肘腋之患	Gzeu Gyit Gzï huan	12
+肘腋之患	Gzeu Gyit zhi Gfon	12
+肘腋之患	Gzeu Gyit zhi huan	12
+肘腋之患	Gzeu ye Gzï Gfon	12
+肘腋之患	Gzeu ye Gzï huan	12
+肘腋之患	Gzeu ye zhi Gfon	12
+肘腋之患	Gzeu ye zhi huan	12
 肘腋之患	zhou Gyit Gzï Gfon	12
 肘腋之患	zhou Gyit Gzï huan	12
 肘腋之患	zhou Gyit zhi Gfon	12
@@ -558294,8 +558294,8 @@ use_preset_vocabulary: false
 肘腋之患	zhou ye Gzï huan	12
 肘腋之患	zhou ye zhi Gfon	12
 肘腋之患	zhou ye zhi huan	12
-肘部	Gzêu Gpu	20
-肘部	Gzêu bu	20
+肘部	Gzeu Gpu	20
+肘部	Gzeu bu	20
 肘部	zhou Gpu	20
 肘部	zhou bu	20
 肙	Gyuon	4039
@@ -559685,7 +559685,7 @@ use_preset_vocabulary: false
 胃镜	Gwi jing	31
 胃镜	wei Gjiang	31
 胃镜	wei jing	31
-胄	Gcêu	74258
+胄	Gceu	74258
 胄	zhou	74258
 胅	Gtiêt	4280
 胅	die	4280
@@ -560319,22 +560319,22 @@ use_preset_vocabulary: false
 胛股子	jia gu zi	100000
 胜	Gsen	179897
 胜	sheng	179897
-胜人一筹	Gsen Gnin Gyit Gcêu	10
+胜人一筹	Gsen Gnin Gyit Gceu	10
 胜人一筹	Gsen Gnin Gyit chou	10
-胜人一筹	Gsen Gnin yi Gcêu	10
+胜人一筹	Gsen Gnin yi Gceu	10
 胜人一筹	Gsen Gnin yi chou	10
-胜人一筹	Gsen Wlen Gyit Gcêu	10
-胜人一筹	Gsen ren Gyit Gcêu	10
+胜人一筹	Gsen Wlen Gyit Gceu	10
+胜人一筹	Gsen ren Gyit Gceu	10
 胜人一筹	Gsen ren Gyit chou	10
-胜人一筹	Gsen ren yi Gcêu	10
+胜人一筹	Gsen ren yi Gceu	10
 胜人一筹	Gsen ren yi chou	10
-胜人一筹	sheng Gnin Gyit Gcêu	10
+胜人一筹	sheng Gnin Gyit Gceu	10
 胜人一筹	sheng Gnin Gyit chou	10
-胜人一筹	sheng Gnin yi Gcêu	10
+胜人一筹	sheng Gnin yi Gceu	10
 胜人一筹	sheng Gnin yi chou	10
-胜人一筹	sheng ren Gyit Gcêu	10
+胜人一筹	sheng ren Gyit Gceu	10
 胜人一筹	sheng ren Gyit chou	10
-胜人一筹	sheng ren yi Gcêu	10
+胜人一筹	sheng ren yi Gceu	10
 胜人一筹	sheng ren yi chou	10
 胜仗	Gsen Gcong	304
 胜仗	Gsen zhang	304
@@ -562080,13 +562080,13 @@ use_preset_vocabulary: false
 胳膊	Ggok bo	1249
 胳膊	ge Gbok	1249
 胳膊	ge bo	1249
-胳膊肘	Ggok Gbok Gzêu	37
+胳膊肘	Ggok Gbok Gzeu	37
 胳膊肘	Ggok Gbok zhou	37
-胳膊肘	Ggok bo Gzêu	37
+胳膊肘	Ggok bo Gzeu	37
 胳膊肘	Ggok bo zhou	37
-胳膊肘	ge Gbok Gzêu	37
+胳膊肘	ge Gbok Gzeu	37
 胳膊肘	ge Gbok zhou	37
-胳膊肘	ge bo Gzêu	37
+胳膊肘	ge bo Gzeu	37
 胳膊肘	ge bo zhou	37
 胳臂	Ggok Gbi	114
 胳臂	Ggok bei	114
@@ -568330,9 +568330,9 @@ use_preset_vocabulary: false
 自立门户	zi li Gmen Gfu	33
 自立门户	zi li Gmen hu	33
 自立门户	zi li men hu	33
-自筹	Gcï Gcêu	115
+自筹	Gcï Gceu	115
 自筹	Gcï chou	115
-自筹	zi Gcêu	115
+自筹	zi Gceu	115
 自筹	zi chou	115
 自给	Gcï Ggêi	517
 自给	Gcï ji	517
@@ -577919,7 +577919,7 @@ use_preset_vocabulary: false
 范甘迪	Gfan gan Gdit	15
 范甘迪	Gfan gan di	15
 范甘迪	fan gan di	15
-范畴	Gfan Gcêu	925
+范畴	Gfan Gceu	925
 范畴	Gfan chou	925
 范畴	fan chou	925
 范登堡	Gfan Gdên Gbau	35
@@ -578273,10 +578273,10 @@ use_preset_vocabulary: false
 茧子	Gjiên zi	17
 茧子	jian Gzï	17
 茧子	jian zi	17
-茧绸	Gjiên Gcêu	15
+茧绸	Gjiên Gceu	15
 茧绸	Gjiên Gqiu	15
 茧绸	Gjiên chou	15
-茧绸	jian Gcêu	15
+茧绸	jian Gceu	15
 茧绸	jian chou	15
 茨	Gcï	71866
 茨	ci	71866
@@ -580027,7 +580027,7 @@ use_preset_vocabulary: false
 荬	Gmai	73861
 荭	Gfung	10818
 荭	hong	10818
-荮	Gcêu	5404
+荮	Gceu	5404
 荮	Gqiu	4307
 荮	zhou	5404
 药	Gyok	120000
@@ -582134,7 +582134,7 @@ use_preset_vocabulary: false
 菖蒲	Gcong Gpu	29
 菖蒲	chang Gpu	29
 菖蒲	chang pu	29
-菗	Gcêu	5944
+菗	Gceu	5944
 菗	Gqiu	4859
 菗	chou	5944
 菘	Gsung	79971
@@ -583324,14 +583324,14 @@ use_preset_vocabulary: false
 萧思温	xiao Gsï wen	7
 萧思温	xiao si Gwun	7
 萧思温	xiao si wen	7
-萧文寿	Gxiêu Gwun Gsêu	18
+萧文寿	Gxiêu Gwun Gseu	18
 萧文寿	Gxiêu Gwun Gxiu	18
 萧文寿	Gxiêu Gwun shou	18
-萧文寿	Gxiêu wen Gsêu	18
+萧文寿	Gxiêu wen Gseu	18
 萧文寿	Gxiêu wen shou	18
-萧文寿	xiao Gwun Gsêu	18
+萧文寿	xiao Gwun Gseu	18
 萧文寿	xiao Gwun shou	18
-萧文寿	xiao wen Gsêu	18
+萧文寿	xiao wen Gseu	18
 萧文寿	xiao wen shou	18
 萧方智	Gxiêu Gfong Gzï	10
 萧方智	Gxiêu Gfong zhi	10
@@ -585521,14 +585521,14 @@ use_preset_vocabulary: false
 蒋士铨	jiang Gsï quan	10
 蒋士铨	jiang shi Gqyuon	10
 蒋士铨	jiang shi quan	10
-蒋天寿	Gjiong Gtiên Gsêu	8
+蒋天寿	Gjiong Gtiên Gseu	8
 蒋天寿	Gjiong Gtiên Gxiu	8
 蒋天寿	Gjiong Gtiên shou	8
-蒋天寿	Gjiong tian Gsêu	8
+蒋天寿	Gjiong tian Gseu	8
 蒋天寿	Gjiong tian shou	8
-蒋天寿	jiang Gtiên Gsêu	8
+蒋天寿	jiang Gtiên Gseu	8
 蒋天寿	jiang Gtiên shou	8
-蒋天寿	jiang tian Gsêu	8
+蒋天寿	jiang tian Gseu	8
 蒋天寿	jiang tian shou	8
 蒋子龙	Gjiong Gzï Glung	7
 蒋子龙	Gjiong Gzï long	7
@@ -586379,8 +586379,8 @@ use_preset_vocabulary: false
 蒲类海	Gpu Glui Ghai	9
 蒲类海	Gpu lei Ghai	9
 蒲类海	pu lei hai	9
-蒲绶昌	Gpu Gsêu Gcong	130
-蒲绶昌	Gpu Gsêu chang	130
+蒲绶昌	Gpu Gseu Gcong	130
+蒲绶昌	Gpu Gseu chang	130
 蒲绶昌	Gpu shou Gcong	130
 蒲绶昌	Gpu shou chang	130
 蒲绶昌	pu shou chang	130
@@ -586803,15 +586803,15 @@ use_preset_vocabulary: false
 蓝答儿	Glan da Geo	8
 蓝答儿	Glan da er	8
 蓝答儿	lan da er	8
-蓝筹	Glan Gcêu	75
+蓝筹	Glan Gceu	75
 蓝筹	Glan chou	75
 蓝筹	lan chou	75
-蓝筹权	Glan Gcêu Gqyuon	14
-蓝筹权	Glan Gcêu quan	14
+蓝筹权	Glan Gceu Gqyuon	14
+蓝筹权	Glan Gceu quan	14
 蓝筹权	Glan chou Gqyuon	14
 蓝筹权	Glan chou quan	14
 蓝筹权	lan chou quan	14
-蓝筹股	Glan Gcêu Ggu	37
+蓝筹股	Glan Gceu Ggu	37
 蓝筹股	Glan chou Ggu	37
 蓝筹股	lan chou gu	37
 蓝紫色	Glan Gzï Gsêt	24
@@ -593819,10 +593819,10 @@ use_preset_vocabulary: false
 衣冠楚楚	Gyi guan chu Gcu	159
 衣冠楚楚	Gyi guan chu chu	159
 衣冠楚楚	yi guan chu chu	159
-衣冠禽兽	Gyi Gguon Gqin Gsêu	9
+衣冠禽兽	Gyi Gguon Gqin Gseu	9
 衣冠禽兽	Gyi Gguon Gqin Gxiu	9
 衣冠禽兽	Gyi Gguon Gqin shou	9
-衣冠禽兽	Gyi guan Gqin Gsêu	9
+衣冠禽兽	Gyi guan Gqin Gseu	9
 衣冠禽兽	Gyi guan Gqin shou	9
 衣冠禽兽	yi guan qin shou	9
 衣原体	Gyi Gyuon Gti	18
@@ -596643,7 +596643,7 @@ use_preset_vocabulary: false
 裫	yuan	4000
 裮	Gcong	4912
 裮	chang	4912
-裯	Gcêu	4731
+裯	Gceu	4731
 裯	chou	4731
 裰	Gdot	75927
 裰	duo	75927
@@ -598290,12 +598290,12 @@ use_preset_vocabulary: false
 西山	Gxi Gsan	498
 西山	Gxi shan	498
 西山	xi shan	498
-西山万寿宫	Gxi Gsan Gwan Gsêu Ggung	100000
+西山万寿宫	Gxi Gsan Gwan Gseu Ggung	100000
 西山万寿宫	Gxi Gsan Gwan Gxiu Ggung	100000
 西山万寿宫	Gxi Gsan Gwan Gxiu gong	100000
 西山万寿宫	Gxi Gsan Gwan shou Ggung	100000
 西山万寿宫	Gxi Gsan Gwan shou gong	100000
-西山万寿宫	Gxi Gsan Wman Gsêu Ggung	100000
+西山万寿宫	Gxi Gsan Wman Gseu Ggung	100000
 西山万寿宫	Gxi Gsan Wman Gxiu Ggung	100000
 西山万寿宫	Gxi shan Gwan Gxiu Ggung	100000
 西山万寿宫	Gxi shan Gwan Gxiu gong	100000
@@ -602120,18 +602120,18 @@ use_preset_vocabulary: false
 觤	Ggui	5484
 觥	Ggun	72432
 觥	gong	72432
-觥筹交错	Ggun Gcêu Ggau Gco	22
-觥筹交错	Ggun Gcêu Ggau cuo	22
-觥筹交错	Ggun Gcêu jiao Gco	22
-觥筹交错	Ggun Gcêu jiao cuo	22
+觥筹交错	Ggun Gceu Ggau Gco	22
+觥筹交错	Ggun Gceu Ggau cuo	22
+觥筹交错	Ggun Gceu jiao Gco	22
+觥筹交错	Ggun Gceu jiao cuo	22
 觥筹交错	Ggun chou Ggau Gco	22
 觥筹交错	Ggun chou Ggau cuo	22
 觥筹交错	Ggun chou jiao Gco	22
 觥筹交错	Ggun chou jiao cuo	22
-觥筹交错	gong Gcêu Ggau Gco	22
-觥筹交错	gong Gcêu Ggau cuo	22
-觥筹交错	gong Gcêu jiao Gco	22
-觥筹交错	gong Gcêu jiao cuo	22
+觥筹交错	gong Gceu Ggau Gco	22
+觥筹交错	gong Gceu Ggau cuo	22
+觥筹交错	gong Gceu jiao Gco	22
+觥筹交错	gong Gceu jiao cuo	22
 觥筹交错	gong chou Ggau Gco	22
 觥筹交错	gong chou Ggau cuo	22
 觥筹交错	gong chou jiao Gco	22
@@ -605180,10 +605180,10 @@ use_preset_vocabulary: false
 讲情面	jiang Gqin mian	8
 讲情面	jiang qing Gmiên	8
 讲情面	jiang qing mian	8
-讲授	Ggong Gsêu	359
+讲授	Ggong Gseu	359
 讲授	Ggong Gxiu	359
 讲授	Ggong shou	359
-讲授	jiang Gsêu	359
+讲授	jiang Gseu	359
 讲授	jiang shou	359
 讲排场	Ggong Gpai Gcong	17
 讲排场	Ggong Gpai chang	17
@@ -607025,7 +607025,7 @@ use_preset_vocabulary: false
 评阅	ping Gyuot	11
 评阅	ping yue	11
 诅	Gzu	73072
-诅咒	Gzu Gzêu	263
+诅咒	Gzu Gzeu	263
 诅咒	Gzu zhou	263
 诅咒	zu zhou	263
 识	Gsïk	100000
@@ -608968,7 +608968,7 @@ use_preset_vocabulary: false
 诩	Gxyu	79908
 诩	xu	79908
 诪	Gjiu	4353
-诪	Gzêu	5790
+诪	Gzeu	5790
 诪	zhou	5790
 诫	Ggai	102865
 诫	jie	102865
@@ -612645,12 +612645,12 @@ use_preset_vocabulary: false
 谠	dang	75158
 谡	Gsuk	71519
 谡	su	71519
+谢	Gha	170000
 谢	Gqia	170000
 谢	Gxia	170000
 谢	xie	170000
-谢三哥	Gxia Gsan Ggo	21
-谢三哥	Gxia Gsan ge	21
-谢三哥	Wqia Gsan Ggo	21
+谢三哥	Gha Gsan Ggo	21
+谢三哥	Gha Gsan ge	21
 谢三哥	xie Gsan Ggo	21
 谢三哥	xie Gsan ge	21
 谢三哥	xie san ge	21
@@ -612661,46 +612661,40 @@ use_preset_vocabulary: false
 谢世	Wqia Gxi	51
 谢世	xie Gxi	51
 谢世	xie shi	51
-谢世杰	Gxia Gsï Gqiêt	10
-谢世杰	Gxia Gxi Gqiêt	10
-谢世杰	Gxia Gxi jie	10
-谢世杰	Gxia shi Gqiêt	10
-谢世杰	Gxia shi jie	10
-谢世杰	Wqia Gsï Gqiêt	10
-谢世杰	Wqia Gxi Gqiêt	10
+谢世杰	Gha Gsï Gqiêt	10
+谢世杰	Gha Gxi Gqiêt	10
+谢世杰	Gha Gxi jie	10
+谢世杰	Gha shi Gqiêt	10
+谢世杰	Gha shi jie	10
 谢世杰	xie Gxi Gqiêt	10
 谢世杰	xie Gxi jie	10
 谢世杰	xie shi Gqiêt	10
 谢世杰	xie shi jie	10
-谢中博	Gxia Gzung Gbok	10
-谢中博	Gxia Gzung bo	10
-谢中博	Gxia zhong Gbok	10
-谢中博	Gxia zhong bo	10
-谢中博	Wqia Gzung Gbok	10
+谢中博	Gha Gzung Gbok	10
+谢中博	Gha Gzung bo	10
+谢中博	Gha zhong Gbok	10
+谢中博	Gha zhong bo	10
 谢中博	xie Gzung Gbok	10
 谢中博	xie Gzung bo	10
 谢中博	xie zhong Gbok	10
 谢中博	xie zhong bo	10
-谢中堂	Gxia Gzung Gtong	7
-谢中堂	Gxia Gzung tang	7
-谢中堂	Gxia zhong Gtong	7
-谢中堂	Gxia zhong tang	7
-谢中堂	Wqia Gzung Gtong	7
+谢中堂	Gha Gzung Gtong	7
+谢中堂	Gha Gzung tang	7
+谢中堂	Gha zhong Gtong	7
+谢中堂	Gha zhong tang	7
 谢中堂	xie Gzung Gtong	7
 谢中堂	xie Gzung tang	7
 谢中堂	xie zhong Gtong	7
 谢中堂	xie zhong tang	7
-谢丹阳	Gxia Gdan Gyong	256
-谢丹阳	Gxia Gdan yang	256
-谢丹阳	Wqia Gdan Gyong	256
+谢丹阳	Gha Gdan Gyong	256
+谢丹阳	Gha Gdan yang	256
 谢丹阳	xie Gdan Gyong	256
 谢丹阳	xie Gdan yang	256
 谢丹阳	xie dan yang	256
-谢之光	Gxia Gzï Gguong	7
-谢之光	Gxia Gzï guang	7
-谢之光	Gxia zhi Gguong	7
-谢之光	Gxia zhi guang	7
-谢之光	Wqia Gzï Gguong	7
+谢之光	Gha Gzï Gguong	7
+谢之光	Gha Gzï guang	7
+谢之光	Gha zhi Gguong	7
+谢之光	Gha zhi guang	7
 谢之光	xie Gzï Gguong	7
 谢之光	xie Gzï guang	7
 谢之光	xie zhi Gguong	7
@@ -612711,48 +612705,41 @@ use_preset_vocabulary: false
 谢了恩	xie Gle Gngiên	22
 谢了恩	xie Gle en	22
 谢了恩	xie le en	22
-谢亚龙	Gxia Gnga Glung	44
-谢亚龙	Gxia Gnga long	44
-谢亚龙	Gxia ya Glung	44
-谢亚龙	Gxia ya long	44
-谢亚龙	Wqia Gnga Glung	44
+谢亚龙	Gha Gnga Glung	44
+谢亚龙	Gha Gnga long	44
+谢亚龙	Gha ya Glung	44
+谢亚龙	Gha ya long	44
 谢亚龙	xie Gnga Glung	44
 谢亚龙	xie Gnga long	44
 谢亚龙	xie ya Glung	44
 谢亚龙	xie ya long	44
-谢企华	Gxia Gqi Gfa	13
-谢企华	Gxia Gqi hua	13
-谢企华	Wqia Gqi Gfa	13
+谢企华	Gha Gqi Gfa	13
+谢企华	Gha Gqi hua	13
 谢企华	xie Gqi Gfa	13
 谢企华	xie Gqi hua	13
 谢企华	xie qi hua	13
-谢伏瞻	Gxia Gfuk Gzên	257
-谢伏瞻	Gxia Gfuk zhan	257
-谢伏瞻	Gxia Wpuk Gzên	257
-谢伏瞻	Gxia fu Gzên	257
-谢伏瞻	Gxia fu zhan	257
-谢伏瞻	Wqia Gfuk Gzên	257
-谢伏瞻	Wqia Wpuk Gzên	257
+谢伏瞻	Gha Gfuk Gzên	257
+谢伏瞻	Gha Gfuk zhan	257
+谢伏瞻	Gha Wpuk Gzên	257
+谢伏瞻	Gha fu Gzên	257
+谢伏瞻	Gha fu zhan	257
 谢伏瞻	xie Gfuk Gzên	257
 谢伏瞻	xie Gfuk zhan	257
 谢伏瞻	xie fu Gzên	257
 谢伏瞻	xie fu zhan	257
-谢佑卿	Gxia Gyiu Gqin	257
-谢佑卿	Gxia Gyiu qing	257
-谢佑卿	Gxia you Gqin	257
-谢佑卿	Gxia you qing	257
-谢佑卿	Wqia Gyiu Gqin	257
+谢佑卿	Gha Gyiu Gqin	257
+谢佑卿	Gha Gyiu qing	257
+谢佑卿	Gha you Gqin	257
+谢佑卿	Gha you qing	257
 谢佑卿	xie Gyiu Gqin	257
 谢佑卿	xie Gyiu qing	257
 谢佑卿	xie you Gqin	257
 谢佑卿	xie you qing	257
-谢先生	Gxia Gxiên Gsên	15
-谢先生	Gxia Gxiên Wsang	15
-谢先生	Gxia Gxiên sheng	15
-谢先生	Gxia xian Gsên	15
-谢先生	Gxia xian sheng	15
-谢先生	Wqia Gxiên Gsên	15
-谢先生	Wqia Gxiên Wsang	15
+谢先生	Gha Gxiên Gsên	15
+谢先生	Gha Gxiên Wsang	15
+谢先生	Gha Gxiên sheng	15
+谢先生	Gha xian Gsên	15
+谢先生	Gha xian sheng	15
 谢先生	xie Gxiên Gsên	15
 谢先生	xie Gxiên sheng	15
 谢先生	xie xian Gsên	15
@@ -612766,29 +612753,26 @@ use_preset_vocabulary: false
 谢克尔	xie Gkiêt er	7
 谢克尔	xie ke Geo	7
 谢克尔	xie ke er	7
-谢兴国	Gxia Gxin Gguêt	36
-谢兴国	Gxia Gxin guo	36
-谢兴国	Gxia xing Gguêt	36
-谢兴国	Gxia xing guo	36
-谢兴国	Wqia Gxin Gguêt	36
+谢兴国	Gha Gxin Gguêt	36
+谢兴国	Gha Gxin guo	36
+谢兴国	Gha xing Gguêt	36
+谢兴国	Gha xing guo	36
 谢兴国	xie Gxin Gguêt	36
 谢兴国	xie Gxin guo	36
 谢兴国	xie xing Gguêt	36
 谢兴国	xie xing guo	36
-谢国忠	Gxia Gguêt Gzung	5009
-谢国忠	Gxia Gguêt zhong	5009
-谢国忠	Gxia guo Gzung	5009
-谢国忠	Gxia guo zhong	5009
-谢国忠	Wqia Gguêt Gzung	5009
+谢国忠	Gha Gguêt Gzung	5009
+谢国忠	Gha Gguêt zhong	5009
+谢国忠	Gha guo Gzung	5009
+谢国忠	Gha guo zhong	5009
 谢国忠	xie Gguêt Gzung	5009
 谢国忠	xie Gguêt zhong	5009
 谢国忠	xie guo Gzung	5009
 谢国忠	xie guo zhong	5009
-谢国桢	Gxia Gguêt Gzen	7
-谢国桢	Gxia Gguêt zhen	7
-谢国桢	Gxia guo Gzen	7
-谢国桢	Gxia guo zhen	7
-谢国桢	Wqia Gguêt Gzen	7
+谢国桢	Gha Gguêt Gzen	7
+谢国桢	Gha Gguêt zhen	7
+谢国桢	Gha guo Gzen	7
+谢国桢	Gha guo zhen	7
 谢国桢	xie Gguêt Gzen	7
 谢国桢	xie Gguêt zhen	7
 谢国桢	xie guo Gzen	7
@@ -612804,11 +612788,10 @@ use_preset_vocabulary: false
 谢多夫	xie Gdo Gfu	10
 谢多夫	xie duo Gfu	10
 谢多夫	xie duo fu	10
-谢大侠	Gxia Gtai Ghat	61
-谢大侠	Gxia Gtai xia	61
-谢大侠	Gxia da Ghat	61
-谢大侠	Gxia da xia	61
-谢大侠	Wqia Gtai Ghat	61
+谢大侠	Gha Gtai Ghat	61
+谢大侠	Gha Gtai xia	61
+谢大侠	Gha da Ghat	61
+谢大侠	Gha da xia	61
 谢大侠	xie Gtai Ghat	61
 谢大侠	xie Gtai xia	61
 谢大侠	xie da Ghat	61
@@ -612832,9 +612815,8 @@ use_preset_vocabulary: false
 谢天谢地	xie tian Gxia di	171
 谢天谢地	xie tian xie Gti	171
 谢天谢地	xie tian xie di	171
-谢太后	Gxia Gtai Ghêu	29
-谢太后	Gxia Gtai hou	29
-谢太后	Wqia Gtai Ghêu	29
+谢太后	Gha Gtai Ghêu	29
+谢太后	Gha Gtai hou	29
 谢太后	xie Gtai Ghêu	29
 谢太后	xie Gtai hou	29
 谢太后	xie tai hou	29
@@ -612873,6 +612855,11 @@ use_preset_vocabulary: false
 谢家小子	xie jia Gxiêu zi	18
 谢家小子	xie jia xiao Gzï	18
 谢家小子	xie jia xiao zi	18
+谢家村	Gha Gga Gcun	10
+谢家村	Gha jia Gcun	10
+谢家村	xie Gga Gcun	10
+谢家村	xie jia Gcun	10
+谢家村	xie jia cun	10
 谢家骥	Gxia Gga Gji	23
 谢家骥	Gxia jia Gji	23
 谢家骥	Wqia Gga Gji	23
@@ -612888,9 +612875,8 @@ use_preset_vocabulary: false
 谢家骧	xie Gga xiang	9
 谢家骧	xie jia Gxiong	9
 谢家骧	xie jia xiang	9
-谢富治	Gxia Gfu Gzïk	314
-谢富治	Gxia Gfu zhi	314
-谢富治	Wqia Gfu Gzïk	314
+谢富治	Gha Gfu Gzïk	314
+谢富治	Gha Gfu zhi	314
 谢富治	xie Gfu Gzïk	314
 谢富治	xie Gfu zhi	314
 谢富治	xie fu zhi	314
@@ -612918,27 +612904,24 @@ use_preset_vocabulary: false
 谢尔盖	xie Geo Ggai	34
 谢尔盖	xie er Ggai	34
 谢尔盖	xie er gai	34
-谢尚政	Gxia Gsong Gzen	13
-谢尚政	Gxia Gsong zheng	13
-谢尚政	Gxia shang Gzen	13
-谢尚政	Gxia shang zheng	13
-谢尚政	Wqia Gsong Gzen	13
+谢尚政	Gha Gsong Gzen	13
+谢尚政	Gha Gsong zheng	13
+谢尚政	Gha shang Gzen	13
+谢尚政	Gha shang zheng	13
 谢尚政	xie Gsong Gzen	13
 谢尚政	xie Gsong zheng	13
 谢尚政	xie shang Gzen	13
 谢尚政	xie shang zheng	13
-谢居士	Gxia Gjyu Gsï	13
-谢居士	Gxia Gjyu shi	13
-谢居士	Gxia ju Gsï	13
-谢居士	Gxia ju shi	13
-谢居士	Wqia Gjyu Gsï	13
+谢居士	Gha Gjyu Gsï	13
+谢居士	Gha Gjyu shi	13
+谢居士	Gha ju Gsï	13
+谢居士	Gha ju shi	13
 谢居士	xie Gjyu Gsï	13
 谢居士	xie Gjyu shi	13
 谢居士	xie ju Gsï	13
 谢居士	xie ju shi	13
-谢希德	Gxia Gxi Gdêt	10
-谢希德	Gxia Gxi de	10
-谢希德	Wqia Gxi Gdêt	10
+谢希德	Gha Gxi Gdêt	10
+谢希德	Gha Gxi de	10
 谢希德	xie Gxi Gdêt	10
 谢希德	xie Gxi de	10
 谢希德	xie xi de	10
@@ -612974,16 +612957,14 @@ use_preset_vocabulary: false
 谢拉	Wqia Gla	8
 谢拉	xie Gla	8
 谢拉	xie la	8
-谢持	Gxia Gcï	12
-谢持	Gxia chi	12
-谢持	Wqia Gcï	12
+谢持	Gha Gcï	12
+谢持	Gha chi	12
 谢持	xie Gcï	12
 谢持	xie chi	12
-谢方立	Gxia Gfong Glit	12
-谢方立	Gxia Gfong li	12
-谢方立	Gxia fang Glit	12
-谢方立	Gxia fang li	12
-谢方立	Wqia Gfong Glit	12
+谢方立	Gha Gfong Glit	12
+谢方立	Gha Gfong li	12
+谢方立	Gha fang Glit	12
+谢方立	Gha fang li	12
 谢方立	xie Gfong Glit	12
 谢方立	xie Gfong li	12
 谢方立	xie fang Glit	12
@@ -612992,47 +612973,40 @@ use_preset_vocabulary: false
 谢普苏	Wqia Gpu Gsu	17
 谢普苏	xie Gpu Gsu	17
 谢普苏	xie pu su	17
-谢景新	Gxia Gjin Gxin	113
-谢景新	Gxia jing Gxin	113
-谢景新	Wqia Gjin Gxin	113
+谢景新	Gha Gjin Gxin	113
+谢景新	Gha jing Gxin	113
 谢景新	xie Gjin Gxin	113
 谢景新	xie jing Gxin	113
 谢景新	xie jing xin	113
-谢本义	Gxia Gben Gyi	9
-谢本义	Wqia Gben Gyi	9
+谢本义	Gha Gben Gyi	9
 谢本义	xie Gben Gyi	9
 谢本义	xie ben yi	9
-谢杏芳	Gxia Gxin Gfong	252
-谢杏芳	Gxia Gxin fang	252
-谢杏芳	Gxia xing Gfong	252
-谢杏芳	Gxia xing fang	252
-谢杏芳	Wqia Gxin Gfong	252
+谢杏芳	Gha Gxin Gfong	252
+谢杏芳	Gha Gxin fang	252
+谢杏芳	Gha xing Gfong	252
+谢杏芳	Gha xing fang	252
 谢杏芳	xie Gxin Gfong	252
 谢杏芳	xie Gxin fang	252
 谢杏芳	xie xing Gfong	252
 谢杏芳	xie xing fang	252
-谢林汉	Gxia Glin Ghon	9
-谢林汉	Gxia Glin han	9
-谢林汉	Wqia Glin Ghon	9
+谢林汉	Gha Glin Ghon	9
+谢林汉	Gha Glin han	9
 谢林汉	xie Glin Ghon	9
 谢林汉	xie Glin han	9
 谢林汉	xie lin han	9
-谢树仁	Gxia Gsu Glen	17
-谢树仁	Gxia Gsu Wnin	17
-谢树仁	Gxia Gsu ren	17
-谢树仁	Gxia shu Glen	17
-谢树仁	Gxia shu ren	17
-谢树仁	Wqia Gsu Glen	17
-谢树仁	Wqia Gsu Wnin	17
+谢树仁	Gha Gsu Glen	17
+谢树仁	Gha Gsu Wnin	17
+谢树仁	Gha Gsu ren	17
+谢树仁	Gha shu Glen	17
+谢树仁	Gha shu ren	17
 谢树仁	xie Gsu Glen	17
 谢树仁	xie Gsu ren	17
 谢树仁	xie shu Glen	17
 谢树仁	xie shu ren	17
-谢法王	Gxia Gfat Gwong	10
-谢法王	Gxia Gfat wang	10
-谢法王	Gxia fa Gwong	10
-谢法王	Gxia fa wang	10
-谢法王	Wqia Gfat Gwong	10
+谢法王	Gha Gfat Gwong	10
+谢法王	Gha Gfat wang	10
+谢法王	Gha fa Gwong	10
+谢法王	Gha fa wang	10
 谢法王	xie Gfat Gwong	10
 谢法王	xie Gfat wang	10
 谢法王	xie fa Gwong	10
@@ -613046,20 +613020,17 @@ use_preset_vocabulary: false
 谢泼德	xie Gpot de	8
 谢泼德	xie po Gdêt	8
 谢泼德	xie po de	8
-谢清斋	Gxia Gqin Gzai	121
-谢清斋	Gxia Gqin zhai	121
-谢清斋	Gxia Wqiang Gzai	121
-谢清斋	Gxia qing Gzai	121
-谢清斋	Gxia qing zhai	121
-谢清斋	Wqia Gqin Gzai	121
-谢清斋	Wqia Wqiang Gzai	121
+谢清斋	Gha Gqin Gzai	121
+谢清斋	Gha Gqin zhai	121
+谢清斋	Gha Wqiang Gzai	121
+谢清斋	Gha qing Gzai	121
+谢清斋	Gha qing zhai	121
 谢清斋	xie Gqin Gzai	121
 谢清斋	xie Gqin zhai	121
 谢清斋	xie qing Gzai	121
 谢清斋	xie qing zhai	121
-谢灵运	Gxia Glin Gyun	39
-谢灵运	Gxia ling Gyun	39
-谢灵运	Wqia Glin Gyun	39
+谢灵运	Gha Glin Gyun	39
+谢灵运	Gha ling Gyun	39
 谢灵运	xie Glin Gyun	39
 谢灵运	xie ling Gyun	39
 谢灵运	xie ling yun	39
@@ -613069,31 +613040,27 @@ use_preset_vocabulary: false
 谢灵顿	xie Glin Gdun	9
 谢灵顿	xie ling Gdun	9
 谢灵顿	xie ling dun	9
-谢烟客	Gxia Gyên Gkak	315
-谢烟客	Gxia Gyên Wkiêt	315
-谢烟客	Gxia Gyên ke	315
-谢烟客	Gxia yan Gkak	315
-谢烟客	Gxia yan ke	315
-谢烟客	Wqia Gyên Gkak	315
-谢烟客	Wqia Gyên Wkiêt	315
+谢烟客	Gha Gyên Gkak	315
+谢烟客	Gha Gyên Wkiêt	315
+谢烟客	Gha Gyên ke	315
+谢烟客	Gha yan Gkak	315
+谢烟客	Gha yan ke	315
 谢烟客	xie Gyên Gkak	315
 谢烟客	xie Gyên ke	315
 谢烟客	xie yan Gkak	315
 谢烟客	xie yan ke	315
-谢爱光	Gxia Gngai Gguong	25104
-谢爱光	Gxia Gngai guang	25104
-谢爱光	Gxia ai Gguong	25104
-谢爱光	Gxia ai guang	25104
-谢爱光	Wqia Gngai Gguong	25104
+谢爱光	Gha Gngai Gguong	25104
+谢爱光	Gha Gngai guang	25104
+谢爱光	Gha ai Gguong	25104
+谢爱光	Gha ai guang	25104
 谢爱光	xie Gngai Gguong	25104
 谢爱光	xie Gngai guang	25104
 谢爱光	xie ai Gguong	25104
 谢爱光	xie ai guang	25104
-谢狮王	Gxia Gsï Gwong	11
-谢狮王	Gxia Gsï wang	11
-谢狮王	Gxia shi Gwong	11
-谢狮王	Gxia shi wang	11
-谢狮王	Wqia Gsï Gwong	11
+谢狮王	Gha Gsï Gwong	11
+谢狮王	Gha Gsï wang	11
+谢狮王	Gha shi Gwong	11
+谢狮王	Gha shi wang	11
 谢狮王	xie Gsï Gwong	11
 谢狮王	xie Gsï wang	11
 谢狮王	xie shi Gwong	11
@@ -613147,18 +613114,16 @@ use_preset_vocabulary: false
 谢礼	Wqia Gli	19
 谢礼	xie Gli	19
 谢礼	xie li	19
-谢福畴	Gxia Gfuk Gcêu	12
-谢福畴	Gxia Gfuk chou	12
-谢福畴	Gxia fu Gcêu	12
-谢福畴	Gxia fu chou	12
-谢福畴	Wqia Gfuk Gcêu	12
-谢福畴	xie Gfuk Gcêu	12
+谢福畴	Gha Gfuk Gceu	12
+谢福畴	Gha Gfuk chou	12
+谢福畴	Gha fu Gceu	12
+谢福畴	Gha fu chou	12
+谢福畴	xie Gfuk Gceu	12
 谢福畴	xie Gfuk chou	12
-谢福畴	xie fu Gcêu	12
+谢福畴	xie fu Gceu	12
 谢福畴	xie fu chou	12
-谢秋思	Gxia Gqiu Gsï	132
-谢秋思	Gxia Gqiu si	132
-谢秋思	Wqia Gqiu Gsï	132
+谢秋思	Gha Gqiu Gsï	132
+谢秋思	Gha Gqiu si	132
 谢秋思	xie Gqiu Gsï	132
 谢秋思	xie Gqiu si	132
 谢秋思	xie qiu si	132
@@ -613194,13 +613159,11 @@ use_preset_vocabulary: false
 谢苗诺夫	xie miao Glok Gfu	11
 谢苗诺夫	xie miao nuo Gfu	11
 谢苗诺夫	xie miao nuo fu	11
-谢若萍	Gxia Glok Gpin	215
-谢若萍	Gxia Glok Wpiang	215
-谢若萍	Gxia Glok ping	215
-谢若萍	Gxia ruo Gpin	215
-谢若萍	Gxia ruo ping	215
-谢若萍	Wqia Glok Gpin	215
-谢若萍	Wqia Glok Wpiang	215
+谢若萍	Gha Glok Gpin	215
+谢若萍	Gha Glok Wpiang	215
+谢若萍	Gha Glok ping	215
+谢若萍	Gha ruo Gpin	215
+谢若萍	Gha ruo ping	215
 谢若萍	xie Glok Gpin	215
 谢若萍	xie Glok ping	215
 谢若萍	xie ruo Gpin	215
@@ -613231,11 +613194,10 @@ use_preset_vocabulary: false
 谢菲联	xie Gfui lian	19
 谢菲联	xie fei Gliên	19
 谢菲联	xie fei lian	19
-谢虎臣	Gxia Gfu Gcen	8
-谢虎臣	Gxia Gfu chen	8
-谢虎臣	Gxia hu Gcen	8
-谢虎臣	Gxia hu chen	8
-谢虎臣	Wqia Gfu Gcen	8
+谢虎臣	Gha Gfu Gcen	8
+谢虎臣	Gha Gfu chen	8
+谢虎臣	Gha hu Gcen	8
+谢虎臣	Gha hu chen	8
 谢虎臣	xie Gfu Gcen	8
 谢虎臣	xie Gfu chen	8
 谢虎臣	xie hu Gcen	8
@@ -613264,11 +613226,10 @@ use_preset_vocabulary: false
 谢逊叹	xie Gsun Gtan	16
 谢逊叹	xie xun Gtan	16
 谢逊叹	xie xun tan	16
-谢逊忽	Gxia Gsun Gfuk	8
-谢逊忽	Gxia Gsun hu	8
-谢逊忽	Gxia xun Gfuk	8
-谢逊忽	Gxia xun hu	8
-谢逊忽	Wqia Gsun Gfuk	8
+谢逊忽	Gha Gsun Gfuk	8
+谢逊忽	Gha Gsun hu	8
+谢逊忽	Gha xun Gfuk	8
+谢逊忽	Gha xun hu	8
 谢逊忽	xie Gsun Gfuk	8
 谢逊忽	xie Gsun hu	8
 谢逊忽	xie xun Gfuk	8
@@ -613302,11 +613263,10 @@ use_preset_vocabulary: false
 谢里曼	xie Gli Gmon	9
 谢里曼	xie Gli man	9
 谢里曼	xie li man	9
-谢长廷	Gxia Gcong Gtin	28
-谢长廷	Gxia Gcong ting	28
-谢长廷	Gxia zhang Gtin	28
-谢长廷	Gxia zhang ting	28
-谢长廷	Wqia Gcong Gtin	28
+谢长廷	Gha Gcong Gtin	28
+谢长廷	Gha Gcong ting	28
+谢长廷	Gha zhang Gtin	28
+谢长廷	Gha zhang ting	28
 谢长廷	xie Gcong Gtin	28
 谢长廷	xie Gcong ting	28
 谢长廷	xie zhang Gtin	28
@@ -613318,11 +613278,10 @@ use_preset_vocabulary: false
 谢顶	Wqia Wdiang	20
 谢顶	xie Gdin	20
 谢顶	xie ding	20
-谢香斋	Gxia Gxiong Gzai	18
-谢香斋	Gxia Gxiong zhai	18
-谢香斋	Gxia xiang Gzai	18
-谢香斋	Gxia xiang zhai	18
-谢香斋	Wqia Gxiong Gzai	18
+谢香斋	Gha Gxiong Gzai	18
+谢香斋	Gha Gxiong zhai	18
+谢香斋	Gha xiang Gzai	18
+谢香斋	Gha xiang zhai	18
 谢香斋	xie Gxiong Gzai	18
 谢香斋	xie Gxiong zhai	18
 谢香斋	xie xiang Gzai	18
@@ -617890,7 +617849,7 @@ use_preset_vocabulary: false
 贵省	Ggui Wsang	8
 贵省	Ggui sheng	8
 贵省	gui sheng	8
-贵胄	Ggui Gcêu	141
+贵胄	Ggui Gceu	141
 贵胄	Ggui zhou	141
 贵胄	gui zhou	141
 贵航	Ggui Ghong	18
@@ -619807,13 +619766,13 @@ use_preset_vocabulary: false
 赌博	Gdu Gbok	5610
 赌博	Gdu bo	5610
 赌博	du bo	5610
-赌咒	Gdu Gzêu	34
+赌咒	Gdu Gzeu	34
 赌咒	Gdu zhou	34
 赌咒	du zhou	34
-赌咒发誓	Gdu Gzêu Gfat Gsï	36
-赌咒发誓	Gdu Gzêu Gfat shi	36
-赌咒发誓	Gdu Gzêu fa Gsï	36
-赌咒发誓	Gdu Gzêu fa shi	36
+赌咒发誓	Gdu Gzeu Gfat Gsï	36
+赌咒发誓	Gdu Gzeu Gfat shi	36
+赌咒发誓	Gdu Gzeu fa Gsï	36
+赌咒发誓	Gdu Gzeu fa shi	36
 赌咒发誓	Gdu zhou Gfat Gsï	36
 赌咒发誓	Gdu zhou Gfat shi	36
 赌咒发誓	Gdu zhou fa Gsï	36
@@ -619979,7 +619938,7 @@ use_preset_vocabulary: false
 赐福	ci fu	33
 赑	Gpi	11557
 赑	bi	11557
-赒	Gzêu	100000
+赒	Gzeu	100000
 赒	zhou	100000
 赓	Ggiên	70495
 赓	geng	70495
@@ -621560,10 +621519,10 @@ use_preset_vocabulary: false
 走入	Gzêu ru	335
 走入	zou Gluk	335
 走入	zou ru	335
-走兽	Gzêu Gsêu	316
+走兽	Gzêu Gseu	316
 走兽	Gzêu Gxiu	316
 走兽	Gzêu shou	316
-走兽	zou Gsêu	316
+走兽	zou Gseu	316
 走兽	zou shou	316
 走出	Gzêu Gcuk	3073
 走出	Gzêu chu	3073
@@ -622157,14 +622116,14 @@ use_preset_vocabulary: false
 赵本山	zhao Gben Gsan	80
 赵本山	zhao Gben shan	80
 赵本山	zhao ben shan	80
-赵松寿	Gcêu Gsung Gsêu	64
+赵松寿	Gcêu Gsung Gseu	64
 赵松寿	Gcêu Gsung Gxiu	64
 赵松寿	Gcêu Gsung shou	64
-赵松寿	Gcêu song Gsêu	64
+赵松寿	Gcêu song Gseu	64
 赵松寿	Gcêu song shou	64
-赵松寿	zhao Gsung Gsêu	64
+赵松寿	zhao Gsung Gseu	64
 赵松寿	zhao Gsung shou	64
-赵松寿	zhao song Gsêu	64
+赵松寿	zhao song Gseu	64
 赵松寿	zhao song shou	64
 赵构	Gcêu Ggiêu	30
 赵构	Gcêu gou	30
@@ -625443,20 +625402,20 @@ use_preset_vocabulary: false
 踊跃	Gyung yue	252
 踊跃	yong Gyok	252
 踊跃	yong yue	252
-踌	Gcêu	78211
+踌	Gceu	78211
 踌	chou	78211
-踌躇	Gcêu Gqyu	518
-踌躇	Gcêu chu	518
+踌躇	Gceu Gqyu	518
+踌躇	Gceu chu	518
 踌躇	chou Gqyu	518
 踌躇	chou chu	518
-踌躇不决	Gcêu Gqyu Gbet Gjyuot	9
-踌躇不决	Gcêu Gqyu Gbet jue	9
-踌躇不决	Gcêu Gqyu bu Gjyuot	9
-踌躇不决	Gcêu Gqyu bu jue	9
-踌躇不决	Gcêu chu Gbet Gjyuot	9
-踌躇不决	Gcêu chu Gbet jue	9
-踌躇不决	Gcêu chu bu Gjyuot	9
-踌躇不决	Gcêu chu bu jue	9
+踌躇不决	Gceu Gqyu Gbet Gjyuot	9
+踌躇不决	Gceu Gqyu Gbet jue	9
+踌躇不决	Gceu Gqyu bu Gjyuot	9
+踌躇不决	Gceu Gqyu bu jue	9
+踌躇不决	Gceu chu Gbet Gjyuot	9
+踌躇不决	Gceu chu Gbet jue	9
+踌躇不决	Gceu chu bu Gjyuot	9
+踌躇不决	Gceu chu bu jue	9
 踌躇不决	chou Gqyu Gbet Gjyuot	9
 踌躇不决	chou Gqyu Gbet jue	9
 踌躇不决	chou Gqyu bu Gjyuot	9
@@ -625465,14 +625424,14 @@ use_preset_vocabulary: false
 踌躇不决	chou chu Gbet jue	9
 踌躇不决	chou chu bu Gjyuot	9
 踌躇不决	chou chu bu jue	9
-踌躇不前	Gcêu Gqyu Gbet Gqiên	8
-踌躇不前	Gcêu Gqyu Gbet qian	8
-踌躇不前	Gcêu Gqyu bu Gqiên	8
-踌躇不前	Gcêu Gqyu bu qian	8
-踌躇不前	Gcêu chu Gbet Gqiên	8
-踌躇不前	Gcêu chu Gbet qian	8
-踌躇不前	Gcêu chu bu Gqiên	8
-踌躇不前	Gcêu chu bu qian	8
+踌躇不前	Gceu Gqyu Gbet Gqiên	8
+踌躇不前	Gceu Gqyu Gbet qian	8
+踌躇不前	Gceu Gqyu bu Gqiên	8
+踌躇不前	Gceu Gqyu bu qian	8
+踌躇不前	Gceu chu Gbet Gqiên	8
+踌躇不前	Gceu chu Gbet qian	8
+踌躇不前	Gceu chu bu Gqiên	8
+踌躇不前	Gceu chu bu qian	8
 踌躇不前	chou Gqyu Gbet Gqiên	8
 踌躇不前	chou Gqyu Gbet qian	8
 踌躇不前	chou Gqyu bu Gqiên	8
@@ -625481,14 +625440,14 @@ use_preset_vocabulary: false
 踌躇不前	chou chu Gbet qian	8
 踌躇不前	chou chu bu Gqiên	8
 踌躇不前	chou chu bu qian	8
-踌躇满志	Gcêu Gqyu Gmon Gzï	91
-踌躇满志	Gcêu Gqyu Gmon zhi	91
-踌躇满志	Gcêu Gqyu man Gzï	91
-踌躇满志	Gcêu Gqyu man zhi	91
-踌躇满志	Gcêu chu Gmon Gzï	91
-踌躇满志	Gcêu chu Gmon zhi	91
-踌躇满志	Gcêu chu man Gzï	91
-踌躇满志	Gcêu chu man zhi	91
+踌躇满志	Gceu Gqyu Gmon Gzï	91
+踌躇满志	Gceu Gqyu Gmon zhi	91
+踌躇满志	Gceu Gqyu man Gzï	91
+踌躇满志	Gceu Gqyu man zhi	91
+踌躇满志	Gceu chu Gmon Gzï	91
+踌躇满志	Gceu chu Gmon zhi	91
+踌躇满志	Gceu chu man Gzï	91
+踌躇满志	Gceu chu man zhi	91
 踌躇满志	chou Gqyu Gmon Gzï	91
 踌躇满志	chou Gqyu Gmon zhi	91
 踌躇满志	chou Gqyu man Gzï	91
@@ -627770,10 +627729,10 @@ use_preset_vocabulary: false
 转告	Gzon gao	174
 转告	zhuan Ggau	174
 转告	zhuan gao	174
-转售	Gzon Gsêu	18
+转售	Gzon Gseu	18
 转售	Gzon Gxiu	18
 转售	Gzon shou	18
-转售	zhuan Gsêu	18
+转售	zhuan Gseu	18
 转售	zhuan shou	18
 转回	Gzon Gfui	25135
 转回	Gzon hui	25135
@@ -627935,10 +627894,10 @@ use_preset_vocabulary: false
 转捩	Gzon lie	9
 转捩	zhuan Gliêt	9
 转捩	zhuan lie	9
-转授	Gzon Gsêu	20
+转授	Gzon Gseu	20
 转授	Gzon Gxiu	20
 转授	Gzon shou	20
-转授	zhuan Gsêu	20
+转授	zhuan Gseu	20
 转授	zhuan shou	20
 转接	Gzon Gjiêt	174
 转接	Gzon jie	174
@@ -629905,7 +629864,7 @@ use_preset_vocabulary: false
 轿车	Gqiêu che	521
 轿车	jiao Gca	521
 轿车	jiao che	521
-辀	Gzêu	15789
+辀	Gzeu	15789
 辀	zhou	15789
 辁	Gcon	10316
 辁	quan	10316
@@ -633504,18 +633463,18 @@ use_preset_vocabulary: false
 运笔	Gyun Gbit	27
 运笔	Gyun bi	27
 运笔	yun bi	27
-运筹	Gyun Gcêu	76
+运筹	Gyun Gceu	76
 运筹	Gyun chou	76
 运筹	yun chou	76
-运筹学	Gyun Gcêu Ghok	72
-运筹学	Gyun Gcêu xue	72
+运筹学	Gyun Gceu Ghok	72
+运筹学	Gyun Gceu xue	72
 运筹学	Gyun chou Ghok	72
 运筹学	Gyun chou xue	72
 运筹学	yun chou xue	72
-运筹帷幄	Gyun Gcêu Gwi Gngok	81
-运筹帷幄	Gyun Gcêu Gwi wo	81
-运筹帷幄	Gyun Gcêu wei Gngok	81
-运筹帷幄	Gyun Gcêu wei wo	81
+运筹帷幄	Gyun Gceu Gwi Gngok	81
+运筹帷幄	Gyun Gceu Gwi wo	81
+运筹帷幄	Gyun Gceu wei Gngok	81
+运筹帷幄	Gyun Gceu wei wo	81
 运筹帷幄	Gyun chou Gwi Gngok	81
 运筹帷幄	Gyun chou Gwi wo	81
 运筹帷幄	Gyun chou wei Gngok	81
@@ -637322,10 +637281,10 @@ use_preset_vocabulary: false
 追捧	Gzui peng	167
 追捧	zhui Gpung	167
 追捧	zhui peng	167
-追授	Gzui Gsêu	32
+追授	Gzui Gseu	32
 追授	Gzui Gxiu	32
 追授	Gzui shou	32
-追授	zhui Gsêu	32
+追授	zhui Gseu	32
 追授	zhui shou	32
 追施	Gzui Gsï	8
 追施	Gzui shi	8
@@ -642790,15 +642749,15 @@ use_preset_vocabulary: false
 邓家岭	deng Gga ling	256
 邓家岭	deng jia Glin	256
 邓家岭	deng jia ling	256
-邓寿鹏	Gtên Gsêu Gpung	10
-邓寿鹏	Gtên Gsêu Wpên	10
-邓寿鹏	Gtên Gsêu peng	10
+邓寿鹏	Gtên Gseu Gpung	10
+邓寿鹏	Gtên Gseu Wpên	10
+邓寿鹏	Gtên Gseu peng	10
 邓寿鹏	Gtên Gxiu Gpung	10
 邓寿鹏	Gtên Gxiu Wpên	10
 邓寿鹏	Gtên shou Gpung	10
 邓寿鹏	Gtên shou peng	10
-邓寿鹏	deng Gsêu Gpung	10
-邓寿鹏	deng Gsêu peng	10
+邓寿鹏	deng Gseu Gpung	10
+邓寿鹏	deng Gseu peng	10
 邓寿鹏	deng shou Gpung	10
 邓寿鹏	deng shou peng	10
 邓小平	Gtên Gxiêu Gpin	4055
@@ -642922,9 +642881,9 @@ use_preset_vocabulary: false
 邓稼先	deng Gga xian	36
 邓稼先	deng jia Gxiên	36
 邓稼先	deng jia xian	36
-邓绶林	Gtên Gsêu Glin	47
+邓绶林	Gtên Gseu Glin	47
 邓绶林	Gtên shou Glin	47
-邓绶林	deng Gsêu Glin	47
+邓绶林	deng Gseu Glin	47
 邓绶林	deng shou Glin	47
 邓绶林	deng shou lin	47
 邓美成	Gtên Gmêi Gcen	35
@@ -645320,16 +645279,16 @@ use_preset_vocabulary: false
 郑士良	zheng Gsï liang	35
 郑士良	zheng shi Gliong	35
 郑士良	zheng shi liang	35
-郑天寿	Gcen Gtiên Gsêu	35
+郑天寿	Gcen Gtiên Gseu	35
 郑天寿	Gcen Gtiên Gxiu	35
 郑天寿	Gcen Gtiên shou	35
-郑天寿	Gcen tian Gsêu	35
+郑天寿	Gcen tian Gseu	35
 郑天寿	Gcen tian shou	35
-郑天寿	Wcang Gtiên Gsêu	35
+郑天寿	Wcang Gtiên Gseu	35
 郑天寿	Wcang Gtiên Gxiu	35
-郑天寿	zheng Gtiên Gsêu	35
+郑天寿	zheng Gtiên Gseu	35
 郑天寿	zheng Gtiên shou	35
-郑天寿	zheng tian Gsêu	35
+郑天寿	zheng tian Gseu	35
 郑天寿	zheng tian shou	35
 郑天挺	Gcen Gtiên Gtin	29
 郑天挺	Gcen Gtiên ting	29
@@ -645856,13 +645815,13 @@ use_preset_vocabulary: false
 郝大通	hao Gtai tong	233
 郝大通	hao da Gtung	233
 郝大通	hao da tong	233
-郝寿臣	Gcet Gsêu Gcen	12
-郝寿臣	Gcet Gsêu chen	12
+郝寿臣	Gcet Gseu Gcen	12
+郝寿臣	Gcet Gseu chen	12
 郝寿臣	Gcet Gxiu Gcen	12
 郝寿臣	Gcet shou Gcen	12
 郝寿臣	Gcet shou chen	12
-郝寿臣	hao Gsêu Gcen	12
-郝寿臣	hao Gsêu chen	12
+郝寿臣	hao Gseu Gcen	12
+郝寿臣	hao Gseu chen	12
 郝寿臣	hao shou Gcen	12
 郝寿臣	hao shou chen	12
 郝师弟	Gcet Gsï Gti	14
@@ -648041,10 +648000,10 @@ use_preset_vocabulary: false
 配合力	pei Ghot li	9
 配合力	pei he Glit	9
 配合力	pei he li	9
-配售	Gpi Gsêu	79
+配售	Gpi Gseu	79
 配售	Gpi Gxiu	79
 配售	Gpi shou	79
-配售	pei Gsêu	79
+配售	pei Gseu	79
 配售	pei shou	79
 配器	Gpi Gqi	45
 配器	pei Gqi	45
@@ -648212,7 +648171,7 @@ use_preset_vocabulary: false
 配齐	Gpi Gqi	15
 配齐	pei Gqi	15
 配齐	pei qi	15
-酎	Gcêu	18429
+酎	Gceu	18429
 酎	zhou	18429
 酏	Gyi	19981
 酐	Ghong	78650
@@ -650782,10 +650741,10 @@ use_preset_vocabulary: false
 野兔	Gya Gtu	152
 野兔	ye Gtu	152
 野兔	ye tu	152
-野兽	Gya Gsêu	605
+野兽	Gya Gseu	605
 野兽	Gya Gxiu	605
 野兽	Gya shou	605
-野兽	ye Gsêu	605
+野兽	ye Gseu	605
 野兽	ye shou	605
 野利仁荣	Gya Gli Glen Glung	8
 野利仁荣	Gya Gli Glen rong	8
@@ -657325,102 +657284,102 @@ use_preset_vocabulary: false
 销势	Gxiêu shi	8
 销势	xiao Gsï	8
 销势	xiao shi	8
-销售	Gxiêu Gsêu	6078
+销售	Gxiêu Gseu	6078
 销售	Gxiêu Gxiu	6078
 销售	Gxiêu shou	6078
-销售	xiao Gsêu	6078
+销售	xiao Gseu	6078
 销售	xiao shou	6078
-销售一空	Gxiêu Gsêu Gyit Gkung	15
-销售一空	Gxiêu Gsêu Gyit kong	15
-销售一空	Gxiêu Gsêu yi Gkung	15
-销售一空	Gxiêu Gsêu yi kong	15
+销售一空	Gxiêu Gseu Gyit Gkung	15
+销售一空	Gxiêu Gseu Gyit kong	15
+销售一空	Gxiêu Gseu yi Gkung	15
+销售一空	Gxiêu Gseu yi kong	15
 销售一空	Gxiêu Gxiu Gyit Gkung	15
 销售一空	Gxiêu shou Gyit Gkung	15
 销售一空	Gxiêu shou Gyit kong	15
 销售一空	Gxiêu shou yi Gkung	15
 销售一空	Gxiêu shou yi kong	15
-销售一空	xiao Gsêu Gyit Gkung	15
-销售一空	xiao Gsêu Gyit kong	15
-销售一空	xiao Gsêu yi Gkung	15
-销售一空	xiao Gsêu yi kong	15
+销售一空	xiao Gseu Gyit Gkung	15
+销售一空	xiao Gseu Gyit kong	15
+销售一空	xiao Gseu yi Gkung	15
+销售一空	xiao Gseu yi kong	15
 销售一空	xiao shou Gyit Gkung	15
 销售一空	xiao shou Gyit kong	15
 销售一空	xiao shou yi Gkung	15
 销售一空	xiao shou yi kong	15
-销售员	Gxiêu Gsêu Gyuon	49
-销售员	Gxiêu Gsêu yuan	49
+销售员	Gxiêu Gseu Gyuon	49
+销售员	Gxiêu Gseu yuan	49
 销售员	Gxiêu Gxiu Gyuon	49
 销售员	Gxiêu shou Gyuon	49
 销售员	Gxiêu shou yuan	49
-销售员	xiao Gsêu Gyuon	49
-销售员	xiao Gsêu yuan	49
+销售员	xiao Gseu Gyuon	49
+销售员	xiao Gseu yuan	49
 销售员	xiao shou Gyuon	49
 销售员	xiao shou yuan	49
-销售商	Gxiêu Gsêu Gsong	31
-销售商	Gxiêu Gsêu shang	31
+销售商	Gxiêu Gseu Gsong	31
+销售商	Gxiêu Gseu shang	31
 销售商	Gxiêu Gxiu Gsong	31
 销售商	Gxiêu shou Gsong	31
 销售商	Gxiêu shou shang	31
-销售商	xiao Gsêu Gsong	31
-销售商	xiao Gsêu shang	31
+销售商	xiao Gseu Gsong	31
+销售商	xiao Gseu shang	31
 销售商	xiao shou Gsong	31
 销售商	xiao shou shang	31
-销售点	Gxiêu Gsêu Gdiên	23
-销售点	Gxiêu Gsêu dian	23
+销售点	Gxiêu Gseu Gdiên	23
+销售点	Gxiêu Gseu dian	23
 销售点	Gxiêu Gxiu Gdiên	23
 销售点	Gxiêu shou Gdiên	23
 销售点	Gxiêu shou dian	23
-销售点	xiao Gsêu Gdiên	23
-销售点	xiao Gsêu dian	23
+销售点	xiao Gseu Gdiên	23
+销售点	xiao Gseu dian	23
 销售点	xiao shou Gdiên	23
 销售点	xiao shou dian	23
-销售网	Gxiêu Gsêu Gwong	7
-销售网	Gxiêu Gsêu Wmong	7
-销售网	Gxiêu Gsêu wang	7
+销售网	Gxiêu Gseu Gwong	7
+销售网	Gxiêu Gseu Wmong	7
+销售网	Gxiêu Gseu wang	7
 销售网	Gxiêu Gxiu Gwong	7
 销售网	Gxiêu Gxiu Wmong	7
 销售网	Gxiêu shou Gwong	7
 销售网	Gxiêu shou wang	7
-销售网	xiao Gsêu Gwong	7
-销售网	xiao Gsêu wang	7
+销售网	xiao Gseu Gwong	7
+销售网	xiao Gseu wang	7
 销售网	xiao shou Gwong	7
 销售网	xiao shou wang	7
-销售者	Gxiêu Gsêu Gza	26
-销售者	Gxiêu Gsêu zhe	26
+销售者	Gxiêu Gseu Gza	26
+销售者	Gxiêu Gseu zhe	26
 销售者	Gxiêu Gxiu Gza	26
 销售者	Gxiêu shou Gza	26
 销售者	Gxiêu shou zhe	26
-销售者	xiao Gsêu Gza	26
-销售者	xiao Gsêu zhe	26
+销售者	xiao Gseu Gza	26
+销售者	xiao Gseu zhe	26
 销售者	xiao shou Gza	26
 销售者	xiao shou zhe	26
-销售部	Gxiêu Gsêu Gpu	50
-销售部	Gxiêu Gsêu bu	50
+销售部	Gxiêu Gseu Gpu	50
+销售部	Gxiêu Gseu bu	50
 销售部	Gxiêu Gxiu Gpu	50
 销售部	Gxiêu shou Gpu	50
 销售部	Gxiêu shou bu	50
-销售部	xiao Gsêu Gpu	50
-销售部	xiao Gsêu bu	50
+销售部	xiao Gseu Gpu	50
+销售部	xiao Gseu bu	50
 销售部	xiao shou Gpu	50
 销售部	xiao shou bu	50
-销售量	Gxiêu Gsêu Gliong	159
-销售量	Gxiêu Gsêu liang	159
+销售量	Gxiêu Gseu Gliong	159
+销售量	Gxiêu Gseu liang	159
 销售量	Gxiêu Gxiu Gliong	159
 销售量	Gxiêu shou Gliong	159
 销售量	Gxiêu shou liang	159
-销售量	xiao Gsêu Gliong	159
-销售量	xiao Gsêu liang	159
+销售量	xiao Gseu Gliong	159
+销售量	xiao Gseu liang	159
 销售量	xiao shou Gliong	159
 销售量	xiao shou liang	159
-销售额	Gxiêu Gsêu Gngiêt	615
-销售额	Gxiêu Gsêu Wniak	615
-销售额	Gxiêu Gsêu e	615
+销售额	Gxiêu Gseu Gngiêt	615
+销售额	Gxiêu Gseu Wniak	615
+销售额	Gxiêu Gseu e	615
 销售额	Gxiêu Gxiu Gngiêt	615
 销售额	Gxiêu Gxiu Wniak	615
 销售额	Gxiêu shou Gngiêt	615
 销售额	Gxiêu shou e	615
-销售额	xiao Gsêu Gngiêt	615
-销售额	xiao Gsêu e	615
+销售额	xiao Gseu Gngiêt	615
+销售额	xiao Gseu e	615
 销售额	xiao shou Gngiêt	615
 销售额	xiao shou e	615
 销声匿迹	Gxiêu Gsen Gnit Gjit	76
@@ -659463,18 +659422,18 @@ use_preset_vocabulary: false
 长宽	Gcong kuan	27
 长宽	zhang Gkuon	27
 长宽	zhang kuan	27
-长寿	Gcong Gsêu	25283
+长寿	Gcong Gseu	25283
 长寿	Gcong Gxiu	25283
 长寿	Gcong shou	25283
-长寿	chang Gsêu	25283
+长寿	chang Gseu	25283
 长寿	chang shou	25283
-长寿面	Gcong Gsêu Gmiên	13
-长寿面	Gcong Gsêu mian	13
+长寿面	Gcong Gseu Gmiên	13
+长寿面	Gcong Gseu mian	13
 长寿面	Gcong Gxiu Gmiên	13
 长寿面	Gcong shou Gmiên	13
 长寿面	Gcong shou mian	13
-长寿面	chang Gsêu Gmiên	13
-长寿面	chang Gsêu mian	13
+长寿面	chang Gseu Gmiên	13
+长寿面	chang Gseu mian	13
 长寿面	chang shou Gmiên	13
 长寿面	chang shou mian	13
 长尾	Gcong Gwi	30116
@@ -664584,10 +664543,10 @@ use_preset_vocabulary: false
 阳宗海	yang Gzung Ghai	12
 阳宗海	yang zong Ghai	12
 阳宗海	yang zong hai	12
-阳寿	Gyong Gsêu	22
+阳寿	Gyong Gseu	22
 阳寿	Gyong Gxiu	22
 阳寿	Gyong shou	22
-阳寿	yang Gsêu	22
+阳寿	yang Gseu	22
 阳寿	yang shou	22
 阳山	Gyong Gsan	21
 阳山	Gyong shan	21
@@ -671144,13 +671103,13 @@ use_preset_vocabulary: false
 陈波儿	chen Gbo Geo	8
 陈波儿	chen Gbo er	8
 陈波儿	chen bo er	8
-陈洪绶	Gcen Gfung Gsêu	13
+陈洪绶	Gcen Gfung Gseu	13
 陈洪绶	Gcen Gfung shou	13
-陈洪绶	Gcen hong Gsêu	13
+陈洪绶	Gcen hong Gseu	13
 陈洪绶	Gcen hong shou	13
-陈洪绶	chen Gfung Gsêu	13
+陈洪绶	chen Gfung Gseu	13
 陈洪绶	chen Gfung shou	13
-陈洪绶	chen hong Gsêu	13
+陈洪绶	chen hong Gseu	13
 陈洪绶	chen hong shou	13
 陈洪范	Gcen Gfung Gfan	7
 陈洪范	Gcen hong Gfan	7
@@ -671322,14 +671281,14 @@ use_preset_vocabulary: false
 陈福今	chen Gfuk Gjin	18
 陈福今	chen fu Gjin	18
 陈福今	chen fu jin	18
-陈福寿	Gcen Gfuk Gsêu	7
+陈福寿	Gcen Gfuk Gseu	7
 陈福寿	Gcen Gfuk Gxiu	7
 陈福寿	Gcen Gfuk shou	7
-陈福寿	Gcen fu Gsêu	7
+陈福寿	Gcen fu Gseu	7
 陈福寿	Gcen fu shou	7
-陈福寿	chen Gfuk Gsêu	7
+陈福寿	chen Gfuk Gseu	7
 陈福寿	chen Gfuk shou	7
-陈福寿	chen fu Gsêu	7
+陈福寿	chen fu Gseu	7
 陈福寿	chen fu shou	7
 陈秀榕	Gcen Gxiu Glung	256
 陈秀榕	Gcen Gxiu rong	256
@@ -671426,14 +671385,14 @@ use_preset_vocabulary: false
 陈老爷子	chen lao Gya zi	9
 陈老爷子	chen lao ye Gzï	9
 陈老爷子	chen lao ye zi	9
-陈联寿	Gcen Gliên Gsêu	21
+陈联寿	Gcen Gliên Gseu	21
 陈联寿	Gcen Gliên Gxiu	21
 陈联寿	Gcen Gliên shou	21
-陈联寿	Gcen lian Gsêu	21
+陈联寿	Gcen lian Gseu	21
 陈联寿	Gcen lian shou	21
-陈联寿	chen Gliên Gsêu	21
+陈联寿	chen Gliên Gseu	21
 陈联寿	chen Gliên shou	21
-陈联寿	chen lian Gsêu	21
+陈联寿	chen lian Gseu	21
 陈联寿	chen lian shou	21
 陈腐	Gcen Gfu	52
 陈腐	chen Gfu	52
@@ -671711,14 +671670,14 @@ use_preset_vocabulary: false
 陈鲁豫	Gcen Glu Gyu	15
 陈鲁豫	chen Glu Gyu	15
 陈鲁豫	chen lu yu	15
-陈鸿寿	Gcen Gfung Gsêu	10
+陈鸿寿	Gcen Gfung Gseu	10
 陈鸿寿	Gcen Gfung Gxiu	10
 陈鸿寿	Gcen Gfung shou	10
-陈鸿寿	Gcen hong Gsêu	10
+陈鸿寿	Gcen hong Gseu	10
 陈鸿寿	Gcen hong shou	10
-陈鸿寿	chen Gfung Gsêu	10
+陈鸿寿	chen Gfung Gseu	10
 陈鸿寿	chen Gfung shou	10
-陈鸿寿	chen hong Gsêu	10
+陈鸿寿	chen hong Gseu	10
 陈鸿寿	chen hong shou	10
 陈龙灿	Gcen Glung Gcan	15
 陈龙灿	Gcen long Gcan	15
@@ -676416,7 +676375,7 @@ use_preset_vocabulary: false
 雝	yong	4238
 雟	Gfui	5491
 雟	xi	5491
-雠	Gcêu	78407
+雠	Gceu	78407
 雠	chou	78407
 雥	Gcat	4404
 雥	za	4404
@@ -676904,70 +676863,70 @@ use_preset_vocabulary: false
 零分	Wliang Gfen	11
 零分	ling Gfen	11
 零分	ling fen	11
-零售	Glin Gsêu	1397
+零售	Glin Gseu	1397
 零售	Glin Gxiu	1397
 零售	Glin shou	1397
-零售	Wliang Gsêu	1397
+零售	Wliang Gseu	1397
 零售	Wliang Gxiu	1397
-零售	ling Gsêu	1397
+零售	ling Gseu	1397
 零售	ling shou	1397
-零售业	Glin Gsêu Gyêt	53
-零售业	Glin Gsêu ye	53
+零售业	Glin Gseu Gyêt	53
+零售业	Glin Gseu ye	53
 零售业	Glin Gxiu Gyêt	53
 零售业	Glin shou Gyêt	53
 零售业	Glin shou ye	53
-零售业	Wliang Gsêu Gyêt	53
+零售业	Wliang Gseu Gyêt	53
 零售业	Wliang Gxiu Gyêt	53
-零售业	ling Gsêu Gyêt	53
-零售业	ling Gsêu ye	53
+零售业	ling Gseu Gyêt	53
+零售业	ling Gseu ye	53
 零售业	ling shou Gyêt	53
 零售业	ling shou ye	53
-零售价	Glin Gsêu Gga	67
-零售价	Glin Gsêu jia	67
+零售价	Glin Gseu Gga	67
+零售价	Glin Gseu jia	67
 零售价	Glin Gxiu Gga	67
 零售价	Glin shou Gga	67
 零售价	Glin shou jia	67
-零售价	Wliang Gsêu Gga	67
+零售价	Wliang Gseu Gga	67
 零售价	Wliang Gxiu Gga	67
-零售价	ling Gsêu Gga	67
-零售价	ling Gsêu jia	67
+零售价	ling Gseu Gga	67
+零售价	ling Gseu jia	67
 零售价	ling shou Gga	67
 零售价	ling shou jia	67
-零售商	Glin Gsêu Gsong	93
-零售商	Glin Gsêu shang	93
+零售商	Glin Gseu Gsong	93
+零售商	Glin Gseu shang	93
 零售商	Glin Gxiu Gsong	93
 零售商	Glin shou Gsong	93
 零售商	Glin shou shang	93
-零售商	Wliang Gsêu Gsong	93
+零售商	Wliang Gseu Gsong	93
 零售商	Wliang Gxiu Gsong	93
-零售商	ling Gsêu Gsong	93
-零售商	ling Gsêu shang	93
+零售商	ling Gseu Gsong	93
+零售商	ling Gseu shang	93
 零售商	ling shou Gsong	93
 零售商	ling shou shang	93
-零售店	Glin Gsêu Gdiên	19
-零售店	Glin Gsêu dian	19
+零售店	Glin Gseu Gdiên	19
+零售店	Glin Gseu dian	19
 零售店	Glin Gxiu Gdiên	19
 零售店	Glin shou Gdiên	19
 零售店	Glin shou dian	19
-零售店	Wliang Gsêu Gdiên	19
+零售店	Wliang Gseu Gdiên	19
 零售店	Wliang Gxiu Gdiên	19
-零售店	ling Gsêu Gdiên	19
-零售店	ling Gsêu dian	19
+零售店	ling Gseu Gdiên	19
+零售店	ling Gseu dian	19
 零售店	ling shou Gdiên	19
 零售店	ling shou dian	19
-零售额	Glin Gsêu Gngiêt	48
-零售额	Glin Gsêu Wniak	48
-零售额	Glin Gsêu e	48
+零售额	Glin Gseu Gngiêt	48
+零售额	Glin Gseu Wniak	48
+零售额	Glin Gseu e	48
 零售额	Glin Gxiu Gngiêt	48
 零售额	Glin Gxiu Wniak	48
 零售额	Glin shou Gngiêt	48
 零售额	Glin shou e	48
-零售额	Wliang Gsêu Gngiêt	48
-零售额	Wliang Gsêu Wniak	48
+零售额	Wliang Gseu Gngiêt	48
+零售额	Wliang Gseu Wniak	48
 零售额	Wliang Gxiu Gngiêt	48
 零售额	Wliang Gxiu Wniak	48
-零售额	ling Gsêu Gngiêt	48
-零售额	ling Gsêu e	48
+零售额	ling Gseu Gngiêt	48
+零售额	ling Gseu e	48
 零售额	ling shou Gngiêt	48
 零售额	ling shou e	48
 零四架	Glin Gsï Gga	18
@@ -682205,15 +682164,15 @@ use_preset_vocabulary: false
 面庞	Gmiên pang	91
 面庞	mian Gpong	91
 面庞	mian pang	91
-面授	Gmiên Gsêu	27
+面授	Gmiên Gseu	27
 面授	Gmiên Gxiu	27
 面授	Gmiên shou	27
-面授	mian Gsêu	27
+面授	mian Gseu	27
 面授	mian shou	27
-面授机宜	Gmiên Gsêu Gji Gyi	28
+面授机宜	Gmiên Gseu Gji Gyi	28
 面授机宜	Gmiên Gxiu Gji Gyi	28
 面授机宜	Gmiên shou Gji Gyi	28
-面授机宜	mian Gsêu Gji Gyi	28
+面授机宜	mian Gseu Gji Gyi	28
 面授机宜	mian shou Gji Gyi	28
 面授机宜	mian shou ji yi	28
 面料	Gmiên Gliêu	161
@@ -683279,22 +683238,22 @@ use_preset_vocabulary: false
 韦家能	wei Gga neng	257
 韦家能	wei jia Glên	257
 韦家能	wei jia neng	257
-韦寿栓	Gwi Gsêu Gson	8
-韦寿栓	Gwi Gsêu shuan	8
+韦寿栓	Gwi Gseu Gson	8
+韦寿栓	Gwi Gseu shuan	8
 韦寿栓	Gwi Gxiu Gson	8
 韦寿栓	Gwi shou Gson	8
 韦寿栓	Gwi shou shuan	8
-韦寿栓	wei Gsêu Gson	8
-韦寿栓	wei Gsêu shuan	8
+韦寿栓	wei Gseu Gson	8
+韦寿栓	wei Gseu shuan	8
 韦寿栓	wei shou Gson	8
 韦寿栓	wei shou shuan	8
-韦寿铨	Gwi Gsêu Gqyuon	8
-韦寿铨	Gwi Gsêu quan	8
+韦寿铨	Gwi Gseu Gqyuon	8
+韦寿铨	Gwi Gseu quan	8
 韦寿铨	Gwi Gxiu Gqyuon	8
 韦寿铨	Gwi shou Gqyuon	8
 韦寿铨	Gwi shou quan	8
-韦寿铨	wei Gsêu Gqyuon	8
-韦寿铨	wei Gsêu quan	8
+韦寿铨	wei Gseu Gqyuon	8
+韦寿铨	wei Gseu quan	8
 韦寿铨	wei shou Gqyuon	8
 韦寿铨	wei shou quan	8
 韦小宝	Gwi Gxiêu Gbau	9863
@@ -685873,9 +685832,9 @@ use_preset_vocabulary: false
 顾金标	Ggu Gjin Gbiêu	216
 顾金标	Ggu Gjin biao	216
 顾金标	gu jin biao	216
-顾锡畴	Ggu Gxit Gcêu	12
+顾锡畴	Ggu Gxit Gceu	12
 顾锡畴	Ggu Gxit chou	12
-顾锡畴	Ggu xi Gcêu	12
+顾锡畴	Ggu xi Gceu	12
 顾锡畴	Ggu xi chou	12
 顾锡畴	gu xi chou	12
 顾长卫	Ggu Gzong Gwi	16
@@ -686042,7 +686001,7 @@ use_preset_vocabulary: false
 预告	Gyu Ggau	69
 预告	Gyu gao	69
 预告	yu gao	69
-预售	Gyu Gsêu	79
+预售	Gyu Gseu	79
 预售	Gyu Gxiu	79
 预售	Gyu shou	79
 预售	yu shou	79
@@ -687172,14 +687131,14 @@ use_preset_vocabulary: false
 颜康笑	yan Gkong xiao	12
 颜康笑	yan kang Gxiêu	12
 颜康笑	yan kang xiao	12
-颜延寿	Gngan Gyên Gsêu	8
+颜延寿	Gngan Gyên Gseu	8
 颜延寿	Gngan Gyên Gxiu	8
 颜延寿	Gngan Gyên shou	8
-颜延寿	Gngan yan Gsêu	8
+颜延寿	Gngan yan Gseu	8
 颜延寿	Gngan yan shou	8
-颜延寿	yan Gyên Gsêu	8
+颜延寿	yan Gyên Gseu	8
 颜延寿	yan Gyên shou	8
-颜延寿	yan yan Gsêu	8
+颜延寿	yan yan Gseu	8
 颜延寿	yan yan shou	8
 颜料	Gngan Gliêu	275
 颜料	Gngan liao	275
@@ -689497,14 +689456,14 @@ use_preset_vocabulary: false
 飞禽	Gfui Gqin	56
 飞禽	fei Gqin	56
 飞禽	fei qin	56
-飞禽走兽	Gfui Gqin Gzêu Gsêu	33
+飞禽走兽	Gfui Gqin Gzêu Gseu	33
 飞禽走兽	Gfui Gqin Gzêu Gxiu	33
 飞禽走兽	Gfui Gqin Gzêu shou	33
-飞禽走兽	Gfui Gqin zou Gsêu	33
+飞禽走兽	Gfui Gqin zou Gseu	33
 飞禽走兽	Gfui Gqin zou shou	33
-飞禽走兽	fei Gqin Gzêu Gsêu	33
+飞禽走兽	fei Gqin Gzêu Gseu	33
 飞禽走兽	fei Gqin Gzêu shou	33
-飞禽走兽	fei Gqin zou Gsêu	33
+飞禽走兽	fei Gqin zou Gseu	33
 飞禽走兽	fei Gqin zou shou	33
 飞禽走兽	fei qin zou shou	33
 飞箭	Gfui Gjiên	22
@@ -690089,14 +690048,14 @@ use_preset_vocabulary: false
 食虫目	shi Gcung mu	17
 食虫目	shi chong Gmuk	17
 食虫目	shi chong mu	17
-食蚁兽	Gsïk Gni Gsêu	31
+食蚁兽	Gsïk Gni Gseu	31
 食蚁兽	Gsïk Gni Gxiu	31
 食蚁兽	Gsïk Gni shou	31
-食蚁兽	Gsïk yi Gsêu	31
+食蚁兽	Gsïk yi Gseu	31
 食蚁兽	Gsïk yi shou	31
-食蚁兽	shi Gni Gsêu	31
+食蚁兽	shi Gni Gseu	31
 食蚁兽	shi Gni shou	31
-食蚁兽	shi yi Gsêu	31
+食蚁兽	shi yi Gseu	31
 食蚁兽	shi yi shou	31
 食补	Gsïk Gbu	9
 食补	shi Gbu	9
@@ -695219,10 +695178,10 @@ use_preset_vocabulary: false
 驯养	Gxyun yang	140
 驯养	xun Gyong	140
 驯养	xun yang	140
-驯兽	Gxyun Gsêu	13
+驯兽	Gxyun Gseu	13
 驯兽	Gxyun Gxiu	13
 驯兽	Gxyun shou	13
-驯兽	xun Gsêu	13
+驯兽	xun Gseu	13
 驯兽	xun shou	13
 驯化	Gxyun Gfa	127
 驯化	Gxyun hua	127
@@ -696969,22 +696928,22 @@ use_preset_vocabulary: false
 高人一等	gao ren Gyit deng	41
 高人一等	gao ren yi Gdên	41
 高人一等	gao ren yi deng	41
-高人一筹	Ggau Gnin Gyit Gcêu	14
+高人一筹	Ggau Gnin Gyit Gceu	14
 高人一筹	Ggau Gnin Gyit chou	14
-高人一筹	Ggau Gnin yi Gcêu	14
+高人一筹	Ggau Gnin yi Gceu	14
 高人一筹	Ggau Gnin yi chou	14
-高人一筹	Ggau Wlen Gyit Gcêu	14
-高人一筹	Ggau ren Gyit Gcêu	14
+高人一筹	Ggau Wlen Gyit Gceu	14
+高人一筹	Ggau ren Gyit Gceu	14
 高人一筹	Ggau ren Gyit chou	14
-高人一筹	Ggau ren yi Gcêu	14
+高人一筹	Ggau ren yi Gceu	14
 高人一筹	Ggau ren yi chou	14
-高人一筹	gao Gnin Gyit Gcêu	14
+高人一筹	gao Gnin Gyit Gceu	14
 高人一筹	gao Gnin Gyit chou	14
-高人一筹	gao Gnin yi Gcêu	14
+高人一筹	gao Gnin yi Gceu	14
 高人一筹	gao Gnin yi chou	14
-高人一筹	gao ren Gyit Gcêu	14
+高人一筹	gao ren Gyit Gceu	14
 高人一筹	gao ren Gyit chou	14
-高人一筹	gao ren yi Gcêu	14
+高人一筹	gao ren yi Gceu	14
 高人一筹	gao ren yi chou	14
 高仓健	Ggau Gcong Gqiên	8
 高仓健	Ggau Gcong jian	8
@@ -697109,21 +697068,21 @@ use_preset_vocabulary: false
 高出	Ggau chu	26295
 高出	gao Gcuk	26295
 高出	gao chu	26295
-高出一筹	Ggau Gcuk Gyit Gcêu	22
+高出一筹	Ggau Gcuk Gyit Gceu	22
 高出一筹	Ggau Gcuk Gyit chou	22
-高出一筹	Ggau Gcuk yi Gcêu	22
+高出一筹	Ggau Gcuk yi Gceu	22
 高出一筹	Ggau Gcuk yi chou	22
-高出一筹	Ggau chu Gyit Gcêu	22
+高出一筹	Ggau chu Gyit Gceu	22
 高出一筹	Ggau chu Gyit chou	22
-高出一筹	Ggau chu yi Gcêu	22
+高出一筹	Ggau chu yi Gceu	22
 高出一筹	Ggau chu yi chou	22
-高出一筹	gao Gcuk Gyit Gcêu	22
+高出一筹	gao Gcuk Gyit Gceu	22
 高出一筹	gao Gcuk Gyit chou	22
-高出一筹	gao Gcuk yi Gcêu	22
+高出一筹	gao Gcuk yi Gceu	22
 高出一筹	gao Gcuk yi chou	22
-高出一筹	gao chu Gyit Gcêu	22
+高出一筹	gao chu Gyit Gceu	22
 高出一筹	gao chu Gyit chou	22
-高出一筹	gao chu yi Gcêu	22
+高出一筹	gao chu yi Gceu	22
 高出一筹	gao chu yi chou	22
 高分	Ggau Gfen	450
 高分	gao Gfen	450
@@ -697648,10 +697607,10 @@ use_preset_vocabulary: false
 高寒区	gao Ghon qu	14
 高寒区	gao han Gqyu	14
 高寒区	gao han qu	14
-高寿	Ggau Gsêu	21
+高寿	Ggau Gseu	21
 高寿	Ggau Gxiu	21
 高寿	Ggau shou	21
-高寿	gao Gsêu	21
+高寿	gao Gseu	21
 高寿	gao shou	21
 高射	Ggau Gsa	95
 高射	Ggau she	95
@@ -700824,7 +700783,7 @@ use_preset_vocabulary: false
 魑魅魍魉	chi mei wang Gliong	11
 魑魅魍魉	chi mei wang liang	11
 魔	Gmo	120000
-魔兽	Gmo Gsêu	63
+魔兽	Gmo Gseu	63
 魔兽	Gmo Gxiu	63
 魔兽	Gmo shou	63
 魔兽	mo shou	63
@@ -700982,7 +700941,7 @@ use_preset_vocabulary: false
 鯃	Gwu	4168
 鯅	Gsên	5685
 鯅	shan	5685
-鯈	Gcêu	4478
+鯈	Gceu	4478
 鯈	Gqiu	5813
 鯈	tiao	5813
 鯜	Gjiêt	4143
@@ -701892,7 +701851,7 @@ use_preset_vocabulary: false
 鲈鱼	Glu Gniê	31
 鲈鱼	Glu yu	31
 鲈鱼	lu yu	31
-鲉	Gcêu	100000
+鲉	Gceu	100000
 鲉	you	100000
 鲊	Gza	11887
 鲊	zha	11887
@@ -702757,15 +702716,15 @@ use_preset_vocabulary: false
 鸟儿	Gniêu er	282
 鸟儿	niao Geo	282
 鸟儿	niao er	282
-鸟兽	Gniêu Gsêu	112
+鸟兽	Gniêu Gseu	112
 鸟兽	Gniêu Gxiu	112
 鸟兽	Gniêu shou	112
-鸟兽	niao Gsêu	112
+鸟兽	niao Gseu	112
 鸟兽	niao shou	112
-鸟兽散	Gniêu Gsêu Gsan	7
+鸟兽散	Gniêu Gseu Gsan	7
 鸟兽散	Gniêu Gxiu Gsan	7
 鸟兽散	Gniêu shou Gsan	7
-鸟兽散	niao Gsêu Gsan	7
+鸟兽散	niao Gseu Gsan	7
 鸟兽散	niao shou Gsan	7
 鸟兽散	niao shou san	7
 鸟啼	Gniêu Gti	14
@@ -703335,10 +703294,10 @@ use_preset_vocabulary: false
 鸬	Glu	72708
 鸭	Gngat	120000
 鸭	ya	120000
-鸭嘴兽	Gngat Gzui Gsêu	32
+鸭嘴兽	Gngat Gzui Gseu	32
 鸭嘴兽	Gngat Gzui Gxiu	32
 鸭嘴兽	Gngat Gzui shou	32
-鸭嘴兽	ya Gzui Gsêu	32
+鸭嘴兽	ya Gzui Gseu	32
 鸭嘴兽	ya Gzui shou	32
 鸭嘴兽	ya zui shou	32
 鸭嘴龙	Gngat Gzui Glung	16
@@ -708281,16 +708240,16 @@ use_preset_vocabulary: false
 黏着	Gniên zhuo	18
 黏着	nian Gzok	18
 黏着	nian zhuo	18
-黏稠	Gniên Gcêu	21
+黏稠	Gniên Gceu	21
 黏稠	Gniên chou	21
-黏稠	nian Gcêu	21
+黏稠	nian Gceu	21
 黏稠	nian chou	21
-黏稠度	Gniên Gcêu Gtu	10
-黏稠度	Gniên Gcêu du	10
+黏稠度	Gniên Gceu Gtu	10
+黏稠度	Gniên Gceu du	10
 黏稠度	Gniên chou Gtu	10
 黏稠度	Gniên chou du	10
-黏稠度	nian Gcêu Gtu	10
-黏稠度	nian Gcêu du	10
+黏稠度	nian Gceu Gtu	10
+黏稠度	nian Gceu du	10
 黏稠度	nian chou Gtu	10
 黏稠度	nian chou du	10
 黏糊	Gniên Gfu	9
@@ -712635,7 +712594,7 @@ use_preset_vocabulary: false
 𠷂	dai	1677
 𠷈	Glet	1868
 𠷈	lv	1868
-𠷎	Gcêu	1874
+𠷎	Gceu	1874
 𠷎	Gqiu	1051
 𠷎	chou	1874
 𠷏	Gfui	1739
@@ -713395,7 +713354,7 @@ use_preset_vocabulary: false
 𢃔	𢃔	1791
 𢃕	Gtat	1854
 𢃕	ta	1854
-𢃖	Gcêu	1217
+𢃖	Gceu	1217
 𢃖	Gqiu	1912
 𢃖	𢃖	1912
 𢃗	Ghon	1010
@@ -713839,7 +713798,7 @@ use_preset_vocabulary: false
 𢤆	Gli	1854
 𢤇	Gni	1080
 𢤇	𢤇	1080
-𢤉	Gcêu	1035
+𢤉	Gceu	1035
 𢤉	Gqiu	1811
 𢤉	𢤉	1811
 𢤋	Gxit	1287
@@ -715473,7 +715432,7 @@ use_preset_vocabulary: false
 𤶠	Gza	1224
 𤶠	cha	1774
 𤶡	Gjiu	1520
-𤶡	Gzêu	1908
+𤶡	Gzeu	1908
 𤶡	𤶡	1908
 𤶧	Gyun	1885
 𤷂	Gfui	1906
@@ -715887,7 +715846,7 @@ use_preset_vocabulary: false
 𥎹	Gzet	1786
 𥎹	zhi	1811
 𥎻	Gjiu	1453
-𥎻	Gzêu	1494
+𥎻	Gzeu	1494
 𥎻	𥎻	1494
 𥏙	Gkui	1729
 𥏠	Gbi	1266
@@ -716990,7 +716949,7 @@ use_preset_vocabulary: false
 𦠡	𦠡	1998
 𦡁	Gdong	1827
 𦡁	𦡁	1827
-𦡴	Gcêu	1772
+𦡴	Gceu	1772
 𦡴	chou	1772
 𦡸	Gni	1608
 𦡸	𦡸	1608
@@ -717548,7 +717507,7 @@ use_preset_vocabulary: false
 𧃘	zuo	1482
 𧃙	Ghon	1953
 𧃙	han	1953
-𧃝	Gcêu	1349
+𧃝	Gceu	1349
 𧃝	Gqiu	1835
 𧃝	chou	1835
 𧃟	Gyit	1650
@@ -718325,7 +718284,7 @@ use_preset_vocabulary: false
 𧳛	Gsat	1336
 𧳛	sha	1336
 𧳜	Gjiu	1045
-𧳜	Gzêu	1976
+𧳜	Gzeu	1976
 𧳜	zhou	1976
 𧳦	Glau	1353
 𧳦	nao	1353
@@ -718420,7 +718379,7 @@ use_preset_vocabulary: false
 𧻕	Gqit	1511
 𧻕	qi	1511
 𧻖	Gjiu	1672
-𧻖	Gzêu	1198
+𧻖	Gzeu	1198
 𧻖	zhou	1672
 𧻙	Gmêt	1255
 𧻙	Gpêt	1353
@@ -719438,7 +719397,7 @@ use_preset_vocabulary: false
 𩉼	Gsen	1031
 𩉼	Gxin	1671
 𩉼	shen	1671
-𩊄	Gcêu	1560
+𩊄	Gceu	1560
 𩊄	Gqiu	1525
 𩊄	zhou	1560
 𩊙	Gfuk	1290
@@ -719991,7 +719950,7 @@ use_preset_vocabulary: false
 𩧐	tuo	1621
 𩧦	Ggai	1002
 𩧦	jie	1002
-𩧨	Gcêu	1481
+𩧨	Gceu	1481
 𩧨	Gqiu	1964
 𩧨	zhou	1964
 𩧪	Glong	1939
@@ -720014,7 +719973,7 @@ use_preset_vocabulary: false
 𩧲	Gtung	1489
 𩧲	dong	1489
 𩧳	Gjiu	1126
-𩧳	Gzêu	1911
+𩧳	Gzeu	1911
 𩧳	zhou	1911
 𩧴	Gqyuon	1467
 𩧴	quan	1467
@@ -720482,7 +720441,7 @@ use_preset_vocabulary: false
 𪆁	si	1484
 𪆃	Gton	1711
 𪆃	𪆃	1711
-𪆇	Gcêu	1849
+𪆇	Gceu	1849
 𪆇	Gqiu	1078
 𪆇	𪆇	1849
 𪆫	Gqyu	1262
@@ -720499,7 +720458,7 @@ use_preset_vocabulary: false
 𪇖	Glan	1827
 𪇗	Gguk	1186
 𪇗	gu	1186
-𪇘	Gcêu	1780
+𪇘	Gceu	1780
 𪇘	Gqiu	1952
 𪇘	chou	1952
 𪇠	Glan	1223
@@ -721316,7 +721275,7 @@ use_preset_vocabulary: false
 𫐎	Gyi	1704
 𫐎	𫐎	1704
 𫐏	Gjiu	1898
-𫐏	Gzêu	1474
+𫐏	Gzeu	1474
 𫐏	𫐏	1898
 𫐐	Gni	1417
 𫐑	Gguon	1251
@@ -721585,7 +721544,7 @@ use_preset_vocabulary: false
 𫚞	Gli	1284
 𫚞	𫚞	1284
 𫚡	Gjiu	1848
-𫚡	Gzêu	1137
+𫚡	Gzeu	1137
 𫚡	𫚡	1848
 𫚢	Gyên	1452
 𫚢	𫚢	1452
